@@ -1,0 +1,24 @@
+4, 3*
+Step 1:
+Previous scene: None
+Action: Heat a skillet over medium heat *
+
+Step 2:
+Previous scene: A hot skillet
+Action: Butter two slices of bread on one side *
+
+Step 3:
+Previous scene: Bread with butter
+Action: Place one slice, buttered side down, on the skillet *
+
+Step 4:
+Previous scene: Bread on skillet
+Action: Add cheese slices on top of the bread in the skillet *
+
+Step 5:
+Previous scene: Bread with cheese in skillet
+Action: Place the second slice of bread, buttered side up, on top *
+
+Step 6:
+Previous scene: Sandwich in skillet
+Action: Cook until the bread is golden brown and the cheese is melted, flipping once *

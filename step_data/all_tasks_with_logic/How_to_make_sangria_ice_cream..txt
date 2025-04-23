@@ -1,0 +1,28 @@
+4,1 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of heavy cream and 1 cup of whole milk *
+
+Step 2:
+Previous scene: A mixing bowl with heavy cream and whole milk
+Action: Add 3/4 cup of sugar and whisk until the sugar is dissolved *
+
+Step 3:
+Previous scene: A mixing bowl with cream, milk, and dissolved sugar
+Action: Add 1/2 cup of red wine and 1/4 cup of brandy, and mix well *
+
+Step 4:
+Previous scene: A mixing bowl with cream, milk, sugar, red wine, and brandy
+Action: Add 1/2 cup of orange juice and 1/4 cup of lemon juice to the mixture *
+
+Step 5:
+Previous scene: A mixing bowl with cream, milk, sugar, red wine, brandy, orange juice, and lemon juice
+Action: Pour the mixture into an ice cream maker *
+
+Step 6:
+Previous scene: An ice cream maker filled with mixture
+Action: Churn the mixture according to the manufacturer’s instructions *
+
+Step 7:
+Previous scene: Churned ice cream
+Action: Transfer the finished ice cream to a container and freeze for at least 4 hours before serving *

@@ -1,0 +1,40 @@
+3,11 *
+Step 1:
+Previous scene: None
+Action: Peel and cut potatoes into thick fries *
+Step 2:
+Previous scene: Cut potatoes
+Action: Pre-soak the potato fries in cold water for 30 minutes *
+Step 3:
+Previous scene: Potato fries in cold water
+Action: Pat the potato fries dry with a paper towel *
+Step 4:
+Previous scene: Dried potato fries
+Action: Heat oil in a deep fryer to 350°F (175°C) *
+Step 5:
+Previous scene: Heated oil in deep fryer
+Action: Fry the potato fries until they are soft but not browned, about 3-4 minutes *
+Step 6:
+Previous scene: Partially fried fries
+Action: Remove and drain the fries on paper towels *
+Step 7:
+Previous scene: Drained fries
+Action: Season the fries with salt and keep them warm in an oven *
+Step 8:
+Previous scene: Seasoned fries 
+Action: In a bowl, prepare the fish batter by combining flour, baking powder, salt, and water *
+Step 9:
+Previous scene: Fish batter
+Action: Dip fish fillets into the batter, coating them evenly *
+Step 10:
+Previous scene: Battered fish fillets
+Action: Carefully place the battered fish fillets into the hot oil *
+Step 11:
+Previous scene: Fish fillets in hot oil
+Action: Fry the fish until golden brown and cooked through, about 5-7 minutes *
+Step 12:
+Previous scene: Fried fish
+Action: Remove the fried fish and drain on paper towels *
+Step 13:
+Previous scene: Drained fried fish
+Action: Serve the fish with the seasoned fries and lemon wedges on the side *

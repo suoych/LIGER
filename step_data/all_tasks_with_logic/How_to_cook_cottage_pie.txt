@@ -1,0 +1,56 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 200°C (400°F) *
+
+Step 2:
+Previous scene: An oven being preheated
+Action: Heat oil in a large skillet over medium heat *
+
+Step 3:
+Previous scene: Oil heating in a skillet
+Action: Add diced onions and sauté until soft *
+
+Step 4:
+Previous scene: Diced onions in a skillet
+Action: Add minced garlic and sauté until fragrant *
+
+Step 5:
+Previous scene: Onions and garlic in a skillet
+Action: Add ground beef and cook until browned *
+
+Step 6:
+Previous scene: Cooked ground beef with onions and garlic
+Action: Sprinkle in flour and stir to combine *
+
+Step 7:
+Previous scene: Ground beef mixture with flour
+Action: Add tomato paste, Worcestershire sauce, beef broth, salt, and pepper, and let it simmer until thickened *
+
+Step 8:
+Previous scene: Seasoned ground beef mixture
+Action: Stir in frozen peas and carrots, and cook for a few more minutes *
+
+Step 9:
+Previous scene: Ground beef and vegetable mixture
+Action: Transfer the beef mixture to a baking dish *
+
+Step 10:
+Previous scene: Beef mixture in a baking dish
+Action: Spread mashed potatoes evenly over the beef mixture *
+
+Step 11:
+Previous scene: Mashed potatoes covering beef mixture
+Action: Use a fork to create a pattern on the mashed potatoes *
+
+Step 12:
+Previous scene: Mashed potatoes with pattern
+Action: Place the baking dish in the preheated oven *
+
+Step 13:
+Previous scene: A baking dish in the oven
+Action: Bake for 20-25 minutes until the top is golden and the filling is bubbling *
+
+Step 14:
+Previous scene: Baked cottage pie with golden top
+Action: Remove from oven and let cool slightly before serving *

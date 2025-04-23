@@ -1,0 +1,56 @@
+6, 4*
+Step 1:
+Previous scene: None
+Action: Boil water in a large pot *
+
+Step 2:
+Previous scene: A pot with boiling water
+Action: Add spaghetti noodles to the pot and cook until al dente *
+
+Step 3:
+Previous scene: A pot with boiling water and spaghetti noodles
+Action: Drain the spaghetti and set aside *
+
+Step 4:
+Previous scene: Drained spaghetti
+Action: In a skillet, heat olive oil over medium heat *
+
+Step 5:
+Previous scene: A skillet with heated olive oil
+Action: Add chopped onions and garlic to the skillet and sauté until translucent *
+
+Step 6:
+Previous scene: Onions and garlic in a skillet
+Action: Add diced chicken breasts to the skillet and cook until no longer pink *
+
+Step 7:
+Previous scene: Cooked chicken, onions, and garlic in a skillet
+Action: Stir in a can of diced tomatoes and a can of cream of mushroom soup *
+
+Step 8:
+Previous scene: A skillet with chicken, onions, garlic, diced tomatoes, and cream of mushroom soup
+Action: Cook the mixture until it is well combined and heated through *
+
+Step 9:
+Previous scene: Combined and heated mixture in a skillet
+Action: Add the cooked spaghetti to the skillet *
+
+Step 10:
+Previous scene: Skillet with chicken, tomato, soup mixture, and spaghetti
+Action: Mix everything together until the spaghetti is well coated with sauce *
+
+Step 11:
+Previous scene: A skillet with mixed chicken spaghetti
+Action: Transfer the mixture to a baking dish *
+
+Step 12:
+Previous scene: A baking dish with the chicken spaghetti mixture
+Action: Top with shredded cheese *
+
+Step 13:
+Previous scene: A baking dish with chicken spaghetti and shredded cheese
+Action: Bake in a preheated oven at 350°F (175°C) for 20 minutes or until the cheese is melted and bubbly *
+
+Step 14:
+Previous scene: Baked chicken spaghetti with melted, bubbly cheese
+Action: Remove from oven and let it cool slightly before serving *

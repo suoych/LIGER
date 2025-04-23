@@ -1,0 +1,25 @@
+3,6 *
+Step 1:
+Previous scene: None
+Action: In a large bowl, combine 2 cups of flour, 1 tablespoon of paprika, 1 teaspoon of salt, and 1 teaspoon of pepper *
+Step 2:
+Previous scene: A bowl with flour and spices
+Action: In another bowl, whisk together 2 eggs and 1 cup of buttermilk *
+Step 3:
+Previous scene: A bowl with eggs and buttermilk
+Action: Dip the chicken pieces into the egg mixture, then dredge them in the flour mixture, ensuring they are well-coated *
+Step 4:
+Previous scene: Chicken pieces coated with the flour mixture
+Action: Heat oil in a deep fryer or large skillet to 350°F (175°C) *
+Step 5:
+Previous scene: Heated oil in a fryer or skillet
+Action: Carefully place the coated chicken pieces into the hot oil *
+Step 6:
+Previous scene: Chicken pieces frying in oil
+Action: Fry the chicken for about 15-20 minutes, turning occasionally, until golden brown and crispy *
+Step 7:
+Previous scene: Golden brown and crispy chicken in oil
+Action: Remove the chicken pieces from the oil and place them on paper towels to drain *
+Step 8:
+Previous scene: Fried chicken pieces on paper towels
+Action: Serve the fried chicken hot *

@@ -1,0 +1,32 @@
+7, 5*
+Step 1:
+Previous scene: None
+Action: Gather all necessary ingredients: bread, butter, mixed vegetables, spices, and chutney *
+Step 2:
+Previous scene: Ingredients and spices
+Action: Finely chop the mixed vegetables (like carrots, capsicum, onions, and tomatoes) *
+Step 3:
+Previous scene: Chopped vegetables
+Action: In a bowl, mix the chopped vegetables with spices such as salt, pepper, and chaat masala *
+Step 4:
+Previous scene: Bowl with mixed vegetables and spices
+Action: Take two slices of bread and spread butter on one side of each slice *
+Step 5:
+Previous scene: Buttered bread slices
+Action: Spread green chutney on the buttered side of one bread slice *
+Step 6:
+Previous scene: Bread slice with butter and chutney
+Action: Spread the vegetable mixture evenly on top of the chutney-coated bread slice *
+Step 7:
+Previous scene: Bread slice with vegetable mixture
+Action: Place the other bread slice on top, butter side down, to form a sandwich *
+Step 8:
+Previous scene: Assembled sandwich
+Action: Heat a skillet or sandwich maker and place the sandwich on it *
+Step 9:
+Previous scene: Sandwich on a skillet or sandwich maker
+Action: Cook until the bread is golden brown and crispy *
+Step 10:
+Previous scene: Golden brown sandwich
+Action: Slice the sandwich in half and serve hot *
+

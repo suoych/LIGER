@@ -1,0 +1,31 @@
+4,7 *
+Step 1:
+Previous scene: None
+Action: Grate 3 cups of potato and place it in a mixing bowl *
+Step 2:
+Previous scene: A mixing bowl with grated potato
+Action: Add 1/4 cup of grated cheese *
+Step 3:
+Previous scene: A mixing bowl with grated potato and cheese
+Action: Add salt and pepper to taste *
+Step 4: 
+Previous scene: A mixing bowl with grated potato, cheese, salt, and pepper
+Action: Mix everything together *
+Step 5:
+Previous scene: A mixing bowl with mixed ingredients
+Action: Grease a muffin tin *
+Step 6: 
+Previous scene: A greased muffin tin
+Action: Divide the potato mixture into the muffin tin, pressing it down * 
+Step 7: 
+Previous scene: Muffin tin with pressed potato mixture
+Action: Bake at 400°F (200°C) for 20 minutes *
+Step 8:
+Previous scene: Baked potato cups in muffin tin
+Action: Remove from oven and crack an egg into each cup * 
+Step 9: 
+Previous scene: Muffin tin with potato nests and raw eggs
+Action: Bake for another 12-15 minutes until eggs are set *
+Step 10: 
+Previous scene: Muffin tin with baked egg nests
+Action: Let them cool for a few minutes before serving *

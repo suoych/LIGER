@@ -1,0 +1,31 @@
+6,9 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of masa harina (corn flour) and a pinch of salt *
+Step 2:
+Previous scene: A bowl with masa harina and salt
+Action: Gradually add 1 to 1.5 cups of warm water, mixing until a dough forms *
+Step 3:
+Previous scene: A bowl with masa dough
+Action: Knead the dough for about 2 minutes until smooth and elastic *
+Step 4:
+Previous scene: A bowl with kneaded dough
+Action: Divide the dough into small balls, roughly the size of a golf ball *
+Step 5:
+Previous scene: A bowl with dough balls
+Action: Place one dough ball between two pieces of plastic wrap or parchment paper *
+Step 6:
+Previous scene: A dough ball between plastic wrap
+Action: Use a tortilla press or a rolling pin to flatten the dough ball into a thin, round tortilla *
+Step 7:
+Previous scene: A flat tortilla between plastic wrap
+Action: Preheat a skillet or griddle over medium-high heat *
+Step 8:
+Previous scene: Skillet or griddle heating up
+Action: Carefully remove the plastic wrap from the tortilla *
+Step 9:
+Previous scene: Tortilla without plastic wrap
+Action: Cook the tortilla on the preheated skillet for about 30-60 seconds on each side until it has brown spots and is cooked through *
+Step 10:
+Previous scene: Cooked tortilla on skillet
+Action: Transfer the cooked tortilla to a clean towel and cover to keep warm while you cook the remaining tortillas *

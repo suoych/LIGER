@@ -1,0 +1,46 @@
+9, 3*
+Step 1:
+Previous scene: None
+Action: In a small saucepan, simmer 1 cup of apple cider until it reduces to about 1/4 cup, then let it cool *
+Step 2:
+Previous scene: A saucepan with reduced apple cider
+Action: In a mixing bowl, whisk together 3 1/2 cups of flour, 2 teaspoons of baking powder, 1 teaspoon of baking soda, 1/2 teaspoon of salt, 1 teaspoon of cinnamon, and 1/2 teaspoon of nutmeg *
+Step 3:
+Previous scene: A mixing bowl with dry ingredients
+Action: In another bowl, beat together 1/2 cup of unsalted butter and 1 cup of sugar until light and fluffy *
+Step 4:
+Previous scene: A bowl with creamed butter and sugar
+Action: Add 2 large eggs to the butter and sugar mixture, beating well after each addition *
+Step 5:
+Previous scene: A bowl with butter, sugar, and eggs mixture
+Action: Mix in 1 cup of buttermilk and the reduced apple cider *
+Step 6:
+Previous scene: A bowl with wet ingredients
+Action: Gradually add the dry ingredients to the wet ingredients, mixing until just combined *
+Step 7:
+Previous scene: A bowl with combined dough
+Action: Cover the dough and refrigerate for at least 1 hour *
+Step 8:
+Previous scene: A covered bowl of dough
+Action: Roll out the chilled dough on a floured surface to about 1/2 inch thickness *
+Step 9:
+Previous scene: Rolled-out dough
+Action: Use a doughnut cutter to cut out doughnuts and holes *
+Step 10:
+Previous scene: Cut-out doughnuts and holes
+Action: Heat oil in a deep fryer or large pot to 375°F (190°C) *
+Step 11:
+Previous scene: A pot with heated oil
+Action: Fry the doughnuts and holes a few at a time until golden brown, about 1-2 minutes per side *
+Step 12:
+Previous scene: Frying doughnuts
+Action: Drain the doughnuts on paper towels *
+Step 13:
+Previous scene: Drained doughnuts on paper towels
+Action: In a small bowl, mix together sugar and cinnamon for coating *
+Step 14:
+Previous scene: A bowl of cinnamon-sugar mixture
+Action: While the doughnuts are still warm, coat them in the cinnamon-sugar mixture *
+Step 15:
+Previous scene: Cinnamon-sugar coated doughnuts
+Action: Serve the apple cider doughnuts warm or at room temperature *

@@ -1,0 +1,44 @@
+4,9 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Preheated oven
+Action: In a large pan, heat 2 tablespoons of olive oil over medium heat *
+
+Step 3:
+Previous scene: A pan with heated oil
+Action: Add 1 cup of sliced mushrooms to the pan and sauté until tender, about 5-7 minutes *
+
+Step 4:
+Previous scene: A pan with sautéed mushrooms
+Action: Add 1/2 cup of chopped onions and 1 minced garlic clove to the pan and cook until onions are translucent *
+
+Step 5:
+Previous scene: A pan with mushrooms, onions, and garlic
+Action: In a mixing bowl, whisk together 6 large eggs, 1/4 cup of milk, salt, and pepper to taste *
+
+Step 6:
+Previous scene: A bowl with egg mixture
+Action: Add the sautéed vegetables to the egg mixture and stir to combine *
+
+Step 7:
+Previous scene: A bowl with egg and vegetable mixture
+Action: Pour the mixture into a greased, oven-safe skillet or baking dish *
+
+Step 8:
+Previous scene: A skillet or baking dish filled with the mixture
+Action: Sprinkle 1/2 cup of shredded cheese on top *
+
+Step 9:
+Previous scene: A skillet or baking dish with egg mixture and cheese on top
+Action: Place the skillet or baking dish in the preheated oven *
+
+Step 10:
+Previous scene: Skillet or baking dish in oven
+Action: Bake for 20-25 minutes, or until the frittata is set and slightly golden on top *
+
+Step 11:
+Previous scene: Baked frittata in oven
+Action: Remove from the oven and let it cool for a few minutes before slicing and serving *

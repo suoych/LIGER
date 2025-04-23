@@ -1,0 +1,44 @@
+1, 7*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Oven being preheated
+Action: In a large mixing bowl, combine shredded chicken, 1 cup of shredded cheese, and 1 cup of enchilada sauce *
+
+Step 3:
+Previous scene: Ingredients in a mixing bowl
+Action: Place a tortilla on a flat surface and spoon 2-3 tablespoons of the chicken mixture onto the center of the tortilla *
+
+Step 4:
+Previous scene: A tortilla with chicken mixture
+Action: Roll the tortilla tightly and place it seam-side down in a greased baking dish *
+
+Step 5:
+Previous scene: Rolled tortilla in baking dish
+Action: Repeat the process with the remaining tortillas and chicken mixture *
+
+Step 6:
+Previous scene: Multiple rolled tortillas in baking dish
+Action: Pour the remaining enchilada sauce evenly over the top of the rolled tortillas *
+
+Step 7:
+Previous scene: Baking dish with rolled tortillas covered in enchilada sauce
+Action: Sprinkle the remaining shredded cheese over the top *
+
+Step 8:
+Previous scene: Baking dish with cheese-covered enchiladas
+Action: Cover the baking dish with aluminum foil *
+
+Step 9:
+Previous scene: Aluminum foil-covered baking dish
+Action: Bake in the preheated oven for 20 minutes *
+
+Step 10:
+Previous scene: Baked enchiladas
+Action: Remove the foil and bake for an additional 10 minutes, or until the cheese is melted and bubbly *
+
+Step 11:
+Previous scene: Fully baked enchiladas
+Action: Let the enchiladas cool for a few minutes before serving *

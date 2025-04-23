@@ -1,0 +1,40 @@
+5,2 *
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, combine 2 cups of flour, 1/2 teaspoon of baking soda, 1/2 teaspoon of baking powder, 1 teaspoon of ground ginger, 1 teaspoon of ground cinnamon, 1/4 teaspoon of ground cloves, and a pinch of salt. *
+
+Step 2:
+Previous scene: A bowl with dry ingredients
+Action: In a separate bowl, mix 1/2 cup of melted coconut oil, 3/4 cup of brown sugar, and 1/4 cup of molasses until smooth. *
+
+Step 3:
+Previous scene: A bowl with wet ingredients
+Action: Add 1 teaspoon of vanilla extract to the wet mixture. *
+
+Step 4:
+Previous scene: A bowl with wet ingredients and vanilla extract
+Action: Gradually add the dry ingredients to the wet mixture, stirring continuously until a thick dough forms. *
+
+Step 5:
+Previous scene: A bowl with gingerbread dough
+Action: Wrap the dough in plastic wrap and chill in the refrigerator for at least 1 hour. *
+
+Step 6:
+Previous scene: Wrapped dough
+Action: Preheat your oven to 350°F (175°C). *
+
+Step 7:
+Previous scene: Chilled dough
+Action: Roll out the dough on a lightly floured surface to about 1/4 inch thickness. *
+
+Step 8:
+Previous scene: Rolled-out dough
+Action: Use cookie cutters to cut out desired shapes and place them on a baking sheet lined with parchment paper. *
+
+Step 9:
+Previous scene: Cookie shapes on a baking sheet
+Action: Bake the cookies for 8-10 minutes or until the edges are lightly browned. *
+
+Step 10:
+Previous scene: Baked gingerbread cookies
+Action: Let the cookies cool completely on a wire rack before serving or decorating. *

@@ -1,0 +1,36 @@
+4, 7*
+Step 1:
+Previous scene: None
+Action: Gather wooden skewers and soak in water for 30 minutes to prevent burning *
+
+Step 2:
+Previous scene: Wooden skewers soaking in water
+Action: Cut chicken, beef, or lamb into 1-inch cubes *
+
+Step 3:
+Previous scene: Wooden skewers soaking in water, cubes of meat
+Action: Chop vegetables such as bell peppers, onions, and mushrooms into large chunks *
+
+Step 4:
+Previous scene: Wooden skewers soaking in water, cubes of meat, chopped vegetables
+Action: Marinate the meat cubes in olive oil, lemon juice, garlic, salt, pepper, and your choice of herbs for at least 1 hour *
+
+Step 5:
+Previous scene: Marinated meat cubes, chopped vegetables, wooden skewers
+Action: Preheat the grill to medium-high heat *
+
+Step 6:
+Previous scene: Marinated meat and vegetables, preheated grill
+Action: Thread the marinated meat and vegetables alternately onto the soaked skewers *
+
+Step 7:
+Previous scene: Skewers with meat and vegetables
+Action: Place skewers on the preheated grill *
+
+Step 8:
+Previous scene: Skewers on the grill
+Action: Grill for about 10-15 minutes, turning occasionally, until the meat is cooked through and vegetables are tender *
+
+Step 9:
+Previous scene: Kabobs cooking on grill
+Action: Remove skewers from the grill and serve warm *  

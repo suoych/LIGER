@@ -1,0 +1,48 @@
+3,9 *
+Step 1:  
+Previous scene: None  
+Action: In a large pot, brown 1 pound of ground beef over medium-high heat *
+
+Step 2:  
+Previous scene: A pot with browned ground beef  
+Action: Add 1 chopped onion to the pot and sauté until translucent *
+
+Step 3:  
+Previous scene: A pot with browned ground beef and sautéed onions  
+Action: Add 2 cloves of minced garlic and cook for another minute *
+
+Step 4:  
+Previous scene: A pot with browned ground beef, sautéed onions, and minced garlic  
+Action: Stir in 1 can of diced tomatoes including the juice *
+
+Step 5:  
+Previous scene: A pot with browned ground beef, sautéed onions, garlic, and diced tomatoes  
+Action: Add 1 can of kidney beans (drained and rinsed) *
+
+Step 6:  
+Previous scene: A pot with browned ground beef, sautéed onions, garlic, diced tomatoes, and kidney beans  
+Action: Add 1 can of black beans (drained and rinsed) *
+
+Step 7:  
+Previous scene: A pot with browned ground beef, sautéed onions, garlic, diced tomatoes, kidney beans, and black beans  
+Action: Add 1 can of corn (drained) *
+
+Step 8:  
+Previous scene: A pot with browned ground beef, sautéed onions, garlic, diced tomatoes, kidney beans, black beans, and corn  
+Action: Stir in 1 packet of taco seasoning *
+
+Step 9:  
+Previous scene: A pot with browned ground beef, sautéed onions, garlic, diced tomatoes, kidney beans, black beans, corn, and taco seasoning  
+Action: Add 4 cups of beef broth *
+
+Step 10:  
+Previous scene: A pot with browned ground beef, sautéed onions, garlic, diced tomatoes, kidney beans, black beans, corn, taco seasoning, and beef broth  
+Action: Bring the mixture to a boil, then reduce the heat and let it simmer for 20-30 minutes *
+
+Step 11:  
+Previous scene: A pot of simmering soup with all ingredients combined  
+Action: Taste and adjust seasoning with salt and pepper as needed *
+
+Step 12:  
+Previous scene: A pot of fully cooked taco soup  
+Action: Serve hot, garnished with shredded cheese, sour cream, and chopped cilantro if desired *

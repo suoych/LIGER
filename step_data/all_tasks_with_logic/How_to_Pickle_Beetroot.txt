@@ -1,0 +1,31 @@
+4,2 *
+Step 1:
+Previous scene: None
+Action: Wash and peel the beetroots *
+Step 2:
+Previous scene: Washed and peeled beetroots
+Action: Slice the beetroots into thin rounds or cubes *
+Step 3:
+Previous scene: Sliced beetroots
+Action: Boil the beetroot pieces in water until they are tender *
+Step 4:
+Previous scene: Boiled beetroot pieces
+Action: Drain the boiled beetroots and set them aside *
+Step 5:
+Previous scene: Drained beetroot pieces
+Action: In a separate pan, combine vinegar, water, sugar, and salt *
+Step 6:
+Previous scene: Vinegar, water, sugar, and salt mixture in a pan
+Action: Bring the mixture to a boil, stirring until the sugar and salt dissolve *
+Step 7:
+Previous scene: Boiling pickling liquid
+Action: Place the beetroot pieces into sterilized jars *
+Step 8:
+Previous scene: Beetroot pieces in sterilized jars
+Action: Pour the hot pickling liquid over the beetroot in the jars, ensuring the beetroot is fully submerged *
+Step 9:
+Previous scene: Beetroot submerged in pickling liquid
+Action: Seal the jars with lids and let them cool to room temperature *
+Step 10:
+Previous scene: Sealed jars cooling to room temperature
+Action: Store the jars in the refrigerator for at least 2-3 days before eating to allow the flavors to develop *

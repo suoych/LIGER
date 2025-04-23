@@ -1,0 +1,40 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: None
+Action: In a skillet, cook 1 pound of ground beef until browned. Drain the fat. *
+
+Step 3:
+Previous scene: Cooked ground beef in a skillet
+Action: Add 1 packet of taco seasoning and 2/3 cup of water to the ground beef. Simmer for 5 minutes. *
+
+Step 4:
+Previous scene: Seasoned ground beef
+Action: On a baking sheet, arrange a package of crescent rolls in a circular shape, with the wide ends overlapping in the center and the points facing outward *
+
+Step 5:
+Previous scene: Crescent rolls arranged in a circular shape
+Action: Spoon the seasoned ground beef mixture onto the wide ends of the crescent rolls *
+
+Step 6:
+Previous scene: Crescent rolls with ground beef
+Action: Sprinkle 1 cup of shredded cheese over the ground beef *
+
+Step 7:
+Previous scene: Crescent rolls with ground beef and cheese
+Action: Fold the pointed ends of the crescent rolls over the filling and tuck under the wide ends to form a ring *
+
+Step 8:
+Previous scene: Taco ring assembled
+Action: Bake in the preheated oven for 20-25 minutes, or until the crescent rolls are golden brown *
+
+Step 9:
+Previous scene: Baked taco ring
+Action: Remove from oven and let cool for a few minutes before slicing and serving *
+
+Step 10:
+Previous scene: Taco ring cooling
+Action: Serve with additional toppings like sour cream, salsa, and shredded lettuce if desired *

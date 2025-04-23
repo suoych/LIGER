@@ -1,0 +1,41 @@
+3, 6*
+Step 1:
+Previous scene: None
+Action: Slice one chicken breast into thin strips and season with salt and pepper *
+
+Step 2:
+Previous scene: Seasoned chicken strips
+Action: Heat a skillet over medium heat and add a tablespoon of olive oil *
+
+Step 3:
+Previous scene: A heated skillet with olive oil
+Action: Add the chicken strips to the skillet and cook until browned and fully cooked through *
+
+Step 4:
+Previous scene: Skillet with cooked chicken strips
+Action: Remove the cooked chicken from the skillet and set aside to cool *
+
+Step 5:
+Previous scene: Cooked chicken strips set aside on a plate
+Action: Peel and dice one ripe mango *
+
+Step 6:
+Previous scene: Diced mango, cooked chicken strips
+Action: In a mixing bowl, combine the diced mango with 1/4 cup of diced red onion and a handful of chopped fresh cilantro *
+
+Step 7:
+Previous scene: Mixing bowl with mango, red onion, and cilantro
+Action: Add the cooled chicken strips to the mixing bowl and gently toss to combine *
+
+Step 8:
+Previous scene: Mixing bowl with combined chicken and mango mixture
+Action: Slice open the pita bread to create pockets *
+
+Step 9:
+Previous scene: Sliced pita bread, chicken mango mixture
+Action: Stuff the pita pockets with the chicken mango mixture *
+
+Step 10:
+Previous scene: Stuffed pita pockets with chicken mango mixture
+Action: Serve the chicken mango pita sandwiches immediately *
+

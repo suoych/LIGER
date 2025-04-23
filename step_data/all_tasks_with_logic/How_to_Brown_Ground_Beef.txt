@@ -1,0 +1,19 @@
+3,1*
+Step 1: 
+Previous scene: None
+Action: Heat a skillet over medium heat *
+Step 2: 
+Previous scene: An empty skillet
+Action: Add the ground beef to the skillet *
+Step 3:
+Previous scene: Ground beef in the skillet
+Action: Break the beef into smaller pieces using a spatula *
+Step 4:
+Previous scene: Broken-down beef in the skillet
+Action: Cook the beef until it’s brown, stirring occasionally *
+Step 5:
+Previous scene: Browned ground beef in the skillet
+Action: Drain any excess fat from the skillet *
+Step 6:
+Previous scene: Drained browned ground beef
+Action: Season the browned ground beef as desired *

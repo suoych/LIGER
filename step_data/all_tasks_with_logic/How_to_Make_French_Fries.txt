@@ -1,0 +1,32 @@
+4,7 *
+Step 1:
+Previous scene: None
+Action: Peel the potatoes *
+
+Step 2:
+Previous scene: Peeled potatoes
+Action: Slice the potatoes into thin strips *
+
+Step 3:
+Previous scene: Potato strips
+Action: Soak the potato strips in cold water for 30 minutes *
+
+Step 4:
+Previous scene: Potato strips in water
+Action: Drain and pat dry the potato strips thoroughly *
+
+Step 5:
+Previous scene: Dry potato strips
+Action: Heat oil in a deep fryer to 350°F (175°C) *
+
+Step 6:
+Previous scene: Hot oil in fryer
+Action: Fry the potato strips in batches until golden brown *
+
+Step 7:
+Previous scene: Golden brown fries in fryer
+Action: Remove the fries with a slotted spoon and place on paper towels to drain excess oil *
+
+Step 8:
+Previous scene: Fries on paper towels
+Action: Season with salt and serve immediately *

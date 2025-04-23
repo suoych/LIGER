@@ -1,0 +1,56 @@
+1, 6*
+Step 1:
+Previous scene: None
+Action: Preheat oven to 325°F (163°C) and grease a 9-inch springform pan *
+
+Step 2:
+Previous scene: Greased springform pan
+Action: In a bowl, combine 1 cup of graham cracker crumbs, 2 tablespoons of sugar, and 1/4 cup of melted butter *
+
+Step 3: 
+Previous scene: A bowl with graham cracker mixture
+Action: Press the graham cracker mixture into the bottom of the springform pan to form the crust *
+
+Step 4: 
+Previous scene: Springform pan with crust
+Action: In a mixing bowl, beat 24 ounces of cream cheese until smooth *
+
+Step 5: 
+Previous scene: Mixing bowl with beaten cream cheese
+Action: Add 1 cup of sugar and beat until well combined *
+
+Step 6:
+Previous scene: Mixing bowl with cream cheese and sugar
+Action: Add 4 large eggs, one at a time, beating well after each addition *
+
+Step 7: 
+Previous scene: Mixing bowl with cream cheese, sugar, and eggs
+Action: Mix in 1 teaspoon of vanilla extract and 1/2 cup of sour cream *
+
+Step 8: 
+Previous scene: Bowl with cheesecake batter
+Action: Pour half of the cheesecake batter into the prepared crust *
+
+Step 9: 
+Previous scene: Springform pan with half-filled cheesecake batter
+Action: Dollop 1/4 cup of strawberry puree over the batter and swirl with a knife *
+
+Step 10: 
+Previous scene: Springform pan with battery and swirled puree
+Action: Pour remaining cheesecake batter on top and smooth it out *
+
+Step 11:
+Previous scene: Springform pan with filled cheesecake batter
+Action: Dollop another 1/4 cup of strawberry puree on top and swirl it with a knife *
+
+Step 12:
+Previous scene: Springform pan with swirled cheesecake batter
+Action: Bake in preheated oven for about 50-60 minutes until edges are set and the center is slightly jiggly *
+
+Step 13:
+Previous scene: Baked swirled cheesecake
+Action: Allow the cheesecake to cool to room temperature before chilling it in the refrigerator for at least 4 hours or overnight *
+
+Step 14: 
+Previous scene: Cooled cheesecake
+Action: Before serving, optionally garnish with fresh strawberries and whipped cream *

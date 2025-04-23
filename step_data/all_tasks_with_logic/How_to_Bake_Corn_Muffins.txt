@@ -1,0 +1,36 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 400°F (200°C) *
+
+Step 2:
+Previous scene: None
+Action: In a large mixing bowl, combine 1 cup of cornmeal, 1 cup of flour, 1/4 cup of sugar, 1 tablespoon of baking powder, and 1/2 teaspoon of salt *
+
+Step 3:
+Previous scene: A bowl with dry ingredients
+Action: In another bowl, whisk together 1 cup of milk, 1/4 cup of melted butter, and 1 large egg *
+
+Step 4:
+Previous scene: A bowl with wet ingredients
+Action: Pour the wet mixture into the dry mixture *
+
+Step 5:
+Previous scene: A bowl with combined ingredients
+Action: Stir until just combined and the batter is lumpy *
+
+Step 6:
+Previous scene: A bowl with lumpy batter
+Action: Grease a muffin tin or line it with paper liners *
+
+Step 7:
+Previous scene: A greased muffin tin
+Action: Fill each muffin cup about two-thirds full with batter *
+
+Step 8:
+Previous scene: A muffin tin filled with batter
+Action: Bake in preheated oven for about 15 to 20 minutes, until golden brown and a toothpick inserted comes out clean *
+
+Step 9:
+Previous scene: Baked corn muffins in a tin
+Action: Remove from oven and let cool for a few minutes before transferring to a wire rack to cool completely *

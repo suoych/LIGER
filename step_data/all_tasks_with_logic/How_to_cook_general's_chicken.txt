@@ -1,0 +1,40 @@
+6, 4*
+Step 1: 
+Previous scene: None
+Action: Cut boneless chicken into bite-sized pieces and set aside *
+
+Step 2: 
+Previous scene: Cut chicken pieces
+Action: In a bowl, mix cornstarch, salt, and pepper *
+
+Step 3: 
+Previous scene: A bowl with cornstarch mixture
+Action: Coat the chicken pieces with the cornstarch mixture *
+
+Step 4: 
+Previous scene: Chicken pieces coated with cornstarch
+Action: Heat oil in a frying pan or wok *
+
+Step 5: 
+Previous scene: A pan with heated oil
+Action: Fry the coated chicken pieces until golden brown and crispy *
+
+Step 6: 
+Previous scene: Fried chicken pieces
+Action: Remove the chicken and set it on a paper towel to drain *
+
+Step 7: 
+Previous scene: Drained chicken pieces
+Action: In a separate pan, prepare the sauce by combining soy sauce, hoisin sauce, vinegar, sugar, and chili paste *
+
+Step 8: 
+Previous scene: A pan with sauce ingredients
+Action: Heat the sauce mixture until it thickens slightly *
+
+Step 9: 
+Previous scene: Thickened sauce
+Action: Add the fried chicken pieces to the sauce and stir to coat *
+
+Step 10: 
+Previous scene: Chicken coated with sauce
+Action: Serve hot, garnished with green onions or sesame seeds if desired *

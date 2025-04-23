@@ -1,0 +1,37 @@
+5,2 *
+Step 1:  
+Previous scene: None  
+Action: In a mixing bowl, combine 1 cup of cornmeal, 1 cup of flour, 1/4 cup of sugar, 1 tablespoon of baking powder, and a pinch of salt *
+
+Step 2:  
+Previous scene: A bowl with dry ingredients  
+Action: Add 1 cup of milk, 2 beaten eggs, and 1/4 cup of vegetable oil to the dry ingredients and mix until smooth *
+
+Step 3:  
+Previous scene: A bowl with cornmeal batter  
+Action: Pour the batter into a tall glass or a container that can easily fit a hot dog *
+
+Step 4:  
+Previous scene: A container filled with batter  
+Action: Insert wooden skewers into hot dogs *
+
+Step 5:  
+Previous scene: Hot dogs with skewers  
+Action: Dip each hot dog into the batter, ensuring it is fully coated *
+
+Step 6:  
+Previous scene: Batter-coated hot dogs  
+Action: Heat oil in a deep fryer or a large pot to 350°F (175°C) *
+
+Step 7:  
+Previous scene: Hot oil in a fryer or pot  
+Action: Fry the batter-coated hot dogs in the hot oil until golden brown, about 3-5 minutes *
+
+Step 8:  
+Previous scene: Golden brown corn dogs in oil  
+Action: Remove the corn dogs from the oil and drain on paper towels *
+
+Step 9:  
+Previous scene: Corn dogs on paper towels  
+Action: Serve with mustard or ketchup *
+

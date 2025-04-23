@@ -1,0 +1,28 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Take a microwave-safe popcorn bag out of the packaging *
+Step 2:
+Previous scene: A popcorn bag
+Action: Place the popcorn bag in the microwave *
+Step 3:
+Previous scene: A microwave with a popcorn bag inside
+Action: Close the microwave door *
+Step 4:
+Previous scene: A closed microwave door
+Action: Set the microwave to the recommended cooking time (usually 2-4 minutes) *
+Step 5:
+Previous scene: A microwave display showing the set cooking time
+Action: Start the microwave *
+Step 6:
+Previous scene: A running microwave
+Action: Listen for popping sounds to slow down to about 2-3 seconds apart, then stop the microwave *
+Step 7:
+Previous scene: A microwave with completed popcorn cycle
+Action: Carefully remove the hot popcorn bag from the microwave *
+Step 8:
+Previous scene: A hot popcorn bag
+Action: Open the bag carefully to avoid steam burns *
+Step 9:
+Previous scene: An opened popcorn bag
+Action: Pour the popcorn into a large bowl and enjoy! *

@@ -1,0 +1,40 @@
+6, 1*
+Step 1:
+Previous scene: None
+Action: Bring a large pot of salted water to a boil *
+
+Step 2:
+Previous scene: A pot of boiling water
+Action: Add spaghetti and cook until al dente *
+
+Step 3:
+Previous scene: A pot with boiling spaghetti
+Action: In a large skillet over medium heat, cook the bacon until crispy *
+
+Step 4:
+Previous scene: Skillet with crispy bacon
+Action: Beat together eggs and grated Parmesan cheese in a bowl *
+
+Step 5:
+Previous scene: A bowl with beaten eggs and Parmesan cheese
+Action: Reserve some pasta cooking water, then drain the spaghetti *
+
+Step 6:
+Previous scene: Drained spaghetti
+Action: Add the hot pasta to the skillet with bacon and toss to combine *
+
+Step 7:
+Previous scene: Skillet with pasta and bacon
+Action: Remove the skillet from heat and quickly stir in the egg and cheese mixture *
+
+Step 8:
+Previous scene: Skillet with pasta, bacon, and cheese mixture
+Action: Add reserved pasta water as needed to achieve a creamy consistency *
+
+Step 9:
+Previous scene: Creamy carbonara pasta in a skillet
+Action: Season with salt and freshly ground black pepper to taste *
+
+Step 10:
+Previous scene: Seasoned carbonara pasta
+Action: Serve immediately, garnished with additional Parmesan cheese if desired *

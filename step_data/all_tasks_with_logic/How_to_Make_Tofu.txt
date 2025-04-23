@@ -1,0 +1,48 @@
+8,7 *
+Step 1:
+Previous scene: None
+Action: Soak 2 cups of dried soybeans in water overnight *
+
+Step 2:
+Previous scene: Soaked soybeans in a bowl
+Action: Drain and rinse the soaked soybeans *
+
+Step 3:
+Previous scene: Drained soybeans in a bowl
+Action: Blend the soybeans with 6 cups of water until smooth *
+
+Step 4:
+Previous scene: Blender with smooth soybean mixture
+Action: Pour the blended mixture into a large pot and bring to a boil *
+
+Step 5:
+Previous scene: Large pot with boiled soybean mixture
+Action: Strain the mixture through a cheesecloth to separate the soy milk from the pulp *
+
+Step 6:
+Previous scene: Pot with soy milk and cheesecloth with soybean pulp
+Action: Heat the soy milk again until it reaches around 180°F *
+
+Step 7:
+Previous scene: Pot with heated soy milk
+Action: Add a coagulant (like lemon juice or nigari) while stirring gently to curdle the soy milk *
+
+Step 8:
+Previous scene: Pot with curdled soy milk
+Action: Let the mixture sit undisturbed for about 20 minutes *
+
+Step 9:
+Previous scene: Pot with coagulated tofu
+Action: Transfer the curds into a tofu mold lined with cheesecloth *
+
+Step 10:
+Previous scene: Tofu mold with curds
+Action: Press the curds to remove excess water and form a solid block *
+
+Step 11:
+Previous scene: Tofu mold with pressed tofu
+Action: Unmold the tofu and cut it into desired shapes *
+
+Step 12:
+Previous scene: Block of tofu
+Action: Store the tofu in water or use it immediately for cooking *

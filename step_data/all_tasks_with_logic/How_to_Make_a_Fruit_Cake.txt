@@ -1,0 +1,48 @@
+1, 6*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 325°F (163°C) *
+
+Step 2:
+Previous scene: None
+Action: Grease and flour a cake pan *
+
+Step 3:
+Previous scene: A greased and floured cake pan
+Action: In a mixing bowl, cream together 1 cup of butter and 1 1/4 cups of sugar *
+
+Step 4:
+Previous scene: A bowl with creamed butter and sugar
+Action: Beat in 4 eggs one at a time, mixing well after each addition *
+
+Step 5:
+Previous scene: Batter with eggs mixed in
+Action: In another bowl, sift together 2 cups of flour, 1 teaspoon of baking powder, and 1 teaspoon of cinnamon *
+
+Step 6:
+Previous scene: A bowl with sifted dry ingredients
+Action: Gradually add the dry ingredients to the wet mixture, stirring until just combined *
+
+Step 7:
+Previous scene: Batter with dry ingredients mixed in
+Action: Add 1/2 cup of orange juice and 1 teaspoon of vanilla extract to the batter, and mix well *
+
+Step 8:
+Previous scene: Batter with orange juice and vanilla mixed in
+Action: Fold in 2 cups of mixed dried fruits and 1 cup of chopped nuts *
+
+Step 9:
+Previous scene: Batter with fruits and nuts mixed in
+Action: Pour the batter into the prepared cake pan *
+
+Step 10:
+Previous scene: A cake pan filled with batter
+Action: Bake in the preheated oven for 75 to 90 minutes *
+
+Step 11:
+Previous scene: A baking fruit cake in the oven
+Action: Remove the cake from the oven and let it cool in the pan for 10 minutes before transferring to a wire rack *
+
+Step 12:
+Previous scene: A fruit cake cooling in the pan
+Action: Allow the cake to cool completely on the wire rack before slicing and serving *

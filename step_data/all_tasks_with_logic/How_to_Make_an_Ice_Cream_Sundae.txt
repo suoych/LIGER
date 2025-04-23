@@ -1,0 +1,19 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: Place a scoop of your favorite ice cream into a bowl or sundae dish *
+Step 2:
+Previous scene: A bowl or sundae dish with a scoop of ice cream
+Action: Add a drizzle of chocolate syrup over the ice cream *
+Step 3:
+Previous scene: A bowl or sundae dish with ice cream and chocolate syrup
+Action: Sprinkle some chopped nuts or granola on top *
+Step 4:
+Previous scene: A bowl or sundae dish with ice cream, chocolate syrup, and nuts
+Action: Add a dollop of whipped cream *
+Step 5:
+Previous scene: A bowl or sundae dish with ice cream, chocolate syrup, nuts, and whipped cream
+Action: Garnish with a cherry on top *
+Step 6:
+Previous scene: A bowl or sundae dish with ice cream, chocolate syrup, nuts, whipped cream, and a cherry
+Action: Serve immediately and enjoy your ice cream sundae *

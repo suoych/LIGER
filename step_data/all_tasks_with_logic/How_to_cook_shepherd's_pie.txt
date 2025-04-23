@@ -1,0 +1,52 @@
+3, 6*
+Step 1:  
+Previous scene: None  
+Action: Peel and chop 1 kg of potatoes *
+
+Step 2:  
+Previous scene: Chopped potatoes  
+Action: Boil the potatoes in a pot of water until tender *
+
+Step 3:  
+Previous scene: Boiled potatoes  
+Action: Mash the potatoes with butter and milk until smooth *
+
+Step 4:  
+Previous scene: Mashed potatoes  
+Action: Heat oil in a pan and sauté 1 chopped onion *
+
+Step 5:  
+Previous scene: Sautéed onion  
+Action: Add 500g of minced lamb to the pan and brown it *
+
+Step 6:  
+Previous scene: Lamb and onions  
+Action: Stir in 2 tablespoons of tomato paste and cook *
+
+Step 7:  
+Previous scene: Lamb and tomato paste mixture  
+Action: Add 1 cup of beef stock and simmer *
+
+Step 8:  
+Previous scene: Lamb mixture with stock  
+Action: Add vegetables like peas and carrots *
+
+Step 9:  
+Previous scene: Lamb and vegetable mixture  
+Action: Season with salt, pepper, and herbs *
+
+Step 10:  
+Previous scene: Seasoned lamb and vegetable filling  
+Action: Transfer the mixture to a baking dish *
+
+Step 11:  
+Previous scene: Filling in baking dish  
+Action: Spread the mashed potatoes evenly over the top *
+
+Step 12:  
+Previous scene: Dish with mashed potatoes on top  
+Action: Bake in the oven at 200°C (400°F) for 25-30 minutes until golden *
+
+Step 13:  
+Previous scene: Baked shepherd's pie  
+Action: Let it cool slightly before serving *

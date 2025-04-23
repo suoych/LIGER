@@ -1,0 +1,36 @@
+1,8 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: Line an 8x8 inch baking pan with parchment paper *
+
+Step 3:
+Previous scene: An 8x8 inch baking pan with parchment paper
+Action: In a mixing bowl, whisk together 1 cup of melted butter and 1 cup of brown sugar *
+
+Step 4:
+Previous scene: A mixing bowl with melted butter and brown sugar
+Action: Add 2 large eggs and 1 teaspoon of vanilla extract to the mixture and whisk until well combined *
+
+Step 5:
+Previous scene: A mixing bowl with wet ingredients (butter, brown sugar, eggs, vanilla)
+Action: Stir in 1 cup of all-purpose flour and 2 tablespoons of matcha powder until just combined *
+
+Step 6:
+Previous scene: A mixing bowl with batter containing flour and matcha
+Action: Fold in 1/2 cup of white chocolate chips *
+
+Step 7:
+Previous scene: A mixing bowl with matcha blondie batter and white chocolate chips
+Action: Pour the batter into the prepared baking pan and spread it evenly *
+
+Step 8:
+Previous scene: An 8x8 inch baking pan with matcha blondie batter
+Action: Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean *
+
+Step 9:
+Previous scene: An 8x8 inch baking pan with baked matcha blondies
+Action: Let the blondies cool completely in the pan before cutting them into squares and serving *

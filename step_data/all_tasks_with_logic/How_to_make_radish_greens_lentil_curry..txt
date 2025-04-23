@@ -1,0 +1,36 @@
+3,2 *
+Step 1: 
+Previous scene: None
+Action: Rinse 1 cup of lentils under cold water *
+
+Step 2: 
+Previous scene: A cup of rinsed lentils
+Action: In a pot, add the lentils and 2 cups of water, then bring to a boil *
+
+Step 3: 
+Previous scene: Pot with boiling lentils and water
+Action: Reduce heat and simmer for 20-25 minutes until lentils are tender *
+
+Step 4: 
+Previous scene: Pot with cooked lentils
+Action: In a separate pan, heat 2 tablespoons of oil and add 1 chopped onion, sauté until golden brown *
+
+Step 5: 
+Previous scene: Pan with sautéed onion
+Action: Add 2 cloves of minced garlic, 1 tablespoon of grated ginger, and 1 chopped tomato, cook until tomato softens *
+
+Step 6: 
+Previous scene: Pan with onion, garlic, ginger, and tomato
+Action: Stir in 1 teaspoon of turmeric, 1 teaspoon of cumin, and 1 teaspoon of coriander powder, cook for a minute *
+
+Step 7: 
+Previous scene: Pan with spices
+Action: Add 2 cups of chopped radish greens and cook until wilted *
+
+Step 8: 
+Previous scene: Pan with radish greens
+Action: Combine the cooked lentils with the radish greens mixture, season with salt to taste, and simmer for 5 minutes *
+
+Step 9: 
+Previous scene: Pot with lentils and radish greens mixture
+Action: Garnish with fresh cilantro and serve hot *

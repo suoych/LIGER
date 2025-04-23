@@ -1,0 +1,31 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: Fill a pot with 4 cups of water *
+Step 2:
+Previous scene: A pot with water
+Action: Add 2 chicken breasts to the pot *
+Step 3:
+Previous scene: A pot with water and chicken breasts
+Action: Bring the pot to a boil, then reduce the heat to a simmer *
+Step 4:
+Previous scene: A pot with simmering water and chicken breasts
+Action: Add 1 chopped onion, 2 chopped carrots, and 2 chopped celery stalks to the pot *
+Step 5:
+Previous scene: A pot with chicken and vegetables
+Action: Simmer for 30 minutes until the vegetables are tender and the chicken is cooked through *
+Step 6:
+Previous scene: A pot with cooked chicken and tender vegetables
+Action: Remove the chicken breasts and shred them with a fork *
+Step 7:
+Previous scene: Shredded chicken and a pot with broth and vegetables
+Action: Return the shredded chicken to the pot *
+Step 8:
+Previous scene: A pot with shredded chicken, broth, and vegetables
+Action: Season with salt, pepper, and 1 teaspoon of dried thyme *
+Step 9:
+Previous scene: A pot with seasoned chicken soup
+Action: Let the soup simmer for an additional 10 minutes *
+Step 10:
+Previous scene: A pot with completed chicken soup
+Action: Serve hot, garnished with chopped parsley if desired *

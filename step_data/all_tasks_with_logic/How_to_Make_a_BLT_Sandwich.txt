@@ -1,0 +1,22 @@
+6, 4*
+Step 1:
+Previous scene: None
+Action: Take two slices of bread and place them on a clean surface *
+Step 2:
+Previous scene: Two slices of bread on a surface
+Action: Spread mayonnaise on one side of each slice of bread *
+Step 3:
+Previous scene: Two slices of bread with mayonnaise
+Action: Place cooked bacon strips on one slice of bread *
+Step 4:
+Previous scene: A slice of bread with bacon
+Action: Add tomato slices on top of the bacon *
+Step 5:
+Previous scene: A slice of bread with bacon and tomato
+Action: Place lettuce leaves on top of the tomato *
+Step 6:
+Previous scene: A slice of bread with bacon, tomato, and lettuce
+Action: Place the other slice of bread on top, mayonnaise side down *
+Step 7:
+Previous scene: A complete BLT sandwich
+Action: Cut the sandwich in half and serve *

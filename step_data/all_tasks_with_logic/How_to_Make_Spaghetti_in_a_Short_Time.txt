@@ -1,0 +1,37 @@
+3,2 *
+Step 1:
+Previous scene: None
+Action: Fill a large pot with water and bring it to a boil on the stove *
+Step 2:
+Previous scene: A pot of boiling water
+Action: Add a pinch of salt and the spaghetti to the boiling water *
+Step 3:
+Previous scene: A pot with spaghetti in boiling water
+Action: Stir occasionally to prevent the spaghetti from sticking *
+Step 4:
+Previous scene: A pot with boiling spaghetti
+Action: While the spaghetti is cooking, heat a pan and add olive oil *
+Step 5:
+Previous scene: A heated pan with olive oil
+Action: Add minced garlic and cook until fragrant *
+Step 6:
+Previous scene: A pan with garlic and olive oil
+Action: Add canned tomato sauce to the pan and stir *
+Step 7:
+Previous scene: A pan with garlic and tomato sauce
+Action: Season with salt, pepper, and other desired spices *
+Step 8:
+Previous scene: A pan with seasoned tomato sauce
+Action: Simmer the sauce while the spaghetti finishes cooking *
+Step 9:
+Previous scene: A pot of cooked spaghetti
+Action: Drain the spaghetti *
+Step 10:
+Previous scene: A pot with drained spaghetti
+Action: Combine the drained spaghetti with the tomato sauce in the pan *
+Step 11:
+Previous scene: A pan with spaghetti and sauce
+Action: Toss the spaghetti to coat it evenly with the sauce *
+Step 12:
+Previous scene: A pan with coated spaghetti
+Action: Serve the spaghetti hot, optionally garnishing with grated cheese or fresh basil *

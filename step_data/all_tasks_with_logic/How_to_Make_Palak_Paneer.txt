@@ -1,0 +1,43 @@
+3,8 *
+Step 1:
+Previous scene: None
+Action: Wash and chop 250g of fresh spinach leaves (palak) *
+Step 2:
+Previous scene: Chopped spinach
+Action: Blanch the spinach in boiling water for 2-3 minutes, then transfer to ice water *
+Step 3:
+Previous scene: Blanched spinach in ice water
+Action: Drain the spinach and blend into a smooth puree using a blender *
+Step 4:
+Previous scene: Spinach puree
+Action: Heat 2 tablespoons of oil in a pan and add 1 teaspoon of cumin seeds *
+Step 5:
+Previous scene: Pan with oil and cumin seeds
+Action: Sauté 1 finely chopped onion until golden brown *
+Step 6:
+Previous scene: Sautéed onions
+Action: Add 1 tablespoon of ginger-garlic paste and sauté for another minute *
+Step 7:
+Previous scene: Onion and ginger-garlic mixture
+Action: Add 2 finely chopped tomatoes and cook until the tomatoes soften *
+Step 8:
+Previous scene: Tomato mixture
+Action: Add 1 teaspoon of turmeric powder, 1 teaspoon of red chili powder, and 1 teaspoon of garam masala *
+Step 9:
+Previous scene: Tomato and spice mixture
+Action: Cook the mixture until the oil starts to separate from the masala *
+Step 10:
+Previous scene: Cooked masala
+Action: Add the spinach puree to the pan and mix well *
+Step 11:
+Previous scene: Spinach and masala mixture
+Action: Add salt to taste and simmer the mixture for 5-7 minutes *
+Step 12:
+Previous scene: Simmering spinach mixture
+Action: Add 200g of paneer cubes and gently mix them into the gravy *
+Step 13:
+Previous scene: Spinach mixture with paneer
+Action: Cook for another 3-4 minutes until the paneer is heated through *
+Step 14:
+Previous scene: Cooked Palak Paneer
+Action: Garnish with fresh cream or butter before serving *

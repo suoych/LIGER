@@ -1,0 +1,52 @@
+10, 4*
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, combine 3 cups of wheat flour and 1 cup of rye flour *
+
+Step 2:
+Previous scene: A bowl with wheat and rye flour
+Action: Add 2 tablespoons of sugar and 1 tablespoon of salt to the dry ingredients *
+
+Step 3: 
+Previous scene: A bowl with wheat and rye flour mixed with sugar and salt
+Action: Warm 1 1/2 cups of water and pour it into the dry ingredients *
+
+Step 4:
+Previous scene: A bowl with dry ingredients and water
+Action: Sprinkle 2 1/4 teaspoons (1 packet) of yeast into the mixture *
+
+Step 5:
+Previous scene: A bowl with dry ingredients, water, and yeast
+Action: Stir the mixture until it forms a cohesive dough *
+
+Step 6:
+Previous scene: A bowl with dough
+Action: Knead the dough for about 10 minutes until smooth and elastic *
+
+Step 7:
+Previous scene: Kneaded dough
+Action: Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise for 1 hour or until doubled in size *
+
+Step 8:
+Previous scene: Dough doubled in size
+Action: Punch down the dough to release the air *
+
+Step 9:
+Previous scene: Dough after being punched down
+Action: Shape the dough into a loaf and place it into a greased loaf pan *
+
+Step 10:
+Previous scene: Dough in a loaf pan
+Action: Cover the pan and let the dough rise for another 30 minutes *
+
+Step 11:
+Previous scene: Dough risen in a loaf pan
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 12:
+Previous scene: Oven preheated to 375°F (190°C)
+Action: Bake the bread for 30 to 35 minutes until golden brown and it sounds hollow when tapped *
+
+Step 13:
+Previous scene: Baked bread in the oven
+Action: Remove the bread from the oven and let it cool on a wire rack before slicing *

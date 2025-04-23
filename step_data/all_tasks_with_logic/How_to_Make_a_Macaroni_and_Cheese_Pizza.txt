@@ -1,0 +1,48 @@
+1, 5*
+Step 1: 
+Previous scene: None
+Action: Preheat the oven to 425°F (220°C) *
+
+Step 2: 
+Previous scene: A preheating oven
+Action: Cook 1 cup of elbow macaroni according to package instructions and drain *
+
+Step 3: 
+Previous scene: A pot of cooked elbow macaroni
+Action: In a saucepan, melt 2 tablespoons of butter over medium heat *
+
+Step 4: 
+Previous scene: A melted butter in a saucepan
+Action: Stir in 2 tablespoons of flour to the melted butter to create a roux *
+
+Step 5: 
+Previous scene: A saucepan with roux
+Action: Gradually whisk in 1 cup of milk until smooth and thickened *
+
+Step 6: 
+Previous scene: A saucepan with thickened milk mixture
+Action: Add 1 cup of shredded cheddar cheese to the mixture and stir until melted *
+
+Step 7: 
+Previous scene: A saucepan with cheese sauce
+Action: Combine the cooked macaroni with the cheese sauce *
+
+Step 8: 
+Previous scene: A bowl of macaroni and cheese mixture
+Action: Spread out pizza dough on a baking sheet or pizza stone *
+
+Step 9: 
+Previous scene: Pizza dough on baking sheet
+Action: Evenly spread the macaroni and cheese mixture over the pizza dough *
+
+Step 10: 
+Previous scene: Pizza dough topped with macaroni and cheese
+Action: Sprinkle an additional 1/2 cup of shredded mozzarella cheese over the top *
+
+Step 11: 
+Previous scene: Macaroni and cheese pizza topped with mozzarella cheese
+Action: Bake in the preheated oven for 15-20 minutes or until the crust is golden and the cheese is bubbly *
+
+Step 12: 
+Previous scene: Baked macaroni and cheese pizza
+Action: Remove from the oven and let cool for a few minutes before slicing and serving *

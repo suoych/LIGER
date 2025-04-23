@@ -1,0 +1,32 @@
+6, 2*
+Step 1: 
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2: 
+Previous scene: An empty oven set to 350°F (175°C)
+Action: Place the corned beef in a large roasting pan, fat side up *
+
+Step 3: 
+Previous scene: A roasting pan with corned beef
+Action: Add around 1 inch of water or beef broth to the pan *
+
+Step 4: 
+Previous scene: A roasting pan with corned beef and some liquid
+Action: Cover the pan tightly with aluminum foil *
+
+Step 5: 
+Previous scene: A roasting pan with corned beef, liquid, and aluminum foil covering
+Action: Put the pan in the preheated oven *
+
+Step 6: 
+Previous scene: A roasting pan in the oven
+Action: Bake the corned beef for about 2.5 to 3 hours, or until the meat is tender *
+
+Step 7: 
+Previous scene: A roasting pan with cooked corned beef
+Action: Remove the corned beef from the oven and let it rest for a few minutes before slicing *
+
+Step 8: 
+Previous scene: A resting corned beef
+Action: Slice the corned beef against the grain to serve *

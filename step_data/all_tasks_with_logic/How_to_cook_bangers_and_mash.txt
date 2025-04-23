@@ -1,0 +1,36 @@
+2, 4*
+Step 1:  
+Previous scene: None  
+Action: Gather the sausages (bangers) and potatoes *  
+
+Step 2:  
+Previous scene: Sausages and potatoes  
+Action: Peel and chop the potatoes into quarters *  
+
+Step 3:  
+Previous scene: Chopped potatoes  
+Action: Boil the potatoes in a large pot of salted water until tender *  
+
+Step 4:  
+Previous scene: Boiling potatoes  
+Action: Heat a pan over medium heat and add the sausages *  
+
+Step 5:  
+Previous scene: Sausages in a pan  
+Action: Cook the sausages, turning occasionally, until browned and cooked through *  
+
+Step 6:  
+Previous scene: Cooked sausages  
+Action: Drain the potatoes and return them to the pot *  
+
+Step 7:  
+Previous scene: Drained potatoes in a pot  
+Action: Mash the potatoes with butter and milk until smooth *  
+
+Step 8:  
+Previous scene: Mashed potatoes  
+Action: Season the mashed potatoes with salt and pepper to taste *  
+
+Step 9:  
+Previous scene: Seasoned mashed potatoes  
+Action: Serve the sausages on a plate alongside the mashed potatoes *

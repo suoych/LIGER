@@ -1,0 +1,44 @@
+9, 3*
+Step 1:  
+Previous scene: None  
+Action: Prepare the filling by boiling and mashing potatoes *  
+
+Step 2:  
+Previous scene: A bowl with mashed potatoes  
+Action: Add green peas, chopped onions, green chilies, coriander, and spices to the mashed potatoes *  
+
+Step 3:  
+Previous scene: A bowl with spiced potato mixture  
+Action: Mix everything well to create the samosa filling *  
+
+Step 4:  
+Previous scene: Potato mixture  
+Action: Make dough by mixing flour, salt, and water *  
+
+Step 5:  
+Previous scene: A bowl with dough  
+Action: Knead the dough until smooth *  
+
+Step 6:  
+Previous scene: A ball of smooth dough  
+Action: Roll out the dough into small circles *  
+
+Step 7:  
+Previous scene: A circle of rolled dough  
+Action: Cut each circle in half to form semi-circles *  
+
+Step 8:  
+Previous scene: Semi-circular dough pieces  
+Action: Create a cone shape from a semi-circle and fill it with the potato mixture *  
+
+Step 9:  
+Previous scene: Dough cone filled with potato mixture  
+Action: Seal the edges to form a triangle shape *  
+
+Step 10:  
+Previous scene: Triangle-shaped samosa ready to fry  
+Action: Heat oil in a pan *  
+
+Step 11:  
+Previous scene: Hot oil in a pan  
+Action: Fry the samosas until golden brown on all sides *  

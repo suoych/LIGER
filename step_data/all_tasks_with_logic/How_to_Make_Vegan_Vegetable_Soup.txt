@@ -1,0 +1,37 @@
+1,10 *
+Step 1:
+Previous scene: None
+Action: In a large pot, heat 2 tablespoons of olive oil over medium heat *
+Step 2:
+Previous scene: A pot with heated oil
+Action: Add 1 chopped onion, 2 minced garlic cloves, and 3 chopped celery stalks *
+Step 3:
+Previous scene: A pot with onion, garlic, and celery
+Action: Sauté until the vegetables are softened, about 5-7 minutes *
+Step 4:
+Previous scene: Softened vegetables in the pot
+Action: Add 2 chopped carrots and 1 diced bell pepper *
+Step 5:
+Previous scene: A pot with softened vegetables and added carrots and bell pepper
+Action: Stir in 1 teaspoon of dried thyme, 1 teaspoon of dried basil, and 1 teaspoon of dried oregano *
+Step 6:
+Previous scene: A pot with vegetables and herbs
+Action: Add 6 cups of vegetable broth *
+Step 7:
+Previous scene: A pot with vegetable broth and vegetables
+Action: Add 1 can (15oz) of diced tomatoes, including the liquid *
+Step 8:
+Previous scene: A pot with vegetable broth, vegetables, and diced tomatoes
+Action: Bring the mixture to a boil, then reduce heat and simmer for 20 minutes *
+Step 9:
+Previous scene: A pot with simmering soup
+Action: Add 1 cup of chopped zucchini and 1 cup of chopped green beans *
+Step 10:
+Previous scene: A pot with simmering soup and added zucchini and green beans
+Action: Simmer for another 10-15 minutes, until all vegetables are tender *
+Step 11:
+Previous scene: A pot with tender vegetables in soup
+Action: Season with salt and pepper to taste *
+Step 12:
+Previous scene: A pot with seasoned soup
+Action: Serve hot, optionally garnished with fresh parsley *

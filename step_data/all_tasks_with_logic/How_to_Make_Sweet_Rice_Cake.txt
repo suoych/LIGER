@@ -1,0 +1,40 @@
+3,7 *
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, combine 2 cups of sweet rice flour and 1/4 teaspoon of salt *
+
+Step 2:
+Previous scene: A bowl with sweet rice flour and salt
+Action: Gradually add 1 and 3/4 cups of water while stirring the mixture continuously *
+
+Step 3:
+Previous scene: A bowl with mixed sweet rice flour, salt, and water
+Action: Mix until the batter is smooth and has no lumps *
+
+Step 4:
+Previous scene: A bowl with smooth batter
+Action: Grease a steaming dish with some cooking oil *
+
+Step 5:
+Previous scene: A greased steaming dish
+Action: Pour the batter into the greased steaming dish *
+
+Step 6:
+Previous scene: Steaming dish with batter
+Action: Place the dish into a steamer and steam for about 30-40 minutes on medium heat *
+
+Step 7:
+Previous scene: A steamer with the dish inside
+Action: Check if the cake is done by inserting a toothpick; it should come out clean *
+
+Step 8:
+Previous scene: A steamed rice cake in a dish
+Action: Remove the dish from the steamer and let the cake cool completely *
+
+Step 9:
+Previous scene: A cooled rice cake in a dish
+Action: Once cooled, cut the cake into small pieces and optionally dust with some powdered sugar or coconut flakes for garnish *
+
+Step 10:
+Previous scene: Rice cake pieces with optional garnish
+Action: Serve and enjoy your sweet rice cake *

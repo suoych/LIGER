@@ -1,0 +1,25 @@
+2,5 *
+Step 1:
+Previous scene: None
+Action: Pat the white fish dry with paper towels *
+Step 2:
+Previous scene: A dry white fish
+Action: Season the fish with salt and pepper on both sides *
+Step 3:
+Previous scene: A seasoned white fish
+Action: Heat oil in a skillet over medium-high heat *
+Step 4: 
+Previous scene: A hot skillet with oil
+Action: Carefully place the fish into the skillet, skin-side down if applicable *
+Step 5:
+Previous scene: Fish in a skillet
+Action: Cook the fish for 3-4 minutes on one side until golden brown *
+Step 6:
+Previous scene: Golden brown fish on one side
+Action: Flip the fish over and cook for another 3-4 minutes until fully cooked and flakes easily with a fork *
+Step 7:
+Previous scene: Fully cooked fish
+Action: Remove the fish from the skillet and place on a paper towel-lined plate to drain any excess oil *
+Step 8:
+Previous scene: Cooked fish on a paper towel-lined plate
+Action: Serve the fish with lemon wedges and garnish with fresh herbs if desired *

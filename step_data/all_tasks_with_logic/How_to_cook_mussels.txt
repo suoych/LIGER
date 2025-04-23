@@ -1,0 +1,28 @@
+2, 6*
+Step 1:
+Previous scene: None
+Action: Rinse the mussels under cold water to clean them *
+Step 2:
+Previous scene: Cleaned mussels in a colander
+Action: Inspect and discard any mussels that are open and do not close when tapped *
+Step 3:
+Previous scene: Mussels ready for cooking
+Action: In a large pot, heat some olive oil over medium heat *
+Step 4:
+Previous scene: Heated olive oil in the pot
+Action: Add finely chopped garlic and onions to the pot and sauté until translucent *
+Step 5:
+Previous scene: Garlic and onions sautéed in the pot
+Action: Pour in 1 cup of white wine and bring to a boil *
+Step 6:
+Previous scene: Boiling white wine with garlic and onions
+Action: Add the cleaned mussels to the pot and cover with a lid *
+Step 7:
+Previous scene: Mussels in the pot
+Action: Cook for about 5-7 minutes until the mussels open up *
+Step 8:
+Previous scene: Cooked mussels with opened shells
+Action: Discard any mussels that did not open during cooking *
+Step 9:
+Previous scene: Fully cooked mussels ready for serving
+Action: Sprinkle chopped parsley over the mussels and serve immediately *

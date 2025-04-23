@@ -1,0 +1,37 @@
+7, 3*
+Step 1:  
+Previous scene: None  
+Action: In a mixing bowl, combine 2 cups of flour *  
+Step 2:  
+Previous scene: A bowl with flour  
+Action: Add 1 teaspoon of salt and 1 teaspoon of sugar to the flour *  
+Step 3:  
+Previous scene: A bowl with flour, salt, and sugar  
+Action: Stir in 1 teaspoon of yeast *  
+Step 4:  
+Previous scene: A bowl with dry ingredients  
+Action: Add 2 tablespoons of yogurt and 2 tablespoons of oil *  
+Step 5:  
+Previous scene: A bowl with dry ingredients plus yogurt and oil  
+Action: Pour in ¾ cup of warm water gradually *  
+Step 6:  
+Previous scene: A bowl with mixed ingredients  
+Action: Knead the mixture to form a soft dough *  
+Step 7:  
+Previous scene: Soft dough  
+Action: Cover the dough and let it rise for 1-2 hours *  
+Step 8:  
+Previous scene: Risen dough  
+Action: Divide the dough into small balls *  
+Step 9:  
+Previous scene: Dough balls  
+Action: Roll each ball into a flat, oval shape *  
+Step 10:  
+Previous scene: Flat dough pieces  
+Action: Cook the dough on a hot skillet until bubbles form on one side *  
+Step 11:  
+Previous scene: Partially cooked flat dough  
+Action: Flip the naan and cook the other side until golden brown *  
+Step 12:  
+Previous scene: Fully cooked naan  
+Action: Brush with melted butter and serve *

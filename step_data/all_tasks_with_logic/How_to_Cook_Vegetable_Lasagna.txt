@@ -1,0 +1,68 @@
+1, 6*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Oven turned on
+Action: In a large pot, bring water to a boil and cook the lasagna noodles according to the package instructions *
+
+Step 3:
+Previous scene: Boiling water with lasagna noodles
+Action: In a large skillet, heat olive oil over medium heat *
+
+Step 4:
+Previous scene: A skillet with heating olive oil
+Action: Add chopped onions and garlic to the skillet *
+
+Step 5:
+Previous scene: A skillet with onions and garlic
+Action: Add chopped bell peppers, zucchini, and carrots to the skillet and sauté until tender *
+
+Step 6:
+Previous scene: A skillet with vegetables
+Action: Stir in canned tomatoes, tomato sauce, and Italian seasoning *
+
+Step 7:
+Previous scene: A skillet with sauce and vegetables
+Action: Let the mixture simmer for 15 minutes *
+
+Step 8:
+Previous scene: Simmered vegetable sauce
+Action: In a mixing bowl, combine ricotta cheese, egg, and grated Parmesan cheese *
+
+Step 9:
+Previous scene: A bowl with the cheese mixture
+Action: In a baking dish, spread a layer of vegetable sauce *
+
+Step 10:
+Previous scene: Baking dish with a layer of sauce
+Action: Place a layer of lasagna noodles over the sauce *
+
+Step 11:
+Previous scene: Baking dish with lasagna noodles and sauce
+Action: Spread a layer of the ricotta cheese mixture over the noodles *
+
+Step 12:
+Previous scene: Baking dish with lasagna noodles, sauce, and cheese mixture
+Action: Sprinkle a layer of shredded mozzarella cheese *
+
+Step 13:
+Previous scene: Baking dish with lasagna layers
+Action: Repeat the layers until all ingredients are used, ending with mozzarella cheese on top *
+
+Step 14:
+Previous scene: Baking dish ready with all layers
+Action: Cover the baking dish with aluminum foil *
+
+Step 15:
+Previous scene: Covered baking dish
+Action: Bake in the preheated oven for 25 minutes *
+
+Step 16:
+Previous scene: Baking dish in the oven
+Action: Remove the foil and bake for an additional 20 minutes, until the cheese is bubbly and golden brown *
+
+Step 17:
+Previous scene: Baked lasagna
+Action: Let the lasagna cool for 10 minutes before serving *

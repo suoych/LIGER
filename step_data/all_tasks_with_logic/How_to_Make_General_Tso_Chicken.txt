@@ -1,0 +1,31 @@
+2,8 *
+Step 1:
+Previous scene: None
+Action: Cut 500g of chicken breast into bite-sized pieces *
+Step 2:
+Previous scene: Chicken pieces
+Action: In a bowl, mix 1 cup of cornstarch with the chicken pieces until they are well coated *
+Step 3:
+Previous scene: Chicken pieces coated in cornstarch
+Action: Heat oil in a deep fryer or large skillet to 350°F (175°C) and fry the chicken pieces until golden brown and crispy *
+Step 4:
+Previous scene: Fried chicken pieces
+Action: Remove the chicken pieces and place them on paper towels to drain excess oil *
+Step 5:
+Previous scene: Fried chicken pieces on paper towels
+Action: In a separate bowl, prepare the sauce by combining 1/2 cup chicken broth, 1/4 cup soy sauce, 1/4 cup rice vinegar, 1/4 cup sugar, 1 tbsp hoisin sauce, 1 tbsp cornstarch, 2 minced garlic cloves, and 1 tsp grated ginger *
+Step 6:
+Previous scene: Prepared sauce mixture
+Action: Heat 1 tbsp of oil in a large skillet or wok over medium heat *
+Step 7:
+Previous scene: Heated skillet with oil
+Action: Add the sauce mixture to the heated skillet and cook until thickened and bubbly *
+Step 8:
+Previous scene: Thickened and bubbly sauce in the skillet
+Action: Add the fried chicken pieces to the skillet and toss to coat them evenly with the sauce *
+Step 9:
+Previous scene: Fried chicken pieces in sauce
+Action: Garnish with chopped green onions and sesame seeds *
+Step 10:
+Previous scene: General Tso chicken garnished with green onions and sesame seeds
+Action: Serve hot with steamed rice or your choice of side *

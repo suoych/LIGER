@@ -1,0 +1,48 @@
+10, 6*
+Step 1:  
+Previous scene: None  
+Action: Peel the potatoes *  
+
+Step 2:  
+Previous scene: Peeled potatoes  
+Action: Grate the potatoes *  
+
+Step 3:  
+Previous scene: Grated potatoes  
+Action: Rinse the grated potatoes in cold water *  
+
+Step 4:  
+Previous scene: Grated potatoes in water  
+Action: Drain and squeeze out excess moisture from the potatoes *  
+
+Step 5:  
+Previous scene: Drained and dried grated potatoes  
+Action: Season the potatoes with salt and pepper *  
+
+Step 6:  
+Previous scene: Seasoned grated potatoes  
+Action: Heat oil in a skillet over medium heat *  
+
+Step 7:  
+Previous scene: Skillet with heated oil  
+Action: Add the grated potatoes to the skillet *  
+
+Step 8:  
+Previous scene: Grated potatoes in the skillet  
+Action: Cook until the bottom is golden brown *  
+
+Step 9:  
+Previous scene: Potatoes cooked on one side  
+Action: Flip the hash browns *  
+
+Step 10:  
+Previous scene: Potatoes flipped  
+Action: Continue cooking until the other side is golden brown *  
+
+Step 11:  
+Previous scene: Golden brown hash browns in the skillet  
+Action: Remove and drain on paper towels *  
+
+Step 12:  
+Previous scene: Hash browns on paper towels  
+Action: Serve hot *  

@@ -1,0 +1,48 @@
+4,8 *
+Step 1:  
+Previous scene: None  
+Action: Husk and clean 4 ears of sweet corn *
+
+Step 2:  
+Previous scene: Husked ears of sweet corn  
+Action: Cut kernels off the cob *
+
+Step 3:  
+Previous scene: Kernels 
+Action: Blend corn kernels with 2 cups of milk until smooth *
+
+Step 4:  
+Previous scene: Blended corn and milk mixture
+Action: Strain the mixture to remove any solids *
+
+Step 5:  
+Previous scene: Smooth corn and milk mixture
+Action: In a saucepan, heat the mixture over medium heat *
+
+Step 6:  
+Previous scene: Heated corn mixture
+Action: Whisk in 1 cup of sugar until dissolved *
+
+Step 7:  
+Previous scene: Sweetened corn mixture
+Action: Whisk in 1 cup of heavy cream and a pinch of salt *
+
+Step 8:  
+Previous scene: Creamy corn mixture
+Action: Cook while stirring until the mixture thickens *
+
+Step 9:  
+Previous scene: Thickened mixture
+Action: Cool the mixture to room temperature *
+
+Step 10:  
+Previous scene: Cooled mixture
+Action: Chill in the refrigerator for at least 2 hours *
+
+Step 11:  
+Previous scene: Chilled mixture
+Action: Churn in an ice cream maker according to the manufacturer's instructions *
+
+Step 12:  
+Previous scene: Churned gelato
+Action: Freeze until firm, then serve *

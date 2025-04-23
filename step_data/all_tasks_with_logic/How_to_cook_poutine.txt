@@ -1,0 +1,48 @@
+2, 9*
+Step 1:
+Previous scene: None
+Action: Clean and peel potatoes *
+
+Step 2:
+Previous scene: Peeled potatoes
+Action: Cut potatoes into fries *
+
+Step 3:
+Previous scene: Cut fries
+Action: Heat oil in a deep fryer or a pan *
+
+Step 4:
+Previous scene: Hot oil
+Action: Fry the potatoes until crispy and golden brown *
+
+Step 5:
+Previous scene: Fried potatoes
+Action: Remove fries from oil and drain on paper towels *
+
+Step 6:
+Previous scene: Drained fries
+Action: Season fries with salt *
+
+Step 7:
+Previous scene: Seasoned fries
+Action: Prepare cheese curds *
+
+Step 8:
+Previous scene: Cheese curds
+Action: Prepare or heat brown gravy *
+
+Step 9:
+Previous scene: Brown gravy
+Action: Arrange fries on a plate *
+
+Step 10:
+Previous scene: Fries on a plate
+Action: Top with cheese curds *
+
+Step 11:
+Previous scene: Fries topped with cheese curds
+Action: Pour hot gravy over the fries and cheese curds *
+
+Step 12:
+Previous scene: Poutine assembled with fries, cheese curds, and gravy
+Action: Serve immediately *

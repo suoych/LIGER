@@ -1,0 +1,44 @@
+6, 2*
+Step 1:
+Previous scene: None
+Action: Wash and core the apples, then slice them into rings about 1/4 inch thick *
+
+Step 2: 
+Previous scene: Apple slices
+Action: In a mixing bowl, combine 1 cup of flour *
+
+Step 3:
+Previous scene: A bowl with flour
+Action: Add 2 tablespoons of sugar, 1 tablespoon of baking powder, and a pinch of salt *
+
+Step 4: 
+Previous scene: A bowl with dry ingredients
+Action: Pour in 1 cup of milk *
+
+Step 5:
+Previous scene: A bowl with the milk and dry ingredients
+Action: Crack an egg into the mixture *
+
+Step 6: 
+Previous scene: A bowl with a batter
+Action: Add 2 tablespoons of melted butter and mix until smooth *
+
+Step 7: 
+Previous scene: Smooth batter in a bowl
+Action: Heat a skillet or griddle over medium heat and lightly grease it *
+
+Step 8: 
+Previous scene: Heated and greased skillet
+Action: Dip each apple ring into the pancake batter, ensuring it is fully coated *
+
+Step 9: 
+Previous scene: Batter-coated apple rings
+Action: Place the batter-coated apple rings onto the hot skillet *
+
+Step 10: 
+Previous scene: Apple rings cooking on skillet
+Action: Cook until bubbles form on the surface, then flip and cook until golden brown on the other side *
+
+Step 11: 
+Previous scene: Cooked apple slice pancakes on a skillet
+Action: Remove the apple slice pancakes from the skillet and serve warm with syrup or toppings of your choice *

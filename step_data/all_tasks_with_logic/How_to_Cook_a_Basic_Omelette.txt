@@ -1,0 +1,34 @@
+4, 2*
+Step 1: 
+Previous scene: None
+Action: Crack two eggs into a mixing bowl *
+Step 2: 
+Previous scene: A bowl with eggs
+Action: Beat the eggs until they are thoroughly combined *
+Step 3: 
+Previous scene: Beaten eggs in a bowl
+Action: Add a pinch of salt and pepper to the eggs *
+Step 4: 
+Previous scene: Seasoned beaten eggs in a bowl
+Action: Heat a non-stick skillet over medium heat and add a small amount of butter *
+Step 5: 
+Previous scene: Heated skillet with melted butter
+Action: Pour the beaten eggs into the skillet *
+Step 6: 
+Previous scene: Eggs in the skillet
+Action: Tilt the skillet to ensure the eggs cover the bottom evenly *
+Step 7: 
+Previous scene: Evenly spread eggs in the skillet
+Action: Let the eggs cook undisturbed for about 2 minutes until they begin to set *
+Step 8: 
+Previous scene: Partially set eggs in the skillet
+Action: Use a spatula to gently lift the edges of the omelette and let any uncooked eggs flow to the edges *
+Step 9: 
+Previous scene: Edges of omelette lifted to let uncooked eggs flow
+Action: Add any desired fillings such as cheese, vegetables, or ham on one half of the omelette *
+Step 10: 
+Previous scene: Filled omelette with cheese, vegetables, or ham on one half
+Action: Fold the other half of the omelette over the fillings *
+Step 11: 
+Previous scene: Omelette folded over fillings
+Action: Slide the omelette onto a plate and serve immediately *

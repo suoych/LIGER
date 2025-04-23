@@ -1,0 +1,28 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Brew a shot of espresso using an espresso machine *
+
+Step 2:
+Previous scene: A shot of espresso in a cup
+Action: Heat 1 cup of milk using a steam wand *
+
+Step 3:
+Previous scene: A shot of espresso in a cup
+Action: Froth the milk until it becomes creamy and has a light foam *
+
+Step 4:
+Previous scene: A cup with steamed, frothy milk
+Action: Pour the steamed milk into the espresso shot *
+
+Step 5:
+Previous scene: A cup with espresso and milk
+Action: Stir gently to combine the espresso and milk *
+
+Step 6:
+Previous scene: A cup with mixed espresso and milk
+Action: Add a teaspoon of vanilla extract for flavor *
+
+Step 7:
+Previous scene: A vanilla latte
+Action: Optionally, sprinkle cinnamon or cocoa powder on top for garnish *

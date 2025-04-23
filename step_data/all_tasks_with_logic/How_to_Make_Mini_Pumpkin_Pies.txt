@@ -1,0 +1,40 @@
+3,7 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: Roll out store-bought or homemade pie crust dough and cut out small circles using a round cookie cutter *
+
+Step 3:
+Previous scene: A rolled-out pie crust with small round cutouts
+Action: Place each circle into a muffin tin, pressing gently to form mini pie crusts *
+
+Step 4:
+Previous scene: A muffin tin with mini pie crusts
+Action: In a mixing bowl, combine 2 cups of pumpkin puree, 1 cup of evaporated milk, 2 large eggs, and 3/4 cup of sugar *
+
+Step 5:
+Previous scene: Empty mixing bowl
+Action: Add 1 teaspoon of ground cinnamon, 1/2 teaspoon of ground ginger, 1/4 teaspoon of ground cloves, and 1/2 teaspoon of salt to the mixture *
+
+Step 6:
+Previous scene: Mixing bowl with pumpkin mixture and spices
+Action: Stir the mixture until well combined *
+
+Step 7:
+Previous scene: A mixing bowl with pumpkin pie filling
+Action: Spoon the pumpkin pie filling into each mini pie crust in the muffin tin *
+
+Step 8:
+Previous scene: Muffin tin with filled mini pie crusts
+Action: Bake in the preheated oven for 20-25 minutes until the filling is set *
+
+Step 9:
+Previous scene: Mini pumpkin pies in the muffin tin
+Action: Allow the mini pumpkin pies to cool before removing them from the muffin tin *
+
+Step 10:
+Previous scene: Cooling mini pumpkin pies
+Action: Serve with a dollop of whipped cream on top if desired *

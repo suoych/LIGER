@@ -1,0 +1,36 @@
+1, 5*
+Step 1: 
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2: 
+Previous scene: Preheating oven
+Action: Roll out the pie crust and place it into a pie dish, trimming excess dough around the edges *
+
+Step 3: 
+Previous scene: Pie crust in pie dish
+Action: Slice 3 to 4 ripe bananas and layer them evenly on the bottom of the crust *
+
+Step 4: 
+Previous scene: Pie crust with banana slices
+Action: In a separate bowl, mix 2 cups of raspberries with 1/2 cup of sugar and 1 tablespoon of cornstarch *
+
+Step 5: 
+Previous scene: Mixed raspberries, sugar, and cornstarch
+Action: Pour the raspberry mixture over the banana slices in the pie dish *
+
+Step 6: 
+Previous scene: Pie crust with banana slices and raspberry mixture
+Action: Place another rolled-out pie crust on top, crimping the edges to seal *
+
+Step 7: 
+Previous scene: Sealed pie with crust on top
+Action: Use a knife to make small slits in the top crust for steam to escape *
+
+Step 8: 
+Previous scene: Pie with slits in top crust
+Action: Bake in the preheated oven for 45 minutes to 1 hour, or until the crust is golden brown and the filling is bubbly *
+
+Step 9: 
+Previous scene: Baked pie
+Action: Let the pie cool on a wire rack before serving *

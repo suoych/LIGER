@@ -1,0 +1,48 @@
+10, 4*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of shredded cabbage, 1 cup of grated carrots, and 1/2 cup of bean sprouts *
+
+Step 2:
+Previous scene: A bowl with shredded vegetables
+Action: Add 2 tablespoons of soy sauce and 1 tablespoon of sesame oil to the bowl *
+
+Step 3:
+Previous scene: A bowl with shredded vegetables mixed with sauce
+Action: Mix everything thoroughly to combine *
+
+Step 4:
+Previous scene: A bowl with mixed vegetable filling
+Action: Place a spring roll wrapper on a flat surface with one corner pointing toward you *
+
+Step 5:
+Previous scene: Spring roll wrapper on flat surface
+Action: Spoon about 2 tablespoons of the vegetable filling onto the wrapper near the corner closest to you *
+
+Step 6:
+Previous scene: Spring roll wrapper with vegetable filling
+Action: Fold the bottom corner over the filling, then fold in the sides and roll up tightly *
+
+Step 7:
+Previous scene: Folded spring roll wrapper with filling
+Action: Seal the edge with a dab of water or beaten egg *
+
+Step 8:
+Previous scene: Sealed spring roll
+Action: Repeat the process with remaining wrappers and filling *
+
+Step 9:
+Previous scene: Plate of prepared spring rolls
+Action: Heat vegetable oil in a large skillet or wok over medium-high heat *
+
+Step 10:
+Previous scene: Hot oil in skillet
+Action: Fry the spring rolls, turning occasionally, until they are golden brown and crispy *
+
+Step 11:
+Previous scene: Frying spring rolls
+Action: Remove the spring rolls from the oil and drain on paper towels *
+
+Step 12:
+Previous scene: Draining spring rolls
+Action: Serve the spring rolls hot with dipping sauce *

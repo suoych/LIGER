@@ -1,0 +1,32 @@
+1, 6*
+Step 1:  
+Previous scene: None  
+Action: Cook 1 cup of rice according to package instructions. *
+
+Step 2:  
+Previous scene: Cooked rice  
+Action: Prepare the vegetables by slicing carrots, spinach, and zucchini into thin strips. *
+
+Step 3:  
+Previous scene: Sliced vegetables  
+Action: Sauté the sliced carrots, spinach, and zucchini separately in a pan with a little sesame oil until soft. *
+
+Step 4:  
+Previous scene: Sautéed vegetables  
+Action: Cook ground beef (or tofu for a vegetarian option) in a pan with garlic, soy sauce, and sugar until browned. *
+
+Step 5:  
+Previous scene: Cooked beef or tofu  
+Action: Fry an egg sunny-side up. *
+
+Step 6:  
+Previous scene: Sunny-side up egg  
+Action: In a large bowl, place the cooked rice, sautéed vegetables, cooked beef or tofu, and the sunny-side-up egg on top. *
+
+Step 7:  
+Previous scene: Bowl with rice, vegetables, beef/tofu, and egg  
+Action: Garnish with sesame seeds and add a dollop of gochujang (Korean chili paste) for flavor. *
+
+Step 8:  
+Previous scene: Garnished bowl with gochujang  
+Action: Mix all the ingredients together before eating. *

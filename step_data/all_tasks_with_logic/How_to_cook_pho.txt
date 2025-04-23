@@ -1,0 +1,44 @@
+5, 2*
+Step 1:  
+Previous scene: None  
+Action: Soak rice noodles in warm water for about 20 minutes until they're soft *
+
+Step 2:  
+Previous scene: Bowl of soaked rice noodles  
+Action: Simmer beef bones and brisket in a large pot of water, skimming off any foam that rises to the top *
+
+Step 3:  
+Previous scene: Pot with simmering beef bones and brisket  
+Action: Add charred onions and ginger to the pot for added flavor *
+
+Step 4:  
+Previous scene: Pot with beef bones, brisket, onions, and ginger  
+Action: Add spices like star anise, cloves, cinnamon, and coriander seeds in a spice bag *
+
+Step 5:  
+Previous scene: Pot with ingredients and spice bag  
+Action: Simmer the broth for several hours to develop flavor *
+
+Step 6:  
+Previous scene: Pot with broth simmering for hours  
+Action: Remove the brisket, slice it thinly, and set aside *
+
+Step 7:  
+Previous scene: Pot with broth and a plate of sliced brisket  
+Action: Strain the broth and discard the solids *
+
+Step 8:  
+Previous scene: Clear pot of broth  
+Action: Season the broth with fish sauce, sugar, and salt to taste *
+
+Step 9:  
+Previous scene: Seasoned broth  
+Action: Bring the broth to a boil once again *
+
+Step 10:  
+Previous scene: Boiling seasoned broth  
+Action: Place soaked noodles in a bowl, add sliced brisket, and pour hot broth over them *
+
+Step 11:  
+Previous scene: Bowl with noodles, brisket, and hot broth  
+Action: Garnish with bean sprouts, Thai basil, lime wedges, and sliced chili peppers before serving *

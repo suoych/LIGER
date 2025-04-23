@@ -1,0 +1,40 @@
+3,6 *
+Step 1:
+Previous scene: None
+Action: Preheat oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: Grease a 9x5 inch loaf pan *
+
+Step 3:
+Previous scene: Greased loaf pan
+Action: In a mixing bowl, combine 1 1/2 cups all-purpose flour, 1 teaspoon baking soda, 1/2 teaspoon salt * 
+
+Step 4:
+Previous scene: A mixing bowl with dry ingredients
+Action: In another bowl, beat 1/2 cup unsalted butter (softened) with 1/2 cup white sugar and 1/2 cup brown sugar until creamy *
+
+Step 5:
+Previous scene: A bowl with creamed butter and sugars
+Action: Beat in 2 eggs, one at a time, then stir in 1/2 cup molasses *
+
+Step 6:
+Previous scene: A bowl with wet ingredients
+Action: Gradually mix the dry ingredients into the wet ingredients, alternating with 1 cup of boiling water until just combined *
+
+Step 7:
+Previous scene: A bowl with gingerbread batter
+Action: Pour the batter into the prepared loaf pan *
+
+Step 8:
+Previous scene: A greased loaf pan filled with batter
+Action: Bake in the preheated oven for about 50-60 minutes, or until a toothpick inserted into the center comes out clean *
+
+Step 9:
+Previous scene: Loaf baking in the oven
+Action: Let the gingerbread loaf cool in the pan for about 10 minutes *
+
+Step 10:
+Previous scene: Cooled gingerbread loaf in the pan
+Action: Transfer the loaf to a wire rack to cool completely before slicing and serving *

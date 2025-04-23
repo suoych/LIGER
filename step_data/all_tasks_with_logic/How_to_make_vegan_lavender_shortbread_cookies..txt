@@ -1,0 +1,40 @@
+6,9 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350 degrees Fahrenheit (175 degrees Celsius) *
+
+Step 2:
+Previous scene: None
+Action: In a large mixing bowl, combine 1 cup of vegan butter and 1/2 cup of powdered sugar *
+
+Step 3:
+Previous scene: A mixing bowl with vegan butter and powdered sugar
+Action: Cream together the vegan butter and powdered sugar until light and fluffy *
+
+Step 4:
+Previous scene: A mixing bowl with creamed butter and sugar mixture
+Action: Add 2 teaspoons of dried culinary lavender and 1 teaspoon of vanilla extract to the mixture *
+
+Step 5:
+Previous scene: A mixing bowl containing creamed mixture with lavender and vanilla
+Action: Gradually add in 2 cups of all-purpose flour and 1/2 teaspoon of salt, and mix until a dough forms *
+
+Step 6:
+Previous scene: Mixing bowl with dough
+Action: Transfer the dough to a flat surface and roll it out to about 1/4-inch thickness *
+
+Step 7:
+Previous scene: Dough rolled out on a flat surface
+Action: Cut the dough into desired shapes using cookie cutters *
+
+Step 8:
+Previous scene: Cookie dough cut into shapes on a flat surface
+Action: Place the shaped dough onto a parchment-lined baking sheet *
+
+Step 9:
+Previous scene: A baking sheet with unbaked lavender shortbread cookies
+Action: Bake in the preheated oven for 12-15 minutes, or until the edges are lightly golden *
+
+Step 10:
+Previous scene: A baking sheet with baked lavender shortbread cookies
+Action: Allow the cookies to cool on a wire rack before serving *

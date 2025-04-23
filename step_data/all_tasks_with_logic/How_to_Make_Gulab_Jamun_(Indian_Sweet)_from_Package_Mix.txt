@@ -1,0 +1,31 @@
+4,6 *
+Step 1:
+Previous scene: None
+Action: Pour the package mix into a mixing bowl *
+Step 2:
+Previous scene: A bowl with package mix
+Action: Add water or milk as directed on the package *
+Step 3:
+Previous scene: A bowl with package mix and liquid
+Action: Knead the mixture to form a smooth dough *
+Step 4:
+Previous scene: A bowl with dough
+Action: Divide the dough into small, marble-sized balls *
+Step 5:
+Previous scene: Dough balls
+Action: Heat oil or ghee in a deep frying pan *
+Step 6:
+Previous scene: Heated oil or ghee
+Action: Fry the dough balls until they are golden brown *
+Step 7:
+Previous scene: Fried dough balls
+Action: Remove the fried balls and drain the excess oil *
+Step 8:
+Previous scene: Fried dough balls on paper towels
+Action: Prepare sugar syrup by boiling sugar and water with cardamom and saffron *
+Step 9:
+Previous scene: A pot with boiling sugar syrup
+Action: Soak the fried dough balls in the sugar syrup for a few hours *
+Step 10:
+Previous scene: Dough balls in sugar syrup
+Action: Serve the gulab jamun warm or at room temperature *

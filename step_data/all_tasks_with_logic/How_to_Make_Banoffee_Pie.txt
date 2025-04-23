@@ -1,0 +1,36 @@
+2, 4*
+Step 1:
+Previous scene: None
+Action: Crush digestive biscuits into fine crumbs *
+
+Step 2:
+Previous scene: Bowl with biscuit crumbs
+Action: Melt butter and mix with biscuit crumbs *
+
+Step 3:
+Previous scene: Bowl with biscuit-butter mixture
+Action: Press the mixture into the base of a pie tin to form the crust and let it chill in the fridge *
+
+Step 4:
+Previous scene: Chilled biscuit crust
+Action: Slice bananas and arrange them over the crust *
+
+Step 5:
+Previous scene: Crust with banana slices
+Action: Spread a layer of caramel/toffee sauce over the bananas *
+
+Step 6:
+Previous scene: Crust with banana slices and caramel sauce
+Action: Whip heavy cream until it forms stiff peaks *
+
+Step 7:
+Previous scene: Crust with banana slices and caramel sauce
+Action: Spread the whipped cream over the caramel layer *
+
+Step 8:
+Previous scene: Pie with whipped cream
+Action: Grate dark chocolate over the top for garnish *
+
+Step 9:
+Previous scene: Decorated pie
+Action: Chill in the fridge for at least one hour before serving *

@@ -1,0 +1,28 @@
+2,1 *
+Step 1:
+Previous scene: None
+Action: Remove the ribeye steak from the refrigerator *
+Step 2:
+Previous scene: A ribeye steak at room temperature
+Action: Season the steak with salt and pepper *
+Step 3:
+Previous scene: A seasoned ribeye steak
+Action: Preheat a pan on high heat *
+Step 4:
+Previous scene: An empty hot pan
+Action: Add oil to the pan *
+Step 5:
+Previous scene: A pan with oil
+Action: Place the steak in the pan *
+Step 6:
+Previous scene: A pan with the steak
+Action: Cook the steak for 4-5 minutes on one side *
+Step 7:
+Previous scene: A pan with a steak cooked on one side
+Action: Flip the steak to cook on the other side *
+Step 8:
+Previous scene: A pan with a steak being cooked on the second side
+Action: Cook for another 4-5 minutes or to desired doneness *
+Step 9:
+Previous scene: A pan with a cooked steak
+Action: Remove the steak from the pan and let it rest *

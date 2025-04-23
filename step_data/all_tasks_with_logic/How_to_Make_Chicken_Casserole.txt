@@ -1,0 +1,48 @@
+1, 7*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Preheated oven
+Action: Gather all ingredients including chicken, vegetables, and seasonings *
+
+Step 3:
+Previous scene: Ingredients laid out
+Action: Cut chicken into bite-sized pieces *
+
+Step 4:
+Previous scene: Cut chicken pieces
+Action: In a large skillet, heat some oil over medium heat *
+
+Step 5:
+Previous scene: Heated skillet
+Action: Add chicken pieces to the skillet and cook until they are no longer pink *
+
+Step 6:
+Previous scene: Cooked chicken pieces
+Action: Transfer the cooked chicken to a large mixing bowl *
+
+Step 7:
+Previous scene: Mixing bowl with chicken
+Action: Add mixed vegetables to the bowl with the chicken *
+
+Step 8:
+Previous scene: Mixing bowl with chicken and vegetables
+Action: Add condensed soup (like cream of chicken) and stir to combine *
+
+Step 9:
+Previous scene: Mixed ingredients in a bowl
+Action: Pour the mixture into a casserole dish *
+
+Step 10:
+Previous scene: Filled casserole dish
+Action: Spread shredded cheese over the top *
+
+Step 11:
+Previous scene: Casserole topped with cheese
+Action: Bake in the preheated oven for 25-30 minutes or until the cheese is bubbly and golden brown *
+
+Step 12:
+Previous scene: Baked casserole
+Action: Let it cool for a few minutes before serving *

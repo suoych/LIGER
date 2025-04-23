@@ -1,0 +1,40 @@
+1, 8*
+Step 1:
+Previous scene: None
+Action: Heat oil in a large pan or skillet over medium heat *
+
+Step 2:
+Previous scene: Hot oil in a pan
+Action: Add chopped onions and sauté until golden brown *
+
+Step 3:
+Previous scene: Sautéed onions
+Action: Add minced garlic and ginger, and cook for another 2 minutes *
+
+Step 4:
+Previous scene: Onions, garlic, and ginger in the pan
+Action: Add diced tomatoes and cook until they soften and break down *
+
+Step 5:
+Previous scene: Softened tomatoes mixture
+Action: Add spices such as turmeric, cumin, coriander, and garam masala, and stir well *
+
+Step 6:
+Previous scene: Spiced mixture in the pan
+Action: Add chicken pieces and cook until they are browned *
+
+Step 7:
+Previous scene: Chicken pieces in a spiced mixture
+Action: Pour in water or chicken broth and bring to a boil *
+
+Step 8:
+Previous scene: Chicken mixture with broth in the pan
+Action: Reduce heat, cover, and let it simmer until the chicken is cooked through *
+
+Step 9:
+Previous scene: Cooked chicken curry
+Action: Stir in heavy cream or yogurt and simmer for another 5 minutes *
+
+Step 10:
+Previous scene: Creamy chicken curry
+Action: Garnish with fresh cilantro before serving *

@@ -1,0 +1,25 @@
+5,6 *
+Step 1:
+Previous scene: None
+Action: In a large pot, add 2 cups of corn kernels *
+Step 2:
+Previous scene: A pot with corn kernels
+Action: Pour in 4 cups of water or vegetable broth *
+Step 3:
+Previous scene: A pot with corn kernels and liquid
+Action: Bring the mixture to a boil *
+Step 4:
+Previous scene: A pot with boiling corn and liquid
+Action: Reduce the heat and let it simmer for 10-15 minutes *
+Step 5:
+Previous scene: A pot with simmering corn and liquid
+Action: Use an immersion blender to puree the mixture until smooth *
+Step 6:
+Previous scene: A pot with pureed corn mixture
+Action: Add 1/2 cup of cream, salt, and pepper to taste *
+Step 7:
+Previous scene: A pot with creamy corn soup
+Action: Stir well and let it simmer for another 5 minutes *
+Step 8:
+Previous scene: A pot with simmering creamy corn soup
+Action: Serve hot, garnished with chopped cilantro or green onions *

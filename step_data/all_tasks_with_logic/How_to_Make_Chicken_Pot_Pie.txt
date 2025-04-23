@@ -1,0 +1,40 @@
+1, 2*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 425°F (220°C) *
+Step 2:
+Previous scene: Oven preheating
+Action: In a large saucepan, combine 1 cubed chicken breast, 1 cup of diced carrots, 1 cup of diced potatoes, 1/2 cup of peas, and 1/2 cup of corn * 
+Step 3:
+Previous scene: The saucepan with chicken and vegetables
+Action: Pour in enough water to cover the mixture, and bring it to a boil. Cook until the chicken is no longer pink and the vegetables are tender * 
+Step 4:
+Previous scene: Boiling chicken and vegetables in the saucepan
+Action: Drain the chicken and vegetable mixture, and set it aside * 
+Step 5:
+Previous scene: Drained chicken and vegetable mixture set aside
+Action: In the same saucepan, melt 1/3 cup of butter over medium heat *
+Step 6:
+Previous scene: Saucepan with melted butter
+Action: Stir in 1/3 cup of chopped onion, 1/3 cup of flour, 1/2 teaspoon of salt, and 1/4 teaspoon of black pepper * 
+Step 7:
+Previous scene: Butter mixture in the saucepan
+Action: Slowly whisk in 1 3/4 cups of chicken broth and 2/3 cup of milk until smooth * 
+Step 8:
+Previous scene: Creamy mixture in the saucepan
+Action: Cook and stir the mixture until it thickens and starts to bubble * 
+Step 9: 
+Previous scene: Thickened creamy sauce
+Action: Stir the drained chicken and vegetables back into the sauce * 
+Step 10:
+Previous scene: Saucepan with combined chicken and vegetables in the sauce
+Action: Place the chicken mixture in a pie dish lined with one pie crust * 
+Step 11: 
+Previous scene: Pie dish lined with one pie crust filled with chicken mixture
+Action: Cover with the second pie crust, seal the edges, and cut small slits in the top to allow steam to escape * 
+Step 12:
+Previous scene: Unbaked chicken pot pie in pie dish
+Action: Bake in the preheated oven for 30 to 35 minutes, or until the crust is golden brown * 
+Step 13:
+Previous scene: Baked chicken pot pie
+Action: Allow to cool for 10 minutes before serving *

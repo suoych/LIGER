@@ -1,0 +1,28 @@
+1,6 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 400°F (200°C) *
+
+Step 2:
+Previous scene: A preheated oven
+Action: Place tortillas on a baking sheet *
+
+Step 3:
+Previous scene: Tortillas on a baking sheet
+Action: Spread a thin layer of tomato sauce over each tortilla *
+
+Step 4:
+Previous scene: Tortillas with tomato sauce
+Action: Sprinkle shredded mozzarella cheese over the tomato sauce *
+
+Step 5:
+Previous scene: Tortillas with tomato sauce and cheese
+Action: Add your favorite toppings, such as pepperoni, vegetables, or herbs *
+
+Step 6:
+Previous scene: Tortillas with sauce, cheese, and toppings
+Action: Bake in the preheated oven for about 10-15 minutes, or until the cheese is melted and bubbly *
+
+Step 7:
+Previous scene: Baked tortilla pizzas
+Action: Remove from the oven and let cool slightly before slicing and serving *

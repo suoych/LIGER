@@ -1,0 +1,24 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Cut a watermelon in half *
+
+Step 2:
+Previous scene: Two halves of a watermelon
+Action: Scoop out the watermelon flesh *
+
+Step 3:
+Previous scene: A bowl with watermelon flesh
+Action: Place the watermelon flesh in a blender *
+
+Step 4:
+Previous scene: Watermelon flesh in a blender
+Action: Add water to the blender *
+
+Step 5:
+Previous scene: Blender with watermelon flesh and water
+Action: Blend until smooth *
+
+Step 6:
+Previous scene: Blender with smooth watermelon mixture
+Action: Strain the mixture through a sieve to remove pulp and seeds *

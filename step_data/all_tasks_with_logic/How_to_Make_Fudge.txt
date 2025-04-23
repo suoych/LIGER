@@ -1,0 +1,32 @@
+5,2 *
+Step 1:
+Previous scene: None
+Action: In a large saucepan, combine 3 cups of sugar, 3/4 cup of butter, and 2/3 cup of evaporated milk *
+
+Step 2:
+Previous scene: A saucepan with sugar, butter, and evaporated milk
+Action: Cook over medium heat, stirring constantly, until mixture comes to a full boil *
+
+Step 3:
+Previous scene: A boiling mixture in a saucepan
+Action: Boil for 4 to 5 minutes, stirring constantly to prevent burning *
+
+Step 4:
+Previous scene: Boiling mixture being stirred
+Action: Remove the saucepan from heat *
+
+Step 5:
+Previous scene: Hot mixture in a saucepan
+Action: Stir in 2 cups of semi-sweet chocolate chips and 1 teaspoon of vanilla extract until smooth *
+
+Step 6:
+Previous scene: Smooth chocolate mixture
+Action: Pour the mixture into a greased 9x13 inch pan *
+
+Step 7:
+Previous scene: Hot fudge mixture in a pan
+Action: Let the fudge cool at room temperature until set *
+
+Step 8:
+Previous scene: Cooled and set fudge in a pan
+Action: Cut the fudge into squares and serve *

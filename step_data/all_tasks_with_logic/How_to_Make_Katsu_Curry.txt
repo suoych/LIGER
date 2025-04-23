@@ -1,0 +1,37 @@
+8,5 *
+Step 1:
+Previous scene: None
+Action: Gather all ingredients including chicken or pork cutlets, curry roux, onions, carrots, potatoes, and rice *
+Step 2:
+Previous scene: Ingredients array
+Action: In a pot, heat oil and sauté chopped onions * 
+Step 3:
+Previous scene: Onions in a pot
+Action: Add chopped carrots and potatoes to the pot *
+Step 4:
+Previous scene: Onions, carrots, and potatoes in a pot
+Action: Pour in water and bring to a boil *
+Step 5:
+Previous scene: Pot with boiled vegetables
+Action: Simmer until vegetables are tender and add curry roux *
+Step 6:
+Previous scene: Pot with cooked vegetables and curry roux
+Action: Stir until the curry roux is completely dissolved and the curry thickens *
+Step 7:
+Previous scene: Thickened curry in pot
+Action: Prepare the chicken or pork cutlets by seasoning with salt and pepper *
+Step 8:
+Previous scene: Seasoned cutlets
+Action: Dredge the cutlets in flour, dip in beaten eggs, and coat with breadcrumbs *
+Step 9:
+Previous scene: Breaded cutlets
+Action: Heat oil in a frying pan and deep fry the cutlets until golden brown *
+Step 10:
+Previous scene: Fried cutlets
+Action: Cook rice according to package instructions *
+Step 11:
+Previous scene: Cooked rice
+Action: Slice the cutlets into strips *
+Step 12:
+Previous scene: Sliced cutlets
+Action: Serve the curry over rice and top with cutlet strips *

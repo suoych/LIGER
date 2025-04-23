@@ -1,0 +1,36 @@
+8, 5*
+Step 1:  
+Previous scene: None  
+Action: Boil a pot of water and add a pinch of salt *
+
+Step 2:  
+Previous scene: A pot of boiling water  
+Action: Add pasta to the boiling water and cook until al dente *
+
+Step 3:  
+Previous scene: Pot with boiling pasta  
+Action: Drain the pasta and let it cool *
+
+Step 4:  
+Previous scene: Drained, cooled pasta  
+Action: Chop vegetables such as cherry tomatoes, cucumbers, and bell peppers *
+
+Step 5:  
+Previous scene: Chopped vegetables on a cutting board  
+Action: Combine the cooked pasta and chopped vegetables in a large bowl *
+
+Step 6:  
+Previous scene: Bowl with pasta and vegetables  
+Action: Add a protein like cooked chicken or chickpeas *
+
+Step 7:  
+Previous scene: Bowl with pasta, vegetables, and protein  
+Action: Pour in your choice of dressing, like Italian or vinaigrette *
+
+Step 8:  
+Previous scene: Bowl with pasta, vegetables, protein, and dressing  
+Action: Toss everything together until well mixed *
+
+Step 9:  
+Previous scene: Mixed pasta salad  
+Action: Chill in the refrigerator for at least 30 minutes before serving *

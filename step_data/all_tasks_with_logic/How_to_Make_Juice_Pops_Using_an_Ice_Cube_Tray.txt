@@ -1,0 +1,25 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: Gather your ingredients (juice, an ice cube tray, small wooden sticks, and aluminum foil) *
+Step 2:
+Previous scene: Ingredients on the counter
+Action: Pour juice into the ice cube tray, filling each compartment nearly to the top *
+Step 3:
+Previous scene: An ice cube tray filled with juice
+Action: Cover the ice cube tray with aluminum foil *
+Step 4:
+Previous scene: An ice cube tray covered with aluminum foil
+Action: Carefully poke a small wooden stick through the foil into each juice compartment *
+Step 5:
+Previous scene: An ice cube tray with sticks inserted into the juice compartments
+Action: Place the ice cube tray in the freezer *
+Step 6:
+Previous scene: An ice cube tray in the freezer
+Action: Freeze for a few hours until the juice is completely frozen *
+Step 7:
+Previous scene: Frozen juice pops in the ice cube tray
+Action: Remove the aluminum foil *
+Step 8:
+Previous scene: Ice cube tray with frozen juice pops and exposed sticks
+Action: Gently pull out each juice pop by the sticks and enjoy *

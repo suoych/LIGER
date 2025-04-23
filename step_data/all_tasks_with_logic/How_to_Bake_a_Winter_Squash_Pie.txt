@@ -1,0 +1,40 @@
+1,6 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Oven set to 375°F
+Action: Cut a winter squash in half and remove the seeds *
+
+Step 3:
+Previous scene: Halved winter squash with seeds removed
+Action: Place the squash halves face down on a baking sheet *
+
+Step 4:
+Previous scene: Squash halves on a baking sheet
+Action: Bake in the preheated oven for about 45 minutes or until the squash is soft *
+
+Step 5:
+Previous scene: Baked squash halves
+Action: Scoop out the squash flesh and place it in a large mixing bowl *
+
+Step 6:
+Previous scene: Mixing bowl with squash flesh
+Action: Add 1 cup of sugar, 2 teaspoons of cinnamon, 1 teaspoon of ginger, and 1/2 teaspoon of nutmeg *
+
+Step 7:
+Previous scene: Mixing bowl with squash and spices
+Action: Mix in 2 beaten eggs and 1 cup of heavy cream *
+
+Step 8:
+Previous scene: Bowl with squash mixture
+Action: Pour the mixture into a prepared pie crust *
+
+Step 9:
+Previous scene: Pie crust filled with squash mixture
+Action: Bake in the oven at 375°F for about 45 minutes or until the pie filling is set *
+
+Step 10:
+Previous scene: Baked winter squash pie
+Action: Let the pie cool before serving *

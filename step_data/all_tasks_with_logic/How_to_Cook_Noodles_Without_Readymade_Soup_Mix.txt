@@ -1,0 +1,37 @@
+9, 6*
+Step 1:
+Previous scene: None
+Action: Fill a pot with water *
+Step 2:
+Previous scene: Pot filled with water
+Action: Place the pot on the stove and turn on the heat * 
+Step 3:
+Previous scene: Pot with water on stove
+Action: Bring the water to a boil * 
+Step 4: 
+Previous scene: Boiling water in the pot
+Action: Add the noodles to the boiling water and cook according to package instructions *
+Step 5:
+Previous scene: Noodles cooking in boiling water
+Action: In a separate pan, heat some oil *
+Step 6:
+Previous scene: Oil heating in a pan
+Action: Add chopped garlic and ginger to the pan *
+Step 7:
+Previous scene: Garlic and ginger in the pan
+Action: Add chopped vegetables of your choice *
+Step 8:
+Previous scene: Vegetables cooking in the pan
+Action: Stir-fry the vegetables until they are tender *
+Step 9:
+Previous scene: Stir-fried vegetables in the pan
+Action: Add soy sauce and other seasonings to taste *
+Step 10:
+Previous scene: Seasoned vegetables in the pan
+Action: Drain the cooked noodles and add them to the pan with vegetables *
+Step 11:
+Previous scene: Vegetables mixed with noodles in the pan
+Action: Toss everything together until evenly combined and heated through *
+Step 12:
+Previous scene: Cooked and mixed noodles with vegetables in the pan
+Action: Serve the noodles hot *

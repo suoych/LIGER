@@ -1,0 +1,25 @@
+4,7 *
+Step 1:
+Previous scene: None
+Action: Take 2 chicken breasts and place them on a clean cutting board *
+Step 2:
+Previous scene: Chicken breasts on a cutting board
+Action: In a small bowl, mix together 1/4 cup olive oil, the juice of 2 lemons, 3 minced garlic cloves, and 1 teaspoon dried oregano *
+Step 3:
+Previous scene: A bowl with olive oil, lemon juice, garlic, and oregano mixture
+Action: Pour the marinade over the chicken breasts in a shallow dish *
+Step 4:
+Previous scene: Chicken breasts in a shallow dish with marinade
+Action: Cover the dish and refrigerate for 30 minutes to 2 hours *
+Step 5:
+Previous scene: Chicken breasts in marinade in a dish
+Action: Preheat the grill to medium-high heat *
+Step 6:
+Previous scene: Hot grill
+Action: Remove the chicken from the marinade and place it on the grill *
+Step 7:
+Previous scene: Chicken breasts on the grill
+Action: Grill the chicken for 6-7 minutes on each side or until completely cooked through *
+Step 8:
+Previous scene: Grilled chicken on the grill
+Action: Remove the grilled chicken from the grill and let it rest for a few minutes before serving *

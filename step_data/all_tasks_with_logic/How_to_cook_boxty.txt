@@ -1,0 +1,48 @@
+2, 5*
+Step 1:  
+Previous scene: None  
+Action: Peel and grate raw potatoes into a bowl *  
+
+Step 2:  
+Previous scene: A bowl with grated raw potatoes  
+Action: Squeeze excess moisture from the grated potatoes *  
+
+Step 3:  
+Previous scene: Grated potatoes with moisture removed  
+Action: In a separate bowl, mash some boiled potatoes *  
+
+Step 4:  
+Previous scene: A bowl with mashed boiled potatoes  
+Action: Combine the grated raw potatoes and mashed potatoes *  
+
+Step 5:  
+Previous scene: A mixture of grated and mashed potatoes  
+Action: Add flour to the potato mixture *  
+
+Step 6:  
+Previous scene: Potato mixture with flour  
+Action: Stir in milk to form a batter *  
+
+Step 7:  
+Previous scene: Potato batter  
+Action: Season the batter with salt and pepper *  
+
+Step 8:  
+Previous scene: Seasoned potato batter  
+Action: Heat oil in a frying pan *  
+
+Step 9:  
+Previous scene: Hot frying pan with oil  
+Action: Pour some batter into the hot pan *  
+
+Step 10:  
+Previous scene: Batter in frying pan  
+Action: Cook on one side until golden brown and then flip *  
+
+Step 11:  
+Previous scene: Half-cooked boxty in the pan  
+Action: Cook the other side until golden brown *  
+
+Step 12:  
+Previous scene: Fully cooked boxty in the pan  
+Action: Remove from heat and serve warm *

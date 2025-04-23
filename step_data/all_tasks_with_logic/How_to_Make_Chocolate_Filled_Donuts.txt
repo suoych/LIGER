@@ -1,0 +1,56 @@
+9, 1*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of flour, 1/4 cup of sugar, and a pinch of salt *
+
+Step 2:
+Previous scene: A bowl with dry ingredients
+Action: Add 1 packet of yeast and mix well *
+
+Step 3:
+Previous scene: A bowl with dry ingredients and yeast
+Action: Warm 1 cup of milk and add it to the dry mixture *
+
+Step 4:
+Previous scene: A bowl with milk and dry ingredients
+Action: Add 2 beaten eggs and 1/4 cup of melted butter to the bowl *
+
+Step 5:
+Previous scene: A bowl with mixed wet and dry ingredients
+Action: Knead the dough until it becomes smooth and elastic *
+
+Step 6:
+Previous scene: A ball of dough
+Action: Cover the dough with a cloth and let it rise for about 1 hour *
+
+Step 7:
+Previous scene: A risen dough
+Action: Roll the dough out to about 1/2 inch thickness on a floured surface *
+
+Step 8:
+Previous scene: Rolled out dough
+Action: Use a donut cutter or round cutter to cut out donut shapes *
+
+Step 9:
+Previous scene: Cut donut shapes
+Action: Allow the donuts to rise again for 30 minutes *
+
+Step 10:
+Previous scene: Risen donut shapes
+Action: Heat oil in a deep fryer or large pot to 350°F (175°C) and fry the donuts until golden brown *
+
+Step 11:
+Previous scene: Golden brown donuts
+Action: Remove the donuts and drain them on paper towels *
+
+Step 12:
+Previous scene: Fried donuts on paper towels
+Action: Use a piping bag filled with chocolate ganache to fill the inside of each donut *
+
+Step 13:
+Previous scene: Donuts with holes for filling
+Action: Roll the filled donuts in sugar or powdered sugar to coat *
+
+Step 14: 
+Previous scene: Sugared donuts
+Action: Serve and enjoy your chocolate-filled donuts *

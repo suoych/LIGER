@@ -1,0 +1,44 @@
+4, 8*
+Step 1:  
+Previous scene: None  
+Action: Rinse and clean the chicken thoroughly *  
+
+Step 2:  
+Previous scene: Cleaned chicken  
+Action: Place the chicken in a pot filled with water *  
+
+Step 3:  
+Previous scene: Chicken in a pot with water  
+Action: Add ginger and green onions to the pot *  
+
+Step 4:  
+Previous scene: Chicken, ginger, and green onions in a pot  
+Action: Bring the water to a boil, then simmer until the chicken is cooked *  
+
+Step 5:  
+Previous scene: Cooked chicken in a pot  
+Action: Remove the chicken from the pot and place it in ice water to cool *  
+
+Step 6:  
+Previous scene: Chicken in ice water  
+Action: Rub the chicken skin with sesame oil *  
+
+Step 7:  
+Previous scene: Chicken rubbed with sesame oil  
+Action: Reserve the chicken broth from the pot *  
+
+Step 8:  
+Previous scene: Reserved chicken broth  
+Action: Rinse and drain rice, then sauté in a pan with garlic and ginger *  
+
+Step 9:  
+Previous scene: Sautéed rice with garlic and ginger  
+Action: Add the reserved chicken broth to the rice and cook until done *  
+
+Step 10:  
+Previous scene: Cooked rice  
+Action: Chop the chicken into serving pieces *  
+
+Step 11:  
+Previous scene: Chopped chicken  
+Action: Serve the chicken on top of the rice with cucumber slices and dipping sauces *

@@ -1,0 +1,31 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 400°F (200°C) *
+Step 2:
+Previous scene: Oven preheating
+Action: Spread butter on one side of each slice of bread *
+Step 3:
+Previous scene: Buttered bread slices
+Action: Place a slice of bread, buttered side down, on a baking sheet *
+Step 4:
+Previous scene: Bread slice on baking sheet
+Action: Spread Dijon mustard on the unbuttered side of the bread *
+Step 5:
+Previous scene: Bread slice with mustard
+Action: Add a layer of ham on top of the mustard *
+Step 6:
+Previous scene: Bread with mustard and ham
+Action: Sprinkle grated Gruyère cheese over the ham *
+Step 7:
+Previous scene: Bread with ham and cheese
+Action: Top with another slice of bread, buttered side up *
+Step 8:
+Previous scene: Assembled sandwich on baking sheet
+Action: Place the sandwiches in the preheated oven *
+Step 9:
+Previous scene: Sandwiches in the oven
+Action: Bake for about 10 minutes until the bread is golden and the cheese is melted *
+Step 10:
+Previous scene: Golden sandwiches in the oven
+Action: Remove from oven and let cool slightly before serving *

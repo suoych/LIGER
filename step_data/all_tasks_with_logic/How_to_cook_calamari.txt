@@ -1,0 +1,36 @@
+3, 2*
+Step 1:
+Previous scene: None
+Action: Clean the fresh calamari by removing the head, beak, and innards *
+
+Step 2:
+Previous scene: Cleaned calamari
+Action: Slice the calamari body into rings *
+
+Step 3:
+Previous scene: Sliced calamari rings
+Action: Marinate the calamari rings with lemon juice, salt, and pepper for about 15 minutes *
+
+Step 4:
+Previous scene: Marinated calamari rings
+Action: In a separate bowl, mix flour, paprika, and garlic powder *
+
+Step 5:
+Previous scene: Flour mixture in a bowl
+Action: Dredge the marinated calamari rings in the flour mixture, ensuring they are well coated *
+
+Step 6:
+Previous scene: Coated calamari rings
+Action: Heat oil in a deep skillet or fryer to 350°F (175°C) *
+
+Step 7:
+Previous scene: Hot oil in a skillet
+Action: Fry the coated calamari rings in batches until golden brown, approximately 2-3 minutes per batch *
+
+Step 8:
+Previous scene: Fried calamari rings
+Action: Remove the fried calamari and place them on a paper towel-lined plate to drain excess oil *
+
+Step 9:
+Previous scene: Drained fried calamari
+Action: Serve the calamari hot with lemon wedges and your choice of dipping sauce *

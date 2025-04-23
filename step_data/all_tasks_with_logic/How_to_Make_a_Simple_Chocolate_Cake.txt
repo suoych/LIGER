@@ -1,0 +1,60 @@
+1, 3*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: Grease and flour an 8-inch round baking pan *
+
+Step 3:
+Previous scene: A greased and floured baking pan
+Action: In a bowl, mix 1 1/2 cups of flour and 1 cup of sugar *
+
+Step 4:
+Previous scene: A bowl with flour and sugar
+Action: Add 1/4 cup of cocoa powder, 1 tsp baking powder, 1/2 tsp baking soda, and a pinch of salt *
+
+Step 5:
+Previous scene: A bowl with dry ingredients
+Action: Stir to combine the dry ingredients *
+
+Step 6:
+Previous scene: A bowl with mixed dry ingredients
+Action: In another bowl, combine 1/2 cup of buttermilk, 1/2 cup of vegetable oil, and 2 eggs *
+
+Step 7:
+Previous scene: A bowl with wet ingredients
+Action: Mix until smooth *
+
+Step 8:
+Previous scene: A bowl with mixed wet ingredients
+Action: Add the wet ingredients to the dry ingredients *
+
+Step 9:
+Previous scene: A bowl with combined wet and dry ingredients
+Action: Mix until fully blended and smooth *
+
+Step 10:
+Previous scene: A bowl with cake batter
+Action: Pour the batter into the prepared baking pan *
+
+Step 11:
+Previous scene: A baking pan with batter
+Action: Bake in the preheated oven for 30-35 minutes *
+
+Step 12:
+Previous scene: Batter in the oven
+Action: Check for doneness by inserting a toothpick in the center; it should come out clean *
+
+Step 13:
+Previous scene: A baked cake in the pan
+Action: Let the cake cool in the pan for 10 minutes *
+
+Step 14:
+Previous scene: A slightly cooled cake in the pan
+Action: Remove the cake from the pan and let it cool completely on a wire rack *
+
+Step 15:
+Previous scene: A completely cooled cake on a wire rack
+Action: Frost with your favorite chocolate frosting and enjoy! *

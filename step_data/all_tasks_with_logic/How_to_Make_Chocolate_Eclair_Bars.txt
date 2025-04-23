@@ -1,0 +1,48 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: An oven that is preheated
+Action: Spray a 9x13 inch baking dish with non-stick cooking spray *
+
+Step 3:
+Previous scene: A prepared baking dish
+Action: Press a can of crescent roll dough into the bottom of the baking dish to form the crust *
+
+Step 4:
+Previous scene: A baking dish with crescent roll dough
+Action: In a medium bowl, mix together 2 cups of milk and 1 package of instant vanilla pudding *
+
+Step 5:
+Previous scene: A bowl with milk and pudding mix
+Action: Fold in 1 container of whipped topping into the pudding mixture *
+
+Step 6:
+Previous scene: A bowl with the pudding mixture
+Action: Spread the pudding mixture evenly over the crescent roll dough *
+
+Step 7:
+Previous scene: A baking dish with a layer of pudding mixture
+Action: Place another can of crescent roll dough on top of the pudding layer *
+
+Step 8:
+Previous scene: A baking dish with two layers of crescent roll dough and a pudding mixture in between
+Action: In a microwave-safe bowl, combine 1 cup of semi-sweet chocolate chips and 2 tablespoons of butter *
+
+Step 9:
+Previous scene: A bowl with chocolate chips and butter
+Action: Microwave the chocolate and butter in 30-second intervals, stirring each time, until melted and smooth *
+
+Step 10:
+Previous scene: A bowl with melted chocolate mixture
+Action: Pour the melted chocolate mixture over the top layer of crescent rolls *
+
+Step 11:
+Previous scene: A baking dish with a chocolate layer on top
+Action: Refrigerate for at least 1 hour before serving *
+
+Step 12:
+Previous scene: A baking dish with chilled eclair bars
+Action: Cut into bars and serve *

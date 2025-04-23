@@ -1,0 +1,31 @@
+6,9 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine pumpkin puree, softened butter, and cream cheese until smooth *
+Step 2:
+Previous scene: A mixing bowl with a smooth pumpkin mixture
+Action: Add powdered sugar, crushed graham crackers, and pumpkin pie spice to the bowl *
+Step 3:
+Previous scene: A mixing bowl with combined ingredients
+Action: Mix until well blended and forms a stiff mixture *
+Step 4:
+Previous scene: A bowl with stiff mixture 
+Action: Using a spoon, scoop out the mixture and form it into small, bite-sized balls *
+Step 5:
+Previous scene: Small pumpkin truffles on a tray
+Action: Place the formed balls on a baking sheet lined with parchment paper *
+Step 6:
+Previous scene: Pumpkin truffles on a baking sheet
+Action: Refrigerate the truffles for at least 30 minutes to firm up *
+Step 7:
+Previous scene: Firm pumpkin truffles on a baking sheet
+Action: Melt white chocolate in a microwave-safe bowl *
+Step 8:
+Previous scene: Melted white chocolate in a bowl
+Action: Dip each truffle into the melted white chocolate until fully coated *
+Step 9:
+Previous scene: White chocolate-coated truffles on a tray
+Action: Place the coated truffles back onto the parchment-lined baking sheet *
+Step 10:
+Previous scene: White chocolate-coated truffles on a tray
+Action: Allow the chocolate to set and harden before serving *

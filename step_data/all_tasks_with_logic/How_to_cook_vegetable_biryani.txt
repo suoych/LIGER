@@ -1,0 +1,48 @@
+2, 6*
+Step 1:  
+Previous scene: None  
+Action: Rinse 1 cup of basmati rice in water until the water runs clear *  
+
+Step 2:  
+Previous scene: Washed basmati rice  
+Action: Soak the rice in water for 30 minutes *  
+
+Step 3:  
+Previous scene: Soaked basmati rice  
+Action: Chop 1 onion, 2 tomatoes, 1 carrot, and a handful of green beans *  
+
+Step 4:  
+Previous scene: Chopped vegetables  
+Action: Heat 2 tablespoons of oil in a pot and fry the chopped onion until golden brown *  
+
+Step 5:  
+Previous scene: Pot with fried onions  
+Action: Add 1 teaspoon of ginger-garlic paste and sauté for a minute *  
+
+Step 6:  
+Previous scene: Pot with fried onions and ginger-garlic paste  
+Action: Add chopped tomatoes and cook until they become soft *  
+
+Step 7:  
+Previous scene: Pot with soft tomatoes  
+Action: Add 1 teaspoon of biryani masala, 1/2 teaspoon turmeric, and salt *  
+
+Step 8:  
+Previous scene: Pot with spiced tomato mixture  
+Action: Add chopped carrots and green beans, sauté for 5 minutes *  
+
+Step 9:  
+Previous scene: Pot with spiced vegetables  
+Action: Add the soaked basmati rice and stir gently *  
+
+Step 10:  
+Previous scene: Pot with rice and vegetables  
+Action: Pour in 2 cups of water and bring to a boil *  
+
+Step 11:  
+Previous scene: Pot with boiling rice and water  
+Action: Cover the pot and simmer on low heat until the rice is cooked and water is absorbed *  
+
+Step 12:  
+Previous scene: Pot with vegetable biryani  
+Action: Garnish with chopped cilantro and serve hot *  

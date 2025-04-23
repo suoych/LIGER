@@ -1,0 +1,31 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 475°F (245°C) *
+Step 2:
+Previous scene: An oven preheating
+Action: Roll out pizza dough on a floured surface *
+Step 3:
+Previous scene: Rolled out pizza dough on a floured surface
+Action: Spread pizza sauce evenly over the rolled-out dough *
+Step 4:
+Previous scene: Pizza dough with sauce spread over it
+Action: Sprinkle shredded mozzarella cheese over the sauce *
+Step 5:
+Previous scene: Pizza dough with sauce and cheese
+Action: Add cooked chicken pieces on top of the cheese *
+Step 6:
+Previous scene: Pizza dough with sauce, cheese, and chicken
+Action: Add desired toppings (such as bell peppers, onions, or olives) *
+Step 7:
+Previous scene: Pizza dough with sauce, cheese, chicken, and toppings
+Action: Place the pizza in the preheated oven *
+Step 8:
+Previous scene: Pizza with toppings
+Action: Bake in the oven for 10-15 minutes, or until the crust is golden and the cheese is bubbly *
+Step 9:
+Previous scene: Baking pizza
+Action: Remove the pizza from the oven and let it cool for a few minutes *
+Step 10:
+Previous scene: Hot, freshly baked pizza
+Action: Slice and serve the chicken pizza *

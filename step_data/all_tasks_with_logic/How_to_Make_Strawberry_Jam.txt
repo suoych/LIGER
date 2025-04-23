@@ -1,0 +1,37 @@
+2,10 *
+Step 1:
+Previous scene: None
+Action: Wash 1 pound of strawberries thoroughly under running water *
+Step 2:
+Previous scene: Washed strawberries
+Action: Hull and chop the strawberries into small pieces *
+Step 3:
+Previous scene: Chopped strawberries
+Action: In a large mixing bowl, combine the chopped strawberries with 2 cups of sugar *
+Step 4:
+Previous scene: Strawberries mixed with sugar
+Action: Add the juice of one lemon to the strawberry and sugar mixture *
+Step 5:
+Previous scene: Strawberry, sugar, and lemon juice mixture
+Action: Pour the mixture into a large saucepan *
+Step 6:
+Previous scene: Mixture in a saucepan
+Action: Heat the mixture on medium heat, stirring constantly to dissolve the sugar *
+Step 7:
+Previous scene: Heating strawberry mixture
+Action: Bring the mixture to a boil and let it boil for about 10-15 minutes, continuing to stir *
+Step 8:
+Previous scene: Boiling mixture
+Action: Check the consistency by placing a small amount of jam on a cold plate and see if it gels *
+Step 9:
+Previous scene: Jam on a cold plate
+Action: Remove the saucepan from heat once the jam reaches the desired consistency *
+Step 10:
+Previous scene: Saucepan with jam
+Action: Pour the hot jam into sterilized jars, leaving some space at the top *
+Step 11:
+Previous scene: Sterilized jars filled with jam
+Action: Seal the jars with lids and let them cool to room temperature *
+Step 12:
+Previous scene: Sealed jars of jam
+Action: Store the cooled jars in the refrigerator or a cool, dark place *

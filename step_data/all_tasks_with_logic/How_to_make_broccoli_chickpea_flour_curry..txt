@@ -1,0 +1,52 @@
+2, 4*
+Step 1:  
+Previous scene: None  
+Action: Chop 1 cup of broccoli into small florets *  
+
+Step 2:  
+Previous scene: Chopped broccoli  
+Action: Finely chop 1 onion and 2 tomatoes *  
+
+Step 3:  
+Previous scene: Chopped onion and tomatoes  
+Action: Heat 2 tablespoons of oil in a pan *  
+
+Step 4:  
+Previous scene: Pan with heated oil  
+Action: Add 1 teaspoon of cumin seeds to the pan *  
+
+Step 5:  
+Previous scene: Pan with cumin seeds  
+Action: Add the chopped onion and sauté until onion turns golden brown *  
+
+Step 6:  
+Previous scene: Pan with sautéed onions  
+Action: Add the chopped tomatoes and cook until they become soft *  
+
+Step 7:  
+Previous scene: Pan with softened tomatoes  
+Action: Add the chopped broccoli to the pan *  
+
+Step 8:  
+Previous scene: Pan with broccoli and tomato mixture  
+Action: Add 1/2 teaspoon of turmeric powder, 1 teaspoon of coriander powder, and salt to taste *  
+
+Step 9:  
+Previous scene: Spiced broccoli mixture  
+Action: Mix all ingredients well and sauté for 3-4 minutes *  
+
+Step 10:  
+Previous scene: Sautéed broccoli mixture  
+Action: Add 1 cup of chickpea flour to the pan *  
+
+Step 11:  
+Previous scene: Pan with chickpea flour and broccoli mixture  
+Action: Gradually add 2 cups of water while stirring to avoid lumps *  
+
+Step 12:  
+Previous scene: Curry mixture with added water  
+Action: Cook the mixture on medium heat, stirring occasionally until the chickpea flour is fully cooked *  
+
+Step 13:  
+Previous scene: Cooked curry mixture in the pan  
+Action: Garnish with fresh coriander leaves and serve hot *  

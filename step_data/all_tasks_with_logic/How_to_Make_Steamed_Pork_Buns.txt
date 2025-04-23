@@ -1,0 +1,36 @@
+4,8 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of flour, 1 teaspoon of yeast, and 1 teaspoon of sugar *
+
+Step 2:
+Previous scene: A bowl with flour, yeast, and sugar
+Action: Add 3/4 cup of warm water and mix until a dough forms *
+
+Step 3:
+Previous scene: A bowl with mixed dough
+Action: Knead the dough until it becomes smooth and elastic, then cover it and let it rise for 1 hour *
+
+Step 4:
+Previous scene: Dough covered and risen
+Action: While waiting for the dough, prepare the filling by mixing ground pork, soy sauce, sugar, sesame oil, and chopped green onions in another bowl *
+
+Step 5:
+Previous scene: A bowl with filling mixture and a bowl with risen dough
+Action: After the dough has risen, punch it down and divide it into small balls *
+
+Step 6:
+Previous scene: Divided dough balls and a bowl with filling
+Action: Flatten each dough ball and place a spoonful of filling in the center, then seal the edges to form a bun *
+
+Step 7:
+Previous scene: Filled and sealed buns
+Action: Place the buns on pieces of parchment paper and let them rise again for about 20 minutes *
+
+Step 8:
+Previous scene: Risen buns on parchment paper
+Action: Steam the buns in a steamer over boiling water for about 15-20 minutes until they are fully cooked *
+
+Step 9:
+Previous scene: Steamed buns in a steamer
+Action: Remove the buns from the steamer and serve hot *

@@ -1,0 +1,48 @@
+9, 1*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of all-purpose flour, 1 teaspoon of sugar, 1/2 teaspoon of salt, and 1/2 teaspoon of baking powder *
+
+Step 2:
+Previous scene: A bowl with dry ingredients
+Action: Add 1/2 cup of yogurt and 2 tablespoons of vegetable oil to the dry ingredients *
+
+Step 3:
+Previous scene: A bowl with dry ingredients, yogurt, and oil
+Action: Gradually add warm water and knead until you get a soft dough *
+
+Step 4:
+Previous scene: Dough in a bowl
+Action: Cover the bowl with a damp cloth and let it rest for 1-2 hours *
+
+Step 5:
+Previous scene: Resting dough in a covered bowl
+Action: Divide the dough into small balls *
+
+Step 6:
+Previous scene: Dough balls
+Action: Roll out each ball into a small circle *
+
+Step 7:
+Previous scene: Rolled out dough circles
+Action: Place a small amount of grated cheese in the center of the dough circle *
+
+Step 8:
+Previous scene: Dough circles with cheese in the center
+Action: Fold the edges over the cheese and seal the dough *
+
+Step 9:
+Previous scene: Dough balls with cheese filling
+Action: Roll out the filled dough balls gently to form a flatbread *
+
+Step 10:
+Previous scene: Flattened cheese-stuffed dough
+Action: Heat a skillet over medium heat and cook the naan until golden brown on both sides *
+
+Step 11:
+Previous scene: Cheese stuffed naan cooking on skillet
+Action: Brush the cooked naan with melted butter or ghee *
+
+Step 12:
+Previous scene: Cooked naan brushed with butter
+Action: Serve the cheese stuffed naan hot *

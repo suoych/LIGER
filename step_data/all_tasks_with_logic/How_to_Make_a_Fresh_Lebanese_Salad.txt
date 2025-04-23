@@ -1,0 +1,32 @@
+3, 5*
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, combine chopped tomatoes and cucumbers *
+
+Step 2:
+Previous scene: A bowl with chopped tomatoes and cucumbers
+Action: Add finely chopped onions *
+
+Step 3:
+Previous scene: A bowl with chopped tomatoes, cucumbers, and onions
+Action: Add finely chopped parsley *
+
+Step 4:
+Previous scene: A bowl with chopped tomatoes, cucumbers, onions, and parsley
+Action: Pour in freshly squeezed lemon juice *
+
+Step 5:
+Previous scene: A bowl with chopped vegetables and lemon juice
+Action: Drizzle extra virgin olive oil *
+
+Step 6:
+Previous scene: A bowl with chopped vegetables, lemon juice, and olive oil
+Action: Add salt and black pepper to taste *
+
+Step 7:
+Previous scene: A bowl with dressed vegetables
+Action: Toss everything together gently until well mixed *
+
+Step 8:
+Previous scene: A bowl with mixed salad ingredients
+Action: Serve immediately and enjoy your fresh Lebanese salad *

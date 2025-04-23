@@ -1,0 +1,37 @@
+10,9 *
+Step 1:
+Previous scene: None
+Action: Bake a batch of cake and allow it to cool completely *
+Step 2:
+Previous scene: A batch of cooled cake
+Action: Crumble the cooled cake into fine crumbs in a large bowl *
+Step 3:
+Previous scene: A bowl of cake crumbs
+Action: Mix in a tub of frosting until well combined *
+Step 4:
+Previous scene: A bowl of cake and frosting mixture
+Action: Roll the mixture into small balls and place them on a baking sheet *
+Step 5: 
+Previous scene: A baking sheet with cake balls
+Action: Chill the cake balls in the refrigerator for at least 2 hours *
+Step 6:
+Previous scene: Chilled cake balls
+Action: Melt red candy melts in a bowl following package instructions *
+Step 7:
+Previous scene: Melted red candy melts
+Action: Dip each cake pop stick into the melted candy and insert it halfway into each cake ball *
+Step 8:
+Previous scene: Melted red candy and cake pops on sticks
+Action: Dip the entire cake pop into the red candy melt until fully coated *
+Step 9:
+Previous scene: Red-coated cake pops 
+Action: Allow the coated cake pops to harden by standing them in a styrofoam block or cake pop stand *
+Step 10:
+Previous scene: Hardened red-coated cake pops 
+Action: Use black icing to draw a line down the center of each cake pop and create dots for the ladybug spots *
+Step 11:
+Previous scene: Decorated cake pops with black icing lines and spots
+Action: Attach candy eyes to each cake pop with a small dab of frosting for the ladybug's eyes *
+Step 12:
+Previous scene: Ladybug cake pops with candy eyes
+Action: Allow to set completely before serving or wrapping as gifts *

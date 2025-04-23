@@ -1,0 +1,36 @@
+2, 6*
+Step 1:
+Previous scene: None
+Action: Thaw a sheet of puff pastry according to package directions *
+
+Step 2:
+Previous scene: A sheet of puff pastry on a surface
+Action: Preheat the oven to 400°F (200°C) *
+
+Step 3:
+Previous scene: A sheet of puff pastry on a surface
+Action: Cut the puff pastry sheet into triangles *
+
+Step 4: 
+Previous scene: Triangles of puff pastry
+Action: Place a piece of chocolate at the wide end of each triangle *
+
+Step 5:
+Previous scene: Triangles of puff pastry with chocolate on one end
+Action: Roll each triangle from the wide end to the narrow end to form a croissant shape *
+
+Step 6: 
+Previous scene: Rolled croissant shapes with chocolate inside
+Action: Place the croissants on a baking sheet lined with parchment paper *
+
+Step 7:
+Previous scene: Croissants on a baking sheet
+Action: Brush the tops of the croissants with a beaten egg *
+
+Step 8:
+Previous scene: Egg-brushed croissants on a baking sheet
+Action: Bake in the preheated oven for 15-20 minutes, or until golden brown *
+
+Step 9:
+Previous scene: Golden brown croissants on a baking sheet
+Action: Allow the croissants to cool slightly before serving *

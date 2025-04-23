@@ -1,0 +1,60 @@
+3, 6*
+Step 1:  
+Previous scene: None  
+Action: Cut tofu into cubes *  
+
+Step 2:  
+Previous scene: Cubed tofu  
+Action: Mince garlic and ginger *  
+
+Step 3:  
+Previous scene: Minced garlic and ginger  
+Action: Chop green onions *  
+
+Step 4:  
+Previous scene: Chopped green onions  
+Action: Prepare a wok or deep pan *  
+
+Step 5:  
+Previous scene: A wok or deep pan  
+Action: Heat oil in the wok *  
+
+Step 6:  
+Previous scene: A wok with heated oil  
+Action: Add minced garlic and ginger to the oil *  
+
+Step 7:  
+Previous scene: Garlic and ginger sizzling in the oil  
+Action: Add ground meat to the wok *  
+
+Step 8:  
+Previous scene: Sizzling ground meat, garlic, and ginger  
+Action: Stir and cook the meat until browned *  
+
+Step 9:  
+Previous scene: Cooked ground meat mixture  
+Action: Add doubanjiang (spicy bean paste) and stir *  
+
+Step 10:  
+Previous scene: Ground meat mixture with doubanjiang  
+Action: Pour chicken broth into the wok *  
+
+Step 11:  
+Previous scene: Wok with meat mixture and broth  
+Action: Add tofu cubes to the mixture *  
+
+Step 12:  
+Previous scene: Tofu simmering in mixture  
+Action: Gently stir to coat tofu with sauce *  
+
+Step 13:  
+Previous scene: Tofu coated with sauce  
+Action: Simmer until tofu is heated through *  
+
+Step 14:  
+Previous scene: Heated tofu in sauce  
+Action: Add chopped green onions *  
+
+Step 15:  
+Previous scene: Tofu dish with green onions  
+Action: Serve hot *  

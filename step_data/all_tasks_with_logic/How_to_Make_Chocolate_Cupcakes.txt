@@ -1,0 +1,40 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) and line a cupcake tin with cupcake liners *
+
+Step 2:
+Previous scene: Cupcake tin with liners
+Action: In a mixing bowl, combine flour, cocoa powder, baking powder, and salt *
+
+Step 3:
+Previous scene: A bowl with dry ingredients
+Action: In another bowl, beat together sugar and butter until light and fluffy *
+
+Step 4:
+Previous scene: A bowl with creamed butter and sugar
+Action: Add eggs one at a time to the butter mixture, beating well after each addition *
+
+Step 5:
+Previous scene: A bowl with mixed wet ingredients
+Action: Stir in vanilla extract to the wet mixture *
+
+Step 6:
+Previous scene: A bowl with vanilla mixture
+Action: Gradually add the dry ingredients to the wet mixture, alternating with milk, and mix until just combined *
+
+Step 7:
+Previous scene: A bowl with chocolate batter
+Action: Divide the batter evenly among the cupcake liners *
+
+Step 8:
+Previous scene: Cupcake tin filled with batter
+Action: Bake in the preheated oven for 18-20 minutes or until a toothpick inserted into the center comes out clean *
+
+Step 9:
+Previous scene: Baked cupcakes in a tin
+Action: Remove the cupcakes from the oven and let them cool in the tin for 5-10 minutes before transferring to a wire rack to cool completely *
+
+Step 10:
+Previous scene: Cupcakes cooling on a wire rack
+Action: Once cooled, frost the cupcakes with your favorite chocolate frosting and serve *

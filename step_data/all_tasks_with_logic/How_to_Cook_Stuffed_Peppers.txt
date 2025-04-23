@@ -1,0 +1,52 @@
+1, 3*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: An empty oven
+Action: Cut the tops off 4 bell peppers and remove the seeds *
+
+Step 3:
+Previous scene: 4 seeded bell peppers with their tops removed
+Action: In a skillet, heat 2 tablespoons of olive oil over medium heat *
+
+Step 4:
+Previous scene: A skillet with olive oil
+Action: Add 1 diced onion and 2 minced garlic cloves to the skillet and sauté until translucent *
+
+Step 5:
+Previous scene: A skillet with sautéed onions and garlic
+Action: Add 1 pound of ground beef to the skillet and cook until browned *
+
+Step 6:
+Previous scene: A skillet with cooked ground beef, onions, and garlic
+Action: Stir in 1 cup of cooked rice, 1 can of diced tomatoes, 1 teaspoon of Italian seasoning, salt, and pepper to taste *
+
+Step 7:
+Previous scene: A skillet with the beef, rice, and tomato mixture
+Action: Stuff the peppers with the beef and rice mixture *
+
+Step 8:
+Previous scene: 4 stuffed peppers
+Action: Place the stuffed peppers in a baking dish *
+
+Step 9:
+Previous scene: A baking dish with stuffed peppers
+Action: Pour 1 cup of tomato sauce over the stuffed peppers *
+
+Step 10:
+Previous scene: A baking dish with stuffed peppers covered in tomato sauce
+Action: Cover the baking dish with aluminum foil *
+
+Step 11:
+Previous scene: A baking dish with stuffed peppers covered in aluminum foil
+Action: Bake in the preheated oven for 30 minutes *
+
+Step 12:
+Previous scene: None
+Action: Remove the foil and bake for an additional 15 minutes *
+
+Step 13:
+Previous scene: None
+Action: Remove from oven and let cool slightly before serving *

@@ -1,0 +1,36 @@
+3, 2*
+Step 1:
+Previous scene: None
+Action: Gather all ingredients (ground beef, salt, pepper, oil, hamburger buns, and optional toppings like lettuce, tomato, cheese, ketchup) *
+
+Step 2:
+Previous scene: Ingredients
+Action: Divide the ground beef into equal portions and shape them into patties *
+
+Step 3:
+Previous scene: Raw beef patties
+Action: Season both sides of the patties with salt and pepper *
+
+Step 4:
+Previous scene: Seasoned beef patties
+Action: Heat a skillet over medium-high heat and add a small amount of oil *
+
+Step 5:
+Previous scene: Heated skillet
+Action: Place the patties in the skillet and cook for 4-5 minutes on each side until browned *
+
+Step 6:
+Previous scene: Cooked patties in skillet 
+Action: Check the internal temperature of the patties to ensure they are cooked through (165°F for well-done) *
+
+Step 7:
+Previous scene: Cooked patties
+Action: Toast the hamburger buns in the skillet until golden brown *
+
+Step 8:
+Previous scene: Toasted buns
+Action: Assemble the hamburgers with your choice of toppings and sauces *
+
+Step 9:
+Previous scene: Assembled hamburgers
+Action: Serve the hamburgers immediately, while hot *

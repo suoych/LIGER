@@ -1,0 +1,36 @@
+2, 5*
+Step 1:  
+Previous scene: None  
+Action: Gather ingredients which include fish fillets, Sichuan peppercorns, dried chili peppers, ginger, garlic, and bean paste *
+
+Step 2:  
+Previous scene: Ingredients assembled on the kitchen counter  
+Action: Slice the fish fillets into bite-sized pieces and marinate with a mixture of salt, cooking wine, and cornstarch *
+
+Step 3:  
+Previous scene: Marinated fish pieces on the counter  
+Action: In a pot, bring water to a boil and blanch bean sprouts briefly; then remove and set aside *
+
+Step 4:  
+Previous scene: Blanched bean sprouts  
+Action: In the same pot, add cooking oil and sauté the ginger and garlic until fragrant *
+
+Step 5:  
+Previous scene: Sautéed ginger and garlic aroma  
+Action: Add the bean paste, Sichuan peppercorns, and dried chili peppers to the pot and stir-fry until the oil turns red *
+
+Step 6:  
+Previous scene: Pot filled with red-colored spicy oil mixture  
+Action: Pour in a suitable amount of water or chicken broth and bring to a boil *
+
+Step 7:  
+Previous scene: Pot with boiling spicy broth  
+Action: Add the marinated fish slices to the pot and cook until they are just done *
+
+Step 8:  
+Previous scene: Cooking fish slices in spicy broth  
+Action: Place the blanched bean sprouts into a serving bowl and pour the fish and broth over them *
+
+Step 9:  
+Previous scene: Serving bowl with fish and bean sprouts  
+Action: In a separate pan, heat more oil and pour it over the fish to sizzle the spices right before serving *

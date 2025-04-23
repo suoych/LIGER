@@ -1,0 +1,32 @@
+5,2 *
+Step 1:
+Previous scene: None
+Action: In a shallow bowl, whisk together 2 eggs, 1/4 cup of milk, and a pinch of salt and cinnamon *
+
+Step 2:
+Previous scene: A shallow bowl with the egg mixture
+Action: Spread peanut butter on one side of each slice of bread *
+
+Step 3:
+Previous scene: Bread slices with peanut butter
+Action: Place a banana slice (optional) on top of the peanut butter on one piece of bread*
+
+Step 4:
+Previous scene: Bread slice with peanut butter (and banana slice)
+Action: Place another slice of bread on top, peanut butter side down, to form a sandwich *
+
+Step 5:
+Previous scene: Peanut butter sandwich 
+Action: Dip the sandwich into the egg mixture, ensuring each side is coated *
+
+Step 6: 
+Previous scene: Sandwich dipped in the egg mixture
+Action: Heat a skillet over medium heat and add a little butter *
+
+Step 7:
+Previous scene: Butter in the skillet
+Action: Place the sandwich in the skillet and cook until golden brown on each side *
+
+Step 8:
+Previous scene: Toasted sandwich in the skillet
+Action: Remove the sandwich, slice it in half, and serve warm *

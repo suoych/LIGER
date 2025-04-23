@@ -1,0 +1,34 @@
+2,6 *
+Step 1:
+Previous scene: None
+Action: Preheat oven to 375°F (190°C) and grease a muffin tin *
+Step 2:
+Previous scene: A greased muffin tin
+Action: Cook macaroni according to package instructions and drain *
+Step 3:
+Previous scene: A pot of cooked macaroni
+Action: In a saucepan, melt butter over medium heat *
+Step 4:
+Previous scene: A saucepan with melted butter
+Action: Whisk in flour, salt, and pepper to make a roux *
+Step 5:
+Previous scene: A saucepan with roux (flour mixture)
+Action: Gradually whisk in milk and continue to cook until thickened *
+Step 6:
+Previous scene: A saucepan with thickened milk mixture
+Action: Stir in shredded cheese until melted and smooth *
+Step 7:
+Previous scene: A saucepan with cheese sauce
+Action: Combine the cheese sauce with the cooked macaroni *
+Step 8:
+Previous scene: A pot of macaroni mixed with cheese sauce
+Action: Spoon the macaroni and cheese mixture into the prepared muffin tin *
+Step 9:
+Previous scene: A muffin tin filled with macaroni and cheese mixture
+Action: Sprinkle breadcrumbs on top of each cup *
+Step 10:
+Previous scene: A muffin tin with breadcrumb-topped macaroni cups
+Action: Bake for 20-25 minutes until golden brown and crispy on top *
+Step 11:
+Previous scene: Macaroni and cheese cups in the muffin tin
+Action: Let cool for a few minutes before removing from the tin and serving *

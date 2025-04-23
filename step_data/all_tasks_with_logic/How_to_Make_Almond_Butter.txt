@@ -1,0 +1,24 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: Add 2 cups of raw almonds to a food processor *
+
+Step 2:
+Previous scene: Raw almonds in a food processor
+Action: Turn on the food processor and blend the almonds *
+
+Step 3:
+Previous scene: Ground almonds in a food processor
+Action: Continue blending until the almonds become a smooth paste, stopping to scrape down the sides as needed *
+
+Step 4:
+Previous scene: Thick almond paste in a food processor
+Action: Drizzle in a teaspoon of honey or maple syrup, if desired, for sweetness *
+
+Step 5:
+Previous scene: Smooth almond butter with optional sweetness
+Action: Transfer the almond butter to a clean jar or container for storage *
+
+Step 6:
+Previous scene: Almond butter in a storage container
+Action: Store in the refrigerator to keep fresh; stir before using if it separates *

@@ -1,0 +1,25 @@
+3,6 *
+Step 1:
+Previous scene: None
+Action: Fill a pot with about 1 inch of water *
+Step 2:
+Previous scene: A pot with water
+Action: Place a steamer basket into the pot *
+Step 3:
+Previous scene: A pot with water and a steamer basket
+Action: Bring the water to a boil *
+Step 4:
+Previous scene: A pot with boiling water and a steamer basket
+Action: Add the shrimp to the steamer basket *
+Step 5:
+Previous scene: A pot with boiling water, a steamer basket, and shrimp
+Action: Cover the pot with a lid *
+Step 6:
+Previous scene: A pot covered with a lid, containing boiling water, a steamer basket, and shrimp
+Action: Steam the shrimp for about 4-6 minutes, or until they are opaque and tender *
+Step 7:
+Previous scene: A pot covered with a lid, containing steaming shrimp
+Action: Remove the shrimp from the steamer basket *
+Step 8: 
+Previous scene: A steamer basket with shrimp
+Action: Serve the steamed shrimp immediately or chill for later use *

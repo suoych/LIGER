@@ -1,0 +1,36 @@
+3,8 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: Preheated oven
+Action: In a large mixing bowl, cream together 1 cup of butter and 1 cup of sugar until light and fluffy *
+
+Step 3:
+Previous scene: Creamed butter and sugar mixture
+Action: Beat in 1 egg and 1 teaspoon of vanilla extract *
+
+Step 4:
+Previous scene: Mixture with egg and vanilla
+Action: In a separate bowl, combine 1 1/2 cups of all-purpose flour, 1/2 teaspoon of baking powder, and a pinch of salt *
+
+Step 5:
+Previous scene: Dry ingredients mixture
+Action: Gradually add the dry ingredients to the wet ingredients, mixing well *
+
+Step 6:
+Previous scene: Combined dough
+Action: Gently fold in 2 cups of cornflakes *
+
+Step 7:
+Previous scene: Dough with cornflakes
+Action: Drop spoonfuls of the dough onto a baking sheet lined with parchment paper *
+
+Step 8:
+Previous scene: Baking sheet with dough blobs
+Action: Bake in the preheated oven for 10-12 minutes, or until golden brown *
+
+Step 9:
+Previous scene: Cookies in the oven
+Action: Remove the cookies from the oven and let them cool on a wire rack *

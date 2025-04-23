@@ -1,0 +1,52 @@
+4, 8*
+Step 1:
+Previous scene: None
+Action: Cut 1 pound of boneless, skinless chicken breast into bite-sized pieces *
+
+Step 2:
+Previous scene: Cut chicken pieces
+Action: In a bowl, combine 2 tablespoons of soy sauce, 1 tablespoon of rice vinegar, 1 tablespoon of hoisin sauce, and 1 teaspoon of cornstarch, then marinate the chicken pieces in the mixture for at least 20 minutes *
+
+Step 3:
+Previous scene: Chicken pieces marinating
+Action: Roughly chop 1 red bell pepper, 1 green bell pepper, and 1 small onion *
+
+Step 4:
+Previous scene: Chopped vegetables
+Action: Mince 3 cloves of garlic and 1 tablespoon of fresh ginger *
+
+Step 5:
+Previous scene: Minced garlic and ginger
+Action: In a pan, heat 2 tablespoons of vegetable oil over medium-high heat *
+
+Step 6:
+Previous scene: Heated oil in a pan
+Action: Add the marinated chicken to the pan and cook until lightly browned and cooked through, about 5-7 minutes *
+
+Step 7:
+Previous scene: Cooked chicken pieces
+Action: Remove the chicken from the pan and set aside *
+
+Step 8:
+Previous scene: Empty pan with some oil remnants
+Action: In the same pan, add the chopped vegetables and stir-fry until they are tender-crisp, about 4-5 minutes *
+
+Step 9:
+Previous scene: Stir-fried vegetables
+Action: Add the minced garlic and ginger to the pan and cook for another 1-2 minutes *
+
+Step 10:
+Previous scene: Vegetables with garlic and ginger
+Action: Return the chicken to the pan with the vegetables *
+
+Step 11:
+Previous scene: Stir-fried chicken and vegetables
+Action: Add 1/2 cup of roasted peanuts and 2-3 dried red chilies (optional) to the pan *
+
+Step 12:
+Previous scene: Chicken, vegetables, peanuts, and dried chilies in a pan
+Action: Stir everything together and cook for another 2-3 minutes to combine flavors *
+
+Step 13:
+Previous scene: Cooked Kung Pao Chicken
+Action: Serve the Kung Pao Chicken over steamed rice and garnish with sliced green onions and extra peanuts if desired *

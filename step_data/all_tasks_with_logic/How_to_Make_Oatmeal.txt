@@ -1,0 +1,19 @@
+5,2 *
+Step 1: 
+Previous scene: None
+Action: In a pot, bring 2 cups of water or milk to a boil *
+Step 2: 
+Previous scene: A pot with boiling water or milk
+Action: Add 1 cup of oats *
+Step 3: 
+Previous scene: A pot with boiling water or milk and oats
+Action: Reduce heat to medium and cook, stirring occasionally *
+Step 4: 
+Previous scene: A pot with simmering oats
+Action: Cook for about 5-7 minutes or until the oats are soft *
+Step 5:
+Previous scene: A pot with cooked oatmeal
+Action: Remove from heat and let it sit for a minute *
+Step 6:
+Previous scene: A pot with cooked oatmeal
+Action: Serve the oatmeal in a bowl and add your favorite toppings like fruits, nuts, or honey *

@@ -1,0 +1,25 @@
+4,6 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350 degrees Fahrenheit (175 degrees Celsius). *
+Step 2:
+Previous scene: None
+Action: In a large bowl, combine ground turkey, breadcrumbs, egg, minced onion, and garlic. *
+Step 3:
+Previous scene: Raw meat mixture in the bowl
+Action: Add salt, pepper, Worcestershire sauce, and ketchup to the mixture. *
+Step 4:
+Previous scene: Seasoned raw meat mixture in the bowl
+Action: Mix all ingredients thoroughly with your hands until well combined. *
+Step 5:
+Previous scene: Thoroughly mixed meat mixture
+Action: Shape the mixture into a loaf and place it on a lightly greased baking sheet or in a loaf pan. *
+Step 6:
+Previous scene: Uncooked meatloaf on a baking sheet or in a loaf pan
+Action: Spread a layer of ketchup on top of the loaf for glazing. *
+Step 7:
+Previous scene: Ketchup-glazed uncooked meatloaf
+Action: Bake in the preheated oven for about 1 hour, or until cooked through and the internal temperature reaches 165 degrees Fahrenheit (74 degrees Celsius). *
+Step 8:
+Previous scene: Baked turkey meatloaf in the oven
+Action: Let the meatloaf rest for 5-10 minutes before slicing and serving. *

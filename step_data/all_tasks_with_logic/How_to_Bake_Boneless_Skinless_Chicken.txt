@@ -1,0 +1,41 @@
+1,4 * 
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Oven preheating
+Action: Place boneless, skinless chicken breasts into a baking dish *
+
+Step 3:
+Previous scene: Baking dish with chicken breasts
+Action: Drizzle the chicken with olive oil *
+
+Step 4:
+Previous scene: Baking dish with chicken breasts drizzled with olive oil
+Action: Season the chicken with salt and pepper *
+
+Step 5:
+Previous scene: Seasoned chicken in baking dish
+Action: Add any other preferred herbs or spices, such as garlic powder or paprika *
+
+Step 6:
+Previous scene: Seasoned chicken with additional herbs or spices in baking dish
+Action: Cover the baking dish with aluminum foil *
+
+Step 7:
+Previous scene: Covered baking dish with chicken
+Action: Place the baking dish in the preheated oven *
+
+Step 8:
+Previous scene: Baking dish in the oven
+Action: Bake for 25-30 minutes, or until the chicken is cooked through and reaches an internal temperature of 165°F (75°C) *
+
+Step 9:
+Previous scene: Baked chicken in the oven
+Action: Remove the baking dish from the oven *
+
+Step 10:
+Previous scene: Baking dish with baked chicken
+Action: Let the chicken rest for 5 minutes before serving *
+

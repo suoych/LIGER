@@ -1,0 +1,46 @@
+10, 2*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of all-purpose flour *
+Step 2:
+Previous scene: A bowl with flour
+Action: Add 2 tablespoons of sugar *
+Step 3: 
+Previous scene: A bowl with flour and sugar
+Action: Add 1 tablespoon of baking powder *
+Step 4: 
+Previous scene: A bowl with flour, sugar, and baking powder
+Action: Add 1/2 teaspoon of salt *
+Step 5:
+Previous scene: A bowl with flour, sugar, baking powder, and salt
+Action: In another bowl, whisk together 2 large eggs *
+Step 6:
+Previous scene: A bowl with whisked eggs
+Action: Add 1 3/4 cups of milk to the eggs *
+Step 7:
+Previous scene: A bowl with eggs and milk
+Action: Add 1/2 cup of vegetable oil to the wet ingredients *
+Step 8:
+Previous scene: A bowl with eggs, milk, and oil
+Action: Add 1 teaspoon of vanilla extract to the wet ingredients *
+Step 9:
+Previous scene: A bowl with eggs, milk, oil, and vanilla extract
+Action: Pour the wet ingredients into the dry ingredients *
+Step 10:
+Previous scene: A bowl of wet and dry ingredients
+Action: Mix until just combined *
+Step 11:
+Previous scene: A bowl with waffle batter
+Action: Preheat a waffle iron *
+Step 12:
+Previous scene: A preheated waffle iron
+Action: Spray the waffle iron with non-stick cooking spray *
+Step 13:
+Previous scene: A preheated waffle iron with non-stick cooking spray
+Action: Pour the batter onto the waffle iron *
+Step 14:
+Previous scene: A waffle iron with batter
+Action: Cook until the waffles are golden brown and crisp *
+Step 15:
+Previous scene: A waffle iron with cooked waffles
+Action: Serve warm Belgian waffles with your favorite toppings *

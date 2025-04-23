@@ -1,0 +1,19 @@
+3, 1*
+Step 1:
+Previous scene: None
+Action: Scoop vanilla ice cream into a bowl *
+Step 2:
+Previous scene: Bowl with vanilla ice cream
+Action: Drizzle chocolate syrup over the ice cream *
+Step 3:
+Previous scene: Ice cream with chocolate syrup
+Action: Place a few Rolos on top of the ice cream *
+Step 4:
+Previous scene: Ice cream with chocolate syrup and Rolos
+Action: Sprinkle some crushed nuts over the sundae *
+Step 5:
+Previous scene: Ice cream with chocolate syrup, Rolos, and nuts
+Action: Add a dollop of whipped cream *
+Step 6:
+Previous scene: Sundae with whip cream
+Action: Garnish with a cherry on top *

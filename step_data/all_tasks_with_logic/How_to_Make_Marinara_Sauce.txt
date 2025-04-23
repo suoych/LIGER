@@ -1,0 +1,25 @@
+3,2 *
+Step 1:
+Previous scene: None
+Action: Heat 2 tablespoons of olive oil in a large pan over medium heat *
+Step 2:
+Previous scene: A pan with heated olive oil
+Action: Add finely chopped onions and cook until translucent *
+Step 3:
+Previous scene: A pan with cooked onions
+Action: Add minced garlic and cook for another 1-2 minutes *
+Step 4:
+Previous scene: A pan with cooked onions and garlic
+Action: Pour in 2 cans of crushed tomatoes *
+Step 5:
+Previous scene: A pan with a mixture of onions, garlic, and tomatoes
+Action: Stir in salt, pepper, and a pinch of red pepper flakes *
+Step 6:
+Previous scene: A pan with seasoned tomato mixture
+Action: Add chopped fresh basil and oregano *
+Step 7:
+Previous scene: A pan with herbs mixed into the sauce
+Action: Simmer on low heat for 30-40 minutes, stirring occasionally *
+Step 8:
+Previous scene: A pan with sauce simmering
+Action: Taste and adjust seasoning if necessary before serving *

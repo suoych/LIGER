@@ -1,0 +1,36 @@
+1,8 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, whisk 4 eggs until well beaten *
+
+Step 2:
+Previous scene: A bowl with beaten eggs
+Action: Heat a non-stick skillet over medium heat and add 1 tablespoon of butter *
+
+Step 3:
+Previous scene: A non-stick skillet with melted butter
+Action: Pour the beaten eggs into the skillet *
+
+Step 4:
+Previous scene: Skillet with eggs starting to cook
+Action: Stir the eggs continuously until they are scrambled and cooked through *
+
+Step 5:
+Previous scene: Skillet with scrambled eggs
+Action: Sprinkle 1/2 cup of shredded cheese evenly over the eggs and let it melt *
+
+Step 6:
+Previous scene: Skillet with scrambled eggs and melted cheese
+Action: Warm flour tortillas in a separate pan or microwave them for about 20 seconds *
+
+Step 7:
+Previous scene: Warm flour tortillas
+Action: Spoon the scrambled eggs and cheese mixture onto the center of each tortilla *
+
+Step 8:
+Previous scene: Tortillas with egg and cheese mixture
+Action: Fold in the sides of each tortilla and then roll it up from the bottom to form a burrito *
+
+Step 9:
+Previous scene: Rolled burrito
+Action: Serve immediately or wrap in foil for an on-the-go meal *

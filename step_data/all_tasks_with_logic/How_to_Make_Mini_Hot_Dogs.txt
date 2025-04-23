@@ -1,0 +1,32 @@
+2,7 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Oven being preheated
+Action: Open a can of refrigerated crescent roll dough and unroll it onto a cutting board *
+
+Step 3:
+Previous scene: Unrolled crescent roll dough on a cutting board
+Action: Cut the dough into small triangles *
+
+Step 4:
+Previous scene: Triangles of dough
+Action: Place a mini sausage or hot dog at the wide end of each triangle *
+
+Step 5:
+Previous scene: Mini sausages on dough triangles
+Action: Roll the dough around each mini sausage, starting from the wide end towards the pointed end *
+
+Step 6:
+Previous scene: Mini hot dogs wrapped in dough
+Action: Place the wrapped mini hot dogs on a baking sheet *
+
+Step 7:
+Previous scene: Wrapped mini hot dogs on a baking sheet
+Action: Bake in the preheated oven for 12-15 minutes, or until the dough is golden brown *
+
+Step 8:
+Previous scene: Baked mini hot dogs on a baking sheet
+Action: Remove from the oven and let cool slightly before serving *

@@ -1,0 +1,22 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Peel the plantains and slice them thinly into rounds *
+Step 2:
+Previous scene: Sliced plantains
+Action: Heat oil in a deep skillet over medium-high heat *
+Step 3:
+Previous scene: Oil in a skillet
+Action: Carefully add the plantain slices to the hot oil in batches *
+Step 4:
+Previous scene: Plantain slices frying in oil
+Action: Fry until the plantain slices are golden and crisp *
+Step 5:
+Previous scene: Golden and crisp plantain slices in oil
+Action: Remove the fried plantain slices with a slotted spoon *
+Step 6:
+Previous scene: Fried plantain slices on a slotted spoon
+Action: Place the plantain chips on paper towels to drain excess oil *
+Step 7:
+Previous scene: Plantain chips on paper towels
+Action: Season the plantain chips with salt while they are still warm *

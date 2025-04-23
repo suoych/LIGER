@@ -1,0 +1,22 @@
+5, 1*
+Step 1:
+Previous scene: None
+Action: Crush Mini Oreos into fine crumbs and place them in a mixing bowl *
+Step 2:
+Previous scene: A bowl with Mini Oreo crumbs
+Action: Add melted butter to the Oreo crumbs and mix until well combined *
+Step 3:
+Previous scene: A bowl with Oreo crumb mixture
+Action: Press the Oreo mixture into the bottom of a pie pan to form the crust *
+Step 4:
+Previous scene: Pie pan with Oreo crust
+Action: In a separate bowl, mix cream cheese, sugar, and vanilla extract until smooth *
+Step 5:
+Previous scene: A bowl with cream cheese mixture
+Action: Spread the cream cheese mixture evenly over the Oreo crust *
+Step 6:
+Previous scene: Pie pan with Oreo crust and cream cheese mixture
+Action: Refrigerate the pie for at least 1 hour to set *
+Step 7:
+Previous scene: Refrigerated pie
+Action: Garnish with Mini Oreos on top before serving *

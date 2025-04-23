@@ -1,0 +1,32 @@
+7,6 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, add 1 egg yolk *
+
+Step 2:
+Previous scene: A bowl with an egg yolk
+Action: Add 1 teaspoon of Dijon mustard *
+
+Step 3:
+Previous scene: A bowl with egg yolk and Dijon mustard
+Action: Whisk together until combined *
+
+Step 4:
+Previous scene: A bowl with combined egg yolk and mustard
+Action: Slowly drizzle in 1 cup of oil while continuously whisking *
+
+Step 5:
+Previous scene: A bowl with a thickening mixture due to added oil
+Action: Add 1 teaspoon of white vinegar or lemon juice *
+
+Step 6:
+Previous scene: A bowl with the thickened mixture and vinegar or lemon juice
+Action: Continue whisking until the mixture emulsifies and thickens *
+
+Step 7:
+Previous scene: A bowl of thick, emulsified mayonnaise
+Action: Season with salt and pepper to taste *
+
+Step 8:
+Previous scene: A bowl of seasoned mayonnaise
+Action: Transfer the mayonnaise to a jar or airtight container and refrigerate until ready to use *

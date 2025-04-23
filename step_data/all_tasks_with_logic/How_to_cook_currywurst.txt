@@ -1,0 +1,32 @@
+3, 7*
+Step 1:  
+Previous scene: None  
+Action: Cut pork sausages into pieces *  
+
+Step 2:  
+Previous scene: Sliced pork sausages  
+Action: Fry the sausage pieces in a pan until browned *  
+
+Step 3:  
+Previous scene: Fried sausage pieces  
+Action: Remove sausages from the pan and set aside *  
+
+Step 4:  
+Previous scene: Empty pan  
+Action: Pour tomato ketchup into the pan *  
+
+Step 5:  
+Previous scene: Pan with tomato ketchup  
+Action: Add curry powder to the ketchup *  
+
+Step 6:  
+Previous scene: Pan with curry-flavored ketchup  
+Action: Stir and heat the ketchup mixture until well combined *  
+
+Step 7:  
+Previous scene: Pan with hot curry ketchup  
+Action: Return the sausage pieces to the pan, coating them in the sauce *  
+
+Step 8:  
+Previous scene: Sausages in curry sauce  
+Action: Serve the currywurst with french fries or bread *

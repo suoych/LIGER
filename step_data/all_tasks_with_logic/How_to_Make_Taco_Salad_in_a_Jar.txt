@@ -1,0 +1,40 @@
+3,2 *
+Step 1:
+Previous scene: None
+Action: Gather ingredients including ground beef, taco seasoning, lettuce, cheese, salsa, sour cream, and tortilla chips *
+
+Step 2:
+Previous scene: Ingredients
+Action: Cook ground beef in a skillet over medium heat until browned *
+
+Step 3:
+Previous scene: Cooked ground beef
+Action: Add taco seasoning to the ground beef and mix well *
+
+Step 4:
+Previous scene: Seasoned ground beef
+Action: In a jar, layer ingredients starting with a layer of salsa at the bottom *
+
+Step 5:
+Previous scene: A jar with salsa
+Action: Add a layer of seasoned ground beef on top of the salsa *
+
+Step 6:
+Previous scene: A jar with salsa and ground beef
+Action: Next, add a layer of shredded lettuce *
+
+Step 7:
+Previous scene: A jar with salsa, ground beef, and lettuce
+Action: Add a layer of shredded cheese *
+
+Step 8:
+Previous scene: A jar with salsa, ground beef, lettuce, and cheese
+Action: Follow with a layer of sour cream *
+
+Step 9:
+Previous scene: A jar with salsa, ground beef, lettuce, cheese, and sour cream
+Action: Top it off with crushed tortilla chips for some crunch *
+
+Step 10:
+Previous scene: A completed taco salad in a jar
+Action: Secure the lid on the jar and refrigerate until ready to eat *

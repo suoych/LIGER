@@ -1,0 +1,37 @@
+2, 8*
+Step 1:
+Previous scene: None
+Action: In a large bowl, whisk 4 eggs *  
+Step 2:
+Previous scene: A bowl with whisked eggs
+Action: Add a pinch of salt and pepper to the eggs *  
+Step 3:
+Previous scene: A bowl with seasoned eggs
+Action: Heat a non-stick skillet over medium heat and add 1 tsp of olive oil *  
+Step 4:
+Previous scene: Heated skillet with olive oil
+Action: Pour the eggs into the skillet and scramble them until just set, then remove from heat *  
+Step 5:
+Previous scene: Scrambled eggs in a skillet
+Action: Warm whole wheat tortillas in another skillet or microwave *  
+Step 6:
+Previous scene: Warmed tortillas
+Action: Lay out the warm tortilla and spread a spoonful of salsa on it *  
+Step 7:
+Previous scene: A tortilla with a spoonful of salsa
+Action: Add the scrambled eggs onto the salsa *  
+Step 8:
+Previous scene: A tortilla with salsa and scrambled eggs
+Action: Sprinkle 1/4 cup of black beans over the eggs *  
+Step 9:
+Previous scene: A tortilla with salsa, scrambled eggs, and black beans
+Action: Add a handful of fresh spinach leaves *  
+Step 10:
+Previous scene: A tortilla with salsa, scrambled eggs, black beans, and spinach
+Action: Sprinkle 2 tablespoons of shredded cheese (optional) *  
+Step 11:
+Previous scene: A tortilla with all fillings
+Action: Fold the sides of the tortilla and roll it up tightly into a burrito *  
+Step 12:
+Previous scene: A rolled-up burrito
+Action: Cut the burrito in half and serve immediately *

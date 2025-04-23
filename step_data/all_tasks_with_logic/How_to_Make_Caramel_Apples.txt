@@ -1,0 +1,19 @@
+4, 1*
+Step 1:
+Previous scene: None
+Action: Wash and dry the apples thoroughly *
+Step 2:
+Previous scene: Clean apples
+Action: Insert a wooden stick into the stem end of each apple *
+Step 3:
+Previous scene: Apples with sticks
+Action: In a saucepan, combine 1 cup of brown sugar, 1/2 cup of butter, and 1/4 cup of corn syrup *
+Step 4:
+Previous scene: Saucepan with sugar, butter, and corn syrup
+Action: Cook the mixture over medium heat until it reaches 250°F (hard-ball stage) using a candy thermometer *
+Step 5:
+Previous scene: Boiled caramel mixture
+Action: Remove the saucepan from heat and carefully dip each apple into the caramel, turning to coat completely *
+Step 6:
+Previous scene: Caramel-dipped apples
+Action: Place the caramel-dipped apples on a sheet of wax paper to cool and set *

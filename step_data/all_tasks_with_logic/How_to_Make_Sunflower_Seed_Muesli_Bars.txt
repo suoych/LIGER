@@ -1,0 +1,36 @@
+4,7 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: Oven preheating
+Action: In a large mixing bowl, combine 1 cup of rolled oats, 1 cup of sunflower seeds, 1/2 cup of chopped almonds, and 1/2 cup of dried cranberries *
+
+Step 3:
+Previous scene: A bowl with oats, sunflower seeds, almonds, and cranberries
+Action: In a separate bowl, whisk together 1/2 cup of honey, 1/4 cup of melted coconut oil, and 1 teaspoon of vanilla extract *
+
+Step 4:
+Previous scene: A bowl with honey, coconut oil, and vanilla extract mixture
+Action: Pour the wet mixture into the dry ingredients and stir until well combined *
+
+Step 5:
+Previous scene: A bowl with combined wet and dry ingredients
+Action: Line an 8x8 inch baking pan with parchment paper *
+
+Step 6:
+Previous scene: An empty baking pan lined with parchment paper
+Action: Transfer the mixture into the prepared baking pan and press it down firmly *
+
+Step 7:
+Previous scene: Baking pan with muesli mixture pressed down
+Action: Bake in the preheated oven for 20-25 minutes, or until the edges are golden brown *
+
+Step 8:
+Previous scene: Baking pan in the oven
+Action: Remove from the oven and let it cool completely in the pan *
+
+Step 9:
+Previous scene: Baked muesli bars cooling in the pan
+Action: Once cooled, lift the bars out of the pan using the parchment paper and cut them into squares or bars *

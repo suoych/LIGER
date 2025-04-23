@@ -1,0 +1,44 @@
+9, 1*
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, combine 2 cups of all-purpose flour and 1/2 teaspoon of salt *
+
+Step 2:
+Previous scene: A bowl with flour and salt
+Action: Gradually add 3/4 cup of water while stirring until a dough forms *
+
+Step 3:
+Previous scene: A bowl with dough
+Action: Knead the dough on a floured surface for about 8-10 minutes until smooth *
+
+Step 4:
+Previous scene: Smooth dough
+Action: Cover the dough with a damp cloth and let it rest for at least 30 minutes *
+
+Step 5:
+Previous scene: Dough covered with a damp cloth
+Action: In another bowl, combine 1/2 pound of ground pork, 1 cup of finely chopped Napa cabbage, 1 tablespoon of soy sauce, 1 tablespoon of sesame oil, and 2 chopped green onions *
+
+Step 6:
+Previous scene: Bowl with dumpling filling mixture
+Action: Roll the dough into a long log and cut into small pieces *
+
+Step 7:
+Previous scene: Small pieces of dough
+Action: Roll each piece into a thin circle using a rolling pin *
+
+Step 8:
+Previous scene: Thin circles of dough
+Action: Place a small spoonful of filling into the center of each circle *
+
+Step 9:
+Previous scene: Dough circles with filling in the center
+Action: Fold the dough over the filling and pinch the edges to seal *
+
+Step 10:
+Previous scene: Sealed dumplings
+Action: Boil water in a large pot, then add dumplings and cook until they float *
+
+Step 11:
+Previous scene: Dumplings floating in boiling water
+Action: Remove the cooked dumplings with a slotted spoon and serve hot *

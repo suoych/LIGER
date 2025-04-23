@@ -1,0 +1,36 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Arrange 6-8 puris (crispy flat puris) on a plate *
+
+Step 2:
+Previous scene: Plate with puris
+Action: Place a few boiled, cubed potatoes on each puri *
+
+Step 3:
+Previous scene: Puris topped with boiled potatoes
+Action: Add boiled black chickpeas and sprouted moong over the potatoes *
+
+Step 4:
+Previous scene: Puris topped with potatoes, chickpeas, and sprouts
+Action: Drizzle green chutney over the toppings *
+
+Step 5:
+Previous scene: Puris topped with chutney
+Action: Drizzle tamarind chutney over the toppings *
+
+Step 6:
+Previous scene: Puris topped with green and tamarind chutneys
+Action: Sprinkle finely chopped onions and tomatoes on each puri *
+
+Step 7:
+Previous scene: Puris topped with onions and tomatoes
+Action: Generously sprinkle sev (crunchy chickpea noodles) on top *
+
+Step 8:
+Previous scene: Puris topped with sev
+Action: Garnish with fresh coriander leaves and a pinch of chaat masala *
+
+Step 9:
+Previous scene: Puris garnished with coriander and chaat masala
+Action: Serve immediately and enjoy the sev puri *

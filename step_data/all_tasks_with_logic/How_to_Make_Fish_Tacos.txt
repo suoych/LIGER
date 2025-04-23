@@ -1,0 +1,25 @@
+3,7 *
+Step 1:
+Previous scene: None
+Action: Gather ingredients including fish fillets, tortillas, cabbage, lime, cilantro, and various spices *
+Step 2:
+Previous scene: Ingredients including fish fillets, tortillas, cabbage, lime, cilantro, and spices
+Action: Prepare the fish by marinating it with lime juice, garlic, cumin, paprika, and salt *
+Step 3:
+Previous scene: Marinating fish
+Action: While the fish is marinating, shred the cabbage and chop the cilantro *
+Step 4:
+Previous scene: Shredded cabbage and chopped cilantro
+Action: Heat a skillet over medium heat and oil it lightly *
+Step 5:
+Previous scene: Heated and oiled skillet
+Action: Cook the marinated fish on the skillet until it is opaque and flakes easily with a fork *
+Step 6:
+Previous scene: Cooked fish
+Action: Warm the tortillas in a separate skillet or in the oven *
+Step 7:
+Previous scene: Warmed tortillas
+Action: Assemble the tacos by placing pieces of fish in the tortillas and topping them with shredded cabbage, cilantro, and a squeeze of lime juice *
+Step 8:
+Previous scene: Assembled tacos with fish, cabbage, and cilantro
+Action: Serve the fish tacos immediately while warm *

@@ -1,0 +1,40 @@
+5,9 *
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, combine 2 1/4 teaspoons of yeast and 1 1/2 cups of warm water *
+Step 2:
+Previous scene: A bowl with yeast and warm water
+Action: Stir in 3 1/2 cups of flour, 2 tablespoons of olive oil, and 1 teaspoon of salt *
+Step 3:
+Previous scene: A bowl with flour, olive oil, and salt on top of yeast mixture
+Action: Mix the ingredients together until a dough forms *
+Step 4:
+Previous scene: A bowl with mixed dough
+Action: Knead the dough on a floured surface for about 10 minutes until it's smooth and elastic *
+Step 5:
+Previous scene: A floured surface with kneaded dough
+Action: Place the dough in a greased bowl, cover it, and let it rise in a warm place for about 1 hour *
+Step 6:
+Previous scene: A greased bowl with risen dough
+Action: Preheat the oven to 475°F (245°C) *
+Step 7:
+Previous scene: An empty oven preheating
+Action: Punch down the dough to release the air, and then roll it out on a floured surface to form a pizza crust *
+Step 8:
+Previous scene: A floured surface with rolled-out dough
+Action: Transfer the rolled dough onto a pizza stone or a baking sheet *
+Step 9:
+Previous scene: Dough on a pizza stone or baking sheet
+Action: Spread pizza sauce evenly over the dough *
+Step 10:
+Previous scene: Dough with pizza sauce
+Action: Sprinkle shredded mozzarella cheese over the sauce *
+Step 11:
+Previous scene: Dough with sauce and cheese
+Action: Add your favorite toppings (e.g., pepperoni, mushrooms, bell peppers) *
+Step 12:
+Previous scene: Dough with sauce, cheese, and toppings
+Action: Bake the pizza in the preheated oven for 12-15 minutes or until the crust is golden brown and the cheese is bubbly *
+Step 13:
+Previous scene: Baked pizza in the oven
+Action: Remove the pizza from the oven, let it cool slightly, then slice and serve *

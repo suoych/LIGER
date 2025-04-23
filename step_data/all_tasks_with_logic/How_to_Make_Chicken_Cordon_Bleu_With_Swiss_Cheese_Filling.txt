@@ -1,0 +1,31 @@
+6, 3*
+Step 1:
+Previous scene: None
+Action: Flatten chicken breasts to 1/4-inch thickness using a meat mallet or rolling pin *
+Step 2:
+Previous scene: Flattened chicken breasts
+Action: Place a slice of Swiss cheese and a slice of ham on each chicken breast *
+Step 3:
+Previous scene: Chicken breasts with Swiss cheese and ham
+Action: Roll up each chicken breast, securing with toothpicks if necessary *
+Step 4:
+Previous scene: Rolled up chicken breasts secured with toothpicks
+Action: Coat each chicken roll with flour *
+Step 5:
+Previous scene: Chicken rolls coated with flour
+Action: Dip each flour-coated chicken roll in beaten eggs *
+Step 6:
+Previous scene: Flour-coated chicken rolls dipped in beaten eggs
+Action: Roll each dipped chicken roll in breadcrumbs until fully coated *
+Step 7:
+Previous scene: Chicken rolls coated with breadcrumbs
+Action: Heat oil in a skillet over medium-high heat *
+Step 8:
+Previous scene: Heated oil in a skillet
+Action: Cook chicken rolls in the skillet, turning occasionally, until golden brown and cooked through *
+Step 9:
+Previous scene: Golden brown chicken rolls in a skillet
+Action: Remove toothpicks from the cooked chicken rolls *
+Step 10:
+Previous scene: Cooked chicken rolls with toothpicks removed
+Action: Serve the Chicken Cordon Bleu with your choice of side dishes *

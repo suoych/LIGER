@@ -1,0 +1,40 @@
+3, 4*
+Step 1:
+Previous scene: None
+Action: Gather and prepare the ingredients: chicken breast, bell peppers, onions, fajita seasoning, tortillas, and toppings like sour cream or guacamole *
+
+Step 2:
+Previous scene: Ingredients on a counter
+Action: Slice the chicken breast into thin strips *
+
+Step 3:
+Previous scene: Sliced chicken
+Action: Slice bell peppers and onions into thin strips *
+
+Step 4:
+Previous scene: Sliced vegetables
+Action: Heat a skillet over medium-high heat and add a bit of oil *
+
+Step 5:
+Previous scene: Skillet on stovetop with oil
+Action: Add chicken strips to the skillet and cook until they are browned and cooked through *
+
+Step 6:
+Previous scene: Skillet with cooked chicken
+Action: Remove chicken and add sliced bell peppers and onions to the same skillet *
+
+Step 7:
+Previous scene: Skillet with vegetables
+Action: Cook vegetables until they are tender *
+
+Step 8:
+Previous scene: Skillet with tender vegetables
+Action: Return the cooked chicken to the skillet and add fajita seasoning, mixing well *
+
+Step 9:
+Previous scene: Skillet with chicken and vegetables mixed with seasoning
+Action: Warm the tortillas in the microwave or on a dry skillet *
+
+Step 10:
+Previous scene: Warmed tortillas
+Action: Serve the chicken and vegetable mixture on the tortillas with desired toppings *

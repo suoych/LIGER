@@ -1,0 +1,31 @@
+3,2 *
+Step 1: 
+Previous scene: None
+Action: Combine 1 cup of flour, 2 tbsp sugar, and a pinch of salt in a bowl *
+Step 2: 
+Previous scene: A bowl with flour, sugar, and salt
+Action: Add 1/4 cup of milk and 2 tbsp of melted butter *
+Step 3: 
+Previous scene: A bowl with dry ingredients and milk
+Action: Mix until a smooth dough forms *
+Step 4: 
+Previous scene: A bowl with dough
+Action: Roll the dough into thin sticks *
+Step 5: 
+Previous scene: Thin sticks of dough
+Action: Place the sticks on a baking sheet lined with parchment paper *
+Step 6: 
+Previous scene: Unbaked sticks on baking sheet
+Action: Bake at 350°F for 15-18 minutes until golden brown *
+Step 7:
+Previous scene: Baked sticks
+Action: Melt 1 cup of chocolate in a microwave-safe bowl *
+Step 8:
+Previous scene: Melted chocolate in a bowl
+Action: Dip the baked sticks into the melted chocolate, covering them halfway *
+Step 9:
+Previous scene: Chocolate-covered sticks
+Action: Place the sticks on a parchment-lined tray to set *
+Step 10:
+Previous scene: Chocolate-covered sticks on tray
+Action: Let the Pocky cool until the chocolate is firm *

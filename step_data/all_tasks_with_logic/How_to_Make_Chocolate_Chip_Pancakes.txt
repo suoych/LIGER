@@ -1,0 +1,37 @@
+7, 2*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of flour *
+Step 2:
+Previous scene: A bowl with flour
+Action: Add 2 tablespoons of sugar *
+Step 3:
+Previous scene: A bowl with flour and sugar
+Action: Add 1 tablespoon of baking powder *
+Step 4:
+Previous scene: A bowl with flour, sugar, and baking powder
+Action: Pour in 1 cup of milk *
+Step 5:
+Previous scene: A bowl with a white mixture
+Action: Crack an egg into the mixture *
+Step 6:
+Previous scene: A bowl with batter and an egg
+Action: Mix until smooth *
+Step 7:
+Previous scene: A smooth batter
+Action: Fold in 1/2 cup of chocolate chips *
+Step 8:
+Previous scene: Batter with chocolate chips
+Action: Heat a skillet over medium heat *
+Step 9:
+Previous scene: A heated skillet
+Action: Pour 1/4 cup of batter onto the skillet *
+Step 10:
+Previous scene: Pancake batter on a skillet
+Action: Cook until bubbles form on the surface *
+Step 11:
+Previous scene: Pancake with bubbles on the surface
+Action: Flip the pancake and cook until golden brown on both sides *
+Step 12:
+Previous scene: Golden brown pancake
+Action: Transfer to a plate and serve with your favorite toppings *

@@ -1,0 +1,28 @@
+3, 6*
+Step 1:
+Previous scene: None
+Action: Bring a pot of water to a boil *
+
+Step 2:
+Previous scene: A pot of boiling water
+Action: Add the wanton noodles to the boiling water and cook according to package instructions *
+
+Step 3:
+Previous scene: Pot with cooking noodles
+Action: Drain the noodles and rinse with cold water to stop the cooking process *
+
+Step 4:
+Previous scene: Drained noodles
+Action: In a separate pan, heat some oil and cook the wantons until they are golden brown and cooked through *
+
+Step 5:
+Previous scene: Pan with cooking wantons
+Action: Prepare your sauce (e.g., soy sauce, oyster sauce) and mix it with the noodles *
+
+Step 6:
+Previous scene: Noodles with sauce
+Action: Add the cooked wantons to the noodles and toss everything together *
+
+Step 7:
+Previous scene: Noodles with wantons
+Action: Garnish with sliced green onions and serve *

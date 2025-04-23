@@ -1,0 +1,36 @@
+1,7 *
+Step 1:
+Previous scene: None
+Action: Gather all the necessary ingredients including vegetables, broth, and spices *
+
+Step 2:
+Previous scene: Collected ingredients on the counter
+Action: Chop the vegetables into bite-sized pieces *
+
+Step 3:
+Previous scene: Chopped vegetables
+Action: Place the chopped vegetables into the slow cooker *
+
+Step 4:
+Previous scene: Vegetables in the slow cooker
+Action: Add the broth to the slow cooker *
+
+Step 5:
+Previous scene: Vegetables and broth in the slow cooker
+Action: Add spices and seasoning to taste *
+
+Step 6:
+Previous scene: Vegetables, broth, and spices in the slow cooker
+Action: Cover the slow cooker and set it to cook on low for 6-8 hours or on high for 3-4 hours *
+
+Step 7:
+Previous scene: Slow cooker with soup ingredients
+Action: Stir the soup occasionally during the cooking process *
+
+Step 8:
+Previous scene: Cooking soup in the slow cooker
+Action: Taste and adjust seasoning if necessary before serving *
+
+Step 9:
+Previous scene: Finished soup in the slow cooker
+Action: Serve the soup hot in bowls *

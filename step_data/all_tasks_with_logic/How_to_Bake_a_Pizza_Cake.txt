@@ -1,0 +1,48 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: Oven preheating
+Action: Prepare your pizza dough by rolling it out on a floured surface *
+
+Step 3:
+Previous scene: Rolled out pizza dough
+Action: Cut the dough into circles using a pizza cutter or a large cookie cutter *
+
+Step 4:
+Previous scene: Disk-shaped dough pieces
+Action: Place one circle of dough in the bottom of a greased, round cake pan *
+
+Step 5:
+Previous scene: Dough circle in cake pan
+Action: Spread a layer of pizza sauce over the dough *
+
+Step 6:
+Previous scene: Dough with pizza sauce
+Action: Sprinkle a layer of shredded cheese over the sauce *
+
+Step 7:
+Previous scene: Dough with sauce and cheese
+Action: Add toppings of your choice (e.g., pepperoni, vegetables) *
+
+Step 8:
+Previous scene: Dough with sauce, cheese, and toppings
+Action: Place another circle of dough on top and repeat the layers (sauce, cheese, toppings) *
+
+Step 9:
+Previous scene: Layered dough with toppings
+Action: Finish with a final layer of dough and a sprinkling of cheese on top *
+
+Step 10:
+Previous scene: Completed pizza cake layers
+Action: Bake in the preheated oven for about 25-30 minutes, or until the dough is golden and the cheese is bubbly *
+
+Step 11:
+Previous scene: Pizza cake baking
+Action: Allow the pizza cake to cool for a few minutes before slicing *
+
+Step 12:
+Previous scene: Baked pizza cake cooling
+Action: Slice and serve your pizza cake *

@@ -1,0 +1,25 @@
+6, 3*
+Step 1:
+Previous scene: None
+Action: In a blender, add 1 cup of fresh strawberries *
+Step 2:
+Previous scene: A blender with strawberries
+Action: Add 1 banana, peeled and sliced *
+Step 3:
+Previous scene: A blender with strawberries and banana slices
+Action: Pour in 1 cup of milk (or a dairy-free alternative) *
+Step 4:
+Previous scene: A blender with strawberries, banana slices, and milk
+Action: Add 1 tablespoon of honey (optional) *
+Step 5:
+Previous scene: A blender with strawberries, banana slices, milk, and honey
+Action: Add a handful of ice cubes *
+Step 6:
+Previous scene: A blender with strawberries, banana slices, milk, honey, and ice cubes
+Action: Blend until smooth *
+Step 7:
+Previous scene: A blender with smooth pink mixture
+Action: Pour the smoothie into a glass *
+Step 8:
+Previous scene: A glass filled with strawberry banana smoothie
+Action: Serve immediately and enjoy *

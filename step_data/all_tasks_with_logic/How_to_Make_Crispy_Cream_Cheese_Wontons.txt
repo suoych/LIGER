@@ -1,0 +1,44 @@
+6,9 *
+Step 1:
+Previous scene: None
+Action: In a bowl, add softened cream cheese and diced green onions *
+
+Step 2:
+Previous scene: A bowl with cream cheese and green onions
+Action: Mix the ingredients until well combined *
+
+Step 3:
+Previous scene: Cream cheese mixture
+Action: Place a wonton wrapper on a clean surface *
+
+Step 4:
+Previous scene: A wonton wrapper
+Action: Spoon a small amount of cream cheese mixture in the center of the wrapper *
+
+Step 5:
+Previous scene: Wonton wrapper with cream cheese mixture
+Action: Moisten the edges of the wrapper with water *
+
+Step 6:
+Previous scene: Wonton with moistened edges
+Action: Fold the wrapper in half to form a triangle, sealing the edges *
+
+Step 7:
+Previous scene: Sealed wonton triangle
+Action: Heat oil in a deep fryer or skillet to 350°F (175°C) *
+
+Step 8:
+Previous scene: Hot oil
+Action: Carefully add the wontons to the oil, a few at a time *
+
+Step 9:
+Previous scene: Wontons frying in oil
+Action: Fry until golden brown and crispy, about 2-3 minutes *
+
+Step 10:
+Previous scene: Golden brown wontons in oil
+Action: Remove the wontons with a slotted spoon and place on paper towels to drain *
+
+Step 11:
+Previous scene: Wontons draining on paper towels
+Action: Serve immediately with dipping sauce of your choice *

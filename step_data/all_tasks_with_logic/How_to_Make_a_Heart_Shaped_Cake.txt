@@ -1,0 +1,40 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: Grease and flour a heart-shaped cake pan *
+
+Step 3:
+Previous scene: A greased and floured heart-shaped cake pan 
+Action: In a mixing bowl, combine 2 cups of flour, 1 1/2 cups of sugar, 1/2 cup of unsalted butter, 1 cup of milk, 3 eggs, 1 tablespoon of baking powder, and 1 teaspoon of vanilla extract *
+
+Step 4:
+Previous scene: A bowl with cake batter ingredients 
+Action: Mix until the batter is smooth and well combined *
+
+Step 5:
+Previous scene: Smooth and well-combined cake batter in a bowl 
+Action: Pour the batter into the prepared heart-shaped cake pan *
+
+Step 6:
+Previous scene: Heart-shaped cake pan filled with batter 
+Action: Place the pan in the preheated oven *
+
+Step 7:
+Previous scene: Heart-shaped cake pan inside preheated oven 
+Action: Bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean *
+
+Step 8:
+Previous scene: Heart-shaped cake pan in the oven 
+Action: Remove the cake from the oven and let it cool in the pan for 10 minutes *
+
+Step 9:
+Previous scene: Heart-shaped cake cooling in the pan 
+Action: Carefully remove the cake from the pan and let it cool completely on a wire rack *
+
+Step 10:
+Previous scene: Heart-shaped cake cooling on a wire rack 
+Action: Frost and decorate the cake as desired *

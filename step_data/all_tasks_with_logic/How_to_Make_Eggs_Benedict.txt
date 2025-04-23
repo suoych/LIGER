@@ -1,0 +1,64 @@
+6,10 *
+Step 1:
+Previous scene: None
+Action: Fill a pot with water and bring it to a simmer *
+
+Step 2:
+Previous scene: Pot of simmering water
+Action: In a bowl, whisk together egg yolks and lemon juice *
+
+Step 3:
+Previous scene: Bowl with egg yolks and lemon juice
+Action: Place the bowl over the simmering water while whisking *
+
+Step 4:
+Previous scene: Bowl over simmering water
+Action: Slowly pour melted butter into the egg yolk mixture while whisking *
+
+Step 5:
+Previous scene: Bowl with hollandaise sauce
+Action: Add salt and cayenne pepper to the sauce and set aside *
+
+Step 6:
+Previous scene: Hollandaise sauce in a bowl
+Action: Toast the English muffins *
+
+Step 7:
+Previous scene: Toasted English muffins
+Action: In another pot, add a splash of vinegar to simmering water *
+
+Step 8:
+Previous scene: Pot with simmering water and vinegar
+Action: Crack an egg into a small bowl *
+
+Step 9:
+Previous scene: Egg in a small bowl
+Action: Gently slide the egg into the simmering water *
+
+Step 10:
+Previous scene: Egg poaching in water
+Action: Poach the egg for about 3-4 minutes *
+
+Step 11:
+Previous scene: Egg poaching and toasted English muffins
+Action: Remove the poached egg with a slotted spoon *
+
+Step 12:
+Previous scene: Poached egg on slotted spoon
+Action: Place the poached egg on a toasted English muffin half *
+
+Step 13:
+Previous scene: English muffin with poached egg
+Action: Top with a slice of Canadian bacon or ham *
+
+Step 14:
+Previous scene: English muffin with poached egg and ham
+Action: Spoon hollandaise sauce over the top *
+
+Step 15:
+Previous scene: Eggs Benedict with hollandaise sauce
+Action: Garnish with chopped chives or parsley *
+
+Step 16:
+Previous scene: Finished Eggs Benedict
+Action: Serve immediately *

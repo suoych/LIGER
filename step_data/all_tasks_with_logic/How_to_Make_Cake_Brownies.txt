@@ -1,0 +1,37 @@
+1, 2*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: In a mixing bowl, combine 1/2 cup of melted butter and 1 cup of sugar *
+
+Step 3:
+Previous scene: A bowl with melted butter and sugar
+Action: Add 2 eggs and 1 teaspoon of vanilla extract to the mixture *
+
+Step 4:
+Previous scene: A bowl with butter, sugar, eggs, and vanilla extract
+Action: Beat the mixture until it's smooth *
+
+Step 5:
+Previous scene: Smooth mixture
+Action: In another bowl, mix 1/3 cup of cocoa powder, 1/2 cup of flour, 1/4 teaspoon of salt, and 1/4 teaspoon of baking powder *
+
+Step 6:
+Previous scene: A bowl with a dry mixture of cocoa powder, flour, salt, and baking powder
+Action: Gradually add the dry mixture to the wet mixture, stirring until well combined *
+
+Step 7:
+Previous scene: Combined batter
+Action: Pour the batter into a greased 8x8 inch baking pan *
+
+Step 8:
+Previous scene: Batter in a baking pan
+Action: Bake in the preheated oven for 20-25 minutes, or until a toothpick inserted into the center comes out clean *
+
+Step 9:
+Previous scene: Baked brownies in a pan
+Action: Let the brownies cool completely in the pan before cutting them into squares and serving *
+

@@ -1,0 +1,32 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 400°F (200°C) *
+
+Step 2:
+Previous scene: None
+Action: Cut 2 chicken breasts into nugget-sized pieces *
+
+Step 3:
+Previous scene: Chicken pieces on a cutting board
+Action: In a bowl, mix 1 cup of breadcrumbs with 1/2 cup of grated Parmesan cheese *
+
+Step 4:
+Previous scene: A bowl with breadcrumb and cheese mixture
+Action: In another bowl, beat 1 egg with a splash of milk *
+
+Step 5:
+Previous scene: A bowl with beaten egg and milk mixture
+Action: Dip each chicken piece into the egg mixture *
+
+Step 6:
+Previous scene: A bowl with egg-coated chicken pieces
+Action: Then, coat the chicken pieces with the breadcrumb mixture *
+
+Step 7:
+Previous scene: Chicken pieces coated with breadcrumb mixture
+Action: Place the coated chicken pieces on a baking sheet *
+
+Step 8:
+Previous scene: Chicken pieces on a baking sheet
+Action: Bake in the preheated oven for 20 minutes, or until golden brown and fully cooked *

@@ -1,0 +1,44 @@
+1, 7*
+Step 1:  
+Previous scene: None  
+Action: Prepare all your ingredients, including 1 kg of pork (cut into cubes), 2 onions (chopped), 2 cloves garlic (minced), 1 bell pepper (chopped), 2 tomatoes (diced), 2 tablespoons paprika, 1 tablespoon olive oil, salt, and pepper. *
+
+Step 2:  
+Previous scene: A countertop with prepared ingredients including pork cubes, chopped onions, minced garlic, chopped bell pepper, diced tomatoes, paprika, olive oil, salt, and pepper.  
+Action: Heat the olive oil in a large pot over medium heat. *
+
+Step 3:   
+Previous scene: A large pot with heated olive oil.  
+Action: Add the chopped onions and sauté until they are translucent. *
+
+Step 4:  
+Previous scene: A pot with translucent onions.  
+Action: Stir in the minced garlic and sauté for another minute. *
+
+Step 5:  
+Previous scene: A pot with sautéed onions and garlic.  
+Action: Add the pork cubes to the pot and cook until the meat is browned on all sides. *
+
+Step 6:  
+Previous scene: A pot with browned pork and sautéed onions and garlic.  
+Action: Mix in the paprika and stir well to coat the pork. *
+
+Step 7:  
+Previous scene: A pot with pork cubes coated in paprika, along with onions and garlic.  
+Action: Add the chopped bell pepper and diced tomatoes to the pot. *
+
+Step 8:  
+Previous scene: A pot with pork, onions, garlic, bell pepper, and tomatoes.  
+Action: Season with salt and pepper to taste. *
+
+Step 9:  
+Previous scene: A pot with pork, vegetables, and seasonings.  
+Action: Add enough water to just cover the ingredients, bring to a boil, then reduce the heat and cover. Let it simmer for about 1 to 1.5 hours. *
+
+Step 10:  
+Previous scene: A pot with simmering stew mixture.  
+Action: Check for tenderness. If the meat is tender, let it simmer uncovered to thicken the stew. *
+
+Step 11:  
+Previous scene: A pot of stew with tender meat, simmering uncovered.  
+Action: Serve hot with your choice of side, such as noodles or dumplings. *

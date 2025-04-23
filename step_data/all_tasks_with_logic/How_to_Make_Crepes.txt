@@ -1,0 +1,41 @@
+4,9 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of flour *
+
+Step 2:
+Previous scene: A mixing bowl with flour
+Action: Add 2 eggs to the flour *
+
+Step 3:
+Previous scene: A mixing bowl with flour and eggs
+Action: Gradually add 1 cup of milk while stirring *
+
+Step 4:
+Previous scene: A mixing bowl with a smooth batter
+Action: Add a pinch of salt and 2 tablespoons of melted butter to the mixture *
+
+Step 5:
+Previous scene: A mixing bowl with batter mixed with salt and butter
+Action: Heat a lightly oiled frying pan over medium-high heat *
+
+Step 6:
+Previous scene: A heated frying pan ready for cooking
+Action: Pour or scoop the batter onto the frying pan, using approximately 1/4 cup for each crepe *
+
+Step 7:
+Previous scene: Batter in a pan
+Action: Tilt the pan in a circular motion so that the batter coats the surface evenly *
+
+Step 8:
+Previous scene: Crepe batter spreading out in the pan
+Action: Cook the crepe for about 2 minutes, until the bottom is light brown *
+
+Step 9:
+Previous scene: Crepe with a light brown bottom
+Action: Loosen with a spatula, turn and cook the other side *
+
+Step 10:
+Previous scene: Crepe being cooked on the other side
+Action: Serve hot with your favorite fillings *
+

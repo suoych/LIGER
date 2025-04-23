@@ -1,0 +1,31 @@
+6,5 *
+Step 1:
+Previous scene: None
+Action: Roll out the puff pastry dough into a rectangle *
+Step 2:
+Previous scene: Rolled out puff pastry dough
+Action: Cut the dough into rectangles *
+Step 3:
+Previous scene: Dough cut into rectangles
+Action: Place a piece of chocolate at one end of each rectangle *
+Step 4:
+Previous scene: Dough rectangles with chocolate pieces
+Action: Roll the dough over the chocolate starting from that end *
+Step 5:
+Previous scene: Rolled dough with chocolate inside
+Action: Place the rolled dough seam side down on a baking sheet *
+Step 6:
+Previous scene: Rolled dough on baking sheet
+Action: Brush the top of each roll with beaten egg *
+Step 7:
+Previous scene: Egg-brushed dough rolls on baking sheet
+Action: Preheat the oven to 400°F (200°C) *
+Step 8:
+Previous scene: Preheating oven
+Action: Bake the rolls for 15-20 minutes or until golden brown *
+Step 9:
+Previous scene: Golden brown rolls in an oven
+Action: Remove the pain au chocolat from the oven and let cool *
+Step 10:
+Previous scene: Pain au chocolat cooling
+Action: Serve and enjoy! *

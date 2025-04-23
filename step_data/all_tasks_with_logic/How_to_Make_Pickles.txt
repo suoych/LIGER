@@ -1,0 +1,25 @@
+2,6 *
+Step 1: 
+Previous scene: None
+Action: Start by gathering cucumbers and preparing them by washing thoroughly *
+Step 2: 
+Previous scene: Clean cucumbers
+Action: Slice the cucumbers into your desired thickness (spears or chips) *
+Step 3: 
+Previous scene: Sliced cucumbers
+Action: In a saucepan, combine water, vinegar, and pickling salt, and bring to a boil *
+Step 4: 
+Previous scene: Saucepan with boiling mixture
+Action: Add garlic, dill, and any other desired spices or herbs to the boiling vinegar mixture *
+Step 5: 
+Previous scene: Saucepan with seasoned vinegar mixture
+Action: Pack the cucumber slices tightly into sterilized jars *
+Step 6: 
+Previous scene: Jars with packed cucumber slices
+Action: Pour the hot vinegar mixture over the cucumbers, leaving a small amount of headspace *
+Step 7: 
+Previous scene: Jars filled with cucumber slices and vinegar mixture
+Action: Seal the jars with sterilized lids and let them cool to room temperature *
+Step 8: 
+Previous scene: Sealed jars cooling
+Action: Store the jars in the refrigerator or process them in a hot water bath for longer shelf life *

@@ -1,0 +1,25 @@
+5,7 *
+Step 1:
+Previous scene: None
+Action: In a food processor, combine 1 cup of rolled oats *
+Step 2:
+Previous scene: Food processor with oats
+Action: Add 1/2 cup of nut butter (like peanut or almond butter) *
+Step 3:
+Previous scene: Food processor with oats and nut butter
+Action: Add 1/2 cup of honey or maple syrup *
+Step 4:
+Previous scene: Food processor with oats, nut butter, and honey
+Action: Add 1/2 cup of mix-ins like chocolate chips, dried fruit, or nuts *
+Step 5:
+Previous scene: Food processor with all ingredients
+Action: Pulse the food processor until the mixture is well combined and sticky *
+Step 6:
+Previous scene: Food processor with combined mixture
+Action: Scoop out small portions and roll into balls *
+Step 7:
+Previous scene: Rolled energy balls on a tray or plate
+Action: Refrigerate for at least 30 minutes to set *
+Step 8:
+Previous scene: Set energy balls in the refrigerator
+Action: Serve and enjoy as a quick snack *

@@ -1,0 +1,34 @@
+1, 6*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) and grease a sheet cake pan *
+Step 2:
+Previous scene: A greased sheet cake pan
+Action: In a mixing bowl, combine 2 cups of flour, 1 ½ cups of sugar, ½ cup of cocoa powder, 2 teaspoons of baking powder, and 1 ½ teaspoons of baking soda *
+Step 3:
+Previous scene: Bowl with dry ingredients
+Action: Add 2 eggs, 1 cup of milk, ½ cup of vegetable oil, and 2 teaspoons of vanilla extract to the dry ingredients *
+Step 4:
+Previous scene: Bowl with mixed ingredients
+Action: Mix the ingredients until well combined *
+Step 5:
+Previous scene: Bowl with smooth batter
+Action: Pour half of the batter into the prepared sheet cake pan *
+Step 6:
+Previous scene: Sheet cake pan with chocolate batter
+Action: In another bowl, combine 2 cups of flour, 1 ½ cups of sugar, 2 teaspoons of baking powder, and 1 ½ teaspoons of baking soda *
+Step 7:
+Previous scene: Bowl with dry ingredients for the vanilla cake
+Action: Add 2 eggs, 1 cup of milk, ½ cup of vegetable oil, and 2 teaspoons of vanilla extract to the dry ingredients *
+Step 8:
+Previous scene: Bowl with mixed ingredients
+Action: Mix the ingredients until well combined *
+Step 9:
+Previous scene: Bowl with smooth vanilla batter
+Action: Pour the vanilla batter over the chocolate batter in the sheet cake pan and use a spatula to swirl the two together gently *
+Step 10:
+Previous scene: Sheet cake pan with swirled chocolate and vanilla batter
+Action: Bake in the preheated oven for 30-35 minutes, until a toothpick inserted into the center comes out clean *
+Step 11:
+Previous scene: Baked sheet cake in the oven
+Action: Remove the cake from the oven and let it cool completely before frosting or serving *

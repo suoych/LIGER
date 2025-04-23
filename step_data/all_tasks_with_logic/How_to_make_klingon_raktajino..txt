@@ -1,0 +1,25 @@
+1,7 *
+Step 1:
+Previous scene: None
+Action: In a coffee maker, add water to the reservoir *
+Step 2:
+Previous scene: Coffee maker with water
+Action: Place a filter in the brew basket *
+Step 3: 
+Previous scene: Coffee maker with water and filter
+Action: Add ground Klingon coffee to the filter *
+Step 4:
+Previous scene: Coffee maker with water, filter, and ground coffee
+Action: Start the coffee maker to brew the coffee *
+Step 5:
+Previous scene: Brewed coffee in the pot
+Action: Pour the brewed coffee into a mug *
+Step 6:
+Previous scene: Mug with brewed coffee
+Action: Add a spoonful of raktajino mix to the mug *
+Step 7:
+Previous scene: Mug with coffee and raktajino mix
+Action: Stir well until the mix is fully dissolved *
+Step 8:
+Previous scene: Mixed raktajino in a mug
+Action: (Optional) Add sugar or cream to taste *

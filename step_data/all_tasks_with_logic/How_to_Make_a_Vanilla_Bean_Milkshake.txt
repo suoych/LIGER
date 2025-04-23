@@ -1,0 +1,28 @@
+6, 3*
+Step 1:
+Previous scene: None
+Action: Take out a blender jar *
+Step 2:
+Previous scene: A blender jar
+Action: Add 2 cups of vanilla ice cream to the blender jar *
+Step 3:
+Previous scene: A blender jar with vanilla ice cream
+Action: Pour 1 cup of milk into the blender jar *
+Step 4:
+Previous scene: A blender jar with ice cream and milk
+Action: Add 1 teaspoon of vanilla extract to the blender jar *
+Step 5:
+Previous scene: A blender jar with ice cream, milk, and vanilla extract
+Action: Split open a vanilla bean and scrape out the seeds into the blender jar *
+Step 6:
+Previous scene: A blender jar with ice cream, milk, vanilla extract, and vanilla bean seeds
+Action: Blend the mixture until smooth *
+Step 7:
+Previous scene: A blender jar with a smooth mixture
+Action: Pour the milkshake into a glass *
+Step 8:
+Previous scene: A glass with milkshake
+Action: Top with whipped cream, if desired *
+Step 9:
+Previous scene: A glass with milkshake topped with whipped cream
+Action: Serve immediately and enjoy *

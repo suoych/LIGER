@@ -1,0 +1,34 @@
+6, 1*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of crushed cookies *
+Step 2:
+Previous scene: A bowl with crushed cookies
+Action: Add 1/2 cup of cream cheese *
+Step 3:
+Previous scene: A bowl with crushed cookies and cream cheese
+Action: Mix the mixture until well combined *
+Step 4:
+Previous scene: A bowl with well-combined mixture
+Action: Scoop small portions of the mixture *
+Step 5:
+Previous scene: A scoop of mixture
+Action: Roll each scoop into a ball *
+Step 6:
+Previous scene: Cookie balls
+Action: Place the cookie balls on a baking sheet *
+Step 7:
+Previous scene: Cookie balls on a baking sheet
+Action: Chill in the refrigerator for 30 minutes *
+Step 8:
+Previous scene: Chilled cookie balls on a baking sheet
+Action: Melt 1 cup of chocolate chips *
+Step 9:
+Previous scene: Melted chocolate
+Action: Dip each chilled cookie ball in the melted chocolate *
+Step 10:
+Previous scene: Cookie balls covered in chocolate
+Action: Place the chocolate-covered cookie balls back on the baking sheet *
+Step 11:
+Previous scene: Cookie balls on a baking sheet
+Action: Chill in the refrigerator until the chocolate is set *

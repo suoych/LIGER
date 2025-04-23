@@ -1,0 +1,23 @@
+4, 2*
+Step 1: 
+Previous scene: None
+Action: Start by preparing the dry rub. Combine the following ingredients in a small bowl: 1 tablespoon of brown sugar, 1 tablespoon of paprika, 1 teaspoon of salt, 1 teaspoon of black pepper, 1 teaspoon of garlic powder, 1 teaspoon of onion powder, and 1/2 teaspoon of cayenne pepper. Mix well. *
+Step 2: 
+Previous scene: Bowl with mixed spices
+Action: Take the pork chops and pat them dry with paper towels to ensure the rub adheres properly. *
+Step 3: 
+Previous scene: Pork chops and a bowl of mixed spices
+Action: Generously coat each pork chop with the dry rub, making sure to press the spices into the meat for full flavor coverage. *
+Step 4: 
+Previous scene: Well-seasoned pork chops
+Action: Cover the seasoned pork chops with plastic wrap and let them sit at room temperature for about 30 minutes to allow the flavors to penetrate the meat. *
+Step 5: 
+Previous scene: Plastic-wrapped pork chops
+Action: Preheat your grill to medium-high heat (about 400°F or 200°C) while the pork chops are marinating. *
+Step 6: 
+Previous scene: Preheated grill
+Action: Place the pork chops on the grill and cook for about 4-5 minutes on each side, or until the internal temperature reaches 145°F (63°C). Use tongs to avoid piercing the meat and losing juices. *
+Step 7: 
+Previous scene: Pork chops on the grill
+Action: Once cooked, remove the pork chops from the grill and let them rest for 3-5 minutes before serving to allow the juices to redistribute. *
+

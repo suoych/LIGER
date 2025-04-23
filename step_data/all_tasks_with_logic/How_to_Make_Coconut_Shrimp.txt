@@ -1,0 +1,34 @@
+7, 3*
+Step 1:
+Previous scene: None
+Action: Gather ingredients, including shrimp, shredded coconut, flour, eggs, and seasoning *
+Step 2:
+Previous scene: Ingredients including shrimp, shredded coconut, flour, eggs, and seasoning
+Action: Peel and devein the shrimp, leaving the tails on *
+Step 3:
+Previous scene: Peeled and deveined shrimp with tails
+Action: Prepare three bowls: one with flour, one with beaten eggs, and one with shredded coconut *
+Step 4:
+Previous scene: Three bowls with flour, beaten eggs, and shredded coconut
+Action: Season the shrimp with salt and pepper *
+Step 5:
+Previous scene: Seasoned shrimp and three bowls with flour, beaten eggs, and shredded coconut
+Action: Dredge each shrimp in flour *
+Step 6:
+Previous scene: Shrimp dredged in flour and two bowls with beaten eggs and shredded coconut
+Action: Dip the floured shrimp into the beaten eggs *
+Step 7:
+Previous scene: Shrimp dipped in egg and a bowl with shredded coconut
+Action: Coat the shrimp with shredded coconut *
+Step 8:
+Previous scene: Shrimp coated with shredded coconut
+Action: Heat oil in a large skillet over medium-high heat *
+Step 9:
+Previous scene: Hot oil in a skillet and coated shrimp
+Action: Fry the shrimp in the skillet until golden brown and crispy *
+Step 10:
+Previous scene: Golden brown and crispy shrimp in the skillet
+Action: Remove the shrimp from the skillet and drain on paper towels *
+Step 11:
+Previous scene: Shrimp on paper towels
+Action: Serve the coconut shrimp with dipping sauce of your choice *

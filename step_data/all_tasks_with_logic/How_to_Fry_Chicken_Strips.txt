@@ -1,0 +1,37 @@
+7, 1*
+Step 1:
+Previous scene: None
+Action: Place chicken strips into a bowl *
+Step 2:
+Previous scene: A bowl with chicken strips
+Action: Add salt, pepper, and other desired seasonings to the chicken strips *
+Step 3:
+Previous scene: A bowl with seasoned chicken strips
+Action: In another bowl, prepare a mixture of flour and additional seasonings *
+Step 4:
+Previous scene: Two bowls, one with seasoned chicken strips and one with seasoned flour mixture
+Action: Dredge the chicken strips in the flour mixture until fully coated *
+Step 5:
+Previous scene: A bowl with dredged chicken strips
+Action: In a third bowl, beat 2 eggs *
+Step 6:
+Previous scene: A bowl with beaten eggs
+Action: Dip the flour-coated chicken strips into the beaten eggs *
+Step 7:
+Previous scene: A bowl with egg-coated chicken strips
+Action: Dredge the egg-coated chicken strips in the flour mixture again *
+Step 8:
+Previous scene: A bowl with re-dredged chicken strips
+Action: Heat oil in a frying pan to 350°F (175°C) *
+Step 9:
+Previous scene: A pan with heated oil
+Action: Carefully place the chicken strips into the hot oil *
+Step 10:
+Previous scene: Chicken strips frying in hot oil
+Action: Fry the chicken strips until golden brown and cooked through, about 4-5 minutes per side *
+Step 11:
+Previous scene: Fried chicken strips in oil
+Action: Remove the chicken strips from the oil and place them on a paper towel-lined plate to drain excess oil *
+Step 12:
+Previous scene: Fried chicken strips on a paper towel-lined plate
+Action: Serve the fried chicken strips with desired dipping sauces *

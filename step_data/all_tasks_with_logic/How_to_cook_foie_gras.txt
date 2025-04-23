@@ -1,0 +1,28 @@
+6, 2*
+Step 1:  
+Previous scene: None  
+Action: Remove foie gras from the refrigerator and let it come to room temperature *
+
+Step 2:  
+Previous scene: Foie gras at room temperature  
+Action: Carefully slice the foie gras into approximately 1/2 to 3/4 inch thick slices *
+
+Step 3:  
+Previous scene: Sliced foie gras  
+Action: Season the foie gras slices with salt and a touch of pepper *
+
+Step 4:  
+Previous scene: Seasoned foie gras slices  
+Action: Heat a pan over high heat until hot *
+
+Step 5:  
+Previous scene: Hot pan  
+Action: Place the foie gras slices into the pan *
+
+Step 6:  
+Previous scene: Foie gras cooking in the pan  
+Action: Sear the foie gras for about 30-40 seconds on each side until browned *
+
+Step 7:  
+Previous scene: Browned foie gras  
+Action: Remove from the pan and allow to rest for a moment before serving *

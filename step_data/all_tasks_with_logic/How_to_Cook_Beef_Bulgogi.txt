@@ -1,0 +1,28 @@
+1, 2*
+Step 1:
+Previous scene: None
+Action: Thinly slice 1 pound of beef sirloin *
+
+Step 2:
+Previous scene: Sliced beef
+Action: In a bowl, combine 1/4 cup soy sauce, 2 tablespoons sugar, 2 tablespoons sesame oil, 2 tablespoons sake (optional), 1 tablespoon minced garlic, and 1 tablespoon minced ginger *
+
+Step 3: 
+Previous scene: A bowl with marinade ingredients
+Action: Add the sliced beef to the marinade and mix well to coat *
+
+Step 4: 
+Previous scene: Beef in marinade
+Action: Cover the bowl and refrigerate for at least 30 minutes *
+
+Step 5: 
+Previous scene: Marinated beef
+Action: Heat a large skillet or grill pan over medium-high heat *
+
+Step 6: 
+Previous scene: An empty heated skillet
+Action: Cook the marinated beef in batches, without crowding the pan, until the meat is browned and cooked through *
+
+Step 7: 
+Previous scene: Cooked beef
+Action: Serve the beef bulgogi with steamed rice and kimchi *

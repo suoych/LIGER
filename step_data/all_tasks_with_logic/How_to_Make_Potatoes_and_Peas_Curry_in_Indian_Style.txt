@@ -1,0 +1,46 @@
+1,12 *
+Step 1:
+Previous scene: None
+Action: Peel and cube 3-4 potatoes *
+Step 2:
+Previous scene: Cubed potatoes
+Action: Chop 1 cup of peas *
+Step 3:
+Previous scene: Cubed potatoes and chopped peas
+Action: Heat 2 tablespoons of oil in a pan *
+Step 4:
+Previous scene: Heated oil in a pan
+Action: Add 1 teaspoon of cumin seeds and let them splutter *
+Step 5:
+Previous scene: Cumin seeds in oil
+Action: Add 1 finely chopped onion to the pan and sauté until golden brown *
+Step 6:
+Previous scene: Sautéed onions
+Action: Add 1 tablespoon of ginger-garlic paste and cook for a minute *
+Step 7:
+Previous scene: Onions with ginger-garlic paste
+Action: Add 2 chopped tomatoes and cook until they are soft *
+Step 8:
+Previous scene: Cooked tomatoes
+Action: Add 1 teaspoon of turmeric powder, 1 teaspoon of red chili powder, and 1 teaspoon of coriander powder *
+Step 9:
+Previous scene: Mixture of spices and tomatoes
+Action: Stir and cook the spices for a couple of minutes *
+Step 10:
+Previous scene: Cooked spices
+Action: Add the cubed potatoes and chopped peas to the pan *
+Step 11:
+Previous scene: Potatoes and peas mixed with spices
+Action: Pour in 1 cup of water and mix well *
+Step 12:
+Previous scene: Potatoes and peas in water with spices
+Action: Cover the pan and cook on medium heat until the potatoes are tender *
+Step 13:
+Previous scene: Cooked potatoes and peas
+Action: Add salt to taste and mix well *
+Step 14:
+Previous scene: Seasoned potato and pea curry
+Action: Garnish with fresh cilantro *
+Step 15:
+Previous scene: Garnished curry
+Action: Serve hot with rice or roti *

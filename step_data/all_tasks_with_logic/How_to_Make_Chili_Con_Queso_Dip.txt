@@ -1,0 +1,32 @@
+7, 2*
+Step 1:
+Previous scene: None
+Action: In a saucepan, combine 1 tablespoon of butter *
+
+Step 2:
+Previous scene: A saucepan with butter
+Action: Add 1 small diced onion and sauté until transparent *
+
+Step 3:
+Previous scene: A saucepan with sautéed onions
+Action: Stir in 2 tablespoons of flour, cooking for about 1 minute *
+
+Step 4:
+Previous scene: A saucepan with a flour-onion mixture
+Action: Gradually add 1 cup of milk, stirring constantly until smooth *
+
+Step 5:
+Previous scene: A saucepan with a smooth milk mixture
+Action: Add 2 cups of shredded cheese, and stir until the cheese is melted *
+
+Step 6:
+Previous scene: A saucepan with melted cheese mixture
+Action: Stir in 1 can (10 oz) of diced tomatoes and green chilies, drained *
+
+Step 7:
+Previous scene: A saucepan with cheese mixture and diced tomatoes
+Action: Season with salt and pepper to taste *
+
+Step 8:
+Previous scene: A saucepan with seasoned chili con queso dip
+Action: Serve warm with tortilla chips *

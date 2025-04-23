@@ -1,0 +1,40 @@
+9, 2*
+Step 1:
+Previous scene: None
+Action: Take a large skillet and heat 1 tablespoon of oil over medium heat *
+Step 2:
+Previous scene: A skillet with oil
+Action: Add 1 chopped onion and cook until softened *
+Step 3:
+Previous scene: A skillet with softened onion
+Action: Add 2 minced garlic cloves and cook for another minute *
+Step 4:
+Previous scene: A skillet with onion and garlic
+Action: Add 1 pound of shredded cooked chicken *
+Step 5:
+Previous scene: A skillet with chicken, onion, and garlic
+Action: Stir in 1 cup of salsa, 1 teaspoon of cumin, and 1 teaspoon of chili powder *
+Step 6:
+Previous scene: A skillet with chicken, salsa, onion, garlic, and spices mixed
+Action: Let the mixture cook until heated through, then remove from heat *
+Step 7:
+Previous scene: A skillet with heated chicken mixture
+Action: Place a large flour tortilla on a flat surface *
+Step 8:
+Previous scene: Plain flour tortilla on a flat surface
+Action: Spoon about ¼ cup of chicken mixture into the center of the tortilla *
+Step 9:
+Previous scene: Tortilla with chicken mixture in the center
+Action: Fold in the sides of the tortilla, then roll up the ends to enclose the filling *
+Step 10:
+Previous scene: Wrapped chimichanga
+Action: Heat another tablespoon of oil in the skillet over medium heat *
+Step 11:
+Previous scene: Skillet with oil
+Action: Place the rolled chimichangas seam side down in the skillet *
+Step 12:
+Previous scene: Rolled chimichangas in the skillet
+Action: Fry until golden and crisp, about 2-3 minutes per side *
+Step 13:
+Previous scene: Golden, crispy chimichangas in the skillet
+Action: Serve with guacamole, sour cream, and extra salsa on the side *

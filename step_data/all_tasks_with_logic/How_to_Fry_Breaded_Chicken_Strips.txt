@@ -1,0 +1,22 @@
+5, 2*
+Step 1:
+Previous scene: None
+Action: Gather breaded chicken strips and preheat a skillet over medium heat *
+Step 2:
+Previous scene: Breaded chicken strips and a skillet
+Action: Add a generous amount of oil to the skillet *
+Step 3:
+Previous scene: A skillet with oil
+Action: Let the oil heat until it reaches 350°F (175°C) *
+Step 4:
+Previous scene: A skillet with hot oil
+Action: Carefully place the breaded chicken strips into the hot oil *
+Step 5:
+Previous scene: A skillet with chicken strips frying in oil
+Action: Fry the chicken strips, turning occasionally, until they are golden brown and cooked through *
+Step 6:
+Previous scene: Golden brown chicken strips in a skillet
+Action: Use tongs to remove the chicken strips from the oil and place them on a plate lined with paper towels to drain excess oil *
+Step 7:
+Previous scene: Cooked chicken strips on a plate with paper towels
+Action: Serve the chicken strips while hot with your choice of dipping sauce *

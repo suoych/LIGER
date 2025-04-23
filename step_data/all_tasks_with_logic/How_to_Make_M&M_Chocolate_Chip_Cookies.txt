@@ -1,0 +1,36 @@
+7,1 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of flour *
+
+Step 2:
+Previous scene: A bowl with flour
+Action: Add 1 teaspoon of baking soda and 1/2 teaspoon of salt *
+
+Step 3:
+Previous scene: A bowl with flour, baking soda, and salt
+Action: In another bowl, cream together 1 cup of softened butter, 1/2 cup of granulated sugar, and 1 cup of brown sugar *
+
+Step 4:
+Previous scene: A bowl with creamed butter and sugars
+Action: Beat in 2 eggs and 1 teaspoon of vanilla extract *
+
+Step 5:
+Previous scene: A bowl with a creamy mixture of butter, sugars, eggs, and vanilla extract
+Action: Gradually mix the dry ingredients into the creamy mixture *
+
+Step 6:
+Previous scene: A bowl with cookie dough
+Action: Fold in 1 cup of M&Ms and 1 cup of chocolate chips *
+
+Step 7:
+Previous scene: A bowl with M&M chocolate chip cookie dough
+Action: Drop tablespoonfuls of dough onto a baking sheet lined with parchment paper *
+
+Step 8:
+Previous scene: Baking sheet with drops of cookie dough
+Action: Preheat the oven to 350°F (175°C) and bake the cookies for 10-12 minutes *
+
+Step 9:
+Previous scene: Baked cookies on a baking sheet
+Action: Allow the cookies to cool on a wire rack before serving *

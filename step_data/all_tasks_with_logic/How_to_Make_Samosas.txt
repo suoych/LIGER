@@ -1,0 +1,64 @@
+12,15 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of flour and a pinch of salt *
+
+Step 2:
+Previous scene: A bowl with flour and salt
+Action: Add 1/4 cup of oil to the flour mixture *
+
+Step 3:
+Previous scene: A bowl with flour, salt, and oil
+Action: Gradually add water to the mixture and knead into a smooth dough *
+
+Step 4:
+Previous scene: A bowl with dough
+Action: Cover the dough with a damp cloth and let it rest for 30 minutes *
+
+Step 5:
+Previous scene: Dough covered with a damp cloth
+Action: In a pan, heat oil and add cumin seeds *
+
+Step 6:
+Previous scene: A pan with heated oil and cumin seeds
+Action: Add finely chopped onions and sauté until golden brown *
+
+Step 7:
+Previous scene: Sautéed onions in a pan
+Action: Add boiled, mashed potatoes to the pan *
+
+Step 8:
+Previous scene: Pan with onions and mashed potatoes
+Action: Add peas, garam masala, turmeric, coriander powder, and salt to taste, then mix well *
+
+Step 9:
+Previous scene: Pan with mixed potato filling
+Action: Divide the dough into small balls and roll them into thin circles *
+
+Step 10:
+Previous scene: Thin circles of dough
+Action: Cut each circle in half to form semi-circles *
+
+Step 11:
+Previous scene: Semi-circles of dough
+Action: Shape each semi-circle into a cone *
+
+Step 12:
+Previous scene: Dough cones
+Action: Fill the cone with potato filling and seal the edges *
+
+Step 13:
+Previous scene: Stuffed and sealed dough cones
+Action: Heat oil in a deep fryer or heavy-bottomed pan *
+
+Step 14:
+Previous scene: Heated oil in deep fryer or pan
+Action: Fry the samosas until they are golden brown and crispy *
+
+Step 15:
+Previous scene: Frying samosas
+Action: Remove samosas from oil and drain on paper towels *
+
+Step 16:
+Previous scene: Drained samosas on paper towels
+Action: Serve samosas with chutney or sauce of choice *

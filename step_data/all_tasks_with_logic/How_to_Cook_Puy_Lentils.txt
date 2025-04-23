@@ -1,0 +1,28 @@
+1, 6*
+Step 1:
+Previous scene: None
+Action: Rinse 1 cup of Puy lentils under cold water *
+Step 2:
+Previous scene: Rinsed lentils
+Action: In a pot, combine the rinsed lentils with 3 cups of water *
+Step 3:
+Previous scene: Lentils in water
+Action: Add a bay leaf and a clove of garlic to the pot *
+Step 4:
+Previous scene: Lentils with bay leaf and garlic
+Action: Bring the mixture to a boil over medium-high heat *
+Step 5:
+Previous scene: Boiling pot with lentils, bay leaf, and garlic
+Action: Reduce heat to low and simmer for 20-25 minutes *
+Step 6:
+Previous scene: Simmering lentils
+Action: Test the lentils; they should be tender but not mushy *
+Step 7:
+Previous scene: Tender lentils
+Action: Season with salt to taste *
+Step 8:
+Previous scene: Seasoned lentils
+Action: Drain any excess water and remove the bay leaf and garlic *
+Step 9:
+Previous scene: Drained lentils without bay leaf and garlic
+Action: Serve the cooked Puy lentils as a side dish or in a salad *

@@ -1,0 +1,44 @@
+2,7 *
+Step 1:
+Previous scene: None
+Action: Wash and peel 2 medium-sized beetroots *
+
+Step 2:
+Previous scene: Cleaned and peeled beetroots
+Action: Grate the beetroots finely *
+
+Step 3:
+Previous scene: Grated beetroots
+Action: Heat 2 tablespoons of oil in a pan *
+
+Step 4:
+Previous scene: Heated oil in a pan
+Action: Add 1 teaspoon of cumin seeds and let them splutter *
+
+Step 5:
+Previous scene: Cumin seeds in heated oil
+Action: Add 1 finely chopped onion and sauté until golden brown *
+
+Step 6:
+Previous scene: Sautéed onions in the pan
+Action: Add 1 teaspoon of minced garlic and 1 teaspoon of minced ginger, and sauté for another minute *
+
+Step 7:
+Previous scene: Onions with garlic and ginger
+Action: Add the grated beetroot to the pan and stir well *
+
+Step 8:
+Previous scene: Grated beetroot mixed with onions, garlic, and ginger
+Action: Add salt to taste and 1/2 teaspoon of turmeric powder. Cook for 5 minutes *
+
+Step 9:
+Previous scene: Spiced beetroot mixture
+Action: Add 2 cups of cooked rice to the pan and mix thoroughly *
+
+Step 10:
+Previous scene: Rice mixed with beetroot mixture 
+Action: Garnish with some chopped cilantro *
+
+Step 11:
+Previous scene: Beetroot rice garnished with cilantro
+Action: Serve hot *

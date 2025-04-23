@@ -1,0 +1,32 @@
+2,4 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Oven
+Action: In a large bowl, mix 2 cups of spent grain with 2 cups of flour, 1 teaspoon of salt, and 1 tablespoon of sugar *
+
+Step 3:
+Previous scene: Bowl with dry ingredients and spent grain
+Action: In a separate bowl, combine 1 cup of warm water with 1 tablespoon of yeast and let it sit until frothy *
+
+Step 4:
+Previous scene: Bowl with yeast mixture
+Action: Add the yeast mixture to the dry ingredients and mix until a dough forms *
+
+Step 5:
+Previous scene: Bowl with dough
+Action: Knead the dough on a floured surface for about 5-7 minutes, then shape it into a loaf *
+
+Step 6:
+Previous scene: Loaf-shaped dough
+Action: Place the dough on a baking sheet or in a loaf pan and let it rise for 30-45 minutes *
+
+Step 7:
+Previous scene: Dough rising
+Action: Bake the bread in the preheated oven for 30-35 minutes, or until the crust is golden and the loaf sounds hollow when tapped *
+
+Step 8:
+Previous scene: Freshly baked bread
+Action: Allow the bread to cool on a wire rack before slicing *

@@ -1,0 +1,22 @@
+1,3 *
+Step 1: 
+Previous scene: None
+Action: Preheat your oven to 400°F (200°C) *
+Step 2: 
+Previous scene: None
+Action: Line a baking sheet with aluminum foil and place a wire rack on top of it *
+Step 3: 
+Previous scene: A lined baking sheet with a wire rack
+Action: In a mixing bowl, combine 2 pounds of chicken wings, 1 tablespoon of olive oil, 1 teaspoon of salt, 1/2 teaspoon of black pepper, and 1/2 teaspoon of paprika *
+Step 4: 
+Previous scene: A bowl with seasoned chicken wings
+Action: Arrange the chicken wings in a single layer on the wire rack *
+Step 5: 
+Previous scene: Seasoned chicken wings arranged on a wire rack
+Action: Bake the wings in the preheated oven for 25-30 minutes *
+Step 6: 
+Previous scene: Chicken wings baking in the oven
+Action: Flip the wings and bake for another 20-25 minutes until they are crispy and fully cooked *
+Step 7: 
+Previous scene: Chicken wings baking in the oven
+Action: Remove the wings from the oven and let them rest for a few minutes before serving *

@@ -1,0 +1,52 @@
+3, 8*
+Step 1:
+Previous scene: None
+Action: Boil water in a pot *
+
+Step 2:
+Previous scene: Boiling water in a pot
+Action: Add 1 cup of tapioca pearls to the boiling water *
+
+Step 3:
+Previous scene: Pot with boiling water and tapioca pearls
+Action: Reduce heat and simmer the tapioca pearls for 20 minutes *
+
+Step 4:
+Previous scene: Pot with simmering tapioca pearls
+Action: Remove the pot from heat and let the pearls sit for another 10 minutes *
+
+Step 5:
+Previous scene: Pot with resting tapioca pearls
+Action: Drain the tapioca pearls and rinse them under cold water *
+
+Step 6:
+Previous scene: Drained and rinsed tapioca pearls
+Action: Transfer the tapioca pearls to a bowl and mix with honey or sugar syrup *
+
+Step 7:
+Previous scene: A bowl with sweetened tapioca pearls
+Action: Brew a cup of strong tea, either black or green *
+
+Step 8:
+Previous scene: A cup of brewed tea and a bowl with sweetened tapioca pearls
+Action: In a glass, add a handful of ice cubes *
+
+Step 9:
+Previous scene: A glass with ice cubes
+Action: Add 2 tablespoons of sweetened tapioca pearls to the glass *
+
+Step 10:
+Previous scene: A glass with ice cubes and tapioca pearls
+Action: Pour the brewed tea over the ice and pearls *
+
+Step 11:
+Previous scene: A glass with ice, tapioca pearls, and brewed tea
+Action: Add milk or non-dairy creamer to the glass *
+
+Step 12:
+Previous scene: A glass with ice, tapioca pearls, brewed tea, and milk
+Action: Stir the drink to mix everything together *
+
+Step 13:
+Previous scene: A glass with mixed bubble tea
+Action: Serve with a large straw and enjoy *

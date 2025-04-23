@@ -1,0 +1,31 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Dice 1 cup of pastrami into small pieces *
+Step 2:
+Previous scene: Diced pastrami on a cutting board
+Action: Dice 1 cup of potatoes into small cubes *
+Step 3:
+Previous scene: Diced pastrami and diced potatoes on a cutting board
+Action: Heat a tablespoon of oil in a large skillet over medium heat *
+Step 4:
+Previous scene: Hot skillet with oil
+Action: Add the diced potatoes to the skillet *
+Step 5:
+Previous scene: Potatoes cooking in the skillet
+Action: Cook the potatoes for about 10 minutes until golden and crispy *
+Step 6:
+Previous scene: Cooked potatoes
+Action: Add the diced pastrami to the skillet *
+Step 7:
+Previous scene: Pastrami and potatoes in the skillet
+Action: Cook for an additional 5 minutes, stirring occasionally *
+Step 8:
+Previous scene: Cooked pastrami and potatoes
+Action: Crack four eggs into the skillet *
+Step 9:
+Previous scene: Pastrami, potatoes, and uncooked eggs in the skillet
+Action: Cook until the eggs reach the desired doneness *
+Step 10:
+Previous scene: Ready pastrami and egg hash in the skillet
+Action: Season with salt and pepper to taste, and serve hot *

@@ -1,0 +1,56 @@
+2,9 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: An oven displaying 375°F
+Action: In a large pot, bring water to a boil and cook lasagna noodles according to package instructions *
+
+Step 3:
+Previous scene: A pot of boiling water with lasagna noodles
+Action: In a pan, heat olive oil and sauté chopped onions and minced garlic until they are tender *
+
+Step 4:
+Previous scene: A pan with sautéed onions and garlic
+Action: Add chopped vegetables (such as bell peppers, mushrooms, and spinach) and cook until tender *
+
+Step 5:
+Previous scene: A pan with a mixture of sautéed vegetables, onions, and garlic
+Action: Stir in marinara sauce and simmer for 10 minutes *
+
+Step 6:
+Previous scene: A pan with vegetable marinara sauce
+Action: In a mixing bowl, combine ricotta cheese, 1 egg, and chopped fresh basil *
+
+Step 7:
+Previous scene: A mixing bowl with ricotta mixture
+Action: Spread a layer of vegetable marinara sauce at the bottom of a baking dish *
+
+Step 8:
+Previous scene: A baking dish with a layer of vegetable marinara sauce
+Action: Place a layer of cooked lasagna noodles over the sauce *
+
+Step 9:
+Previous scene: A baking dish with a layer of lasagna noodles and sauce
+Action: Spread a layer of the ricotta mixture over the noodles *
+
+Step 10:
+Previous scene: A baking dish with ricotta mixture and noodles
+Action: Sprinkle a layer of shredded mozzarella cheese on top *
+
+Step 11:
+Previous scene: A baking dish with shredded mozzarella cheese, ricotta mixture, and noodles
+Action: Repeat the layers (sauce, noodles, ricotta mixture, mozzarella) until the dish is full *
+
+Step 12:
+Previous scene: A baking dish with multiple layers of lasagna
+Action: Finish with a layer of vegetable marinara sauce and a final sprinkle of mozzarella cheese *
+
+Step 13:
+Previous scene: A baking dish with final mozzarella cheese layer
+Action: Cover the dish with aluminum foil and bake for 25 minutes *
+
+Step 14:
+Previous scene: A baking dish covered with aluminum foil
+Action: Remove the foil and bake for an additional 20 minutes until the cheese is golden and bubbly *

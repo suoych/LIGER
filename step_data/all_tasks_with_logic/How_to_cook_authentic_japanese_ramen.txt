@@ -1,0 +1,32 @@
+1, 2*
+Step 1:
+Previous scene: None
+Action: Gather all the ingredients such as ramen noodles, pork belly, broth, soy sauce, and various toppings like green onions and eggs *
+
+Step 2:
+Previous scene: Ingredients like ramen noodles, pork belly, broth, soy sauce, green onions, and eggs
+Action: Prepare the broth by simmering bones (pork or chicken) with aromatics like garlic, ginger, and onions for several hours *
+
+Step 3:
+Previous scene: Simmering pot with broth containing bones and aromatics
+Action: While the broth is simmering, marinate the pork belly in a mixture of soy sauce, mirin, and sugar *
+
+Step 4:
+Previous scene: Marinating pork belly
+Action: Boil the ramen noodles according to package instructions and then drain them *
+
+Step 5:
+Previous scene: Boiled and drained ramen noodles
+Action: Cook the marinated pork belly in a hot pan until caramelized and cooked through *
+
+Step 6:
+Previous scene: Caramelized pork belly
+Action: Prepare soft-boiled eggs by boiling eggs for approximately 7 minutes and then removing them to an ice bath *
+
+Step 7:
+Previous scene: Soft-boiled eggs in an ice bath
+Action: Assemble the ramen by placing the cooked noodles in a bowl, ladling hot broth over them, and topping with sliced pork belly, soft-boiled eggs, green onions, and other desired toppings *
+
+Step 8:
+Previous scene: Bowl with assembled ramen ingredients
+Action: Finish with a drizzle of soy sauce or sesame oil and serve hot *

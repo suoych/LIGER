@@ -1,0 +1,25 @@
+5, 2*
+Step 1:
+Previous scene: None
+Action: Fill a cocktail shaker with ice cubes *
+Step 2:
+Previous scene: A cocktail shaker with ice cubes
+Action: Add 1 ounce of vodka *
+Step 3:
+Previous scene: A cocktail shaker with ice cubes and vodka
+Action: Add 1 ounce of crème de cacao *
+Step 4:
+Previous scene: A cocktail shaker with ice cubes, vodka, and crème de cacao
+Action: Add 1 ounce of Irish cream liqueur *
+Step 5:
+Previous scene: A cocktail shaker with ice cubes, vodka, crème de cacao, and Irish cream liqueur
+Action: Shake the mixture vigorously until well combined *
+Step 6:
+Previous scene: A cocktail shaker with a mixed drink and ice cubes
+Action: Strain the mixture into a chilled martini glass *
+Step 7:
+Previous scene: A martini glass with the mixed drink
+Action: Garnish with a chocolate brownie on a skewer or a chocolate drizzle *
+Step 8:
+Previous scene: A martini glass with the mixed drink garnished with a brownie or chocolate drizzle
+Action: Serve immediately and enjoy! *

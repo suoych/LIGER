@@ -1,0 +1,40 @@
+3, 6*
+Step 1:
+Previous scene: None
+Action: Prepare the ingredients, including rice paper wrappers, shrimp or pork, vermicelli noodles, lettuce, mint, and cilantro *
+
+Step 2:
+Previous scene: Ingredients prepared
+Action: Soak the vermicelli noodles in warm water until soft, then drain *
+
+Step 3:
+Previous scene: Soaked vermicelli noodles
+Action: Cook the shrimp or pork in boiling water until fully cooked, then slice the pork or shrimp into thin pieces *
+
+Step 4:
+Previous scene: Cooked shrimp or pork
+Action: Fill a large bowl with warm water to dip the rice paper wrappers *
+
+Step 5:
+Previous scene: Bowl of warm water
+Action: Dip one rice paper wrapper in the warm water for a few seconds to soften it *
+
+Step 6:
+Previous scene: Softened rice paper wrapper
+Action: Lay the softened rice paper on a flat surface *
+
+Step 7:
+Previous scene: Rice paper on flat surface
+Action: Place a small amount of vermicelli noodles, lettuce, mint, cilantro, and sliced shrimp or pork on the lower third of the rice paper *
+
+Step 8:
+Previous scene: Ingredients on rice paper
+Action: Fold the sides of the rice paper over the filling and roll it up tightly to form the spring roll *
+
+Step 9:
+Previous scene: Rolled spring roll
+Action: Repeat with the remaining ingredients and rice paper wrappers *
+
+Step 10:
+Previous scene: Multiple spring rolls
+Action: Serve the spring rolls with dipping sauce, such as hoisin sauce or peanut sauce *

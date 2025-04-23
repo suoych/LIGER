@@ -1,0 +1,44 @@
+4, 8*
+Step 1:
+Previous scene: None
+Action: Heat a tablespoon of oil in a large skillet over medium-high heat *
+
+Step 2:
+Previous scene: A skillet with oil
+Action: Add 1 pound of sliced chicken breast to the skillet *
+
+Step 3:
+Previous scene: Skillet with chicken
+Action: Cook the chicken until it is no longer pink, about 5-7 minutes *
+
+Step 4:
+Previous scene: Cooked chicken in a skillet
+Action: Remove the chicken from the skillet and set it aside on a plate *
+
+Step 5:
+Previous scene: Empty skillet
+Action: Add another tablespoon of oil to the skillet *
+
+Step 6:
+Previous scene: Skillet with oil
+Action: Add 2 cups of mixed vegetables (like bell peppers, carrots, and broccoli) to the skillet *
+
+Step 7:
+Previous scene: Skillet with vegetables
+Action: Stir-fry the vegetables until they are tender-crisp, about 5 minutes *
+
+Step 8:
+Previous scene: Cooked vegetables in a skillet
+Action: Add the cooked chicken back into the skillet with the vegetables *
+
+Step 9:
+Previous scene: Skillet with chicken and vegetables
+Action: Pour 1/4 cup of stir-fry sauce over the chicken and vegetables *
+
+Step 10:
+Previous scene: Skillet with chicken, vegetables, and sauce
+Action: Stir everything together until well combined and heated through, about 2 minutes *
+
+Step 11:
+Previous scene: Skillet with mixed chicken, vegetables, and sauce
+Action: Serve the chicken stir fry over rice or noodles *

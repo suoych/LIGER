@@ -1,0 +1,25 @@
+7, 2*
+Step 1:
+Previous scene: None
+Action: Fill a large pot with water *
+Step 2:
+Previous scene: A large pot filled with water
+Action: Place the pot on the stove and turn the heat to high *
+Step 3:
+Previous scene: A pot of water on the stove
+Action: Add salt to the water *
+Step 4:
+Previous scene: A pot of salted water on the stove
+Action: Wait for the water to come to a boil *
+Step 5:
+Previous scene: A pot of boiling water
+Action: Add the corn to the pot *
+Step 6:
+Previous scene: Corn boiling in a pot of water
+Action: Cover the pot and let the corn cook for 5-7 minutes *
+Step 7:
+Previous scene: Corn cooking in a covered pot
+Action: Remove the corn from the pot using tongs *
+Step 8:
+Previous scene: Cooked corn on the cob
+Action: Serve the corn with butter and seasoning if desired *

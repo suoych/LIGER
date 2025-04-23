@@ -1,0 +1,28 @@
+5, 1*
+Step 1:
+Previous scene: None
+Action: In a saucepan, combine 1 cup of berries (such as strawberries, blueberries, or raspberries) *
+
+Step 2:
+Previous scene: A saucepan with berries
+Action: Add 1/2 cup of sugar *
+
+Step 3:
+Previous scene: A saucepan with berries mixed with sugar
+Action: Pour in 1/4 cup of water or juice *
+
+Step 4:
+Previous scene: A saucepan with berries, sugar, and liquid
+Action: Bring the mixture to a boil over medium heat *
+
+Step 5:
+Previous scene: Berries mixture starting to boil
+Action: Reduce the heat and let it simmer until the mixture thickens *
+
+Step 6:
+Previous scene: Thickened berry mixture
+Action: Remove from heat and let it cool before serving *
+
+Step 7:
+Previous scene: Cooled syrup
+Action: Pour the syrup through a strainer to remove seeds if desired *

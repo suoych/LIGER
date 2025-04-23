@@ -1,0 +1,25 @@
+5, 2*
+Step 1: 
+Previous scene: None
+Action: In a blender, add 2 cups of frozen strawberries *
+Step 2: 
+Previous scene: Blender with frozen strawberries
+Action: Add 1/4 cup of fresh lime juice *
+Step 3: 
+Previous scene: Blender with frozen strawberries
+Action: Add 1/2 cup of simple syrup *
+Step 4: 
+Previous scene: Blender with frozen strawberries and lime juice
+Action: Pour in 1/2 cup of rum *
+Step 5: 
+Previous scene: Blender with strawberries, lime juice, and simple syrup
+Action: Blend until smooth *
+Step 6: 
+Previous scene: Blender with a smooth mixture
+Action: Pour the mixture into a pitcher *
+Step 7: 
+Previous scene: Pitcher with daiquiri mixture
+Action: Garnish with sliced strawberries *
+Step 8: 
+Previous scene: Pitcher with garnished daiquiri
+Action: Serve in glasses with ice *

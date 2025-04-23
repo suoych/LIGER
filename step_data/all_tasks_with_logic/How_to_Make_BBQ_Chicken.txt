@@ -1,0 +1,31 @@
+1, 7*
+Step 1:
+Previous scene: None
+Action: Preheat your grill to medium-high heat *
+Step 2:
+Previous scene: A preheated grill
+Action: Season the chicken with salt and pepper *
+Step 3:
+Previous scene: Seasoned chicken
+Action: Place the chicken on the grill *
+Step 4:
+Previous scene: Chicken on the grill
+Action: Cook the chicken for about 5-7 minutes on one side *
+Step 5:
+Previous scene: Chicken cooking on one side
+Action: Flip the chicken over to cook the other side *
+Step 6:
+Previous scene: Chicken flipped on the grill
+Action: Brush the chicken with BBQ sauce *
+Step 7:
+Previous scene: Chicken with BBQ sauce on one side
+Action: Flip the chicken again and brush the other side with BBQ sauce *
+Step 8:
+Previous scene: Chicken with BBQ sauce on both sides
+Action: Continue cooking until the chicken reaches an internal temperature of 165°F *
+Step 9:
+Previous scene: Chicken cooked with BBQ sauce
+Action: Remove the chicken from the grill *
+Step 10:
+Previous scene: Chicken off the grill
+Action: Let the chicken rest for a few minutes before serving *

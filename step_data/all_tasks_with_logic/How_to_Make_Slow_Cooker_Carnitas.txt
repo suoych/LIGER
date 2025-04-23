@@ -1,0 +1,28 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Gather and prepare your ingredients: pork shoulder, garlic, onion, orange juice, lime juice, cumin, oregano, salt, and pepper *
+Step 2:
+Previous scene: Ingredients for carnitas
+Action: Place the pork shoulder in the slow cooker *
+Step 3:
+Previous scene: Pork shoulder in slow cooker
+Action: Add minced garlic and chopped onion on top of the pork *
+Step 4:
+Previous scene: Pork shoulder with garlic and onion in the slow cooker
+Action: Pour orange juice and lime juice over the pork *
+Step 5:
+Previous scene: Pork shoulder with garlic, onion, and citrus juices in the slow cooker
+Action: Sprinkle cumin, oregano, salt, and pepper over the pork *
+Step 6:
+Previous scene: Pork shoulder with seasonings in the slow cooker
+Action: Cover the slow cooker and cook on low for 8-10 hours, or on high for 4-6 hours *
+Step 7:
+Previous scene: Slow cooker with cooked pork
+Action: Once cooked, remove the pork from the slow cooker and shred it with two forks *
+Step 8:
+Previous scene: Shredded pork on a plate
+Action: Return the shredded pork to the slow cooker and mix it with the juices *
+Step 9:
+Previous scene: Shredded pork mixed with juices in the slow cooker
+Action: Spread the shredded pork on a baking sheet and broil it in the oven for 5-10 minutes until the edges are crispy *

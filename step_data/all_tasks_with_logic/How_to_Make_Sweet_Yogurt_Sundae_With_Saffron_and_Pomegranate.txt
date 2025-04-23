@@ -1,0 +1,36 @@
+5,2 *
+Step 1:
+Previous scene: None
+Action: In a small bowl, soak a pinch of saffron threads in 1 tablespoon of warm water for about 5 minutes *
+
+Step 2:
+Previous scene: A small bowl with saffron threads and warm water
+Action: In a medium bowl, add 1 cup of plain yogurt *
+
+Step 3:
+Previous scene: A medium bowl with plain yogurt
+Action: Stir in 1 tablespoon of honey into the yogurt *
+
+Step 4:
+Previous scene: A medium bowl with yogurt mixed with honey
+Action: Pour the soaked saffron (along with the water) into the yogurt mixture *
+
+Step 5:
+Previous scene: A medium bowl with yogurt, honey, and saffron mixture
+Action: Mix well until the yogurt is evenly colored by the saffron *
+
+Step 6:
+Previous scene: A medium bowl with well-mixed saffron yogurt
+Action: Spoon the saffron yogurt into serving bowls or glasses *
+
+Step 7:
+Previous scene: Serving bowls or glasses with saffron yogurt
+Action: Sprinkle pomegranate seeds on top of the yogurt *
+
+Step 8:
+Previous scene: Serving bowls or glasses with saffron yogurt topped with pomegranate seeds
+Action: Garnish with a few mint leaves, if desired *
+
+Step 9:
+Previous scene: Serving bowls or glasses with saffron yogurt, pomegranate seeds, and mint leaves
+Action: Serve immediately and enjoy your sweet yogurt sundae with saffron and pomegranate *

@@ -1,0 +1,44 @@
+1, 6*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 275°F (135°C) *
+
+Step 2: 
+Previous scene: A preheated oven
+Action: Remove the membrane from the back of the ribs *
+
+Step 3: 
+Previous scene: Ribs without membrane
+Action: Season both sides of the ribs with a dry rub of your choice *
+
+Step 4:
+Previous scene: Seasoned ribs
+Action: Place the ribs, meat side up, on a large piece of aluminum foil *
+
+Step 5:
+Previous scene: Ribs on aluminum foil
+Action: Wrap the ribs tightly in the foil *
+
+Step 6:
+Previous scene: Wrapped ribs in foil
+Action: Place the wrapped ribs on a baking sheet *
+
+Step 7:
+Previous scene: Wrapped ribs on a baking sheet
+Action: Bake in the preheated oven for 2.5 to 3 hours *
+
+Step 8:
+Previous scene: Baked ribs in the oven
+Action: Remove the ribs from the oven and unwrap them *
+
+Step 9:
+Previous scene: Unwrapped ribs
+Action: Brush a generous amount of barbecue sauce on both sides of the ribs *
+
+Step 10:
+Previous scene: Ribs with barbecue sauce
+Action: Place the ribs under a broiler or on a grill for 5-10 minutes to caramelize the sauce *
+
+Step 11:
+Previous scene: Ribs under a broiler or on a grill
+Action: Remove the ribs and let them rest for a few minutes before serving *

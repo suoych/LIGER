@@ -1,0 +1,33 @@
+2,6*
+Step 1:
+Previous scene: None
+Action: Place eggs in a saucepan or pot *
+
+Step 2:
+Previous scene: Eggs in a pot
+Action: Fill the pot with enough cold water to cover the eggs by about an inch *
+
+Step 3:
+Previous scene: Eggs submerged in water
+Action: Put the pot on the stove and turn the heat to high *
+
+Step 4:
+Previous scene: Pot on the stove
+Action: Wait until the water reaches a rolling boil *
+
+Step 5:
+Previous scene: Pot with boiling water
+Action: Turn off the heat and cover the pot with a lid *
+
+Step 6:
+Previous scene: Covered pot
+Action: Let the eggs sit in the hot water for 9-12 minutes, depending on the desired level of doneness *
+
+Step 7:
+Previous scene: Eggs in hot water
+Action: Remove the eggs from the hot water and place them in an ice bath to cool *
+
+Step 8:
+Previous scene: Eggs in an ice bath
+Action: Peel the eggs once they are cool enough to handle *
+

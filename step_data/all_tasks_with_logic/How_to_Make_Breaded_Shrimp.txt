@@ -1,0 +1,36 @@
+6, 3*
+Step 1:
+Previous scene: None
+Action: In a bowl, combine flour, salt, and pepper *
+
+Step 2:
+Previous scene: A bowl with flour, salt, and pepper
+Action: In another bowl, whisk together eggs *
+
+Step 3:
+Previous scene: A bowl with whisked eggs
+Action: In a third bowl, place bread crumbs *
+
+Step 4:
+Previous scene: A bowl with bread crumbs, a bowl with whisked eggs, and a bowl with seasoned flour
+Action: Dip each shrimp into the seasoned flour *
+
+Step 5:
+Previous scene: Shrimp coated with seasoned flour, and a bowl with whisked eggs and a bowl with bread crumbs
+Action: Dip the shrimp into the eggs *
+
+Step 6:
+Previous scene: Shrimp coated with flour and egg, and a bowl with bread crumbs
+Action: Coat the shrimp with bread crumbs *
+
+Step 7:
+Previous scene: Breaded shrimp
+Action: Heat oil in a frying pan over medium-high heat *
+
+Step 8:
+Previous scene: Frying pan with hot oil and breaded shrimp
+Action: Fry the shrimp until golden brown on both sides *
+
+Step 9:
+Previous scene: Frying pan with shrimp being fried
+Action: Remove the shrimp and place them on a paper towel-lined plate to drain excess oil *

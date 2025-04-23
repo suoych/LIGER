@@ -1,0 +1,31 @@
+1,8 *
+Step 1: 
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+Step 2: 
+Previous scene: Oven preheated to 375°F
+Action: Slice a French bread loaf in half lengthwise *
+Step 3: 
+Previous scene: French bread loaf
+Action: Place the bread halves on a baking sheet *
+Step 4: 
+Previous scene: Bread halves on the baking sheet
+Action: Spread pizza sauce evenly over each bread half *
+Step 5: 
+Previous scene: Bread halves with pizza sauce
+Action: Sprinkle shredded mozzarella cheese on top of the sauce *
+Step 6: 
+Previous scene: Bread halves with sauce and cheese
+Action: Add any desired toppings like pepperoni, mushrooms, bell peppers, etc. *
+Step 7: 
+Previous scene: Bread halves with toppings
+Action: Place the baking sheet in the preheated oven *
+Step 8: 
+Previous scene: Baking sheet in the preheated oven
+Action: Bake for 10-15 minutes or until the cheese is melted and bubbly *
+Step 9: 
+Previous scene: French bread pizza in the oven
+Action: Remove from the oven and let it cool for a few minutes *
+Step 10: 
+Previous scene: French bread pizza cooling
+Action: Slice and serve the French bread pizza *

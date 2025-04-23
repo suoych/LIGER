@@ -1,0 +1,40 @@
+2, 6*
+Step 1:
+Previous scene: None
+Action: Gather ingredients including chicken, red curry paste, coconut milk, vegetables, and spices *
+
+Step 2:
+Previous scene: Ingredients including chicken and spices
+Action: Cut the chicken into bite-sized pieces *
+
+Step 3:
+Previous scene: Cut chicken pieces
+Action: Heat oil in a pan over medium heat *
+
+Step 4:
+Previous scene: Hot pan with oil
+Action: Add the red curry paste and cook it until fragrant *
+
+Step 5:
+Previous scene: Pan with fragrant red curry paste
+Action: Add the chicken pieces and stir them until they are cooked on the outside *
+
+Step 6:
+Previous scene: Pan with chicken coated in red curry paste
+Action: Pour in the coconut milk and stir to combine *
+
+Step 7:
+Previous scene: Pan with chicken and coconut milk mixture
+Action: Add vegetables of choice, such as bell peppers and bamboo shoots *
+
+Step 8:
+Previous scene: Pan with chicken, coconut milk, and vegetables
+Action: Simmer the mixture until the chicken is fully cooked and the vegetables are tender *
+
+Step 9:
+Previous scene: Pan with fully cooked Thai red curry chicken
+Action: Add fish sauce and sugar to taste, then stir well *
+
+Step 10:
+Previous scene: Seasoned Thai red curry chicken
+Action: Serve hot with steamed rice *

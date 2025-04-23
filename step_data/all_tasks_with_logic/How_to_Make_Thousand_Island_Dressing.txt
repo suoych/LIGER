@@ -1,0 +1,32 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, add 1 cup of mayonnaise *
+
+Step 2:
+Previous scene: A bowl with mayonnaise
+Action: Add 1/4 cup of ketchup to the mayonnaise *
+
+Step 3:
+Previous scene: A bowl with mayonnaise and ketchup
+Action: Add 1 tablespoon of sweet pickle relish *
+
+Step 4:
+Previous scene: A bowl with mayonnaise, ketchup, and relish
+Action: Add 1 teaspoon of finely diced onion *
+
+Step 5:
+Previous scene: A bowl with mayonnaise, ketchup, relish, and onion
+Action: Add 1 teaspoon of finely diced garlic *
+
+Step 6:
+Previous scene: A bowl with mayonnaise, ketchup, relish, onion, and garlic
+Action: Add a pinch of salt and pepper to taste *
+
+Step 7:
+Previous scene: A bowl with all ingredients
+Action: Stir everything together until well combined *
+
+Step 8:
+Previous scene: A bowl with mixed ingredients
+Action: Chill the dressing in the refrigerator for at least an hour before serving *

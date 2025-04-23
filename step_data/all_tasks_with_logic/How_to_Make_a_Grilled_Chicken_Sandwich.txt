@@ -1,0 +1,37 @@
+2, 7*
+Step 1:
+Previous scene: None
+Action: Place a raw chicken breast on a cutting board *
+Step 2:
+Previous scene: A cutting board with raw chicken breast
+Action: Season the chicken breast with salt and pepper *
+Step 3:
+Previous scene: A cutting board with a seasoned raw chicken breast
+Action: Heat a grill pan over medium-high heat *
+Step 4:
+Previous scene: An empty grill pan heating up
+Action: Place the seasoned chicken breast on the grill pan *
+Step 5:
+Previous scene: A grill pan with a seasoned chicken breast
+Action: Cook the chicken breast for about 5-7 minutes on each side until fully cooked *
+Step 6:
+Previous scene: A grill pan with a fully cooked chicken breast
+Action: Remove the chicken breast from the grill pan and let it rest *
+Step 7:
+Previous scene: A cutting board with a rested grilled chicken breast
+Action: Slice the grilled chicken breast *
+Step 8:
+Previous scene: A cutting board with sliced grilled chicken
+Action: Toast two slices of bread or a sandwich bun *
+Step 9:
+Previous scene: Two toasted bread slices/bun
+Action: Spread mayonnaise on one or both slices of bread/bun *
+Step 10:
+Previous scene: Two slices of bread/bun with mayonnaise
+Action: Layer lettuce, tomato slices, and the sliced grilled chicken on one slice of bread/bun *
+Step 11:
+Previous scene: An open sandwich with lettuce, tomato, and grilled chicken
+Action: Top the sandwich with the other slice of bread/bun *
+Step 12:
+Previous scene: A fully assembled sandwich
+Action: Serve and enjoy your grilled chicken sandwich *

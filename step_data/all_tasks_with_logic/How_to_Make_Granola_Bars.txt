@@ -1,0 +1,48 @@
+7,3 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: A preheated oven
+Action: In a large mixing bowl, combine 2 cups of rolled oats *
+
+Step 3:
+Previous scene: A bowl with rolled oats
+Action: Add 1 cup of chopped nuts (such as almonds or walnuts) *
+
+Step 4:
+Previous scene: A bowl with oats and nuts
+Action: Add 1/2 cup of honey or maple syrup *
+
+Step 5:
+Previous scene: A bowl with oats, nuts, and syrup
+Action: Add 1/2 cup of dried fruit (such as raisins or cranberries) *
+
+Step 6:
+Previous scene: A bowl with oats, nuts, syrup, and dried fruit
+Action: Add 1/3 cup of melted butter or coconut oil *
+
+Step 7:
+Previous scene: A bowl with all ingredients
+Action: Mix everything together until well combined *
+
+Step 8:
+Previous scene: A bowl with fully mixed ingredients
+Action: Line a baking dish with parchment paper *
+
+Step 9:
+Previous scene: A lined baking dish
+Action: Press the granola mixture firmly into the baking dish *
+
+Step 10:
+Previous scene: A baking dish with granola mixture
+Action: Bake in the preheated oven for about 20-25 minutes, or until the edges are golden brown *
+
+Step 11:
+Previous scene: A baking dish with baked granola mixture
+Action: Let the granola cool completely *
+
+Step 12:
+Previous scene: A cooled baking dish with granola
+Action: Cut the granola into bars and enjoy *

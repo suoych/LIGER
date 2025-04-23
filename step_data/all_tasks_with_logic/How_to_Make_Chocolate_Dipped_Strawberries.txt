@@ -1,0 +1,32 @@
+2, 5*
+Step 1:
+Previous scene: None
+Action: Wash and dry the strawberries thoroughly *
+
+Step 2:
+Previous scene: Clean strawberries
+Action: Line a baking sheet with parchment paper *
+
+Step 3:
+Previous scene: Baking sheet with parchment paper
+Action: In a microwave-safe bowl, add 1 cup of chocolate chips *
+
+Step 4:
+Previous scene: A bowl with chocolate chips
+Action: Microwave the chocolate chips in 30-second intervals, stirring until smooth and melted *
+
+Step 5:
+Previous scene: A bowl with melted chocolate
+Action: Dip each strawberry into the melted chocolate, coating it evenly *
+
+Step 6:
+Previous scene: A strawberry dipped in chocolate
+Action: Place the dipped strawberry onto the parchment-lined baking sheet *
+
+Step 7:
+Previous scene: A chocolate-dipped strawberry on a baking sheet
+Action: Refrigerate the strawberries for about 30 minutes or until the chocolate is set *
+
+Step 8:
+Previous scene: Chocolate-dipped strawberries on a baking sheet
+Action: Serve the chocolate-dipped strawberries and enjoy *

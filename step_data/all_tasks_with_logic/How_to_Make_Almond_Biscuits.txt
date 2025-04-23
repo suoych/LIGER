@@ -1,0 +1,40 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of almond flour, 1/4 cup of coconut flour, and 1 teaspoon of baking powder *
+
+Step 3:
+Previous scene: A bowl with almond flour, coconut flour, and baking powder
+Action: Add 1/4 teaspoon of salt and mix well *
+
+Step 4:
+Previous scene: A bowl with dry ingredients
+Action: In another bowl, whisk together 2 large eggs, 1/4 cup of melted coconut oil, and 1/4 cup of honey *
+
+Step 5:
+Previous scene: A bowl with wet ingredients
+Action: Pour the wet ingredients into the dry ingredients and mix until a dough forms *
+
+Step 6:
+Previous scene: A bowl with dough
+Action: Fold in 1/3 cup of chopped almonds *
+
+Step 7:
+Previous scene: A bowl with dough mixed with almonds
+Action: Scoop out small portions of the dough and form them into balls *
+
+Step 8:
+Previous scene: A baking sheet with dough balls
+Action: Place the dough balls onto a baking sheet lined with parchment paper and press down each ball to slightly flatten *
+
+Step 9:
+Previous scene: Flattened dough balls on a baking sheet
+Action: Bake in the preheated oven for 12-15 minutes, or until the biscuits are golden brown *
+
+Step 10:
+Previous scene: Biscuits in the oven
+Action: Remove from the oven and let cool on a wire rack before serving *

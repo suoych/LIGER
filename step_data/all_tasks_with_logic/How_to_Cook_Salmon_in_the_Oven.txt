@@ -1,0 +1,31 @@
+1, 7*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 400°F (200°C) *
+Step 2:
+Previous scene: None
+Action: Line a baking sheet with aluminum foil or parchment paper *
+Step 3:
+Previous scene: A lined baking sheet
+Action: Place the salmon fillets on the baking sheet *
+Step 4:
+Previous scene: Salmon fillets on a lined baking sheet
+Action: Drizzle olive oil over the salmon fillets *
+Step 5:
+Previous scene: Salmon fillets drizzled with olive oil
+Action: Season the salmon with salt and pepper *
+Step 6:
+Previous scene: Seasoned salmon fillets
+Action: Optionally, add lemon slices and fresh herbs on top of the salmon *
+Step 7:
+Previous scene: Salmon fillets with lemon slices and herbs
+Action: Put the baking sheet with the salmon in the oven *
+Step 8:
+Previous scene: Salmon fillets placed in the oven
+Action: Bake for 12-15 minutes, or until the salmon is opaque and flakes easily with a fork *
+Step 9:
+Previous scene: Salmon fillets baking in the oven
+Action: Remove the salmon from the oven *
+Step 10:
+Previous scene: Baked salmon fillets
+Action: Serve the salmon hot, optionally with a side dish of your choice *

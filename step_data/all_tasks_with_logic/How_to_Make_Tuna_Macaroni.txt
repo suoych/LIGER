@@ -1,0 +1,32 @@
+4,2 *
+Step 1:
+Previous scene: None
+Action: Boil a pot of water with a pinch of salt *
+
+Step 2:
+Previous scene: Pot of boiling water
+Action: Add macaroni and cook until tender *
+
+Step 3:
+Previous scene: Pot with cooked macaroni
+Action: Drain the macaroni in a colander *
+
+Step 4:
+Previous scene: Colander with drained macaroni
+Action: Rinse the macaroni with cold water and let it drain *
+
+Step 5:
+Previous scene: Colander with rinsed and drained macaroni
+Action: In a large mixing bowl, combine the macaroni, a can of drained tuna, chopped celery, chopped onions, and a cup of mayonnaise *
+
+Step 6:
+Previous scene: Mixing bowl with ingredients
+Action: Mix everything together until well combined *
+
+Step 7:
+Previous scene: Mixed tuna macaroni salad
+Action: Add salt and pepper to taste *
+
+Step 8:
+Previous scene: Seasoned tuna macaroni in a bowl
+Action: Serve immediately or chill in the refrigerator until ready to serve *

@@ -1,0 +1,48 @@
+5,1 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of flour *
+
+Step 2:
+Previous scene: A bowl with flour
+Action: Add 1 tablespoon of sugar, 1 teaspoon of baking powder, and a pinch of salt *
+
+Step 3:
+Previous scene: A bowl with dry ingredients
+Action: Pour in 1 cup of milk *
+
+Step 4:
+Previous scene: A bowl with dry ingredients and milk
+Action: Crack an egg into the mixture *
+
+Step 5:
+Previous scene: A bowl with a wet mixture
+Action: Whisk until smooth *
+
+Step 6:
+Previous scene: A bowl with pancake batter
+Action: Heat a skillet over medium heat and pour in the batter to form a round pancake *
+
+Step 7:
+Previous scene: Pancake cooking on skillet
+Action: Cook until bubbles form on the surface and edges look set, then flip and cook until golden brown *
+
+Step 8:
+Previous scene: A cooked pancake
+Action: Place the pancake on a plate *
+
+Step 9:
+Previous scene: A cooked pancake on a plate
+Action: Use whipped cream to create Santa's beard and hat fringe *
+
+Step 10:
+Previous scene: A pancake with whipped cream
+Action: Place a strawberry on the top to represent Santa's hat *
+
+Step 11:
+Previous scene: A pancake with whipped cream and a strawberry
+Action: Add blueberries for Santa's eyes and a small piece of banana for his nose *
+
+Step 12:
+Previous scene: A decorated pancake resembling Santa's face
+Action: Serve and enjoy your Santa pancake *

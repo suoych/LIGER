@@ -1,0 +1,22 @@
+5,1*
+Step 1:
+Previous scene: None
+Action: Fill the burnt pan with water until the burnt residues are covered *
+Step 2:
+Previous scene: A pan filled with water
+Action: Add a few tablespoons of baking soda to the water *
+Step 3:
+Previous scene: A pan with water and baking soda
+Action: Place the pan on the stove and bring the mixture to a boil *
+Step 4:
+Previous scene: A boiling pan with water and baking soda
+Action: Let it simmer for a few minutes to loosen the burnt residues *
+Step 5:
+Previous scene: A simmering pan with loosened burnt residues
+Action: Turn off the heat and let the pan cool down *
+Step 6:
+Previous scene: A cooled pan with water and loosened burnt residues
+Action: Use a scrubbing pad to scrub off the burnt residues *
+Step 7:
+Previous scene: A clean pan
+Action: Rinse the pan thoroughly with clean water and dry it *

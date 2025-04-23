@@ -1,0 +1,28 @@
+1, 3*
+Step 1:  
+Previous scene: None  
+Action: Chop vegetables such as lettuce, tomatoes, cucumbers, and radishes into bite-sized pieces. *  
+
+Step 2:  
+Previous scene: Chopped vegetables  
+Action: Tear pieces of pita bread and fry or toast them until crispy. *  
+
+Step 3:  
+Previous scene: Chopped vegetables and toasted pita  
+Action: Combine the chopped vegetables and toasted pita pieces in a large bowl. *  
+
+Step 4:  
+Previous scene: A bowl with vegetables and pita  
+Action: Add herbs such as parsley and mint, and sliced green onions to the mixture. *  
+
+Step 5:  
+Previous scene: A bowl with vegetables, pita, and herbs  
+Action: Prepare the dressing by mixing olive oil, lemon juice, sumac, salt, and pepper. *  
+
+Step 6:  
+Previous scene: A bowl with vegetables, pita, and herbs  
+Action: Pour the dressing over the vegetable and pita mixture and toss well to coat. *  
+
+Step 7:  
+Previous scene: A bowl with dressed vegetables and pita  
+Action: Serve immediately to enjoy the fresh flavors and crispy texture. *  

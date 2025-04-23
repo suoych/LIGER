@@ -1,0 +1,25 @@
+4, 2*
+Step 1:
+Previous scene: None
+Action: Fill a large pot with water and add salt *
+Step 2:
+Previous scene: A large pot filled with salted water
+Action: Bring the water to a boil *
+Step 3:
+Previous scene: Boiling water in a pot
+Action: Add the lobster tails to the boiling water *
+Step 4:
+Previous scene: Lobster tails in boiling water
+Action: Cook the lobster tails for 5-8 minutes until they are bright red and the meat is opaque *
+Step 5:
+Previous scene: Cooked lobster tails in the pot
+Action: Remove the lobster tails from the pot and let them cool slightly *
+Step 6:
+Previous scene: Cooked lobster tails on a surface cooling
+Action: Use kitchen shears to cut through the top shell of each lobster tail *
+Step 7:
+Previous scene: Lobster tails with cut shells
+Action: Gently pull the shell apart and remove the lobster meat *
+Step 8:
+Previous scene: Lobster meat out of the shells
+Action: Serve the lobster tails with melted butter and lemon wedges *

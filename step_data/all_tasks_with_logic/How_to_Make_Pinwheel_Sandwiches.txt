@@ -1,0 +1,32 @@
+5,3 *
+Step 1:
+Previous scene: None
+Action: Lay a slice of tortilla or flatbread on a flat surface *
+
+Step 2:
+Previous scene: A tortilla or flatbread
+Action: Spread a thin, even layer of cream cheese over the tortilla or flatbread *
+
+Step 3:
+Previous scene: A tortilla or flatbread with cream cheese
+Action: Place slices of deli meat (e.g., turkey or ham) over the cream cheese layer *
+
+Step 4:
+Previous scene: A tortilla or flatbread with cream cheese and deli meat
+Action: Add slices of cheese on top of the deli meat *
+
+Step 5:
+Previous scene: A tortilla or flatbread with cream cheese, deli meat, and cheese
+Action: Add a layer of fresh spinach or lettuce leaves *
+
+Step 6:
+Previous scene: A tortilla or flatbread with cream cheese, deli meat, cheese, and spinach or lettuce
+Action: Roll the tortilla or flatbread tightly from one end to the other *
+
+Step 7:
+Previous scene: A rolled-up tortilla or flatbread
+Action: Use a sharp knife to slice the roll into pinwheels, each about 1 inch thick *
+
+Step 8:
+Previous scene: Pinwheel slices on a cutting board
+Action: Arrange the pinwheel sandwiches on a serving platter and serve *

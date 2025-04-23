@@ -1,0 +1,31 @@
+5, 9*
+Step 1:
+Previous scene: None
+Action: In a large pot, melt 2 tablespoons of butter over medium heat *
+Step 2:
+Previous scene: A pot with melted butter
+Action: Add 1 chopped onion, 2 minced garlic cloves, and sauté until onions are translucent *
+Step 3:
+Previous scene: Pot with butter, onions, and garlic mixture
+Action: Add 3 tablespoons of flour to the pot, stirring continuously to create a roux *
+Step 4:
+Previous scene: Pot with roux mixture
+Action: Gradually pour in 4 cups of clam juice, stirring constantly until the mixture thickens *
+Step 5:
+Previous scene: Pot with thickened mixture
+Action: Add 2 cups of diced potatoes, 2 cups of diced celery, and cook until the vegetables are tender *
+Step 6:
+Previous scene: Pot with vegetable mixture
+Action: Stir in 2 cans of minced clams with their juice *
+Step 7:
+Previous scene: Pot with seasoned soup base and clams
+Action: Add 2 cups of half-and-half cream to the pot *
+Step 8:
+Previous scene: Pot with clam chowder mixture
+Action: Season the chowder with salt, pepper, and thyme to taste *
+Step 9:
+Previous scene: Pot with seasoned clam chowder
+Action: Allow the chowder to simmer for 15 minutes, stirring occasionally *
+Step 10:
+Previous scene: Pot with simmering clam chowder
+Action: Serve hot, optionally garnishing with chopped parsley or crispy bacon bits *

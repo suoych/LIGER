@@ -1,0 +1,31 @@
+2,7 *
+Step 1:
+Previous scene: None
+Action: Cut a pumpkin into small pieces *
+Step 2:
+Previous scene: Pumpkin pieces
+Action: Chop onions and garlic *
+Step 3:
+Previous scene: Chopped onions and garlic
+Action: Heat oil in a pot *
+Step 4:
+Previous scene: Hot oil in a pot
+Action: Add chopped onions and garlic to the pot *
+Step 5:
+Previous scene: Sautéed onions and garlic
+Action: Add pumpkin pieces to the pot *
+Step 6:
+Previous scene: Pumpkin pieces mixed with onions and garlic
+Action: Pour vegetable broth into the pot *
+Step 7:
+Previous scene: Pot with pumpkin and broth
+Action: Add spices such as cumin, curry powder, and red pepper flakes *
+Step 8:
+Previous scene: Pot with pumpkin, broth, and spices
+Action: Bring the mixture to a boil, then let it simmer *
+Step 9:
+Previous scene: Simmered soup
+Action: Blend the soup until smooth *
+Step 10:
+Previous scene: Smooth soup
+Action: Serve the soup with a dollop of cream and a sprinkle of fresh herbs *

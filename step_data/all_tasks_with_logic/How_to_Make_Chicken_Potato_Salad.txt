@@ -1,0 +1,28 @@
+3, 4*
+Step 1: 
+Previous scene: None
+Action: Boil potatoes until tender, then drain and cool *
+Step 2: 
+Previous scene: Boiled potatoes
+Action: Cut the cooled potatoes into bite-sized pieces *
+Step 3:
+Previous scene: Cut potatoes
+Action: Boil chicken breasts until cooked through, then shred or dice *
+Step 4:
+Previous scene: Shredded or diced chicken
+Action: In a large mixing bowl, combine the cut potatoes and chicken *
+Step 5:
+Previous scene: Potatoes and chicken in a bowl
+Action: Add diced celery and chopped onions to the bowl *
+Step 6:
+Previous scene: Potatoes, chicken, celery, and onions in a bowl
+Action: In a separate bowl, mix mayonnaise, mustard, salt, and pepper *
+Step 7:
+Previous scene: A bowl with mayonnaise mixture
+Action: Pour the mayonnaise mixture over the potato and chicken mix *
+Step 8:
+Previous scene: Potato and chicken mix with mayonnaise mixture
+Action: Gently toss to coat everything evenly *
+Step 9:
+Previous scene: Fully mixed chicken potato salad
+Action: Chill in the refrigerator for at least 1 hour before serving *

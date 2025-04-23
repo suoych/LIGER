@@ -1,0 +1,44 @@
+1,9 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: Grease and flour a 9x13 inch baking pan *
+
+Step 3:
+Previous scene: A greased and floured baking pan
+Action: In a large bowl, mix 2 cups of organic sugar and 1 1/2 cups of organic oil until well blended *
+
+Step 4:
+Previous scene: A bowl with blended sugar and oil
+Action: Add 4 organic eggs, one at a time, beating well with each addition *
+
+Step 5:
+Previous scene: A bowl with blended sugar, oil, and eggs
+Action: In another bowl, combine 2 cups of organic flour, 2 teaspoons of baking soda, 2 teaspoons of baking powder, 1/2 teaspoon of salt, and 2 teaspoons of ground cinnamon *
+
+Step 6:
+Previous scene: A bowl with mixed dry ingredients (flour, baking soda, baking powder, salt, cinnamon)
+Action: Gradually add the dry ingredients to the wet ingredients, mixing well *
+
+Step 7:
+Previous scene: A bowl with batter
+Action: Fold in 3 cups of grated organic carrots and 1 cup of chopped organic nuts (optional) *
+
+Step 8:
+Previous scene: A bowl with carrot cake batter
+Action: Pour the batter into the prepared 9x13 inch baking pan *
+
+Step 9:
+Previous scene: A baking pan filled with carrot cake batter
+Action: Bake in the preheated oven for 40 to 50 minutes, or until a toothpick inserted into the center comes out clean *
+
+Step 10:
+Previous scene: A cake in the oven
+Action: Allow the cake to cool in the pan for 10 minutes, then turn out onto a wire rack and cool completely *
+
+Step 11:
+Previous scene: A cooling cake
+Action: Frost with organic cream cheese frosting if desired, and serve *

@@ -1,0 +1,37 @@
+4, 9*
+Step 1:
+Previous scene: None
+Action: In a bowl, combine soy sauce, hoisin sauce, honey, sugar, Chinese five-spice powder, and minced garlic to make the marinade *
+Step 2:
+Previous scene: A bowl with marinade
+Action: Cut pork shoulder into strips *
+Step 3:
+Previous scene: Marinade and pork strips
+Action: Place the pork strips into the bowl with marinade, ensuring they are fully coated *
+Step 4:
+Previous scene: Pork strips in marinade
+Action: Cover the bowl and refrigerate for at least 4 hours or overnight *
+Step 5:
+Previous scene: Refrigerated, marinated pork
+Action: Preheat your oven to 375°F (190°C) *
+Step 6:
+Previous scene: None (oven preheating)
+Action: Line a baking sheet with aluminum foil and place a wire rack on top *
+Step 7:
+Previous scene: Baking sheet with wire rack
+Action: Arrange the marinated pork strips on the wire rack, spacing them evenly *
+Step 8:
+Previous scene: Pork strips on wire rack
+Action: Bake in the preheated oven for 30 minutes *
+Step 9:
+Previous scene: Pork strips in oven
+Action: Baste the pork strips with remaining marinade *
+Step 10:
+Previous scene: Pork strips basted with marinade
+Action: Continue baking for another 20-30 minutes, basting occasionally, until the pork is caramelized and slightly charred *
+Step 11:
+Previous scene: Basted and baked char siu
+Action: Remove from oven and let it rest for a few minutes before slicing *
+Step 12:
+Previous scene: Cooked char siu
+Action: Slice the pork and serve with your preferred accompaniments *

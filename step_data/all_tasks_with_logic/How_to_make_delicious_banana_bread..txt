@@ -1,0 +1,44 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: Preheated oven
+Action: Grease a 9x5 inch loaf pan *
+
+Step 3:
+Previous scene: Greased loaf pan
+Action: In a large mixing bowl, mash 3 ripe bananas *
+
+Step 4:
+Previous scene: Bowl of mashed bananas
+Action: Stir in 1/3 cup of melted butter *
+
+Step 5:
+Previous scene: Bowl with mashed bananas and melted butter
+Action: Mix in 1 teaspoon of baking soda and a pinch of salt *
+
+Step 6:
+Previous scene: Bowl with mashed bananas, melted butter, baking soda, and salt
+Action: Stir in 3/4 cup of sugar, 1 beaten egg, and 1 teaspoon of vanilla extract *
+
+Step 7:
+Previous scene: Bowl with wet ingredients mixture
+Action: Add 1 1/2 cups of all-purpose flour and mix until smooth *
+
+Step 8:
+Previous scene: Bowl with banana bread batter
+Action: Pour the batter into the greased loaf pan *
+
+Step 9:
+Previous scene: Batter in loaf pan
+Action: Bake in the preheated oven for 60-65 minutes, or until a toothpick inserted into the center comes out clean *
+
+Step 10:
+Previous scene: Banana bread in loaf pan in oven
+Action: Let the bread cool in the pan for about 10 minutes, then remove from the pan and transfer to a wire rack to cool completely *
+
+Step 11:
+Previous scene: Banana bread cooling on a wire rack
+Action: Slice and serve the delicious banana bread *

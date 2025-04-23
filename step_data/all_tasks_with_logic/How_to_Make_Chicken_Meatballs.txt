@@ -1,0 +1,52 @@
+10, 5*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 pound of ground chicken *
+
+Step 2:
+Previous scene: A bowl with ground chicken
+Action: Add 1/2 cup of breadcrumbs *
+
+Step 3:
+Previous scene: A bowl with ground chicken and breadcrumbs
+Action: Add 1/4 cup of grated Parmesan cheese *
+
+Step 4:
+Previous scene: A bowl with ground chicken, breadcrumbs, and Parmesan cheese
+Action: Add 1 beaten egg *
+
+Step 5:
+Previous scene: A bowl with ground chicken mixture and a beaten egg
+Action: Mix in 1 teaspoon of garlic powder *
+
+Step 6:
+Previous scene: A bowl with seasoned chicken mixture
+Action: Add 1 teaspoon of onion powder *
+
+Step 7:
+Previous scene: A bowl with seasoned chicken mixture
+Action: Sprinkle in 1 teaspoon of Italian seasoning *
+
+Step 8:
+Previous scene: A bowl with seasoned chicken mixture
+Action: Add salt and pepper to taste *
+
+Step 9:
+Previous scene: A bowl with seasoned chicken mixture
+Action: Mix all ingredients until well combined *
+
+Step 10:
+Previous scene: A bowl with fully mixed chicken mixture
+Action: Form the mixture into meatballs, about 1 inch in diameter *
+
+Step 11:
+Previous scene: Formed chicken meatballs
+Action: Heat 2 tablespoons of olive oil in a skillet over medium heat *
+
+Step 12:
+Previous scene: A heated skillet with oil
+Action: Place meatballs in the skillet and cook until browned on all sides and cooked through, about 10-12 minutes *
+
+Step 13:
+Previous scene: Cooked chicken meatballs in skillet
+Action: Remove meatballs from skillet and serve warm *

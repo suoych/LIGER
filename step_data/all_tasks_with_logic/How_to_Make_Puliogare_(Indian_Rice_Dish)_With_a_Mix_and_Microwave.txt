@@ -1,0 +1,22 @@
+3,6 *
+Step 1: 
+Previous scene: None
+Action: In a large microwave-safe bowl, add 2 cups of cooked rice *
+Step 2: 
+Previous scene: A bowl with cooked rice
+Action: Add puliogare mix to the cooked rice *
+Step 3: 
+Previous scene: A bowl with rice and puliogare mix
+Action: Mix the rice and puliogare mix thoroughly *
+Step 4: 
+Previous scene: A bowl with mixed rice and puliogare mix
+Action: Cover the bowl with a microwave-safe lid or a microwave-safe plate *
+Step 5: 
+Previous scene: A covered bowl with mixed rice and puliogare mix
+Action: Microwave the bowl on high for 2-3 minutes *
+Step 6: 
+Previous scene: A bowl in the microwave
+Action: Carefully remove the bowl from the microwave using oven mitts *
+Step 7: 
+Previous scene: A bowl with hot puliogare
+Action: Let the puliogare sit for a minute to cool slightly before serving *

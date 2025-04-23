@@ -1,0 +1,40 @@
+2,7 *
+Step 1:
+Previous scene: None
+Action: In a bowl, mix soy sauce, mirin, and sake or white wine * 
+
+Step 2:
+Previous scene: A bowl with mixed liquids
+Action: Add sugar and stir until it dissolves * 
+
+Step 3:
+Previous scene: A bowl with teriyaki sauce
+Action: Place the salmon fillets in a shallow dish * 
+
+Step 4:
+Previous scene: Salmon fillets in a shallow dish
+Action: Pour the teriyaki sauce over the salmon fillets * 
+
+Step 5:
+Previous scene: Salmon fillets marinating in teriyaki sauce
+Action: Cover the dish with plastic wrap and let it marinate in the refrigerator for at least 30 minutes * 
+
+Step 6:
+Previous scene: Marinating salmon fillets
+Action: Preheat the oven to 375°F (190°C) * 
+
+Step 7:
+Previous scene: Salmon fillets marinated in teriyaki sauce
+Action: Remove the salmon from the marinade and place it on a baking sheet lined with parchment paper * 
+
+Step 8:
+Previous scene: Salmon fillets on a baking sheet
+Action: Brush the salmon with some of the remaining teriyaki sauce * 
+
+Step 9:
+Previous scene: Salmon fillets brushed with teriyaki sauce
+Action: Bake the salmon in the oven for 12-15 minutes until it flakes easily with a fork * 
+
+Step 10:
+Previous scene: Baked salmon in the oven
+Action: Remove from the oven and let it rest for a few minutes before serving *

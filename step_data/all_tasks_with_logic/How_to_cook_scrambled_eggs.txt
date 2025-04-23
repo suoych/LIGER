@@ -1,0 +1,24 @@
+5,3*
+Step 1:
+Previous scene: None
+Action: Crack eggs into a bowl and whisk them until well combined *
+
+Step 2:
+Previous scene: A bowl with whisked eggs
+Action: Heat a non-stick skillet over medium heat and add a small amount of butter or oil *
+
+Step 3:
+Previous scene: A skillet with butter or oil heating
+Action: Pour the whisked eggs into the skillet *
+
+Step 4:
+Previous scene: A skillet with eggs
+Action: Gently stir the eggs with a spatula, pushing them from the edges to the center *
+
+Step 5:
+Previous scene: A skillet with partially cooked eggs
+Action: Continue cooking until the eggs are just set but still slightly moist *
+
+Step 6:
+Previous scene: A skillet with scrambled eggs
+Action: Remove the eggs from the skillet and season with salt and pepper to taste *

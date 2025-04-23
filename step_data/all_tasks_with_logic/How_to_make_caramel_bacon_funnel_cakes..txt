@@ -1,0 +1,37 @@
+4, 6*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of flour *
+Step 2:
+Previous scene: A bowl with flour
+Action: Add 1 tablespoon of sugar, 1 teaspoon of baking powder, and a pinch of salt *
+Step 3:
+Previous scene: A bowl with dry ingredients
+Action: In another bowl, whisk together 1 cup of milk, 1 egg, and 1 teaspoon of vanilla extract *
+Step 4:
+Previous scene: A mixing bowl with wet ingredients and a separate bowl with dry ingredients
+Action: Gradually combine wet ingredients into the dry ingredients bowl and stir until smooth *
+Step 5:
+Previous scene: A bowl of smooth batter
+Action: Heat oil in a deep fryer or large pot to 375°F (190°C) *
+Step 6:
+Previous scene: A bowl of batter and a heated deep fryer
+Action: Pour the batter through a funnel into hot oil in a circular motion to form a cake *
+Step 7:
+Previous scene: Batter in hot oil forming a cake
+Action: Fry until golden brown on both sides, about 2-3 minutes per side *
+Step 8:
+Previous scene: Golden brown funnel cakes
+Action: Remove funnel cakes from oil and drain on paper towels *
+Step 9:
+Previous scene: Drained funnel cakes on paper towels
+Action: In a skillet, cook bacon until crispy, then chop into small pieces *
+Step 10:
+Previous scene: Bacon pieces on skillet
+Action: Sprinkle chopped bacon over the funnel cakes *
+Step 11:
+Previous scene: Funnel cakes with bacon
+Action: Drizzle caramel sauce over the bacon-covered funnel cakes *
+Step 12:
+Previous scene: Funnel cakes with bacon and caramel sauce
+Action: Dust with powdered sugar and serve warm *

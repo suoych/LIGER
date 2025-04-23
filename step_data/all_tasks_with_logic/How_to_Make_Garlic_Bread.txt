@@ -1,0 +1,33 @@
+1,7 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Oven showing 375°F (190°C)
+Action: Slice a loaf of French bread in half lengthwise *
+
+Step 3:
+Previous scene: A loaf of French bread
+Action: Melt 1/2 cup of butter in a microwave-safe bowl *
+
+Step 4:
+Previous scene: A bowl of melted butter
+Action: Add 3-4 minced garlic cloves to the melted butter, and mix well *
+
+Step 5:
+Previous scene: A bowl of melted butter mixed with minced garlic
+Action: Spread the garlic butter mixture evenly over the bread halves *
+
+Step 6:
+Previous scene: Bread halves covered with garlic butter
+Action: Sprinkle grated Parmesan cheese evenly over the bread *
+
+Step 7:
+Previous scene: Bread covered with garlic butter and Parmesan cheese
+Action: Place the bread halves on a baking sheet, and bake in the preheated oven for 10-15 minutes until golden brown *
+
+Step 8:
+Previous scene: Bread halves on a baking sheet in the oven
+Action: Remove from oven and let it cool for a few minutes before slicing and serving *
+

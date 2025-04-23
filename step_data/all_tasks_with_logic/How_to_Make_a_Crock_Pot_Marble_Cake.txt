@@ -1,0 +1,28 @@
+3, 8*
+Step 1: 
+Previous scene: None
+Action: Spray the crock pot with non-stick cooking spray *
+Step 2: 
+Previous scene: A sprayed crock pot
+Action: In a mixing bowl, prepare a yellow cake mix according to package instructions *
+Step 3: 
+Previous scene: A yellow cake batter in a bowl
+Action: Pour half of the yellow cake batter into the crock pot *
+Step 4: 
+Previous scene: Yellow cake batter in the crock pot
+Action: In another mixing bowl, prepare a chocolate cake mix according to package instructions *
+Step 5: 
+Previous scene: Yellow cake batter in the crock pot
+Action: Spoon the prepared chocolate cake batter over the yellow cake batter in the crock pot *
+Step 6: 
+Previous scene: Yellow and chocolate cake batter in the crock pot
+Action: Use a knife to swirl the two cake batters together, creating a marble effect *
+Step 7: 
+Previous scene: Swirled cake batter in the crock pot
+Action: Cover the crock pot and cook on high for 2 to 3 hours *
+Step 8: 
+Previous scene: Covered crock pot
+Action: Check the cake with a toothpick; if it comes out clean, the cake is done *
+Step 9: 
+Previous scene: Crock pot with cooked marble cake
+Action: Let the cake cool slightly before serving *

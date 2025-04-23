@@ -1,0 +1,44 @@
+3,8 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None (ambient context: oven preheating)
+Action: In a mixing bowl, combine 1 cup of sugar, 1/2 cup of melted butter, and 1 teaspoon of vanilla extract *
+
+Step 3:
+Previous scene: A mixing bowl with sugar, melted butter, and vanilla
+Action: Add 2 eggs to the mixture and beat well *
+
+Step 4:
+Previous scene: A bowl with a wet mixture (sugar, butter, vanilla, and eggs)
+Action: In another bowl, mix 1/3 cup of cocoa powder, 1/2 cup of flour, 1/4 teaspoon of salt, and 1/4 teaspoon of baking powder *
+
+Step 5:
+Previous scene: A bowl with dry ingredients (cocoa powder, flour, salt, baking powder)
+Action: Gradually add the dry ingredients to the wet mixture and stir until combined *
+
+Step 6:
+Previous scene: A bowl with brownie batter
+Action: Pour the batter into a greased 9x9 inch baking pan *
+
+Step 7:
+Previous scene: A baking pan with brownie batter
+Action: Bake in the preheated oven for 20-25 minutes *
+
+Step 8:
+Previous scene: Baked brownie base
+Action: Remove the brownies from the oven and immediately sprinkle 1 cup of mini marshmallows over the top *
+
+Step 9:
+Previous scene: Baked brownies with mini marshmallows on top
+Action: Return the pan to the oven and bake for an additional 2-3 minutes, until the marshmallows begin to puff up *
+
+Step 10:
+Previous scene: Brownies with puffed marshmallows
+Action: Remove the pan from the oven and sprinkle 1/2 cup of chopped nuts and 1/2 cup of chocolate chips over the marshmallows *
+
+Step 11:
+Previous scene: Brownies topped with nuts and chocolate chips
+Action: Let the brownies cool completely in the pan before cutting into squares and serving *

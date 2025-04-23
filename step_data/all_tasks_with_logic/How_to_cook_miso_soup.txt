@@ -1,0 +1,32 @@
+4, 6*
+Step 1:  
+Previous scene: None  
+Action: Gather ingredients: miso paste, tofu, seaweed, dashi stock, and green onions *  
+
+Step 2:  
+Previous scene: Miso paste, tofu, seaweed, dashi stock, and green onions  
+Action: Prepare dashi stock by boiling water and adding dashi granules *  
+
+Step 3:  
+Previous scene: Heated pot of dashi stock  
+Action: Cut tofu into cubes *  
+
+Step 4:  
+Previous scene: Tofu cubes and heated dashi stock  
+Action: Add tofu cubes and seaweed to the dashi stock *  
+
+Step 5:  
+Previous scene: Pot with dashi stock, tofu cubes, and seaweed  
+Action: Dissolve miso paste in a small bowl with some stock *  
+
+Step 6:  
+Previous scene: A small bowl with dissolved miso and pot with other ingredients  
+Action: Add dissolved miso paste back into the pot *  
+
+Step 7:  
+Previous scene: Pot with miso mixture, tofu, and seaweed  
+Action: Chop green onions *  
+
+Step 8:  
+Previous scene: Chopped green onions and pot with soup  
+Action: Garnish soup with chopped green onions before serving *

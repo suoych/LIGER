@@ -1,0 +1,19 @@
+3, 1*
+Step 1:
+Previous scene: None
+Action: Boil 2 cups of water in a small pot *  
+Step 2:
+Previous scene: A boiling pot of water
+Action: Add a cinnamon stick to the boiling water *  
+Step 3:
+Previous scene: A pot with boiling water and a cinnamon stick
+Action: Reduce the heat and let it simmer for about 5-10 minutes *  
+Step 4:
+Previous scene: A pot of simmering cinnamon water
+Action: Remove the pot from heat *  
+Step 5:
+Previous scene: A pot of hot cinnamon water
+Action: Pour the tea through a strainer into a cup *  
+Step 6:
+Previous scene: A cup of cinnamon tea
+Action: Add honey or sugar to taste if desired *

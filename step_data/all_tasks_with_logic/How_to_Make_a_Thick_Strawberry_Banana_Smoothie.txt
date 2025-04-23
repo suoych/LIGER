@@ -1,0 +1,22 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: Add 1 cup of frozen strawberries to a blender *
+Step 2:
+Previous scene: Blender with frozen strawberries
+Action: Add 1 banana to the blender *
+Step 3:
+Previous scene: Blender with frozen strawberries and banana
+Action: Pour in 1 cup of yogurt *
+Step 4:
+Previous scene: Blender with strawberries, banana, and yogurt
+Action: Add 1/2 cup of milk *
+Step 5:
+Previous scene: Blender with fruit, yogurt, and milk
+Action: Blend until smooth *
+Step 6:
+Previous scene: Blender with smooth mixture
+Action: Pour the smoothie into a glass *
+Step 7:
+Previous scene: Glass with smoothie
+Action: Enjoy! *

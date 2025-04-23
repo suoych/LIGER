@@ -1,0 +1,22 @@
+3,2 *
+Step 1:
+Previous scene: None
+Action: Chop 100g of dark chocolate into small pieces and place them in a heatproof bowl *
+Step 2:
+Previous scene: A bowl with chopped dark chocolate pieces
+Action: Heat 1/2 cup of cream in a small saucepan until just simmering and pour it over the chocolate * 
+Step 3:
+Previous scene: A bowl with chopped chocolate and hot cream
+Action: Let it sit for a minute, then stir until the chocolate is completely melted and smooth *
+Step 4:
+Previous scene: A bowl of melted chocolate and cream mixture
+Action: In a separate bowl, whip 1 cup of heavy cream until soft peaks form *
+Step 5:
+Previous scene: A bowl of melted chocolate mixture and a bowl with whipped cream 
+Action: Gently fold the whipped cream into the chocolate mixture until fully incorporated *
+Step 6:
+Previous scene: A bowl with dark chocolate mousse 
+Action: Divide the mousse into serving glasses and refrigerate for at least 2 hours before serving *
+Step 7:
+Previous scene: Glasses filled with dark chocolate mousse 
+Action: Garnish with chopped hazelnuts before serving *

@@ -1,0 +1,31 @@
+9, 2*
+Step 1:  
+Previous scene: None  
+Action: Heat oil in a pan *  
+Step 2:  
+Previous scene: A pan with heated oil  
+Action: Add chopped onions and sauté until golden brown *  
+Step 3:  
+Previous scene: Onions turning golden brown in the pan  
+Action: Add minced garlic and ginger, and sauté for a minute *  
+Step 4:  
+Previous scene: Onions, garlic, and ginger sautéing in the pan  
+Action: Add chopped tomatoes and cook until soft *  
+Step 5:  
+Previous scene: Tomatoes becoming soft with onions, garlic, and ginger  
+Action: Add turmeric, cumin, coriander, garam masala, and red chili powder *  
+Step 6:  
+Previous scene: The mixture with spices blending in  
+Action: Stir and cook the spices until fragrant *  
+Step 7:  
+Previous scene: Fragrant mixture of onions, tomatoes, and spices  
+Action: Add chickpeas and mix well *  
+Step 8:  
+Previous scene: Chickpeas mixed with the spice mixture  
+Action: Pour in a cup of water *  
+Step 9:  
+Previous scene: Chickpeas and spice mixture with added water  
+Action: Simmer for 10-15 minutes *  
+Step 10:  
+Previous scene: Chana masala simmering in the pan  
+Action: Garnish with fresh coriander leaves and serve *

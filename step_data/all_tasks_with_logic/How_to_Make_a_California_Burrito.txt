@@ -1,0 +1,28 @@
+7, 2*
+Step 1:
+Previous scene: None
+Action: Lay out a large flour tortilla on a clean surface *
+Step 2:
+Previous scene: A large flour tortilla on a surface
+Action: Spread a layer of guacamole in the center of the tortilla *
+Step 3:
+Previous scene: A tortilla with guacamole
+Action: Add a generous portion of carne asada on top of the guacamole *
+Step 4:
+Previous scene: A tortilla with guacamole and carne asada
+Action: Sprinkle shredded cheese over the carne asada *
+Step 5:
+Previous scene: A tortilla with guacamole, carne asada, and cheese
+Action: Add a serving of pico de gallo on top of the cheese *
+Step 6:
+Previous scene: A tortilla with guacamole, carne asada, cheese, and pico de gallo
+Action: Place a handful of French fries on top of the pico de gallo *
+Step 7:
+Previous scene: A tortilla with guacamole, carne asada, cheese, pico de gallo, and French fries
+Action: Drizzle some sour cream over the French fries *
+Step 8:
+Previous scene: A tortilla with guacamole, carne asada, cheese, pico de gallo, French fries, and sour cream
+Action: Carefully fold the sides of the tortilla in, then roll it up to form the burrito *
+Step 9:
+Previous scene: A filled and folded tortilla
+Action: Optional: Grill the burrito on a heated skillet for a couple of minutes on each side to seal it and make it crispy *

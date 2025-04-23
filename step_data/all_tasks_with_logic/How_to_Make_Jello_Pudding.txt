@@ -1,0 +1,19 @@
+1,5 *
+Step 1: 
+Previous scene: None
+Action: In a mixing bowl, pour 2 cups of cold milk *
+Step 2: 
+Previous scene: A bowl with milk
+Action: Add the instant Jello pudding mix *
+Step 3: 
+Previous scene: A bowl with milk and pudding mix
+Action: Whisk the mixture for 2 minutes *
+Step 4: 
+Previous scene: A bowl with mixed pudding
+Action: Let the mixture sit for 5 minutes to thicken *
+Step 5: 
+Previous scene: Thickened pudding in the bowl
+Action: Spoon the pudding into serving dishes *
+Step 6: 
+Previous scene: Pudding in serving dishes
+Action: Refrigerate for at least 30 minutes before serving *

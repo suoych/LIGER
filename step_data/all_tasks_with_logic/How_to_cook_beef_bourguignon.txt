@@ -1,0 +1,60 @@
+5, 10*
+Step 1:  
+Previous scene: None  
+Action: Cut the beef into chunks *  
+
+Step 2:  
+Previous scene: Chunks of beef  
+Action: Season the beef pieces with salt and pepper *  
+
+Step 3:  
+Previous scene: Seasoned beef chunks  
+Action: Heat oil in a large pot *  
+
+Step 4:  
+Previous scene: Oil in a large pot  
+Action: Sear the beef chunks in the hot oil until browned on all sides *  
+
+Step 5:  
+Previous scene: Browned beef chunks  
+Action: Remove the beef from the pot *  
+
+Step 6:  
+Previous scene: Empty pot with drippings  
+Action: Add sliced onions and carrots to the pot *  
+
+Step 7:  
+Previous scene: Onions and carrots in the pot  
+Action: Saute until onions are translucent *  
+
+Step 8:  
+Previous scene: Softened onions and carrots  
+Action: Stir in minced garlic *  
+
+Step 9:  
+Previous scene: Onions, carrots, and garlic  
+Action: Return the beef to the pot *  
+
+Step 10:  
+Previous scene: Beef with vegetables  
+Action: Pour in red wine and beef stock *  
+
+Step 11:  
+Previous scene: Beef and vegetables submerged in liquid  
+Action: Add tomato paste, thyme, and a bay leaf *  
+
+Step 12:  
+Previous scene: Beef stew with seasonings  
+Action: Simmer on low heat for 2-3 hours *  
+
+Step 13:  
+Previous scene: Pot with simmering stew  
+Action: Add mushrooms towards the end of the cooking time *  
+
+Step 14:  
+Previous scene: Beef bourguignon with mushrooms  
+Action: Cook until mushrooms are tender *  
+
+Step 15:  
+Previous scene: Completed beef bourguignon  
+Action: Serve hot, garnished with fresh parsley *  

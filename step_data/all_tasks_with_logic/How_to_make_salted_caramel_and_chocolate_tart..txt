@@ -1,0 +1,56 @@
+4,13 *
+Step 1:  
+Previous scene: None  
+Action: Prepare the tart crust by combining 1 and 1/4 cups of flour, 1/4 cup of sugar, and a pinch of salt in a mixing bowl. *
+
+Step 2:  
+Previous scene: A mixing bowl with flour, sugar, and salt  
+Action: Cut in 1/2 cup of cold, diced butter until the mixture resembles coarse crumbs. *
+
+Step 3:  
+Previous scene: A bowl with a crumbly mixture  
+Action: Add 2 tablespoons of cold water and mix until the dough comes together. *
+
+Step 4:  
+Previous scene: A ball of dough  
+Action: Roll the dough into a disk, wrap it in plastic wrap, and chill for 30 minutes. *
+
+Step 5:  
+Previous scene: Wrapped dough disk  
+Action: Preheat oven to 350°F (175°C) and roll out chilled dough to fit a tart pan. *
+
+Step 6:  
+Previous scene: Rolled-out dough  
+Action: Press the dough into the tart pan and prick the bottom with a fork. *
+
+Step 7:  
+Previous scene: Dough in the tart pan  
+Action: Bake the crust for 15 minutes or until golden brown, then let it cool completely. *
+
+Step 8:  
+Previous scene: Baked tart crust  
+Action: For the caramel, melt 1 cup of sugar in a saucepan over medium heat until golden brown. *
+
+Step 9:  
+Previous scene: Melted sugar in a saucepan  
+Action: Remove from heat and stir in 6 tablespoons of butter, followed by 1/2 cup of heavy cream and 1 teaspoon of sea salt. *
+
+Step 10:  
+Previous scene: Caramel mixture  
+Action: Pour the salted caramel into the cooled crust and chill until set. *
+
+Step 11:  
+Previous scene: Set caramel in crust  
+Action: Heat 1/2 cup of heavy cream to a simmer and pour over 4 ounces of chopped chocolate. *
+
+Step 12:  
+Previous scene: Heated cream and chopped chocolate  
+Action: Let sit for 2 minutes, then stir until smooth to make chocolate ganache. *
+
+Step 13:  
+Previous scene: Chocolate ganache  
+Action: Pour the ganache over the set caramel in the tart and smooth out evenly. *
+
+Step 14:  
+Previous scene: Caramel tart topped with ganache  
+Action: Chill the tart until the ganache is set before serving. *

@@ -1,0 +1,25 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Melt chocolate in a microwave-safe bowl, stirring every 30 seconds until smooth *
+
+Step 2:
+Previous scene: A bowl with melted chocolate
+Action: Dip pretzels into the melted chocolate using a fork or tongs, ensuring they are fully coated *
+
+Step 3:
+Previous scene: Pretzels dipped in chocolate
+Action: Place the chocolate-covered pretzels on a baking sheet lined with parchment paper *
+
+Step 4:
+Previous scene: A baking sheet with chocolate-covered pretzels
+Action: Add sprinkles or toppings to the pretzels before the chocolate hardens *
+
+Step 5:
+Previous scene: Decorated chocolate-covered pretzels
+Action: Put the baking sheet in the refrigerator to let the chocolate set for about 15-20 minutes *
+
+Step 6:
+Previous scene: Refrigerated and set chocolate-covered pretzels
+Action: Remove the pretzels from the baking sheet and store them in an airtight container *
+

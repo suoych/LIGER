@@ -1,0 +1,22 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: In a blender, add 2 cups of frozen fruit (e.g., berries, mango, or peaches) *
+Step 2:
+Previous scene: Blender with frozen fruit
+Action: Add 1/2 cup of juice (e.g., orange juice or apple juice) *
+Step 3:
+Previous scene: Blender with frozen fruit and juice
+Action: Squeeze the juice of half a lemon into the blender *
+Step 4:
+Previous scene: Blender with frozen fruit, juice, and lemon juice
+Action: Add 1-2 tablespoons of honey or agave syrup (optional) *
+Step 5:
+Previous scene: Blender with all ingredients
+Action: Blend until smooth and creamy *
+Step 6:
+Previous scene: Smooth and creamy fruit mixture
+Action: Transfer to a container and freeze for at least 2 hours to firm up *
+Step 7:
+Previous scene: Frozen sorbet in a container
+Action: Scoop into bowls or cones and serve immediately *

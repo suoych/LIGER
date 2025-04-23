@@ -1,0 +1,37 @@
+3, 9*
+Step 1: 
+Previous scene: None
+Action: Gather all necessary ingredients including ground beef, hamburger buns, cheese slices, lettuce, tomato, onion, pickles, and condiments (ketchup, mustard, mayonnaise) *
+Step 2: 
+Previous scene: Ingredients on a countertop
+Action: In a large bowl, combine ground beef with salt and pepper, mix gently *
+Step 3: 
+Previous scene: A bowl with seasoned ground beef
+Action: Form the mixture into patties *
+Step 4: 
+Previous scene: Formed beef patties
+Action: Preheat a grill or skillet over medium-high heat *
+Step 5: 
+Previous scene: Preheating grill or skillet
+Action: Place the patties on the grill or skillet *
+Step 6: 
+Previous scene: Patties cooking on grill or skillet
+Action: Cook the patties for about 4-5 minutes on each side, or until desired doneness *
+Step 7: 
+Previous scene: Cooked patties
+Action: Toast the hamburger buns on the grill or skillet for a few minutes until they are lightly browned *
+Step 8: 
+Previous scene: Toasting buns
+Action: Assemble the burger by placing a patty on the bottom half of each bun *
+Step 9: 
+Previous scene: Assembled bottom half bun with patty
+Action: Add cheese slices, lettuce, tomato, onion, and pickles on top of the patty *
+Step 10: 
+Previous scene: Assembled burger with toppings
+Action: Spread condiments on the top half of the bun *
+Step 11: 
+Previous scene: Top half of bun with condiments 
+Action: Place the top half of the bun on the assembled burger *
+Step 12: 
+Previous scene: Assembled burger
+Action: Serve the hamburger immediately, optionally with sides like fries or salad *

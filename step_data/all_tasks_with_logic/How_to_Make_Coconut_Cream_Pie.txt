@@ -1,0 +1,60 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of sweetened shredded coconut, 1 cup of crushed graham crackers, and 1/4 cup of melted butter *
+
+Step 3:
+Previous scene: A bowl with coconut, graham crackers, and melted butter
+Action: Press the mixture evenly into the bottom and up the sides of a 9-inch pie pan to form the crust *
+
+Step 4:
+Previous scene: A pie pan with crust
+Action: Bake the crust in the preheated oven for 10 minutes, then let it cool completely *
+
+Step 5:
+Previous scene: Baked pie crust
+Action: In a medium saucepan, whisk together 3/4 cup of sugar, 1/4 cup of cornstarch, and a pinch of salt *
+
+Step 6:
+Previous scene: A saucepan with sugar, cornstarch, and salt
+Action: Gradually whisk in 3 cups of whole milk until smooth *
+
+Step 7:
+Previous scene: A saucepan with milk mixture
+Action: Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil *
+
+Step 8:
+Previous scene: Thickened milk mixture
+Action: Remove from heat and stir in 3 beaten egg yolks, then return to heat and cook for 2 more minutes, stirring constantly *
+
+Step 9:
+Previous scene: Cooked mixture with egg yolks
+Action: Remove from heat and stir in 1 cup of sweetened shredded coconut and 1 1/2 teaspoons of vanilla extract *
+
+Step 10:
+Previous scene: Coconut cream filling
+Action: Pour the coconut cream filling into the cooled pie crust *
+
+Step 11:
+Previous scene: Pie with coconut cream filling
+Action: Refrigerate the pie for at least 2 hours or until set *
+
+Step 12:
+Previous scene: Chilled coconut cream pie
+Action: In a separate mixing bowl, whip 1 cup of heavy cream with 2 tablespoons of powdered sugar until stiff peaks form *
+
+Step 13:
+Previous scene: Bowl with whipped cream
+Action: Spread the whipped cream over the top of the chilled pie *
+
+Step 14:
+Previous scene: Pie topped with whipped cream
+Action: Sprinkle additional shredded coconut on top for garnish *
+
+Step 15:
+Previous scene: Finished coconut cream pie
+Action: Slice and serve the coconut cream pie *

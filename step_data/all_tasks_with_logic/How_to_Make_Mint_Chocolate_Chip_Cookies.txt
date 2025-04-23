@@ -1,0 +1,31 @@
+2,9 *
+Step 1: 
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) *
+Step 2: 
+Previous scene: Oven being preheated
+Action: In a mixing bowl, combine 2 1/4 cups of flour, 1/2 teaspoon of baking soda, and 1/2 teaspoon of salt *
+Step 3: 
+Previous scene: A mixing bowl with flour, baking soda, and salt
+Action: In another bowl, beat 1 cup of softened butter until creamy *
+Step 4: 
+Previous scene: A bowl with creamy butter
+Action: Add 3/4 cup of white sugar and 3/4 cup of brown sugar to the butter and beat until fluffy *
+Step 5: 
+Previous scene: A bowl with creamy butter and sugar mixture
+Action: Add 1 teaspoon of vanilla extract and 2 eggs to the butter mixture, beating well after each addition *
+Step 6: 
+Previous scene: A bowl with wet ingredients (butter, sugars, vanilla extract, and eggs)
+Action: Gradually add in the flour mixture, mixing well *
+Step 7: 
+Previous scene: A bowl with cookie dough
+Action: Stir in 2 cups of mint chocolate chips *
+Step 8: 
+Previous scene: A bowl with mint chocolate chip cookie dough
+Action: Drop rounded tablespoons of dough onto a baking sheet *
+Step 9: 
+Previous scene: Baking sheet with rounded tablespoons of cookie dough
+Action: Bake in the preheated oven for 10-12 minutes or until edges are lightly browned *
+Step 10: 
+Previous scene: Cookies baking in the oven
+Action: Allow cookies to cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely *

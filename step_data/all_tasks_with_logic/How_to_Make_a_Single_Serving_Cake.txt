@@ -1,0 +1,28 @@
+7, 4*
+Step 1:
+Previous scene: None
+Action: In a microwave-safe mug, combine 4 tablespoons of all-purpose flour *
+Step 2:
+Previous scene: A mug with flour
+Action: Add 2 tablespoons of sugar *
+Step 3:
+Previous scene: A mug with flour and sugar
+Action: Add 1/2 teaspoon of baking powder *
+Step 4:
+Previous scene: A mug with dry ingredients (flour, sugar, baking powder)
+Action: Stir in 3 tablespoons of milk *
+Step 5:
+Previous scene: A mug with dry ingredients and milk
+Action: Add 2 tablespoons of vegetable oil *
+Step 6:
+Previous scene: A mug with wet and dry ingredients
+Action: Mix everything together until the batter is smooth *
+Step 7:
+Previous scene: A mug with smooth batter
+Action: Stir in a few drops of vanilla extract *
+Step 8:
+Previous scene: A mug with smooth batter and vanilla
+Action: Microwave the mug on high for about 1 minute, or until the cake has risen and is cooked through *
+Step 9:
+Previous scene: A mug with cooked cake
+Action: Let the cake cool for a few minutes before eating *

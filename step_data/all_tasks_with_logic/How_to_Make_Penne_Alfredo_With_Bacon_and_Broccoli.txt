@@ -1,0 +1,48 @@
+8,4 *
+Step 1:
+Previous scene: None
+Action: Boil water in a large pot with a pinch of salt *
+
+Step 2:
+Previous scene: A pot of boiling water
+Action: Add penne pasta to the boiling water and cook until al dente *
+
+Step 3:
+Previous scene: A pot with pasta
+Action: While pasta is cooking, cook bacon in a skillet until crispy *
+
+Step 4: 
+Previous scene: Skillet with cooked bacon
+Action: Remove bacon from the skillet and place on paper towels to drain *
+
+Step 5: 
+Previous scene: Paper towels with cooked bacon; empty skillet
+Action: In the same skillet, sauté minced garlic in bacon grease until fragrant *
+
+Step 6:
+Previous scene: Skillet with sautéed garlic
+Action: Add heavy cream to the skillet and bring it to a simmer *
+
+Step 7:
+Previous scene: Skillet with heavy cream
+Action: Stir in grated Parmesan cheese until it melts and the sauce thickens *
+
+Step 8:
+Previous scene: Skillet with Alfredo sauce
+Action: Add steamed broccoli florets to the sauce *
+
+Step 9:
+Previous scene: Skillet with Alfredo sauce and broccoli
+Action: Chop the cooked bacon into small pieces *
+
+Step 10:
+Previous scene: Chopped bacon, skillet with Alfredo sauce and broccoli
+Action: Drain the cooked penne and add it to the skillet with the sauce *
+
+Step 11:
+Previous scene: Skillet with Alfredo sauce, broccoli, and penne
+Action: Toss everything together and add chopped bacon *
+
+Step 12:
+Previous scene: Skillet with Penne Alfredo, bacon, and broccoli
+Action: Serve hot, optionally garnishing with extra Parmesan cheese *

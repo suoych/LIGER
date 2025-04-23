@@ -1,0 +1,44 @@
+2,6 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 400°F (200°C) *
+
+Step 2:
+Previous scene: None
+Action: Slice the fish fillets into strips *
+
+Step 3:
+Previous scene: Sliced fish strips
+Action: In a bowl, mix flour, salt, and pepper *
+
+Step 4:
+Previous scene: A bowl with flour, salt, and pepper
+Action: In another bowl, beat two eggs *
+
+Step 5:
+Previous scene: A bowl with beaten eggs
+Action: In a third bowl, place breadcrumbs *
+
+Step 6:
+Previous scene: A bowl with breadcrumbs
+Action: Dredge each fish strip in the flour mixture *
+
+Step 7:
+Previous scene: Fish strip coated with flour
+Action: Dip the floured fish strip into the beaten eggs *
+
+Step 8:
+Previous scene: Fish strip coated with eggs
+Action: Coat the fish strip with breadcrumbs *
+
+Step 9:
+Previous scene: Fish strip coated with breadcrumbs
+Action: Place the coated fish strips on a baking sheet lined with parchment paper *
+
+Step 10:
+Previous scene: Baking sheet with fish strips
+Action: Bake in the preheated oven for 20 minutes *
+
+Step 11:
+Previous scene: Baked fish sticks on a baking sheet
+Action: Serve with your favorite dipping sauce *

@@ -1,0 +1,37 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Season the steak with salt, pepper, and your preferred spices *
+Step 2:
+Previous scene: Seasoned raw steak
+Action: Heat a skillet over medium-high heat and add a little oil *
+Step 3:
+Previous scene: Empty hot skillet with oil
+Action: Place the seasoned steak in the skillet *
+Step 4:
+Previous scene: Steak sizzling in the skillet
+Action: Cook the steak to your desired level of doneness, flipping once *
+Step 5:
+Previous scene: Cooked steak in the skillet
+Action: Remove the steak from the skillet and let it rest *
+Step 6:
+Previous scene: Resting steak on a cutting board
+Action: Toast slices of bread in a toaster or on a skillet *
+Step 7:
+Previous scene: Toasted slices of bread
+Action: Mash an avocado in a bowl with salt, pepper, and lime juice *
+Step 8:
+Previous scene: Mashed avocado in a bowl
+Action: Spread the mashed avocado on the toasted bread *
+Step 9:
+Previous scene: Avocado spread on toast
+Action: Slice the rested steak into thin strips *
+Step 10:
+Previous scene: Sliced steak on cutting board
+Action: Place the steak strips on top of the avocado toast *
+Step 11:
+Previous scene: Avocado toast with steak strips on top
+Action: Sprinkle red pepper flakes or hot sauce for extra spiciness *
+Step 12:
+Previous scene: Finished spicy steak and avocado toast 
+Action: Serve and enjoy *

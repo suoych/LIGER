@@ -1,0 +1,36 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 400°F (200°C) *
+
+Step 2:
+Previous scene: None
+Action: Rinse and dry the Brussels sprouts *
+
+Step 3:
+Previous scene: Clean Brussels sprouts
+Action: Trim the ends and remove any yellow or damaged leaves *
+
+Step 4:
+Previous scene: Trimmed Brussels sprouts
+Action: Cut the Brussels sprouts in half vertically *
+
+Step 5:
+Previous scene: Halved Brussels sprouts
+Action: Toss the Brussels sprouts in a bowl with olive oil, salt, and pepper *
+
+Step 6:
+Previous scene: Brussels sprouts coated in olive oil
+Action: Spread them out in a single layer on a baking sheet *
+
+Step 7:
+Previous scene: Brussels sprouts on a baking sheet
+Action: Roast in the preheated oven for 20-30 minutes, shaking the pan halfway through *
+
+Step 8:
+Previous scene: None
+Action: Remove from oven once they are golden brown and crispy on the edges *
+
+Step 9:
+Previous scene: Roasted Brussels sprouts
+Action: Serve immediately and enjoy! *

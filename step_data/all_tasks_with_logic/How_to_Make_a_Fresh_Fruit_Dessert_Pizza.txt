@@ -1,0 +1,40 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350 degrees F (175 degrees C) *
+
+Step 2:
+Previous scene: None
+Action: Roll out a pizza dough onto a baking sheet *
+
+Step 3:
+Previous scene: Pizza dough
+Action: Bake the pizza dough for about 10-12 minutes or until golden brown *
+
+Step 4:
+Previous scene: Baked pizza dough
+Action: Allow the crust to cool completely *
+
+Step 5:
+Previous scene: Cooled pizza crust
+Action: In a bowl, mix 8 ounces of cream cheese and 1/4 cup of sugar until smooth *
+
+Step 6:
+Previous scene: A bowl with cream cheese mixture
+Action: Spread the cream cheese mixture evenly over the cooled crust *
+
+Step 7:
+Previous scene: Crust with cream cheese mixture
+Action: Slice fresh fruits such as strawberries, kiwis, and blueberries *
+
+Step 8:
+Previous scene: Sliced fresh fruits
+Action: Arrange the sliced fruits on top of the cream cheese mixture *
+
+Step 9:
+Previous scene: Pizza with arranged fruits
+Action: Drizzle honey over the fruits *
+
+Step 10:
+Previous scene: Dessert pizza with fruits and honey
+Action: Slice and serve immediately *

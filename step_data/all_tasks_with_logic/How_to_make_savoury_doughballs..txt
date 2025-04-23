@@ -1,0 +1,44 @@
+7,1 *
+Step 1:  
+Previous scene: None  
+Action: In a mixing bowl, combine 2 cups of all-purpose flour *  
+
+Step 2:  
+Previous scene: A bowl with flour  
+Action: Add 1 teaspoon of baking powder and a pinch of salt *  
+
+Step 3:  
+Previous scene: A bowl with flour, baking powder, and salt  
+Action: Mix the dry ingredients together *  
+
+Step 4:  
+Previous scene: A bowl with mixed dry ingredients  
+Action: Add 1/4 cup of melted butter to the dry ingredients *  
+
+Step 5:  
+Previous scene: A bowl with dry ingredients and melted butter  
+Action: Stir in 3/4 cup of warm milk gradually *  
+
+Step 6:  
+Previous scene: A bowl with a dough mixture  
+Action: Knead the dough until smooth and elastic *  
+
+Step 7:  
+Previous scene: A smooth and elastic dough  
+Action: Cover the dough and let it rest for 30 minutes *  
+
+Step 8:  
+Previous scene: Rested dough  
+Action: Divide the dough into small balls *  
+
+Step 9:  
+Previous scene: Doughballs  
+Action: Place doughballs on a baking tray lined with parchment paper *  
+
+Step 10:  
+Previous scene: Doughballs on a baking tray  
+Action: Bake in a preheated oven at 180°C for 15-20 minutes *  
+
+Step 11:  
+Previous scene: Cooked doughballs  
+Action: Serve warm with a dip of your choice *  

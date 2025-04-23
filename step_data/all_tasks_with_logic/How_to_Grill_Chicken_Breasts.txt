@@ -1,0 +1,40 @@
+8, 3*
+Step 1:
+Previous scene: None
+Action: Preheat the grill to medium-high heat *
+
+Step 2:
+Previous scene: A preheated grill
+Action: Clean the grill grates * 
+
+Step 3:
+Previous scene: Clean grill grates
+Action: Coat chicken breasts with olive oil * 
+
+Step 4:
+Previous scene: Chicken breasts coated with olive oil
+Action: Season the chicken with salt, pepper, and preferred spices *
+
+Step 5:
+Previous scene: Seasoned chicken breasts
+Action: Place the chicken breasts on the grill * 
+
+Step 6:
+Previous scene: Chicken breasts on the grill
+Action: Grill the chicken for 6-7 minutes on one side *
+
+Step 7:
+Previous scene: Chicken breasts being grilled
+Action: Flip the chicken breasts and grill for another 6-7 minutes *
+
+Step 8:
+Previous scene: Chicken breasts being grilled on the other side
+Action: Check the internal temperature to ensure it is 165°F (74°C) *
+
+Step 9:
+Previous scene: Chicken breasts grilled to the appropriate temperature
+Action: Remove the chicken breasts from the grill and let them rest for 5 minutes *
+
+Step 10:
+Previous scene: Cooked chicken breasts resting
+Action: Serve the grilled chicken breasts *

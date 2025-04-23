@@ -1,0 +1,29 @@
+1, 5 *
+Step 1:
+Previous scene: None
+Action: Gather all ingredients including beef fat (suet), birdseed, unsalted peanuts, dried fruits, oats, and cornmeal *
+
+Step 2:
+Previous scene: Ingredients 
+Action: Melt the beef fat (suet) in a large pot over low heat until it's fully liquefied *
+
+Step 3:
+Previous scene: Melted beef fat in a pot
+Action: Remove any unmelted solids from the melted fat using a strainer or slotted spoon *
+
+Step 4:
+Previous scene: Pot with filtered melted fat
+Action: Allow the melted fat to cool slightly, then stir in birdseed, unsalted peanuts, dried fruits, oats, and cornmeal until well combined *
+
+Step 5:
+Previous scene: Mixture of fat and dry ingredients in pot
+Action: Pour the mixture into molds or containers to shape the suet cakes *
+
+Step 6:
+Previous scene: Filled molds or containers with mixture
+Action: Refrigerate the molds or containers until the suet cakes are firm and solidified *
+
+Step 7:
+Previous scene: Firm and solidified suet cakes in molds or containers
+Action: Remove the suet cakes from the molds or containers for use *
+

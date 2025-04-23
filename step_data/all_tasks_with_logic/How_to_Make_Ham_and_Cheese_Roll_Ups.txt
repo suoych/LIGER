@@ -1,0 +1,19 @@
+2,5 *
+Step 1:
+Previous scene: None
+Action: Lay out a slice of ham on a flat surface *
+Step 2:
+Previous scene: A slice of ham
+Action: Place a slice of cheese on top of the ham *
+Step 3:
+Previous scene: A slice of ham with a slice of cheese on top
+Action: Roll the ham and cheese together tightly *
+Step 4:
+Previous scene: A rolled-up ham and cheese
+Action: Secure with toothpicks if necessary *
+Step 5:
+Previous scene: A rolled-up ham and cheese secured with toothpicks
+Action: Slice the roll-up into bite-sized pieces, if desired *
+Step 6:
+Previous scene: Sliced ham and cheese roll-up pieces
+Action: Serve and enjoy *

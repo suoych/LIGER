@@ -1,0 +1,36 @@
+1, 4*
+Step 1:  
+Previous scene: None  
+Action: Heat a skillet over medium-high heat *  
+
+Step 2:  
+Previous scene: A heated skillet  
+Action: Add ground beef to the skillet *  
+
+Step 3:  
+Previous scene: Ground beef in a skillet  
+Action: Cook and break the beef into crumbles until it is fully browned *  
+
+Step 4:  
+Previous scene: Fully browned beef in a skillet  
+Action: Drain excess fat from the skillet *  
+
+Step 5:  
+Previous scene: Drained ground beef in a skillet  
+Action: Add taco seasoning and water to the beef *  
+
+Step 6:  
+Previous scene: Ground beef mixed with taco seasoning  
+Action: Simmer the mixture until the sauce thickens *  
+
+Step 7:  
+Previous scene: Ground beef with thickened taco sauce  
+Action: Warm soft or hard taco shells *  
+
+Step 8:  
+Previous scene: Warm taco shells  
+Action: Spoon the beef mixture into the taco shells *  
+
+Step 9:  
+Previous scene: Taco shells filled with beef  
+Action: Top with desired toppings such as cheese, lettuce, diced tomatoes, and sour cream *

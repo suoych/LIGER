@@ -1,0 +1,28 @@
+2,3 *
+Step 1:
+Previous scene: None
+Action: Cut a watermelon in half and scoop out the flesh using a spoon *
+Step 2:
+Previous scene: Halved watermelon with flesh scooped out
+Action: Remove any seeds from the watermelon flesh *
+Step 3:
+Previous scene: Seedless watermelon flesh
+Action: Place the watermelon flesh into a blender *
+Step 4:
+Previous scene: A blender with watermelon flesh 
+Action: Add 1 tablespoon of lime juice and 2 tablespoons of honey to the blender *
+Step 5:
+Previous scene: Blender with watermelon flesh, lime juice, and honey
+Action: Blend until the mixture is smooth *
+Step 6:
+Previous scene: Blended watermelon mixture
+Action: Pour the mixture into a shallow container *
+Step 7:
+Previous scene: Shallow container with blended watermelon mixture
+Action: Place the container in the freezer *
+Step 8:
+Previous scene: Freezer with container of watermelon mixture
+Action: Freeze for at least 4 hours, stirring with a fork every 30 minutes to break up ice crystals *
+Step 9:
+Previous scene: Freezer with the container of semi-frozen sorbet mixture
+Action: Serve the watermelon sorbet in bowls once it reaches a sorbet consistency *

@@ -1,0 +1,33 @@
+9, 2*
+Step 1:
+Previous scene: None
+Action: Start by preheating the grill to burn off any residual food debris *
+Step 2:
+Previous scene: A heated grill with burnt debris
+Action: Use a wire brush to scrape off the burnt food particles from the grates *
+Step 3:
+Previous scene: Cleaner grill grates with scraped-off particles
+Action: Turn off the grill and let it cool down *
+Step 4:
+Previous scene: Grill turned off and cooling down
+Action: Once cooled, remove the grates and soak them in warm, soapy water *
+Step 5:
+Previous scene: Removed grates soaking in soapy water
+Action: Scrub the grates with a sponge or brush to remove any remaining residue *
+Step 6:
+Previous scene: Clean grates
+Action: Rinse the grates with clean water and dry them thoroughly *
+Step 7:
+Previous scene: Dry, clean grates
+Action: Wipe down the interior of the grill with a damp cloth *
+Step 8:
+Previous scene: Interior of the grill wiped down
+Action: Reinstall the clean grates back onto the grill *
+Step 9:
+Previous scene: Clean grates reinstalled
+Action: Wipe the exterior of the grill with a damp cloth to remove any grease or dirt *
+Step 10:
+Previous scene: Clean exterior of the grill
+Action: Replace or empty the grease tray if applicable *
+
+(Note: The steps provide a general guideline for cleaning a grill. You may need to adjust based on your grill's manual and specific cleaning needs.)

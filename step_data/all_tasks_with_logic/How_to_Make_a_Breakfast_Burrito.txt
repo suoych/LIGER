@@ -1,0 +1,37 @@
+6, 1*
+Step 1:
+Previous scene: None
+Action: Heat a large skillet over medium heat * 
+Step 2:
+Previous scene: An empty skillet
+Action: Add 1 tablespoon of oil to the skillet *
+Step 3:
+Previous scene: A skillet with oil
+Action: Crack 2 eggs into a bowl *
+Step 4:
+Previous scene: A bowl with eggs
+Action: Whisk the eggs until well combined *
+Step 5:
+Previous scene: Whisked eggs
+Action: Pour the whisked eggs into the skillet *
+Step 6:
+Previous scene: Eggs cooking in a skillet
+Action: Stir occasionally until the eggs are scrambled and cooked through *
+Step 7:
+Previous scene: Scrambled eggs in a skillet
+Action: Transfer the scrambled eggs to a plate *
+Step 8:
+Previous scene: Scrambled eggs on a plate
+Action: Warm a flour tortilla in the skillet *
+Step 9:
+Previous scene: A warmed tortilla in a skillet
+Action: Place the warm tortilla on a flat surface *
+Step 10:
+Previous scene: A warmed tortilla on a flat surface
+Action: Add the scrambled eggs to the center of the tortilla *
+Step 11:
+Previous scene: Tortilla with scrambled eggs
+Action: Add toppings such as cheese, salsa, and avocado *
+Step 12:
+Previous scene: Tortilla with scrambled eggs and toppings
+Action: Fold the sides of the tortilla over the filling and roll it up to form a burrito *

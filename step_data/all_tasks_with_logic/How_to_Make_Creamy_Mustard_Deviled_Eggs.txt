@@ -1,0 +1,44 @@
+3, 9*
+Step 1:
+Previous scene: None
+Action: Boil 6 eggs until hard-boiled *
+
+Step 2: 
+Previous scene: A pot with boiled eggs
+Action: Cool and peel the eggs *
+
+Step 3:
+Previous scene: Peeled hard-boiled eggs
+Action: Cut the eggs in half lengthwise *
+
+Step 4:
+Previous scene: Halved eggs with yolks exposed
+Action: Scoop out the yolks and place them in a mixing bowl *
+
+Step 5:
+Previous scene: A mixing bowl with egg yolks
+Action: Mash the yolks with a fork *
+
+Step 6:
+Previous scene: Mashed egg yolks
+Action: Add 1/4 cup of mayonnaise *
+
+Step 7:
+Previous scene: Mixing bowl with mashed yolks and mayonnaise
+Action: Add 1 tablespoon of mustard *
+
+Step 8:
+Previous scene: Mixing bowl with yolks, mayonnaise, and mustard
+Action: Stir until the mixture is smooth and creamy *
+
+Step 9:
+Previous scene: Smooth and creamy yolk mixture
+Action: Spoon or pipe the yolk mixture back into the egg whites *
+
+Step 10:
+Previous scene: Egg halves with creamy yolk mixture
+Action: Garnish with a sprinkle of paprika or chopped chives *
+
+Step 11:
+Previous scene: Garnished deviled eggs
+Action: Serve and enjoy *

@@ -1,0 +1,45 @@
+1,9 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: None
+Action: In a large mixing bowl, cream 1 cup of butter until light and fluffy *
+
+Step 3:
+Previous scene: A bowl with creamed butter
+Action: Add 3/4 cup of sugar and continue mixing until well combined *
+
+Step 4:
+Previous scene: A bowl with creamed butter and sugar
+Action: Beat in 1 egg, 1 teaspoon of vanilla extract, and 1/2 teaspoon of almond extract *
+
+Step 5:
+Previous scene: A bowl with a creamy mixture of butter, sugar, and eggs
+Action: Gradually add 2 1/4 cups of all-purpose flour, mixing until smooth *
+
+Step 6:
+Previous scene: A bowl with cookie dough
+Action: Fill a cookie press with the dough according to the manufacturer's instructions *
+
+Step 7:
+Previous scene: A cookie press filled with dough
+Action: Press the dough onto ungreased baking sheets in desired shapes *
+
+Step 8:
+Previous scene: Baking sheets with raw cookie shapes
+Action: Decorate with sprinkles or colored sugar, if desired *
+
+Step 9:
+Previous scene: Decorated raw cookies on baking sheets
+Action: Bake in preheated oven for 8-10 minutes or until edges are lightly browned *
+
+Step 10:
+Previous scene: Baked cookies on baking sheets
+Action: Remove from oven and let cool on baking sheets for a few minutes, then transfer to wire racks to cool completely *
+
+Step 11:
+Previous scene: Wire racks with cooling cookies
+Action: Store the cooled cookies in an airtight container *
+

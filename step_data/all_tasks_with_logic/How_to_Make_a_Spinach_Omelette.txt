@@ -1,0 +1,40 @@
+3, 6*
+Step 1:
+Previous scene: None
+Action: Crack 2 eggs into a bowl *
+
+Step 2:
+Previous scene: A bowl with eggs
+Action: Whisk the eggs until they are well beaten *
+
+Step 3:
+Previous scene: A bowl with whisked eggs
+Action: Add a pinch of salt and pepper to the eggs *
+
+Step 4:
+Previous scene: A bowl with seasoned eggs
+Action: Heat some oil in a non-stick skillet over medium heat *
+
+Step 5:
+Previous scene: A skillet with heated oil
+Action: Pour the beaten eggs into the skillet *
+
+Step 6:
+Previous scene: Eggs cooking in the skillet
+Action: Let the eggs cook for a minute or until they start to set *
+
+Step 7:
+Previous scene: Eggs started to set in the skillet
+Action: Add a handful of fresh spinach leaves on one half of the omelette *
+
+Step 8:
+Previous scene: Spinach on one half of the omelette in the skillet
+Action: Fold the other half of the omelette over the spinach *
+
+Step 9:
+Previous scene: Folded omelette in the skillet
+Action: Continue cooking for another 1-2 minutes until the spinach is wilted and the eggs are fully cooked *
+
+Step 10:
+Previous scene: Fully cooked omelette in the skillet
+Action: Transfer the spinach omelette to a plate and serve hot *

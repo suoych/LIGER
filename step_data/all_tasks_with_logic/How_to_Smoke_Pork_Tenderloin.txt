@@ -1,0 +1,28 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: Preheat your smoker to 225°F (107°C) *
+
+Step 2:
+Previous scene: Smoker preheating
+Action: While the smoker is preheating, trim any excess fat and silver skin from the pork tenderloin *
+
+Step 3:
+Previous scene: Pork tenderloin on a cutting board
+Action: Season the pork tenderloin with a dry rub of your choice *
+
+Step 4:
+Previous scene: Seasoned pork tenderloin
+Action: Place the seasoned pork tenderloin on the smoker rack *
+
+Step 5:
+Previous scene: Pork tenderloin on the smoker rack
+Action: Insert a meat thermometer into the thickest part of the tenderloin *
+
+Step 6:
+Previous scene: Pork tenderloin in smoker with meat thermometer
+Action: Smoke the pork tenderloin until it reaches an internal temperature of 145°F (63°C), about 1.5 to 2 hours *
+
+Step 7:
+Previous scene: Pork tenderloin fully cooked in the smoker
+Action: Remove the pork tenderloin from the smoker and let it rest for 10-15 minutes before slicing *

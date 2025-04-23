@@ -1,0 +1,44 @@
+6, 1*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, add 2 cups of whole wheat flour *
+
+Step 2:
+Previous scene: A bowl with whole wheat flour
+Action: Add a pinch of salt and a tablespoon of oil or ghee *
+
+Step 3:
+Previous scene: A bowl with whole wheat flour, salt, and oil
+Action: Slowly pour in water and knead the mixture to form a smooth dough *
+
+Step 4:
+Previous scene: A bowl with smooth dough
+Action: Cover the dough with a damp cloth and let it rest for 20-30 minutes *
+
+Step 5:
+Previous scene: Rested dough in a bowl
+Action: Divide the dough into small, equal-sized balls *
+
+Step 6:
+Previous scene: Dough balls
+Action: Roll each ball into a flat, round shape using a rolling pin *
+
+Step 7:
+Previous scene: Rolled out dough
+Action: Heat a tawa or flat skillet *
+
+Step 8:
+Previous scene: A preheated tawa
+Action: Place the rolled-out dough onto the tawa and cook until small bubbles appear *
+
+Step 9:
+Previous scene: Dough with small bubbles on tawa
+Action: Flip the dough and apply oil or ghee on the cooked side *
+
+Step 10:
+Previous scene: Partially cooked paratha with oil on one side
+Action: Cook both sides until golden brown *
+
+Step 11:
+Previous scene: Golden brown paratha on the tawa
+Action: Serve hot with your choice of accompaniment *

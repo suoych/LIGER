@@ -1,0 +1,37 @@
+8,3 *
+Step 1:
+Previous scene: None
+Action: Add 1 1/2 cups of warm water to the bread machine pan *
+Step 2:
+Previous scene: Bread machine pan with water
+Action: Add 2 tablespoons of honey *
+Step 3:
+Previous scene: Bread machine pan with water and honey
+Action: Add 2 tablespoons of olive oil *
+Step 4:
+Previous scene: Bread machine pan with water, honey, and olive oil
+Action: Add 1 teaspoon of salt *
+Step 5:
+Previous scene: Bread machine pan with water, honey, olive oil, and salt
+Action: Add 3 1/2 cups of whole wheat flour *
+Step 6:
+Previous scene: Bread machine pan with water, honey, olive oil, salt, and whole wheat flour
+Action: Add 2 tablespoons of vital wheat gluten *
+Step 7:
+Previous scene: Bread machine pan with water, honey, olive oil, salt, whole wheat flour, and vital wheat gluten
+Action: Create a small well in the flour *
+Step 8:
+Previous scene: Bread machine pan with ingredients and a well in the flour
+Action: Add 2 teaspoons of active dry yeast into the well *
+Step 9:
+Previous scene: Bread machine pan with all ingredients
+Action: Place the pan into the bread machine *
+Step 10:
+Previous scene: Bread machine pan in the machine
+Action: Set the machine to the whole wheat bread setting and start it *
+Step 11:
+Previous scene: Bread machine working
+Action: Wait for the bread machine to complete its cycle *
+Step 12:
+Previous scene: Freshly baked whole wheat bread in the machine pan
+Action: Remove the baked bread from the pan and let it cool on a wire rack *

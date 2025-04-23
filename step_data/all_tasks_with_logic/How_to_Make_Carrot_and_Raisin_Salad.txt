@@ -1,0 +1,28 @@
+3, 2*
+Step 1:
+Previous scene: None
+Action: Peel and grate 3 cups of carrots *
+
+Step 2:
+Previous scene: Grated carrots
+Action: Place grated carrots in a large mixing bowl *
+
+Step 3:
+Previous scene: A bowl with grated carrots
+Action: Add 1 cup of raisins to the bowl *
+
+Step 4:
+Previous scene: A bowl with grated carrots and raisins
+Action: In a separate small bowl, mix 1/2 cup of mayonnaise and 2 tablespoons of lemon juice *
+
+Step 5:
+Previous scene: A small bowl with mayonnaise and lemon juice mixture
+Action: Pour the mayonnaise mixture over the grated carrots and raisins *
+
+Step 6:
+Previous scene: A bowl with grated carrots, raisins, and mayonnaise mixture
+Action: Toss the ingredients together until well combined *
+
+Step 7:
+Previous scene: Carrot and raisin salad
+Action: Chill in the refrigerator for at least 30 minutes before serving *

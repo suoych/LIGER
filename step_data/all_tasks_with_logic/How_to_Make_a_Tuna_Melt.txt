@@ -1,0 +1,40 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: None
+Action: Open a can of tuna and drain the liquid *
+
+Step 3:
+Previous scene: An open can of tuna
+Action: In a mixing bowl, combine the drained tuna, mayonnaise, chopped celery, and chopped onions *
+
+Step 4:
+Previous scene: A mixing bowl with tuna, mayonnaise, celery, and onions
+Action: Mix the ingredients until well combined *
+
+Step 5:
+Previous scene: A mixing bowl with combined ingredients
+Action: Spread the tuna mixture onto slices of bread *
+
+Step 6:
+Previous scene: Bread with tuna mixture
+Action: Place a slice of cheese on top of the tuna mixture *
+
+Step 7:
+Previous scene: Bread with tuna mixture and a slice of cheese
+Action: Top with another slice of bread to form a sandwich *
+
+Step 8:
+Previous scene: A sandwich with tuna mixture and cheese
+Action: Place sandwiches on a baking sheet *
+
+Step 9:
+Previous scene: Sandwiches on a baking sheet
+Action: Bake in the preheated oven for 10-15 minutes or until the cheese is melted and the bread is golden brown *
+
+Step 10:
+Previous scene: Sandwiches with melted cheese and golden brown bread
+Action: Remove from the oven and let cool slightly before serving *

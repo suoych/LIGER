@@ -1,0 +1,28 @@
+3,1 *
+Step 1:
+Previous scene: None
+Action: Crack 2-3 eggs into a bowl *
+Step 2:
+Previous scene: A bowl with eggs
+Action: Add salt and pepper to taste *
+Step 3:
+Previous scene: A bowl with beaten, seasoned eggs
+Action: Beat the eggs until well combined *
+Step 4:
+Previous scene: A bowl with beaten, seasoned eggs
+Action: Heat a tablespoon of oil in a pan over medium heat *
+Step 5:
+Previous scene: Heated oil in a pan
+Action: Pour the beaten eggs into the pan *
+Step 6:
+Previous scene: Scrambled eggs beginning to set in a pan
+Action: Stir gently until eggs are partially scrambled but still a bit runny *
+Step 7:
+Previous scene: Partially scrambled eggs in a pan
+Action: Add diced tomatoes to the pan *
+Step 8:
+Previous scene: Scrambled eggs with diced tomatoes in a pan
+Action: Cook until tomatoes are tender and eggs are fully set *
+Step 9:
+Previous scene: Tomato scrambled eggs in a pan
+Action: Transfer the tomato scrambled eggs to a plate and serve *

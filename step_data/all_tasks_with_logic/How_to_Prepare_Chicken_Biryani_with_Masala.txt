@@ -1,0 +1,49 @@
+2,10 *
+Step 1:
+Previous scene: None
+Action: Wash and soak 2 cups of basmati rice in water for 30 minutes *
+Step 2:
+Previous scene: Basmati rice soaked in water
+Action: Boil the soaked rice in salted water until it's 70% cooked, then drain and set aside *
+Step 3:
+Previous scene: Boiled rice
+Action: Heat 2 tablespoons of oil in a large pot *
+Step 4:
+Previous scene: An empty pot with oil
+Action: Add 1 large sliced onion and sauté until golden brown *
+Step 5:
+Previous scene: Pot with onion
+Action: Add 1 tablespoon of ginger-garlic paste and sauté until the raw smell disappears *
+Step 6:
+Previous scene: Pot with onion and ginger-garlic paste
+Action: Add 2 medium-sized tomatoes (chopped) and cook until they turn mushy *
+Step 7:
+Previous scene: Pot with tomato-onion mixture
+Action: Add sliced chicken pieces (500g) and cook for a few minutes until they are white on the outside *
+Step 8:
+Previous scene: Pot with tomato-onion mixture and partially cooked chicken
+Action: Add 1 cup of plain yogurt, 1 teaspoon of turmeric powder, 1 teaspoon of red chili powder, and salt to taste *
+Step 9:
+Previous scene: Pot with chicken mixture and spices
+Action: Cook the chicken until it's tender and the masala is thick *
+Step 10:
+Previous scene: Pot with cooked chicken masala
+Action: Layer half of the partially cooked rice over the chicken masala in the pot *
+Step 11:
+Previous scene: Pot with chicken masala and layered rice
+Action: Sprinkle finely chopped mint and coriander leaves over the rice layer *
+Step 12:
+Previous scene: Pot with chicken masala, layered rice, mint, and coriander leaves
+Action: Add the remaining rice on top to fully cover the previous layers *
+Step 13:
+Previous scene: Pot with layered rice and masala
+Action: Pour a few tablespoons of saffron milk or yellow food color mixed in warm milk over the top layer of rice *
+Step 14:
+Previous scene: Pot with layered rice and saffron milk
+Action: Cover the pot with a tight lid and cook on low heat (dum) for 20-25 minutes *
+Step 15:
+Previous scene: Pot with layered rice and covered with a lid
+Action: Turn off the heat and let it sit for another 10 minutes undisturbed *
+Step 16:
+Previous scene: Pot with cooked biryani
+Action: Gently fluff up the rice with a fork and serve the chicken biryani hot with raita *

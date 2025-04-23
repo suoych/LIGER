@@ -1,0 +1,28 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: Gather all necessary ingredients, including chocolate, filling of choice, and dipping tools *
+
+Step 2:
+Previous scene: Ingredients and tools on the table
+Action: Melt the chocolate in a double boiler or microwave *
+
+Step 3:
+Previous scene: Melted chocolate
+Action: Prepare your filling by shaping it into small bite-sized pieces *
+
+Step 4:
+Previous scene: Shaped filling pieces and melted chocolate
+Action: Dip the filling pieces into the melted chocolate using a dipping tool or fork *
+
+Step 5:
+Previous scene: Filling pieces dipped in chocolate
+Action: Place the dipped chocolates on a parchment-lined baking sheet to set *
+
+Step 6:
+Previous scene: Dipped chocolates on a parchment-lined baking sheet
+Action: Allow the chocolates to cool and harden completely at room temperature or in the refrigerator *
+
+Step 7:
+Previous scene: Hardened hand-dipped chocolates
+Action: Once set, trim any excess chocolate and place the finished chocolates in decorative boxes or serving trays *

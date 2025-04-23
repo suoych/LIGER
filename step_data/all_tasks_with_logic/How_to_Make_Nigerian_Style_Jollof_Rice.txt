@@ -1,0 +1,52 @@
+3,7 *
+Step 1:
+Previous scene: None
+Action: Heat 1/4 cup of vegetable oil in a large pot over medium heat *
+
+Step 2:
+Previous scene: A pot with hot oil
+Action: Sauté 1 chopped onion until translucent *
+
+Step 3:
+Previous scene: A pot with sautéed onions
+Action: Add 2 minced garlic cloves and sauté for another minute *
+
+Step 4:
+Previous scene: A pot with onions and garlic
+Action: Add 1 can of tomato paste and stir until well combined *
+
+Step 5:
+Previous scene: A pot with onions, garlic, and tomato paste
+Action: Add 2 cups of blended tomatoes, bell peppers, and one habanero pepper mixture *
+
+Step 6:
+Previous scene: A pot with tomato and pepper mixture
+Action: Cook for about 10-15 minutes, stirring occasionally *
+
+Step 7:
+Previous scene: A pot with cooked tomato and pepper sauce
+Action: Add 2 cups of chicken broth and season with salt, pepper, thyme, curry powder, and bay leaves *
+
+Step 8:
+Previous scene: A pot with seasoned broth and sauce
+Action: Bring to a boil, then reduce the heat to a simmer *
+
+Step 9:
+Previous scene: A pot with simmering sauce
+Action: Add 2 cups of parboiled long-grain rice *
+
+Step 10:
+Previous scene: A pot with rice and sauce mixture
+Action: Stir and cover the pot, letting it cook on low heat for about 20-30 minutes *
+
+Step 11:
+Previous scene: A pot with almost cooked rice
+Action: Add mixed vegetables and cooked protein (chicken or shrimp) *
+
+Step 12:
+Previous scene: A pot with rice, vegetables, and protein
+Action: Stir well, cover, and let it steam for another 10 minutes *
+
+Step 13:
+Previous scene: A pot with fully cooked Jollof rice
+Action: Turn off the heat and let it sit for 10 minutes before serving *

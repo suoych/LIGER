@@ -1,0 +1,34 @@
+5,7 *
+Step 1:
+Previous scene: None
+Action: Mince 2 cloves of garlic *
+Step 2:
+Previous scene: Minced garlic
+Action: Heat 1/2 cup of olive oil in a small saucepan over medium heat *
+Step 3:
+Previous scene: Olive oil in a saucepan
+Action: Add the minced garlic to the heated oil *
+Step 4:
+Previous scene: Garlic in oil
+Action: Cook the garlic until golden brown and fragrant *
+Step 5:
+Previous scene: Golden brown garlic in oil
+Action: Remove from heat and let it cool slightly *
+Step 6:
+Previous scene: Cooled garlic and oil mixture
+Action: In a mixing bowl, combine 2 tablespoons of balsamic vinegar *
+Step 7:
+Previous scene: Bowl with balsamic vinegar
+Action: Add 1 tablespoon of Dijon mustard *
+Step 8:
+Previous scene: Bowl with balsamic vinegar and Dijon mustard
+Action: Add 1 tablespoon of honey *
+Step 9:
+Previous scene: Bowl with balsamic vinegar, Dijon mustard, and honey
+Action: Slowly whisk in the cooled garlic and oil mixture *
+Step 10:
+Previous scene: Bowl with all ingredients
+Action: Add salt and pepper to taste *
+Step 11:
+Previous scene: Completed garlic salad dressing
+Action: Pour the dressing into a serving container and refrigerate until ready to use *

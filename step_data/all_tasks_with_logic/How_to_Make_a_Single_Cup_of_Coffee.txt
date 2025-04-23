@@ -1,0 +1,25 @@
+5, 2*
+Step 1:
+Previous scene: None
+Action: Fill the kettle with water and heat it up until it boils *
+Step 2:
+Previous scene: A kettle with boiling water
+Action: Place a coffee filter into the drip cone or coffee maker *
+Step 3:
+Previous scene: Drip cone or coffee maker with a coffee filter
+Action: Add one scoop (around 2 tablespoons) of ground coffee into the filter *
+Step 4:
+Previous scene: Drip cone or coffee maker with coffee grounds in the filter
+Action: Pour the boiling water slowly over the coffee grounds, starting from the center and moving outward in a circular motion *
+Step 5:
+Previous scene: Drip cone with water being poured over coffee grounds
+Action: Allow the coffee to drip into the cup below the filter *
+Step 6:
+Previous scene: A cup with freshly brewed coffee
+Action: Remove the drip cone or coffee maker and discard the used filter *
+Step 7:
+Previous scene: A cup of black coffee
+Action: Add milk and sugar if desired, and stir *
+Step 8:
+Previous scene: A cup of coffee with milk and sugar
+Action: Enjoy your cup of coffee *

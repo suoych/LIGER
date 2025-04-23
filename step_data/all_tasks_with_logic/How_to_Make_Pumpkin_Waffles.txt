@@ -1,0 +1,31 @@
+4,8 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of flour, 1 tablespoon of sugar, 1 teaspoon of baking powder, 1/2 teaspoon of baking soda, 1/2 teaspoon of ground cinnamon, 1/4 teaspoon of ground ginger, and a pinch of salt. *
+Step 2:
+Previous scene: A bowl with dry ingredients
+Action: In another bowl, whisk together 3/4 cup of pumpkin puree, 2 large eggs, 1 cup of milk, 1/4 cup of melted butter, and 1 teaspoon of vanilla extract until well combined. *
+Step 3:
+Previous scene: A bowl with wet ingredients
+Action: Pour the wet ingredients into the bowl with the dry ingredients. *
+Step 4:
+Previous scene: Two bowls (one with wet, one with dry ingredients)
+Action: Stir until just combined. The batter will be slightly lumpy. *
+Step 5:
+Previous scene: A bowl with batter
+Action: Preheat your waffle iron according to the manufacturer's instructions. *
+Step 6:
+Previous scene: A batter and preheating waffle iron
+Action: Lightly grease the waffle iron with cooking spray or melted butter. *
+Step 7:
+Previous scene: A preheating waffle iron and greased
+Action: Pour the batter into the center of the waffle iron, being careful not to overfill. *
+Step 8:
+Previous scene: A filled waffle iron
+Action: Close the waffle iron and cook the waffle until golden brown and crispy, about 3-5 minutes. *
+Step 9:
+Previous scene: A filled waffle iron cooking
+Action: Remove the waffle and repeat with the remaining batter. *
+Step 10:
+Previous scene: Finished waffle in the waffle iron
+Action: Serve the pumpkin waffles warm with your favorite toppings like maple syrup, whipped cream, or pecans. *

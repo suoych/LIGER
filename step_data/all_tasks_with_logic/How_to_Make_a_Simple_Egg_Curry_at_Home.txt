@@ -1,0 +1,28 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Heat oil in a pan over medium heat *
+Step 2:
+Previous scene: A pan with hot oil
+Action: Add chopped onions and sauté until golden brown *
+Step 3:
+Previous scene: A pan with sautéed onions 
+Action: Add ginger-garlic paste and cook for a few minutes *
+Step 4:
+Previous scene: A pan with sautéed onions and ginger-garlic paste
+Action: Add chopped tomatoes and cook until they are soft *
+Step 5:
+Previous scene: A pan with softened tomatoes
+Action: Add spices like turmeric, cumin, coriander, and red chili powder *
+Step 6:
+Previous scene: A pan with spices and sautéed tomato-onion mixture
+Action: Add a little water and let it simmer to form a thick gravy *
+Step 7:
+Previous scene: A pan with simmering curry gravy
+Action: Add boiled and peeled eggs into the gravy *
+Step 8:
+Previous scene: A pan with boiled eggs in curry gravy
+Action: Simmer for a few more minutes to allow the eggs to absorb the flavors *
+Step 9:
+Previous scene: A pan with cooked egg curry
+Action: Garnish with fresh cilantro and serve hot *

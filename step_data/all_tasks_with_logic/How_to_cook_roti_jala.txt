@@ -1,0 +1,31 @@
+9, 3*
+Step 1: 
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of all-purpose flour *
+Step 2: 
+Previous scene: A bowl with flour
+Action: Add a pinch of salt *
+Step 3: 
+Previous scene: A bowl with flour and salt
+Action: Pour in 1 cup of coconut milk *
+Step 4: 
+Previous scene: A bowl with flour, salt, and coconut milk
+Action: Add 1 egg *
+Step 5: 
+Previous scene: A bowl with flour, salt, coconut milk, and an egg
+Action: Mix until it forms a smooth batter *
+Step 6: 
+Previous scene: Smooth batter in a bowl
+Action: Pour the batter into a roti jala mold or a squeeze bottle *
+Step 7: 
+Previous scene: Batter in a roti jala mold or a squeeze bottle
+Action: Heat a non-stick pan over medium heat and lightly grease it with oil *
+Step 8: 
+Previous scene: Greased non-stick pan
+Action: Squeeze or pour the batter in a circular motion to form a lacy pattern *
+Step 9: 
+Previous scene: Batter forming lacy pattern in pan
+Action: Cook until the batter sets and is slightly golden *
+Step 10: 
+Previous scene: Slightly golden lacey roti jala in pan
+Action: Remove from the pan and fold into desired shapes *

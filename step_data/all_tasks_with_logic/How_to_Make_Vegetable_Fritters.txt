@@ -1,0 +1,46 @@
+10,8 *
+Step 1:
+Previous scene: None
+Action: Grate 2 cups of zucchini into a mixing bowl *
+Step 2:
+Previous scene: A bowl with grated zucchini
+Action: Add 1 cup of grated carrots *
+Step 3:
+Previous scene: A bowl with grated zucchini and carrots
+Action: Sprinkle salt over the vegetables *
+Step 4:
+Previous scene: A bowl with salted grated zucchini and carrots
+Action: Let the mixture sit for 10 minutes *
+Step 5:
+Previous scene: A bowl with salted grated zucchini and carrots
+Action: Squeeze out excess moisture from the vegetables *
+Step 6:
+Previous scene: A bowl with grated and squeezed vegetables
+Action: Add 1/2 cup of flour *
+Step 7:
+Previous scene: A bowl with grated vegetables and flour
+Action: Add 2 beaten eggs *
+Step 8:
+Previous scene: A bowl with grated vegetables, flour, and eggs
+Action: Add 1/4 cup of chopped onions *
+Step 9:
+Previous scene: A bowl with grated vegetables, flour, eggs, and onions
+Action: Add some seasonings like pepper and herbs *
+Step 10:
+Previous scene: A bowl with grated vegetables, flour, eggs, onions, and seasonings
+Action: Mix the ingredients until well combined *
+Step 11:
+Previous scene: A bowl with combined batter
+Action: Heat some oil in a skillet *
+Step 12:
+Previous scene: A skillet heating oil
+Action: Spoon batter into the skillet *
+Step 13:
+Previous scene: A skillet with fritter batter
+Action: Cook until golden brown on both sides *
+Step 14:
+Previous scene: A skillet with golden brown fritters
+Action: Place cooked fritters on a paper towel-lined plate to drain excess oil *
+Step 15:
+Previous scene: A plate with cooked fritters
+Action: Serve hot with your favorite dipping sauce *

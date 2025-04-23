@@ -1,0 +1,40 @@
+2, 5*
+Step 1:
+Previous scene: None
+Action: Crack two eggs into a mixing bowl *
+
+Step 2:
+Previous scene: A bowl with eggs
+Action: Whisk the eggs until well beaten *
+
+Step 3:
+Previous scene: A bowl with beaten eggs
+Action: Heat a non-stick skillet over medium heat *
+
+Step 4:
+Previous scene: A heated skillet
+Action: Pour the beaten eggs into the skillet *
+
+Step 5:
+Previous scene: A skillet with eggs
+Action: Sprinkle diced ham onto one half of the eggs *
+
+Step 6:
+Previous scene: A skillet with ham on eggs
+Action: Add shredded cheese on top of the ham *
+
+Step 7:
+Previous scene: A skillet with ham and cheese on eggs
+Action: Once the edges of the omelet start to set, use a spatula to fold the omelet in half *
+
+Step 8:
+Previous scene: An omelet folded in half in the skillet
+Action: Cook for another minute until the cheese is melted *
+
+Step 9:
+Previous scene: A cooked omelet in the skillet
+Action: Slide the omelet onto a plate *
+
+Step 10:
+Previous scene: An omelet on a plate
+Action: Garnish with herbs if desired and serve *

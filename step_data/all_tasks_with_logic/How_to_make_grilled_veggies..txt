@@ -1,0 +1,24 @@
+1,5 *
+Step 1:  
+Previous scene: None  
+Action: Preheat the grill to medium-high heat *  
+
+Step 2:  
+Previous scene: A grill  
+Action: Wash and cut vegetables like bell peppers, zucchini, and mushrooms *  
+
+Step 3:  
+Previous scene: Clean, cut vegetables  
+Action: Toss vegetables in olive oil, salt, and pepper *  
+
+Step 4:  
+Previous scene: Seasoned vegetables  
+Action: Place the vegetables on the grill *  
+
+Step 5:  
+Previous scene: Vegetables on the grill  
+Action: Grill the vegetables for about 5-7 minutes per side *  
+
+Step 6:  
+Previous scene: Grilled vegetables  
+Action: Remove the vegetables from the grill and serve *  

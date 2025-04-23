@@ -1,0 +1,40 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: Oven preheating
+Action: In a large bowl, combine 1 cup of unsweetened dark cocoa powder, 2 cups of sugar, and 1/2 cup of vegetable oil *
+
+Step 3:
+Previous scene: A bowl with cocoa powder, sugar, and oil
+Action: Add 4 eggs, one at a time, beating well after each addition *
+
+Step 4:
+Previous scene: A bowl with mixed chocolate batter
+Action: Stir in 2 teaspoons of vanilla extract *
+
+Step 5:
+Previous scene: A bowl with chocolate batter and vanilla
+Action: In another bowl, whisk together 2 cups of all-purpose flour, 2 teaspoons of baking powder, and 1/2 teaspoon of salt *
+
+Step 6:
+Previous scene: A bowl with dry ingredients (flour, baking powder, salt)
+Action: Gradually add the dry ingredients to the chocolate mixture and mix until just combined *
+
+Step 7:
+Previous scene: A bowl with chocolate cookie dough
+Action: Fold in 1 cup of dark chocolate chips *
+
+Step 8:
+Previous scene: Cookie dough with dark chocolate chips
+Action: Drop spoonfuls of dough onto ungreased baking sheets, spacing them about 2 inches apart *
+
+Step 9:
+Previous scene: Baking sheets with cookie dough
+Action: Bake in the preheated oven for 10-12 minutes, or until the edges are set *
+
+Step 10:
+Previous scene: Cookies baking in the oven
+Action: Allow the cookies to cool on the baking sheets for a few minutes before transferring them to wire racks to cool completely *

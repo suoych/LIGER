@@ -1,0 +1,56 @@
+1, 3*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: Oven preheating
+Action: In a large skillet, cook 1 pound of ground beef over medium heat until browned *
+
+Step 3:
+Previous scene: Ground beef in skillet
+Action: Drain any excess fat from the skillet *
+
+Step 4:
+Previous scene: Cooked ground beef
+Action: Add 1 packet of taco seasoning and 2/3 cup of water to the beef, stir and let simmer for 5 minutes *
+
+Step 5:
+Previous scene: Seasoned beef mixture
+Action: In a separate saucepan, heat 1 can of enchilada sauce over medium heat until warmed through *
+
+Step 6:
+Previous scene: Warmed enchilada sauce
+Action: Dip each of 12 corn tortillas into the warmed enchilada sauce to coat both sides *
+
+Step 7:
+Previous scene: Sauce-coated tortillas
+Action: Fill each tortilla with a portion of the seasoned beef mixture and some shredded cheese, then roll up tightly *
+
+Step 8:
+Previous scene: Filled and rolled tortillas
+Action: Place the rolled tortillas seam side down in a baking dish *
+
+Step 9:
+Previous scene: Rolled tortillas in baking dish
+Action: Pour the remaining enchilada sauce over the top of the rolled tortillas *
+
+Step 10:
+Previous scene: Sauced tortillas in baking dish
+Action: Sprinkle additional shredded cheese over the top *
+
+Step 11:
+Previous scene: Cheesed tortillas in baking dish
+Action: Cover the baking dish with aluminum foil *
+
+Step 12:
+Previous scene: Covered baking dish
+Action: Bake in the preheated oven for 20 minutes *
+
+Step 13:
+Previous scene: Baked enchiladas in baking dish
+Action: Remove the foil and bake for an additional 5-10 minutes until the cheese is melted and bubbly *
+
+Step 14:
+Previous scene: Baked and bubbly enchiladas
+Action: Serve hot, garnished with chopped cilantro and sour cream if desired *

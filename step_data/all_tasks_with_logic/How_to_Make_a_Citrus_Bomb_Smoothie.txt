@@ -1,0 +1,22 @@
+6, 1*
+Step 1:
+Previous scene: None
+Action: Place 1 peeled orange in a blender *
+Step 2:
+Previous scene: Blender with an orange
+Action: Add 1/2 cup of pineapple chunks *
+Step 3:
+Previous scene: Blender with orange and pineapple chunks
+Action: Squeeze the juice of 1/2 a lemon into the blender *
+Step 4:
+Previous scene: Blender with orange, pineapple chunks, and lemon juice
+Action: Add 1/2 cup of Greek yogurt *
+Step 5:
+Previous scene: Blender with fruit and Greek yogurt
+Action: Pour in 1 cup of coconut water *
+Step 6: 
+Previous scene: Blender with all ingredients
+Action: Blend until smooth *
+Step 7: 
+Previous scene: Blended smoothie
+Action: Pour into a glass and serve immediately *

@@ -1,0 +1,60 @@
+1, 3*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: An empty oven
+Action: In a large mixing bowl, combine 1 lb of ground beef *
+
+Step 3:
+Previous scene: A bowl with ground beef
+Action: Add 1/2 cup of bread crumbs *
+
+Step 4:
+Previous scene: A bowl with ground beef and bread crumbs
+Action: Add 1/4 cup of finely chopped onions *
+
+Step 5:
+Previous scene: A bowl with ground beef, bread crumbs, and onions
+Action: Add 1 clove of minced garlic *
+
+Step 6:
+Previous scene: A bowl with ground beef, bread crumbs, onions, and garlic
+Action: Add 1 beaten egg *
+
+Step 7:
+Previous scene: A bowl with ground beef, bread crumbs, onions, garlic, and egg
+Action: Pour in 1/4 cup of milk *
+
+Step 8:
+Previous scene: A bowl with ground beef mixture
+Action: Add 1 tablespoon of Worcestershire sauce *
+
+Step 9:
+Previous scene: A bowl with ground beef mixture containing Worcestershire sauce
+Action: Add salt and pepper to taste *
+
+Step 10:
+Previous scene: A seasoned beef mixture
+Action: Mix all the ingredients together until well combined *
+
+Step 11:
+Previous scene: A well-mixed beef mixture
+Action: Shape the mixture into a loaf on a baking sheet *
+
+Step 12:
+Previous scene: A meatloaf on a baking sheet
+Action: Lay strips of bacon over the top of the meatloaf *
+
+Step 13:
+Previous scene: A bacon-covered meatloaf
+Action: Place the meatloaf in the preheated oven *
+
+Step 14:
+Previous scene: A meatloaf in a preheated oven
+Action: Bake for about 1 hour, or until the loaf is cooked through *
+
+Step 15:
+Previous scene: A meatloaf baking in the oven
+Action: Let the meatloaf rest for 10 minutes before slicing and serving *

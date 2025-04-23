@@ -1,0 +1,29 @@
+5, 2*
+Step 1:
+Previous scene: None
+Action: Take a large mixing bowl *
+Step 2:
+Previous scene: A large mixing bowl
+Action: Add chopped romaine lettuce to the bowl *
+Step 3:
+Previous scene: A large mixing bowl with chopped romaine lettuce
+Action: Add grilled, sliced chicken to the bowl *
+Step 4:
+Previous scene: A large mixing bowl with chopped romaine lettuce and grilled chicken slices
+Action: Add Caesar salad dressing to the bowl *
+Step 5:
+Previous scene: A large mixing bowl with chopped romaine lettuce, grilled chicken slices, and Caesar dressing
+Action: Toss everything together until well combined *
+Step 6: 
+Previous scene: A large mixing bowl with tossed salad
+Action: Place a large tortilla on a flat surface *
+Step 7:
+Previous scene: A large tortilla on a flat surface
+Action: Spoon the Caesar salad mixture onto the center of the tortilla *
+Step 8:
+Previous scene: A large tortilla with Caesar salad mixture in the center
+Action: Fold in the sides of the tortilla and then roll it up tightly *
+Step 9:
+Previous scene: A rolled-up wrap
+Action: Cut the wrap in half, if desired, and serve *
+

@@ -1,0 +1,28 @@
+7, 2*
+Step 1: 
+Previous scene: None
+Action: Heat 2 tablespoons of oil in a pan over medium heat *
+Step 2: 
+Previous scene: A pan with oil
+Action: Add 2 teaspoons of minced garlic *
+Step 3: 
+Previous scene: A pan with oil and garlic
+Action: Add 2 teaspoons of minced ginger *
+Step 4: 
+Previous scene: A pan with oil, garlic, and ginger
+Action: Sauté until fragrant *
+Step 5: 
+Previous scene: A pan with fragrant garlic and ginger
+Action: Add 500 grams of prawns *
+Step 6: 
+Previous scene: A pan with garlic, ginger, and prawns
+Action: Cook prawns until they turn pink and are cooked through *
+Step 7: 
+Previous scene: A pan with cooked prawns in garlic and ginger
+Action: Add salt and pepper to taste *
+Step 8: 
+Previous scene: A pan with seasoned cooked prawns
+Action: Garnish with chopped fresh parsley or coriander if desired *
+Step 9:
+Previous scene: A pan with garnished cooked prawns
+Action: Serve immediately *

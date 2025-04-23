@@ -1,0 +1,37 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Cook 2 cups of jasmine rice according to package instructions and let it cool completely *
+Step 2:
+Previous scene: Cooked rice
+Action: Heat 2 tablespoons of sesame oil in a large skillet or wok over medium-high heat *
+Step 3:
+Previous scene: Skillet with sesame oil
+Action: Add 1 finely chopped onion and 2 minced garlic cloves *
+Step 4:
+Previous scene: Skillet with sesame oil, chopped onion, and minced garlic
+Action: Sauté until the onion becomes translucent *
+Step 5:
+Previous scene: Skillet with sautéed onion and garlic
+Action: Add the cooked rice to the skillet *
+Step 6:
+Previous scene: Skillet with rice, onion, and garlic
+Action: Stir-fry the rice for a few minutes to heat through and slightly crisp up *
+Step 7:
+Previous scene: Skillet with stir-fried rice
+Action: Push the rice to one side of the skillet and add 2 beaten eggs to the empty space *
+Step 8:
+Previous scene: Skillet with rice and beaten eggs
+Action: Scramble the eggs until fully cooked, then mix them into the rice *
+Step 9:
+Previous scene: Skillet with rice and scrambled eggs
+Action: Add 1 cup of frozen peas and carrots, and stir-fry until they are heated through *
+Step 10:
+Previous scene: Skillet with rice, scrambled eggs, peas, and carrots
+Action: Drizzle 3 tablespoons of soy sauce and 1 tablespoon of sesame seeds over the rice mixture and stir well *
+Step 11:
+Previous scene: Skillet with seasoned rice mixture
+Action: Continue to stir-fry for another 2-3 minutes, then remove from heat *
+Step 12:
+Previous scene: Skillet with finished sesame fried rice
+Action: Serve the sesame fried rice hot, garnished with chopped green onions if desired *

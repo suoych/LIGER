@@ -1,0 +1,52 @@
+1, 3*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Preheated oven
+Action: Roll out puff pastry on a lightly floured surface *
+
+Step 3:
+Previous scene: A rolled-out puff pastry on a floured surface
+Action: Cut the puff pastry into rectangles *
+
+Step 4:
+Previous scene: Cut puff pastry rectangles
+Action: Place a spoonful of jam or fruit filling in the center of half of the rectangles *
+
+Step 5:
+Previous scene: Puff pastry rectangles with jam in the center
+Action: Brush the edges of the filled rectangles with beaten egg *
+
+Step 6:
+Previous scene: Puff pastry rectangles with jam and brushed edges
+Action: Place a second rectangle on top of each filled one and press the edges together with a fork to seal *
+
+Step 7:
+Previous scene: Sealed pastry rectangles
+Action: Place the sealed pastries on a baking sheet lined with parchment paper *
+
+Step 8:
+Previous scene: Pastries on a baking sheet
+Action: Brush the tops of the pastries with more beaten egg *
+
+Step 9:
+Previous scene: Egg-brushed pastries on a baking sheet
+Action: Bake in the oven for 20-25 minutes or until golden brown *
+
+Step 10:
+Previous scene: Baked pastries
+Action: Let the pastries cool on a wire rack *
+
+Step 11:
+Previous scene: Cooled pastries
+Action: Mix powdered sugar with a few drops of milk to make a glaze *
+
+Step 12:
+Previous scene: Glaze mixture in a bowl
+Action: Drizzle the glaze over the cooled pastries *
+
+Step 13:
+Previous scene: Glazed pastries
+Action: Serve and enjoy your homemade toaster strudels *

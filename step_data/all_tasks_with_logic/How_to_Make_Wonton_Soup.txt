@@ -1,0 +1,25 @@
+5,7 *
+Step 1:
+Previous scene: None
+Action: Combine ground pork, shrimp, ginger, garlic, soy sauce, sesame oil, and green onions in a mixing bowl for the wonton filling *
+Step 2:
+Previous scene: A mixing bowl with wonton filling
+Action: Place a small spoonful of the filling in the center of a wonton wrapper *
+Step 3:
+Previous scene: A wonton wrapper with filling
+Action: Fold the wonton wrapper in half to form a triangle and seal the edges with water *
+Step 4:
+Previous scene: A sealed wonton
+Action: Bring the two corners of the triangle together and seal them with water to form the wonton shape *
+Step 5:
+Previous scene: Wontons on a plate
+Action: Boil a pot of water and cook the wontons until they float to the surface *
+Step 6:
+Previous scene: Boiling water with wontons
+Action: In a separate pot, bring chicken broth to a boil *
+Step 7:
+Previous scene: A pot of boiling broth
+Action: Add cooked wontons, bok choy, and green onions to the broth *
+Step 8:
+Previous scene: Soup pot with wontons and vegetables
+Action: Simmer until vegetables are tender and serve hot *

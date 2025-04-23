@@ -1,0 +1,28 @@
+3,7 *
+Step 1:
+Previous scene: None
+Action: In a medium saucepan, heat 1 tablespoon of oil over medium heat *
+Step 2:
+Previous scene: A saucepan with oil
+Action: Add 2 tablespoons of Thai red curry paste and sauté for 1-2 minutes *
+Step 3:
+Previous scene: A saucepan with oil and curry paste
+Action: Pour in one can of coconut milk and stir until the paste is well mixed with the milk *
+Step 4:
+Previous scene: A saucepan with curry paste mixed in coconut milk
+Action: Add 1 cup of chicken broth and bring to a simmer *
+Step 5:
+Previous scene: A saucepan with curry sauce simmering
+Action: Add 1 pound of sliced chicken breast *
+Step 6:
+Previous scene: A saucepan with chicken and curry sauce
+Action: Simmer until the chicken is cooked through, about 5-7 minutes *
+Step 7:
+Previous scene: A saucepan with cooked chicken and curry sauce
+Action: Add 1 cup of mixed vegetables (like bell peppers, bamboo shoots, or baby corn) and cook for another 3-5 minutes *
+Step 8:
+Previous scene: A saucepan with chicken, curry sauce, and vegetables
+Action: Stir in 2 tablespoons of fish sauce and 1 tablespoon of sugar *
+Step 9:
+Previous scene: A saucepan with chicken, vegetables, and curry sauce
+Action: Garnish with fresh basil leaves and serve hot with rice *

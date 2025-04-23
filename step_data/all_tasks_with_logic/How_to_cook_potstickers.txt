@@ -1,0 +1,36 @@
+4, 7*
+Step 1:  
+Previous scene: None  
+Action: Prepare the filling ingredients by chopping cabbage, scallions, and ginger finely. Mix them with ground pork in a bowl. *
+
+Step 2:  
+Previous scene: A bowl with mixed filling ingredients  
+Action: Season the filling with soy sauce, sesame oil, salt, and pepper, and mix thoroughly. *
+
+Step 3:  
+Previous scene: A bowl with seasoned filling  
+Action: Take a potsticker wrapper and place a spoonful of filling in the center. *
+
+Step 4:  
+Previous scene: Potsticker wrapper with filling  
+Action: Moisten the edges of the wrapper with water, fold it in half, and press to seal. Create pleats along the edges. *
+
+Step 5:  
+Previous scene: Sealed potsticker  
+Action: Heat oil in a skillet over medium-high heat and place the potstickers in the pan. *
+
+Step 6:  
+Previous scene: Potstickers in a skillet  
+Action: Fry the potstickers until the bottoms are golden brown. *
+
+Step 7:  
+Previous scene: Potstickers with golden brown bottoms  
+Action: Add water to the skillet and cover it to steam the potstickers. *
+
+Step 8:  
+Previous scene: Potstickers being steamed in a skillet  
+Action: Remove the lid and continue cooking until all the water has evaporated. *
+
+Step 9:  
+Previous scene: Evaporated water in skillet  
+Action: Transfer the potstickers to a serving plate and serve with dipping sauce. *

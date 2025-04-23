@@ -1,0 +1,40 @@
+1, 3*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 425°F (220°C) *
+
+Step 2:
+Previous scene: None
+Action: In a large mixing bowl, combine shredded cooked chicken, shredded cheese, salsa, and seasonings (like cumin, chili powder, garlic powder, salt, and pepper) *
+
+Step 3:
+Previous scene: Mixing bowl with chicken mixture
+Action: Lay out tortillas on a flat surface *
+
+Step 4:
+Previous scene: Tortillas
+Action: Place a small amount of the chicken mixture in a line down the center of each tortilla *
+
+Step 5:
+Previous scene: Tortillas with chicken mixture
+Action: Tightly roll up each tortilla around the filling *
+
+Step 6:
+Previous scene: Rolled tortillas with chicken mixture
+Action: Place the rolled taquitos seam side down on a baking sheet *
+
+Step 7:
+Previous scene: Baking sheet with taquitos
+Action: Lightly spray or brush the taquitos with cooking oil *
+
+Step 8:
+Previous scene: Baking sheet with oiled taquitos
+Action: Bake in the preheated oven for 15-20 minutes, or until golden brown and crispy *
+
+Step 9:
+Previous scene: Golden brown baked taquitos
+Action: Remove from the oven and let them cool slightly *
+
+Step 10:
+Previous scene: Baked taquitos cooling 
+Action: Serve with your favorite dipping sauces, such as guacamole, sour cream, or salsa *

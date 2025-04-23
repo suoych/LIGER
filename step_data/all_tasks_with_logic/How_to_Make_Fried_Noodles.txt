@@ -1,0 +1,40 @@
+3,8 *
+Step 1:
+Previous scene: None
+Action: Boil water in a pot *
+
+Step 2:
+Previous scene: A pot of boiling water
+Action: Add noodles to the pot and cook until tender *
+
+Step 3:
+Previous scene: Noodles in boiling water
+Action: Drain the noodles and set aside *
+
+Step 4:
+Previous scene: Drained noodles in a strainer
+Action: Heat oil in a wok or large skillet over medium-high heat *
+
+Step 5:
+Previous scene: A wok with heated oil
+Action: Add chopped garlic and stir-fry until fragrant *
+
+Step 6:
+Previous scene: Garlic in a wok
+Action: Add your choice of protein (chicken, shrimp, tofu) and cook until done *
+
+Step 7:
+Previous scene: Protein cooking in a wok
+Action: Add vegetables such as bell peppers, carrots, and cabbage, and stir-fry for a few minutes *
+
+Step 8:
+Previous scene: Protein and vegetables in a wok
+Action: Add the drained noodles to the wok *
+
+Step 9:
+Previous scene: Noodles, protein, and vegetables in a wok
+Action: Pour soy sauce and any other desired seasoning over the noodles *
+
+Step 10:
+Previous scene: Noodles, protein, vegetables, and sauce in a wok
+Action: Stir-fry everything together until well combined *

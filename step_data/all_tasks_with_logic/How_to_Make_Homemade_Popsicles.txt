@@ -1,0 +1,28 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: Gather fruit such as berries, bananas, and mangoes *
+
+Step 2:
+Previous scene: A collection of fruits
+Action: Puree the fruit in a blender until smooth *
+
+Step 3:
+Previous scene: Pureed fruit
+Action: Pour the pureed fruit into popsicle molds *
+
+Step 4:
+Previous scene: Popsicle molds filled with pureed fruit
+Action: Insert popsicle sticks into the molds *
+
+Step 5:
+Previous scene: Popsicle molds with sticks
+Action: Place the molds in the freezer *
+
+Step 6:
+Previous scene: Popsicle molds in the freezer
+Action: Freeze for at least 4 hours or overnight until solid *
+
+Step 7:
+Previous scene: Frozen popsicle molds
+Action: Remove the popsicles from the molds and enjoy *

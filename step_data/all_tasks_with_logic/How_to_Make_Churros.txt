@@ -1,0 +1,31 @@
+3, 9*
+Step 1:
+Previous scene: None
+Action: In a saucepan, combine 1 cup of water, 2 1/2 tablespoons of sugar, 1/2 teaspoon of salt, and 2 tablespoons of vegetable oil *
+Step 2:
+Previous scene: A saucepan with water, sugar, salt, and oil
+Action: Bring the mixture to a boil over medium heat *
+Step 3:
+Previous scene: A boiling mixture
+Action: Remove the saucepan from heat and stir in 1 cup of flour until the mixture forms a ball *
+Step 4:
+Previous scene: A dough ball in a saucepan
+Action: Heat oil for frying in a deep fryer or large pot to 375°F (190°C) *
+Step 5:
+Previous scene: Heated oil
+Action: Spoon the dough into a piping bag fitted with a star tip *
+Step 6:
+Previous scene: Dough in a piping bag
+Action: Pipe strips of dough into the hot oil *
+Step 7:
+Previous scene: Dough strips frying in oil
+Action: Fry until golden brown and drain on paper towels *
+Step 8:
+Previous scene: Fried churros on paper towels
+Action: Combine 1/2 cup of sugar and 1 teaspoon of ground cinnamon in a shallow dish *
+Step 9:
+Previous scene: A dish with sugar and cinnamon
+Action: Roll the churros in the cinnamon-sugar mixture *
+Step 10:
+Previous scene: Churros coated in cinnamon-sugar
+Action: Serve warm, optionally with a side of chocolate sauce for dipping *

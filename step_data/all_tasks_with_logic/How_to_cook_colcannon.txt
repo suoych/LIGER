@@ -1,0 +1,48 @@
+1, 9*
+Step 1:
+Previous scene: None
+Action: Peel and chop 2 pounds of potatoes into cubes *
+
+Step 2:
+Previous scene: Peeled and chopped potatoes
+Action: Place the potatoes in a large pot and cover with water *
+
+Step 3:
+Previous scene: Potatoes in a pot with water
+Action: Bring the water to a boil and cook the potatoes until tender, about 15 minutes *
+
+Step 4:
+Previous scene: Boiled potatoes
+Action: While the potatoes are cooking, chop 1/2 head of cabbage *
+
+Step 5:
+Previous scene: Chopped cabbage
+Action: Place the chopped cabbage in a separate pot and cover with water *
+
+Step 6:
+Previous scene: Cabbage in a pot with water
+Action: Bring the water to a boil and cook the cabbage for about 5-7 minutes until tender *
+
+Step 7:
+Previous scene: Cooked cabbage
+Action: Drain the cabbage and set it aside *
+
+Step 8:
+Previous scene: Drained cabbage
+Action: Drain the cooked potatoes and return them to the pot *
+
+Step 9:
+Previous scene: Drained potatoes in pot
+Action: Add 4 tablespoons of butter to the potatoes and mash until smooth *
+
+Step 10:
+Previous scene: Mashed potatoes with butter
+Action: Add 1 cup of milk and mix until creamy *
+
+Step 11:
+Previous scene: Creamy mashed potatoes
+Action: Fold the cooked cabbage into the mashed potatoes *
+
+Step 12:
+Previous scene: Mashed potatoes with cabbage
+Action: Season with salt and pepper to taste, and serve warm *

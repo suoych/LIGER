@@ -1,0 +1,28 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Cook 1 lb of ground beef in a skillet over medium heat, breaking it apart as it cooks, until browned *
+
+Step 2:
+Previous scene: Skillet with browned ground beef
+Action: Drain the grease from the skillet *
+
+Step 3:
+Previous scene: Skillet with drained ground beef
+Action: Add 2 cups of water, 2 cups of milk, and 2 cups of macaroni noodles to the skillet *
+
+Step 4:
+Previous scene: Skillet with ground beef, water, milk and macaroni noodles
+Action: Stir well and bring to a boil *
+
+Step 5:
+Previous scene: Skillet with boiling mixture 
+Action: Reduce heat, cover, and simmer for about 10 minutes or until macaroni is cooked *
+
+Step 6:
+Previous scene: Skillet with cooked macaroni mixture
+Action: Add 2 cups of shredded cheddar cheese and stir until cheese is melted and the mixture is well combined *
+
+Step 7:
+Previous scene: Skillet with cheesy macaroni and beef
+Action: Season with salt and pepper to taste and serve hot *

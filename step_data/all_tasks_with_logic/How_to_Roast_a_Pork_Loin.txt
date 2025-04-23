@@ -1,0 +1,31 @@
+6,2 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+Step 2:
+Previous scene: An oven preheating
+Action: Place the pork loin on a cutting board *
+Step 3:
+Previous scene: A pork loin on a cutting board
+Action: Rub the pork loin with olive oil *
+Step 4:
+Previous scene: A pork loin rubbed with olive oil
+Action: Season the pork loin with salt, pepper, and your choice of herbs (like rosemary or thyme) *
+Step 5:
+Previous scene: A seasoned pork loin
+Action: Place the pork loin in a roasting pan *
+Step 6:
+Previous scene: A pork loin in a roasting pan
+Action: Insert a meat thermometer into the thickest part of the pork loin *
+Step 7:
+Previous scene: A pork loin in a roasting pan with a meat thermometer
+Action: Roast the pork loin in the preheated oven *
+Step 8:
+Previous scene: A roasting pork loin in the oven
+Action: Cook until the internal temperature reaches 145°F (63°C) *
+Step 9:
+Previous scene: A cooked pork loin in the oven
+Action: Remove the pork loin from the oven and let it rest for 10-15 minutes *
+Step 10:
+Previous scene: A cooked pork loin resting
+Action: Slice the pork loin and serve *

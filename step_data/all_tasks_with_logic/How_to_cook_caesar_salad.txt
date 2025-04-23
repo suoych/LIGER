@@ -1,0 +1,24 @@
+5, 2*
+Step 1:
+Previous scene: None
+Action: Wash and chop the romaine lettuce *
+
+Step 2:
+Previous scene: Chopped lettuce
+Action: Cook and crumble the bacon *
+
+Step 3:
+Previous scene: Cooked bacon
+Action: Grate the Parmesan cheese *
+
+Step 4:
+Previous scene: Grated Parmesan cheese
+Action: Toast the croutons *
+
+Step 5:
+Previous scene: Toasted croutons
+Action: Prepare the Caesar dressing by mixing mayonnaise, lemon juice, garlic, Dijon mustard, Worcestershire sauce, and anchovy paste *
+
+Step 6:
+Previous scene: Caesar dressing ingredients
+Action: Toss the chopped lettuce with the Caesar dressing, bacon, Parmesan cheese, and croutons *

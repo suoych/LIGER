@@ -1,0 +1,32 @@
+4, 3*
+Step 1:  
+Previous scene: None  
+Action: In a large pot, heat 2 tablespoons of oil over medium heat *
+
+Step 2:  
+Previous scene: A large pot with heated oil  
+Action: Add 1 diced onion and sauté until translucent *
+
+Step 3:  
+Previous scene: A pot with sautéed onions  
+Action: Add 1 pound of beef cubes and brown them on all sides *
+
+Step 4:  
+Previous scene: A pot with browned beef and onions  
+Action: Stir in 2 tablespoons of paprika, 1 teaspoon of caraway seeds, and 2 minced garlic cloves *
+
+Step 5:  
+Previous scene: A pot with seasoned beef and onion mixture  
+Action: Pour in 4 cups of beef broth and add 2 chopped bell peppers *
+
+Step 6:  
+Previous scene: A pot with beef mixture and broth  
+Action: Add 2 diced tomatoes and let the mixture simmer for about an hour *
+
+Step 7:  
+Previous scene: A pot with simmered beef, veggies, and broth  
+Action: Stir in 1 cup of diced potatoes and cook until potatoes are tender *
+
+Step 8:  
+Previous scene: A pot with nearly finished goulash  
+Action: Season with salt and pepper to taste, then serve *

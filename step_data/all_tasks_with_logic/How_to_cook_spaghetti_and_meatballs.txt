@@ -1,0 +1,44 @@
+6, 1*
+Step 1:  
+Previous scene: None  
+Action: Fill a large pot with water and bring it to a boil *
+
+Step 2:  
+Previous scene: A pot with boiling water  
+Action: Add spaghetti to the pot *
+
+Step 3:  
+Previous scene: A pot with spaghetti in boiling water  
+Action: Cook spaghetti until al dente *
+
+Step 4:  
+Previous scene: A pot with cooked spaghetti  
+Action: Drain the spaghetti in a colander *
+
+Step 5:  
+Previous scene: A colander with drained spaghetti  
+Action: In a separate bowl, mix ground meat with breadcrumbs, egg, and seasoning *
+
+Step 6:  
+Previous scene: A bowl with ground meat mixture  
+Action: Shape the mixture into small meatballs *
+
+Step 7:  
+Previous scene: Raw meatballs on a plate  
+Action: Heat olive oil in a skillet *
+
+Step 8:  
+Previous scene: A skillet with heated olive oil  
+Action: Add meatballs to the skillet and cook until browned *
+
+Step 9:  
+Previous scene: Cooked meatballs in a skillet  
+Action: Pour tomato sauce over the meatballs and simmer *
+
+Step 10:  
+Previous scene: Meatballs in tomato sauce  
+Action: Combine spaghetti with the meatball sauce mixture *
+
+Step 11:  
+Previous scene: Combined spaghetti and meatballs in sauce  
+Action: Serve hot, optionally garnished with grated Parmesan cheese *

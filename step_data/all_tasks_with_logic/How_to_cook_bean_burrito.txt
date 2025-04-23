@@ -1,0 +1,28 @@
+1, 4*
+Step 1:  
+Previous scene: None  
+Action: Heat a skillet over medium heat and warm a tortilla until soft *  
+  
+Step 2:  
+Previous scene: A skillet with a warmed tortilla  
+Action: Open a can of refried beans *  
+  
+Step 3:  
+Previous scene: A can of refried beans  
+Action: Place refried beans onto the center of the tortilla *  
+  
+Step 4:  
+Previous scene: A tortilla with refried beans  
+Action: Sprinkle grated cheese over the beans *  
+  
+Step 5:  
+Previous scene: A tortilla with refried beans and cheese  
+Action: Add salsa over the cheese *  
+  
+Step 6:  
+Previous scene: A tortilla with refried beans, cheese, and salsa  
+Action: Fold the sides of the tortilla in and roll it into a burrito shape *  
+  
+Step 7:  
+Previous scene: A rolled bean burrito  
+Action: Place the burrito back onto the skillet and heat until the tortilla is golden brown *  

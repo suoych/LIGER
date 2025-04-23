@@ -1,0 +1,36 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 400°F (200°C) and line a baking sheet with parchment paper *
+
+Step 2:
+Previous scene: A baking sheet lined with parchment paper
+Action: In a large bowl, combine 1-pound sausage meat with finely chopped onion, garlic, sage, and thyme *
+
+Step 3:
+Previous scene: A bowl with sausage meat mixture
+Action: Roll out puff pastry on a lightly floured surface to form a rectangle *
+
+Step 4:
+Previous scene: Rolled out puff pastry
+Action: Place the sausage mixture in a long line down the center of the pastry *
+
+Step 5:
+Previous scene: Puff pastry with sausage mixture
+Action: Fold the pastry over the sausage meat and press the edges to seal *
+
+Step 6:
+Previous scene: Sausage meat wrapped in puff pastry
+Action: Cut the wrapped sausage into individual rolls and place them on the prepared baking sheet *
+
+Step 7:
+Previous scene: Individual sausage rolls on a baking sheet
+Action: Brush the tops of the sausage rolls with beaten egg *
+
+Step 8:
+Previous scene: Individual sausage rolls brushed with beaten egg
+Action: Bake in the preheated oven for 20-25 minutes, or until the pastry is golden brown and sausage is cooked through *
+
+Step 9:
+Previous scene: Baked sausage rolls on a baking sheet
+Action: Remove from the oven and let cool slightly before serving *

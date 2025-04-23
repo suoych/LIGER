@@ -1,0 +1,48 @@
+1, 2*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: None
+Action: In a mixing bowl, combine 8 ounces of softened cream cheese, 1/2 cup of mayonnaise, and 1 cup of crab meat *
+ 
+Step 3:
+Previous scene: A bowl with cream cheese, mayonnaise, and crab meat
+Action: Add 2 chopped green onions, 1 clove of minced garlic, and 1 teaspoon of Worcestershire sauce *
+ 
+Step 4:
+Previous scene: A bowl with cream cheese, mayonnaise, crab meat, green onions, garlic, and Worcestershire sauce
+Action: Mix the ingredients thoroughly until well combined *
+
+Step 5:
+Previous scene: A bowl with thoroughly mixed filling
+Action: Arrange 24 wonton wrappers on your countertop *
+
+Step 6:
+Previous scene: A bowl with thoroughly mixed filling, and wonton wrappers on the countertop
+Action: Spoon about 1 teaspoon of the crab mixture into the center of each wonton wrapper *
+
+Step 7:
+Previous scene: Wonton wrappers with crab mixture in their centers
+Action: Brush the edges of the wonton wrappers with a bit of water *
+
+Step 8:
+Previous scene: Wet edges of wonton wrappers with crab mixture in their centers
+Action: Fold the wonton wrappers into a triangle, pressing the edges to seal them *
+
+Step 9:
+Previous scene: Sealed wonton shapes
+Action: Place the filled wontons on a baking sheet lined with parchment paper *
+
+Step 10:
+Previous scene: Filled wontons on a baking sheet lined with parchment paper
+Action: Lightly spray the wontons with cooking spray or brush them with a little oil *
+
+Step 11:
+Previous scene: Oiled or sprayed wontons on a baking sheet
+Action: Bake in the preheated oven for about 15 minutes or until the wontons are golden brown and crispy *
+
+Step 12:
+Previous scene: Golden brown and crispy crab rangoons on a baking sheet
+Action: Remove from the oven and let them cool slightly before serving *

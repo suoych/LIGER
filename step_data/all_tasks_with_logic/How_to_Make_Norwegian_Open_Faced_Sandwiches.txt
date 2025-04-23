@@ -1,0 +1,28 @@
+1,6 *
+Step 1:
+Previous scene: None
+Action: Take slices of rye bread and place them on a cutting board *
+
+Step 2:
+Previous scene: Slices of rye bread on a cutting board
+Action: Spread a thin layer of butter on the bread slices *
+
+Step 3:
+Previous scene: Bread slices with butter
+Action: Lay a few slices of smoked salmon on top of the buttered bread *
+
+Step 4:
+Previous scene: Bread slices with butter and smoked salmon
+Action: Add a few slices of hard-boiled egg on top of the smoked salmon *
+
+Step 5:
+Previous scene: Bread slices with smoked salmon and hard-boiled egg
+Action: Place thinly sliced cucumbers and red onions on top of the egg *
+
+Step 6:
+Previous scene: Bread slices with smoked salmon, hard-boiled egg, cucumbers, and red onions
+Action: Garnish with a sprig of fresh dill and a sprinkle of freshly ground black pepper *
+
+Step 7:
+Previous scene: Bread slices with all ingredients and garnish
+Action: Serve immediately and enjoy your Norwegian open-faced sandwiches *

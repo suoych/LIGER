@@ -1,0 +1,48 @@
+8, 3*
+Step 1:
+Previous scene: None
+Action: Slice the Cuban bread into two halves lengthwise *
+
+Step 2:
+Previous scene: Sliced Cuban bread
+Action: Spread yellow mustard on one side of each half *
+
+Step 3:
+Previous scene: Sliced Cuban bread with mustard
+Action: Layer sliced Swiss cheese on one side of the bread *
+
+Step 4:
+Previous scene: Sliced Cuban bread with mustard and Swiss cheese
+Action: Add a layer of thinly sliced dill pickles on top of the Swiss cheese *
+
+Step 5:
+Previous scene: Sliced Cuban bread with mustard, Swiss cheese, and pickles
+Action: Place slices of roasted pork on top of the pickles *
+
+Step 6:
+Previous scene: Sliced Cuban bread with mustard, Swiss cheese, pickles, and roasted pork
+Action: Add a layer of ham slices on top of the pork *
+
+Step 7:
+Previous scene: Sliced Cuban bread with mustard, Swiss cheese, pickles, roasted pork, and ham
+Action: Top with another layer of Swiss cheese, if desired *
+
+Step 8:
+Previous scene: Layered Cuban sandwich ingredients on bread
+Action: Close the sandwich with the other half of the Cuban bread *
+
+Step 9:
+Previous scene: Prepared Cuban sandwich
+Action: Heat a panini press or skillet over medium heat *
+
+Step 10:
+Previous scene: Heated panini press or skillet
+Action: Place the sandwich on the panini press or skillet and press down firmly *
+
+Step 11:
+Previous scene: Sandwich being pressed on panini press or skillet
+Action: Cook for 3-5 minutes on each side, or until the bread is crispy and the cheese is melted *
+
+Step 12:
+Previous scene: Cooked Cuban sandwich on panini press or skillet
+Action: Remove from heat, slice the sandwich in half, and serve immediately *

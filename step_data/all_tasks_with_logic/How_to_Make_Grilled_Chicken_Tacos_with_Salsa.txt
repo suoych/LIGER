@@ -1,0 +1,37 @@
+3,6 *
+Step 1:
+Previous scene: None
+Action: In a bowl, combine diced tomatoes, onion, cilantro, lime juice, salt, and pepper to make salsa *
+Step 2:
+Previous scene: A bowl with salsa ingredients
+Action: Stir the salsa mixture and set it aside *
+Step 3:
+Previous scene: A bowl with combined salsa
+Action: Season chicken breasts with salt, pepper, and your choice of spices *
+Step 4:
+Previous scene: Seasoned chicken breasts
+Action: Preheat the grill to medium-high heat *
+Step 5:
+Previous scene: Preheated grill
+Action: Place the chicken breasts on the grill *
+Step 6:
+Previous scene: Chicken breasts on the grill
+Action: Grill the chicken for 6-7 minutes on each side, until fully cooked *
+Step 7:
+Previous scene: Grilled chicken breasts
+Action: Remove the chicken from the grill and let it rest for a few minutes *
+Step 8:
+Previous scene: Grilled chicken resting
+Action: Slice the rested chicken into thin strips *
+Step 9:
+Previous scene: Sliced grilled chicken
+Action: Warm the corn or flour tortillas on the grill for about 30 seconds on each side *
+Step 10:
+Previous scene: Warm tortillas
+Action: Assemble the tacos by placing sliced chicken onto each tortilla *
+Step 11:
+Previous scene: Tortillas with sliced chicken
+Action: Top the tacos with the prepared salsa *
+Step 12:
+Previous scene: Tacos with sliced chicken and salsa
+Action: Garnish with additional toppings like avocado, cheese, or lime wedges if desired, and serve *

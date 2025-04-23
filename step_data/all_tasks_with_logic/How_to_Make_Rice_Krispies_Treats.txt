@@ -1,0 +1,32 @@
+1,6 *
+Step 1:
+Previous scene: None
+Action: Melt 3 tablespoons of butter in a large saucepan over low heat *
+
+Step 2:
+Previous scene: A saucepan with melted butter
+Action: Add 10 ounces of marshmallows to the saucepan and stir until completely melted *
+
+Step 3:
+Previous scene: A saucepan with melted marshmallows and butter
+Action: Remove the saucepan from the heat *
+
+Step 4:
+Previous scene: A saucepan with melted marshmallows and butter off the heat
+Action: Add 6 cups of Rice Krispies cereal to the saucepan *
+
+Step 5:
+Previous scene: A saucepan with melted marshmallows, butter, and Rice Krispies cereal
+Action: Stir the mixture until the cereal is completely coated with the marshmallow mixture *
+
+Step 6:
+Previous scene: A saucepan with fully mixed Rice Krispies and marshmallow mixture
+Action: Press the mixture evenly into a greased 13x9-inch pan using a spatula or wax paper *
+
+Step 7:
+Previous scene: A pan with pressed Rice Krispies mixture
+Action: Allow the mixture to cool for about 30 minutes *
+
+Step 8:
+Previous scene: A cooled pan with Rice Krispies mixture
+Action: Cut into squares and serve *

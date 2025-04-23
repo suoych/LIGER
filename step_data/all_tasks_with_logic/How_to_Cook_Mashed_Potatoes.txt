@@ -1,0 +1,37 @@
+7, 3*
+Step 1:
+Previous scene: None
+Action: Peel 4-5 large potatoes and cut them into chunks *
+Step 2:
+Previous scene: Peeled and chunked potatoes
+Action: Place the potato chunks into a large pot *
+Step 3:
+Previous scene: A pot with potato chunks
+Action: Fill the pot with water until the potatoes are fully covered *
+Step 4:
+Previous scene: Pot filled with potatoes and water
+Action: Add a pinch of salt to the water *
+Step 5:
+Previous scene: Pot with salted water and potatoes
+Action: Bring the pot to a boil over medium-high heat *
+Step 6:
+Previous scene: Boiling pot of water and potatoes
+Action: Reduce the heat and simmer until the potatoes are tender, about 15-20 minutes *
+Step 7:
+Previous scene: Pot with tender potatoes
+Action: Drain the water from the pot using a colander *
+Step 8:
+Previous scene: Drained potatoes in a colander
+Action: Return the drained potatoes to the pot *
+Step 9:
+Previous scene: Pot with drained potatoes
+Action: Add 1/2 cup of milk and 2 tablespoons of butter to the potatoes *
+Step 10:
+Previous scene: Pot with potatoes, milk, and butter
+Action: Mash the potatoes until smooth and creamy *
+Step 11:
+Previous scene: Mashed potatoes
+Action: Season with salt and pepper to taste *
+Step 12:
+Previous scene: Seasoned mashed potatoes 
+Action: Serve hot *

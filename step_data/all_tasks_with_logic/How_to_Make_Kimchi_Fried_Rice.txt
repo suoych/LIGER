@@ -1,0 +1,25 @@
+1,2 *
+Step 1:
+Previous scene: None
+Action: Gather ingredients including kimchi, cold cooked rice, garlic, green onions, soy sauce, sesame oil, vegetables, and a protein (like egg or tofu) *
+Step 2:
+Previous scene: Ingredients on a counter
+Action: Heat a pan with some vegetable oil over medium heat *
+Step 3:
+Previous scene: Heated pan with oil
+Action: Add minced garlic and cook until fragrant *
+Step 4:
+Previous scene: Pan with garlic
+Action: Add chopped kimchi and stir-fry until heated through *
+Step 5:
+Previous scene: Pan with garlic and kimchi
+Action: Add cold cooked rice to the pan and break it up with a spatula *
+Step 6:
+Previous scene: Pan with garlic, kimchi, and rice
+Action: Add soy sauce and sesame oil, then mix well *
+Step 7:
+Previous scene: Pan with mixed rice, kimchi, and seasonings
+Action: Stir in any vegetables or protein, and cook until everything is well combined and heated through *
+Step 8:
+Previous scene: Pan with combined ingredients
+Action: Garnish with chopped green onions and serve immediately *

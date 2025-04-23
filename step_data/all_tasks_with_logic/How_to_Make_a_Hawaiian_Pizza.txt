@@ -1,0 +1,36 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 475°F (245°C) *
+
+Step 2:
+Previous scene: None
+Action: Roll out the pizza dough on a floured surface *
+
+Step 3:
+Previous scene: Rolled out pizza dough
+Action: Spread pizza sauce evenly over the dough *
+
+Step 4:
+Previous scene: Dough with pizza sauce
+Action: Sprinkle shredded mozzarella cheese over the sauce *
+
+Step 5:
+Previous scene: Dough with sauce and cheese
+Action: Add sliced ham evenly over the cheese *
+
+Step 6:
+Previous scene: Dough with sauce, cheese, and ham
+Action: Add pineapple chunks on top of the ham *
+
+Step 7:
+Previous scene: Dough with sauce, cheese, ham, and pineapple
+Action: Bake in the preheated oven for 10-15 minutes *
+
+Step 8:
+Previous scene: Hawaiian pizza baking in the oven
+Action: Remove from oven once the crust is golden and the cheese is bubbly *
+
+Step 9:
+Previous scene: Baked Hawaiian pizza
+Action: Let the pizza cool slightly and then slice it to serve *

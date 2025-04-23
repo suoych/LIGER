@@ -1,0 +1,25 @@
+3,2 *
+Step 1:
+Previous scene: None
+Action: Rinse and chop 4-5 quinces into small pieces, removing the cores *
+Step 2:
+Previous scene: Chopped quinces
+Action: Place the chopped quinces in a large pot and add enough water to cover them *
+Step 3:
+Previous scene: Quinces in a pot with water
+Action: Bring the pot to a boil, then reduce the heat and simmer for about 45 minutes until the quinces are soft *
+Step 4:
+Previous scene: Soft, cooked quinces in water
+Action: Strain the mixture through a fine mesh sieve or cheesecloth into another pot to extract the juice *
+Step 5:
+Previous scene: A pot of quince juice
+Action: Measure the quantity of quince juice and add an equal amount of sugar *
+Step 6:
+Previous scene: Quince juice mixed with sugar in a pot
+Action: Bring the mixture to a boil again, then reduce heat and simmer, stirring occasionally *
+Step 7:
+Previous scene: Simmering mixture of quince juice and sugar
+Action: Once the mixture reaches the setting point (105°C or 220°F), remove it from the heat *
+Step 8:
+Previous scene: Boiled quince jelly mixture
+Action: Pour the hot jelly into sterilized jars and seal them immediately *

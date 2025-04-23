@@ -1,0 +1,22 @@
+2, 5*
+Step 1:
+Previous scene: None
+Action: Slice the tomatoes into thin rounds *
+Step 2:
+Previous scene: Sliced tomatoes on a cutting board
+Action: Slice the mozzarella into thick rounds *
+Step 3:
+Previous scene: Sliced tomatoes and mozzarella on a cutting board
+Action: Arrange the tomato and mozzarella slices alternately on a serving platter *
+Step 4:
+Previous scene: Alternating slices of tomato and mozzarella on a platter
+Action: Sprinkle fresh cilantro leaves over the arranged slices *
+Step 5:
+Previous scene: Tomato and mozzarella slices with cilantro on a platter
+Action: Drizzle extra-virgin olive oil over the salad *
+Step 6:
+Previous scene: Salad drizzled with olive oil
+Action: Season with salt and freshly ground black pepper to taste *
+Step 7:
+Previous scene: Seasoned salad on a platter
+Action: Serve immediately and enjoy your Caprese salad with cilantro *

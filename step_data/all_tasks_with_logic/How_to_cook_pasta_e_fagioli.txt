@@ -1,0 +1,48 @@
+2, 4*
+Step 1:  
+Previous scene: None  
+Action: Begin by gathering ingredients, including pasta, beans, tomatoes, garlic, and onions. *
+
+Step 2:  
+Previous scene: Ingredients like pasta, beans, tomatoes, garlic, and onions on a table.  
+Action: Chop the onions and garlic. *
+
+Step 3:  
+Previous scene: Chopped onions and garlic  
+Action: In a pot, heat some olive oil over medium heat. *
+
+Step 4:  
+Previous scene: A pot with heated olive oil  
+Action: Add chopped onions and garlic to the pot, sauté until they are soft. *
+
+Step 5:  
+Previous scene: Pot with sautéed onions and garlic  
+Action: Add tomatoes and their juice into the pot. *
+
+Step 6:  
+Previous scene: Pot with onions, garlic, and tomatoes  
+Action: Stir and cook for a few minutes until the tomatoes break down. *
+
+Step 7:  
+Previous scene: Pot with a tomato mixture  
+Action: Add drained beans into the pot. *
+
+Step 8:  
+Previous scene: Pot with tomato mixture and beans  
+Action: Pour in broth or water, and bring to a boil. *
+
+Step 9:  
+Previous scene: Pot with boiling broth, tomatoes, onions, garlic, and beans  
+Action: Add pasta to the pot and reduce the heat to a simmer. *
+
+Step 10:  
+Previous scene: Pot with all ingredients simmering  
+Action: Cook until the pasta is tender, stirring occasionally. *
+
+Step 11:  
+Previous scene: Pot with pasta e fagioli  
+Action: Season with salt and pepper to taste. *
+
+Step 12:  
+Previous scene: Seasoned pasta e fagioli in the pot  
+Action: Serve hot, optionally garnish with parmesan cheese and fresh herbs. *

@@ -1,0 +1,36 @@
+6, 3*
+Step 1:  
+Previous scene: None  
+Action: Soak 1 cup of dried chickpeas in water overnight *  
+
+Step 2:  
+Previous scene: A bowl with soaked chickpeas  
+Action: Drain the chickpeas and transfer them to a food processor *  
+
+Step 3:  
+Previous scene: Chickpeas in a food processor  
+Action: Add onion, garlic, parsley, coriander, cumin, salt, and pepper to the food processor *  
+
+Step 4:  
+Previous scene: A food processor with chickpeas and spices  
+Action: Pulse the mixture until it forms a coarse paste *  
+
+Step 5:  
+Previous scene: Falafel mixture paste in the food processor  
+Action: Transfer the mixture to a bowl and refrigerate for at least 30 minutes *  
+
+Step 6:  
+Previous scene: Chilled falafel mixture in a bowl  
+Action: Form the mixture into small balls or patties *  
+
+Step 7:  
+Previous scene: Falafel balls or patties  
+Action: Heat oil in a frying pan *  
+
+Step 8:  
+Previous scene: Heated oil in a pan  
+Action: Fry the falafel balls until golden brown on all sides *  
+
+Step 9:  
+Previous scene: Golden brown falafel balls in a pan  
+Action: Remove falafel from pan and drain on paper towels before serving *

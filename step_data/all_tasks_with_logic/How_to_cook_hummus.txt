@@ -1,0 +1,36 @@
+8, 2*
+Step 1:  
+Previous scene: None  
+Action: Drain and rinse 1 can of chickpeas *  
+
+Step 2:  
+Previous scene: Rinsed chickpeas  
+Action: Add the chickpeas to a food processor *  
+
+Step 3:  
+Previous scene: Chickpeas in a food processor  
+Action: Add 1/4 cup of tahini *  
+
+Step 4:  
+Previous scene: Chickpeas with tahini in a food processor  
+Action: Add 2 tablespoons of olive oil *  
+
+Step 5:  
+Previous scene: Chickpeas, tahini, and olive oil in a food processor  
+Action: Add 1 clove of garlic *  
+
+Step 6:  
+Previous scene: Chickpeas, tahini, olive oil, and garlic in a food processor  
+Action: Add the juice of one lemon *  
+
+Step 7:  
+Previous scene: All ingredients in a food processor  
+Action: Blend until smooth and creamy *  
+
+Step 8:  
+Previous scene: Blended hummus  
+Action: Taste and adjust seasoning with salt, and pepper *  
+
+Step 9:  
+Previous scene: Seasoned hummus  
+Action: Transfer hummus to a serving bowl and garnish with paprika or fresh parsley *

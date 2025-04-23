@@ -1,0 +1,37 @@
+9, 3*
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, pour 2 cups of heavy cream *
+Step 2:
+Previous scene: A bowl with heavy cream
+Action: Add 1 cup of whole milk *
+Step 3:
+Previous scene: A bowl with heavy cream and milk
+Action: Add 3/4 cup of granulated sugar *
+Step 4:
+Previous scene: A bowl with heavy cream, milk, and sugar
+Action: Add 1 tablespoon of vanilla extract *
+Step 5:
+Previous scene: A bowl with heavy cream, milk, sugar, and vanilla extract
+Action: Whisk the mixture until the sugar is completely dissolved *
+Step 6:
+Previous scene: A bowl with a well-mixed liquid base
+Action: Pour the mixture into an ice cream maker *
+Step 7: 
+Previous scene: Ice cream maker with the mixture
+Action: Churn the mixture according to the ice cream maker’s instructions until it reaches a soft-serve consistency *
+Step 8:
+Previous scene: Ice cream maker with soft-serve ice cream
+Action: Crush about 15 Oreo cookies *
+Step 9:
+Previous scene: Crushed Oreo cookies
+Action: Gently fold the crushed Oreo cookies into the soft-serve ice cream *
+Step 10:
+Previous scene: Ice cream with crushed Oreo cookies mixed in
+Action: Transfer the mixture to an airtight container *
+Step 11:
+Previous scene: Airtight container with the ice cream mixture
+Action: Freeze for at least 4 hours or until firm *
+Step 12:
+Previous scene: A container with firm ice cream
+Action: Scoop and serve *

@@ -1,0 +1,31 @@
+8,7 *
+Step 1:
+Previous scene: None
+Action: Place a pork shoulder in the crockpot *
+Step 2:
+Previous scene: Pork shoulder in crockpot
+Action: Season the pork with salt, pepper, and any preferred spices *
+Step 3:
+Previous scene: Seasoned pork shoulder in crockpot
+Action: Add a sliced onion on top of the pork *
+Step 4:
+Previous scene: Seasoned pork shoulder with sliced onion
+Action: Pour in 1 cup of BBQ sauce *
+Step 5:
+Previous scene: Pork shoulder with onion and BBQ sauce
+Action: Add 1/2 cup of chicken broth *
+Step 6:
+Previous scene: Pork shoulder with onion, BBQ sauce, and chicken broth
+Action: Cover the crockpot with a lid *
+Step 7:
+Previous scene: Covered crockpot
+Action: Set the crockpot to cook on low for 8 hours *
+Step 8:
+Previous scene: Crockpot cooking on low
+Action: Remove the pork from the crockpot *
+Step 9:
+Previous scene: Removed pork
+Action: Shred the pork using two forks *
+Step 10:
+Previous scene: Shredded pork
+Action: Mix the shredded pork back into the cooking juices in the crockpot *

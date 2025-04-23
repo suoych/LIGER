@@ -1,0 +1,40 @@
+7, 2*
+Step 1:
+Previous scene: None
+Action: Gather 2 cups of fresh or frozen corn kernels *
+Step 2:
+Previous scene: A bowl with corn kernels
+Action: Dice 1 red bell pepper *
+Step 3:
+Previous scene: A bowl with corn kernels
+Action: Dice 1 green bell pepper *
+Step 4:
+Previous scene: A bowl with corn kernels, red bell pepper pieces
+Action: Dice 1 cucumber *
+Step 5:
+Previous scene: A bowl with corn kernels, red bell pepper pieces, green bell pepper pieces
+Action: Dice 1 small red onion *
+Step 6:
+Previous scene: A bowl with corn kernels, red bell pepper pieces, green bell pepper pieces, cucumber pieces
+Action: Add 1 cup of halved cherry tomatoes *
+Step 7:
+Previous scene: A bowl with corn kernels, red bell pepper pieces, green bell pepper pieces, cucumber pieces, red onion pieces
+Action: Finely chop 1/4 cup of fresh cilantro *
+Step 8:
+Previous scene: A bowl with corn kernels, red bell pepper pieces, green bell pepper pieces, cucumber pieces, red onion pieces, cherry tomatoes
+Action: In a small bowl, combine 3 tablespoons of olive oil *
+Step 9:
+Previous scene: A small bowl with olive oil
+Action: Add 1 tablespoon of lime juice to the olive oil *
+Step 10:
+Previous scene: A small bowl with olive oil and lime juice
+Action: Add salt and pepper to taste and whisk together *
+Step 11:
+Previous scene: A small bowl with olive oil, lime juice, salt, and pepper mixture
+Action: Pour the dressing over the chopped vegetables *
+Step 12:
+Previous scene: A bowl with chopped vegetables and a small bowl with dressing
+Action: Toss the salad until all ingredients are well mixed *
+Step 13:
+Previous scene: A bowl with mixed salad ingredients
+Action: Serve chilled or at room temperature *

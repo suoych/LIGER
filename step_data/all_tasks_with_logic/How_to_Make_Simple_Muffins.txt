@@ -1,0 +1,40 @@
+5,9 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: None
+Action: In a large mixing bowl, combine 1 3/4 cups of flour, 1/2 cup of sugar, 2 teaspoons of baking powder, and 1/2 teaspoon of salt *
+
+Step 3:
+Previous scene: A bowl with dry ingredients
+Action: In another bowl, mix together 1/2 cup of milk, 1/3 cup of vegetable oil, and 1 egg *
+
+Step 4:
+Previous scene: A bowl with wet ingredients and a bowl with dry ingredients
+Action: Pour the wet ingredient mixture into the bowl with dry ingredients *
+
+Step 5:
+Previous scene: A bowl with combined mixture
+Action: Stir until just combined (do not overmix) *
+
+Step 6:
+Previous scene: A bowl with muffin batter
+Action: Line a muffin tin with paper liners or grease it *
+
+Step 7:
+Previous scene: A lined or greased muffin tin
+Action: Spoon the batter into the muffin tin, filling each cup about 2/3 full *
+
+Step 8:
+Previous scene: A muffin tin with batter
+Action: Bake in the preheated oven for 18-20 minutes or until a toothpick inserted into the center comes out clean *
+
+Step 9:
+Previous scene: Baked muffins in muffin tin
+Action: Let the muffins cool in the tin for a few minutes, then transfer to a wire rack to cool completely *
+
+Step 10:
+Previous scene: Muffins on a wire rack 
+Action: Enjoy your simple muffins! *

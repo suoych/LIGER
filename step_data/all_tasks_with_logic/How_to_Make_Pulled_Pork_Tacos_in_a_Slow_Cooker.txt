@@ -1,0 +1,46 @@
+12,10 *
+Step 1:
+Previous scene: None
+Action: Place a pork shoulder in the slow cooker *
+Step 2:
+Previous scene: Pork shoulder in a slow cooker
+Action: Add 1 cup of chicken broth to the slow cooker *
+Step 3:
+Previous scene: Pork shoulder with chicken broth in a slow cooker
+Action: Sprinkle in 2 tablespoons of chili powder *
+Step 4:
+Previous scene: Pork shoulder with chicken broth and chili powder in a slow cooker
+Action: Add 1 tablespoon of cumin *
+Step 5:
+Previous scene: Pork shoulder with chicken broth, chili powder, and cumin in a slow cooker
+Action: Add 1 tablespoon of paprika *
+Step 6:
+Previous scene: Pork shoulder with chicken broth, chili powder, cumin, and paprika in a slow cooker
+Action: Add 1 teaspoon of garlic powder *
+Step 7:
+Previous scene: Pork shoulder with chicken broth, chili powder, cumin, paprika, and garlic powder in a slow cooker
+Action: Add 1 teaspoon of onion powder *
+Step 8:
+Previous scene: Pork shoulder with chicken broth, chili powder, cumin, paprika, garlic powder, and onion powder in a slow cooker
+Action: Add 1 teaspoon of salt *
+Step 9:
+Previous scene: Pork shoulder with chicken broth, chili powder, cumin, paprika, garlic powder, onion powder, and salt in a slow cooker
+Action: Add 1 teaspoon of black pepper *
+Step 10:
+Previous scene: Pork shoulder with chicken broth, chili powder, cumin, paprika, garlic powder, onion powder, salt, and black pepper in a slow cooker
+Action: Place the lid on the slow cooker and cook on low for 8 hours *
+Step 11:
+Previous scene: Slow cooker with seasoned pork shoulder, covered, cooking on low
+Action: After 8 hours, remove the pork shoulder from the slow cooker *
+Step 12:
+Previous scene: Pork shoulder removed from the slow cooker
+Action: Shred the pork using two forks *
+Step 13:
+Previous scene: Shredded pork
+Action: Warm corn tortillas in a skillet or microwave *
+Step 14:
+Previous scene: Warmed corn tortillas
+Action: Assemble the tacos by placing shredded pork on the tortillas *
+Step 15:
+Previous scene: Tacos with shredded pork
+Action: Add toppings such as diced onions, cilantro, and a squeeze of lime juice *

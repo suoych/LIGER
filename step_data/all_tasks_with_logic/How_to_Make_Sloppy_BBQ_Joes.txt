@@ -1,0 +1,22 @@
+5,4 *
+Step 1: 
+Previous scene: None
+Action: In a skillet, brown 1 pound of ground beef over medium heat until fully cooked, drain the excess fat *
+Step 2: 
+Previous scene: Cooked ground beef in a skillet
+Action: Add 1 chopped onion and 1 chopped bell pepper to the skillet and sauté until the vegetables are tender *
+Step 3: 
+Previous scene: Ground beef with sautéed onion and bell pepper in a skillet
+Action: Stir in 1 cup of your favorite BBQ sauce and 1/2 cup of ketchup *
+Step 4: 
+Previous scene: Ground beef mixture with BBQ sauce and ketchup in a skillet
+Action: Add 1 tablespoon of Worcestershire sauce, 1 tablespoon of brown sugar, 1 teaspoon of garlic powder, and salt and pepper to taste *
+Step 5: 
+Previous scene: Ground beef mixture with seasonings in a skillet
+Action: Simmer for about 10-15 minutes, stirring occasionally, to allow the flavors to meld together *
+Step 6:
+Previous scene: A skillet with the sloppy joe mixture simmering
+Action: Spoon the mixture onto hamburger buns *
+Step 7:
+Previous scene: Hamburger buns with the sloppy joe mixture
+Action: Serve hot and enjoy your Sloppy BBQ Joes! *

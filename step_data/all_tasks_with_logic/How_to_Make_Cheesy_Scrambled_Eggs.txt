@@ -1,0 +1,36 @@
+3, 1*
+Step 1:
+Previous scene: None
+Action: Crack 4 eggs into a mixing bowl *
+
+Step 2:
+Previous scene: A bowl with cracked eggs
+Action: Whisk the eggs until fully beaten *
+
+Step 3:
+Previous scene: Mixed eggs in a bowl
+Action: Add salt and pepper to taste *
+
+Step 4:
+Previous scene: Seasoned egg mixture
+Action: Heat a nonstick skillet over medium heat and add a tablespoon of butter *
+
+Step 5:
+Previous scene: Butter melting in a skillet
+Action: Once the butter has melted, pour the egg mixture into the skillet *
+
+Step 6:
+Previous scene: Egg mixture in skillet
+Action: Stir occasionally with a spatula, scraping the bottom *
+
+Step 7:
+Previous scene: Soft-cooked scrambled eggs in skillet
+Action: When eggs are almost set, sprinkle 1/2 cup of shredded cheese over them *
+
+Step 8:
+Previous scene: Scrambled eggs with cheese on top
+Action: Continue to cook for a minute until the cheese melts, then remove from heat *
+
+Step 9: 
+Previous scene: Fully cooked cheesy scrambled eggs in a skillet
+Action: Serve immediately while warm *

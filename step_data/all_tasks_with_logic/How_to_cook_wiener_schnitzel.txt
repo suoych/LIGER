@@ -1,0 +1,44 @@
+7, 2*
+Step 1: 
+Previous scene: None
+Action: Prepare the ingredients by gathering veal cutlets, flour, eggs, breadcrumbs, salt, and pepper *
+
+Step 2: 
+Previous scene: Ingredients for wiener schnitzel
+Action: Tenderize the veal cutlets by pounding them until thin *
+
+Step 3:
+Previous scene: Tenderized veal cutlets
+Action: Season the cutlets on both sides with salt and pepper *
+
+Step 4:
+Previous scene: Seasoned veal cutlets
+Action: Set up a breading station with three shallow dishes: one with flour, one with beaten eggs, and one with breadcrumbs *
+
+Step 5: 
+Previous scene: Breading station
+Action: Dredge a cutlet in flour, shaking off excess *
+
+Step 6: 
+Previous scene: Cutlet coated in flour
+Action: Dip the floured cutlet in beaten eggs, ensuring it's fully coated *
+
+Step 7:
+Previous scene: Egg-coated cutlet
+Action: Press the cutlet into the breadcrumbs, coating it evenly *
+
+Step 8:
+Previous scene: Breadcrumb-coated cutlet
+Action: Heat oil in a pan over medium heat *
+
+Step 9:
+Previous scene: Hot oil in a pan
+Action: Fry the breaded cutlet until golden brown on both sides *
+
+Step 10:
+Previous scene: Golden brown schnitzel in the pan
+Action: Remove from the pan and drain on paper towels *
+
+Step 11:
+Previous scene: Drained schnitzel
+Action: Serve with lemon wedges and parsley *

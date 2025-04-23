@@ -1,0 +1,28 @@
+7, 1*
+Step 1:
+Previous scene: None
+Action: Peel and devein the shrimp *
+Step 2:
+Previous scene: Peeled and deveined shrimp
+Action: Season the shrimp lightly with salt and pepper *
+Step 3:
+Previous scene: Seasoned shrimp
+Action: Prepare a batter by mixing flour, egg, and cold water in a separate bowl *
+Step 4:
+Previous scene: A bowl of batter
+Action: Heat oil in a deep fryer or a deep pan to 350°F (175°C) *
+Step 5:
+Previous scene: Heated oil in a deep fryer or deep pan
+Action: Dip each shrimp into the batter *
+Step 6:
+Previous scene: Shrimp dipped in batter
+Action: Carefully place the battered shrimp into the hot oil *
+Step 7:
+Previous scene: Shrimp being fried in the oil
+Action: Fry the shrimp until golden brown and crispy *
+Step 8:
+Previous scene: Golden brown shrimp tempura
+Action: Remove the shrimp from the oil and let them drain on a paper towel *
+Step 9:
+Previous scene: Shrimp draining on a paper towel
+Action: Serve the shrimp tempura with dipping sauce *

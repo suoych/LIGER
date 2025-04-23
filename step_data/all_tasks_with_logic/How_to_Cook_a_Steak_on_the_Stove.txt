@@ -1,0 +1,32 @@
+7, 3*
+Step 1:
+Previous scene: None
+Action: Take the steak out of the refrigerator and let it come to room temperature for about 30 minutes *
+
+Step 2:
+Previous scene: A steak on the counter
+Action: Season both sides of the steak with salt and pepper *
+
+Step 3:
+Previous scene: A seasoned steak on the counter
+Action: Heat a skillet over high heat until it's very hot *
+
+Step 4:
+Previous scene: An empty heated skillet
+Action: Add a tablespoon of oil or butter to the skillet *
+
+Step 5:
+Previous scene: A skillet with oil or melted butter
+Action: Place the steak in the skillet and cook for 3-4 minutes without moving it *
+
+Step 6:
+Previous scene: A skillet with a sizzling steak
+Action: Flip the steak and cook for another 3-4 minutes for medium-rare, or longer for your preferred doneness *
+
+Step 7:
+Previous scene: A skillet with a steak
+Action: Use tongs to remove the steak from the skillet and let it rest on a cutting board for at least 5 minutes before slicing *
+
+Step 8:
+Previous scene: A steak resting on a cutting board
+Action: Slice the steak against the grain and serve *

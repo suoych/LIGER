@@ -1,0 +1,25 @@
+4, 2*
+Step 1:
+Previous scene: None
+Action: Place two slices of bread on a plate *
+
+Step 2:
+Previous scene: Two slices of bread on a plate
+Action: Spread peanut butter on one slice of bread *
+
+Step 3:
+Previous scene: One slice of bread with peanut butter and another slice of plain bread
+Action: Spread jelly on the other slice of bread *
+
+Step 4:
+Previous scene: One slice of bread with peanut butter and another slice with jelly
+Action: Press the two slices together so the peanut butter and jelly are in the middle *
+
+Step 5:
+Previous scene: Peanut butter and jelly sandwich
+Action: Cut the sandwich in half or into desired shapes *
+
+Step 6:
+Previous scene: Sandwich halves or shapes
+Action: Serve the sandwich on a plate *
+

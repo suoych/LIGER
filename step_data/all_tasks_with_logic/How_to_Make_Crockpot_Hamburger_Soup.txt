@@ -1,0 +1,60 @@
+1,8 *
+Step 1:
+Previous scene: None
+Action: Brown 1 pound of ground beef in a skillet over medium heat *
+
+Step 2:
+Previous scene: Browned ground beef in skillet
+Action: Transfer the browned ground beef to a crockpot *
+
+Step 3:
+Previous scene: Ground beef in crockpot
+Action: Add 4 cups of beef broth to the crockpot *
+
+Step 4:
+Previous scene: Ground beef and beef broth in crockpot
+Action: Add 1 can of diced tomatoes with juice *
+
+Step 5:
+Previous scene: Ground beef, beef broth, and diced tomatoes in crockpot
+Action: Add 1 cup of diced carrots *
+
+Step 6:
+Previous scene: Ground beef, beef broth, diced tomatoes, and diced carrots in crockpot
+Action: Add 1 cup of diced celery *
+
+Step 7:
+Previous scene: Ground beef, beef broth, diced tomatoes, diced carrots, and diced celery in crockpot
+Action: Add 1 cup of diced potatoes *
+
+Step 8:
+Previous scene: Ground beef, beef broth, diced tomatoes, diced carrots, diced celery, and diced potatoes in crockpot
+Action: Add 1 diced onion *
+
+Step 9:
+Previous scene: Ground beef, beef broth, diced tomatoes, diced carrots, diced celery, diced potatoes, and diced onion in crockpot
+Action: Add 1 teaspoon of salt *
+
+Step 10:
+Previous scene: Ground beef, beef broth, diced tomatoes, diced carrots, diced celery, diced potatoes, diced onion, and salt in crockpot
+Action: Add 1/2 teaspoon of pepper *
+
+Step 11:
+Previous scene: Ground beef, beef broth, diced tomatoes, diced carrots, diced celery, diced potatoes, diced onion, salt, and pepper in crockpot
+Action: Add 2 teaspoons of minced garlic *
+
+Step 12:
+Previous scene: Ground beef, beef broth, diced tomatoes, diced carrots, diced celery, diced potatoes, diced onion, salt, pepper, and minced garlic in crockpot
+Action: Stir all ingredients together *
+
+Step 13:
+Previous scene: All combined ingredients in crockpot
+Action: Cover and cook on low for 6-7 hours or on high for 3-4 hours *
+
+Step 14:
+Previous scene: Crockpot with cooked soup
+Action: Taste and adjust seasoning if necessary *
+
+Step 15:
+Previous scene: Cooked soup in crockpot
+Action: Serve hot with optional toppings like shredded cheese or fresh parsley *

@@ -1,0 +1,52 @@
+2,8 *
+Step 1:
+Previous scene: None
+Action: Gather all ingredients: flour, sugar, yeast, milk, eggs, butter, and salt *
+
+Step 2:
+Previous scene: Ingredients on a table
+Action: In a mixing bowl, combine 2 cups of flour, 1/2 cup of sugar, and a pinch of salt *
+
+Step 3:
+Previous scene: A bowl with flour, sugar, and salt mixture
+Action: In a separate bowl, dissolve 2 teaspoons of yeast in 1/2 cup of warm milk *
+
+Step 4:
+Previous scene: A bowl with dissolved yeast in milk
+Action: Add the yeast mixture to the flour mixture *
+
+Step 5:
+Previous scene: A bowl with flour mixture and yeast mixture combined
+Action: Crack 2 eggs into the bowl and mix thoroughly *
+
+Step 6:
+Previous scene: A bowl with flour, yeast mixture, and eggs
+Action: Add 1/4 cup of softened butter and knead the dough until smooth *
+
+Step 7:
+Previous scene: A bowl with dough
+Action: Cover the bowl with a cloth and let the dough rise for 1-2 hours *
+
+Step 8:
+Previous scene: A bowl with risen dough
+Action: Shape the dough into small balls and place them on a baking sheet *
+
+Step 9:
+Previous scene: Dough balls on a baking sheet
+Action: Let the dough balls rest for 30 minutes while you preheat the oven to 350°F *
+
+Step 10:
+Previous scene: Rested dough balls on a baking sheet
+Action: Prepare the topping by mixing 1/2 cup of flour, 1/2 cup of sugar, and 1/4 cup of softened butter *
+
+Step 11:
+Previous scene: A bowl with flour, sugar, and butter mixture for topping
+Action: Spread the topping over the dough balls and make light incisions to create patterns *
+
+Step 12:
+Previous scene: Dough balls with topping and patterns
+Action: Bake the dough in the oven for 15-20 minutes until golden brown *
+
+Step 13:
+Previous scene: Baked pan dulce on a baking sheet
+Action: Remove from oven and let cool before serving *

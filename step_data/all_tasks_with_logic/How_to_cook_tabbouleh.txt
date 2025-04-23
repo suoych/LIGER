@@ -1,0 +1,31 @@
+3, 7*
+Step 1: 
+Previous scene: None
+Action: Finely chop 2 bunches of parsley *
+Step 2: 
+Previous scene: Chopped parsley on a cutting board
+Action: Dice 3 medium tomatoes *
+Step 3: 
+Previous scene: Chopped parsley and diced tomatoes on a cutting board
+Action: Chop 1 small red onion *
+Step 4: 
+Previous scene: Chopped parsley, diced tomatoes, and chopped red onion on a cutting board
+Action: Place the chopped parsley, tomatoes, and onion into a large mixing bowl *
+Step 5:
+Previous scene: Large mixing bowl with parsley, tomatoes, and onion
+Action: Add 1 cup of cooked and cooled bulgur wheat to the bowl *
+Step 6:
+Previous scene: Large mixing bowl with parsley, tomatoes, onion, and bulgur wheat
+Action: Squeeze the juice of 2 lemons over the mixture *
+Step 7:
+Previous scene: Large mixing bowl with parsley, tomatoes, onion, bulgur wheat, and lemon juice
+Action: Drizzle 1/4 cup of olive oil over the mixture *
+Step 8:
+Previous scene: Large mixing bowl with parsley, tomatoes, onion, bulgur wheat, lemon juice, and olive oil
+Action: Season with salt and pepper to taste *
+Step 9:
+Previous scene: Seasoned tabbouleh mixture in a large bowl
+Action: Mix all ingredients thoroughly *
+Step 10:
+Previous scene: Fully mixed tabbouleh in a large bowl
+Action: Serve immediately or refrigerate for later use *

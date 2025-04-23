@@ -1,0 +1,36 @@
+5, 2*
+Step 1:
+Previous scene: None
+Action: In a large pot, add 4 cups of water and bring it to a boil *
+
+Step 2:
+Previous scene: A pot of boiling water
+Action: Add chopped tomatoes, sliced bamboo shoots, and sliced mushrooms to the pot *
+
+Step 3:
+Previous scene: A pot with boiling water, tomatoes, bamboo shoots, and mushrooms
+Action: Add 2 tablespoons of soy sauce and 2 tablespoons of vinegar *
+
+Step 4:
+Previous scene: A pot with vegetables in a seasoned broth
+Action: Add 1/2 teaspoon of salt and 1/4 teaspoon of white pepper *
+
+Step 5:
+Previous scene: A pot with seasoned broth and vegetables
+Action: Stir in tofu cubes *
+
+Step 6:
+Previous scene: A pot with tofu in seasoned broth and vegetables
+Action: In a small bowl, mix 2 tablespoons of cornstarch with 1/4 cup of water, then add it to the pot *
+
+Step 7:
+Previous scene: A pot with tofu, vegetables, and cornstarch mixture
+Action: Stir the soup until it thickens *
+
+Step 8:
+Previous scene: A pot of thickened sour soup
+Action: Beat 1 egg and slowly pour it into the soup while stirring *
+
+Step 9:
+Previous scene: A pot of soup with egg ribbons
+Action: Let the soup simmer for another 2 minutes, then serve hot garnished with chopped green onions and cilantro *

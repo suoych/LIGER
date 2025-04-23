@@ -1,0 +1,48 @@
+2,9 *
+Step 1: 
+Previous scene: None
+Action: Peel and dice 4 medium-sized potatoes into small cubes *
+
+Step 2: 
+Previous scene: Diced potatoes
+Action: Finely chop 2 large green chilies *
+
+Step 3: 
+Previous scene: Chopped green chilies
+Action: Heat 2 tablespoons of oil in a pan over medium heat *
+
+Step 4: 
+Previous scene: Oil heating in a pan
+Action: Add 1 teaspoon of mustard seeds and let them splutter *
+
+Step 5: 
+Previous scene: Mustard seeds spluttering in oil
+Action: Add the chopped green chilies and sauté for 2 minutes *
+
+Step 6: 
+Previous scene: Green chilies sautéing in oil
+Action: Add 1 chopped onion and cook until it turns golden brown *
+
+Step 7: 
+Previous scene: Onion turning golden brown
+Action: Add 1 teaspoon of turmeric powder and 1 teaspoon of cumin powder, then stir well *
+
+Step 8: 
+Previous scene: Spices mixed with onion
+Action: Add the diced potatoes and mix well to coat them with the spices *
+
+Step 9: 
+Previous scene: Potatoes coated with spices
+Action: Pour in 1 cup of water and bring to a boil *
+
+Step 10: 
+Previous scene: Mixture boiling
+Action: Reduce the heat to low, cover the pan, and let it simmer for 20 minutes or until potatoes are tender *
+
+Step 11: 
+Previous scene: Potatoes simmering in sauce
+Action: Season with salt to taste and garnish with fresh coriander leaves *
+
+Step 12: 
+Previous scene: Curry garnished with coriander leaves
+Action: Serve hot with rice or bread *

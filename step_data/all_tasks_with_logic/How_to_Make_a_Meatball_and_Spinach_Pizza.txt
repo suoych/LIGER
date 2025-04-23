@@ -1,0 +1,34 @@
+1, 6*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 475°F (245°C) *
+Step 2:
+Previous scene: Oven preheating
+Action: Prepare pizza dough on a floured surface * 
+Step 3:
+Previous scene: Pizza dough on a floured surface
+Action: Roll out the dough into a 12-inch circle *
+Step 4:
+Previous scene: Rolled out dough
+Action: Transfer the dough onto a pizza stone or baking sheet *
+Step 5:
+Previous scene: Dough on a pizza stone or baking sheet
+Action: Spread tomato sauce evenly over the dough *
+Step 6:
+Previous scene: Dough with tomato sauce
+Action: Sprinkle shredded mozzarella cheese over the sauce *
+Step 7:
+Previous scene: Dough with tomato sauce and mozzarella cheese
+Action: Add cooked meatballs sliced in half *
+Step 8:
+Previous scene: Pizza with tomato sauce, cheese, and meatballs
+Action: Top with fresh spinach leaves *
+Step 9:
+Previous scene: Pizza with tomato sauce, cheese, meatballs, and spinach
+Action: Drizzle with olive oil and season with salt and pepper *
+Step 10:
+Previous scene: Pizza with all toppings and seasonings
+Action: Bake in the preheated oven for 10-12 minutes, or until the crust is golden and the cheese is bubbly and melted *
+Step 11:
+Previous scene: Baked pizza
+Action: Remove from the oven and let it cool for a few minutes before slicing and serving *

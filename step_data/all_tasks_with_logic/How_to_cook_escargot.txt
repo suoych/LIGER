@@ -1,0 +1,22 @@
+1, 3*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+Step 2:
+Previous scene: None
+Action: In a bowl, mix together 1/2 cup of softened butter, 2 cloves of minced garlic, 1/4 cup of finely chopped parsley, and a pinch of salt *
+Step 3:
+Previous scene: A bowl with butter mixture (butter, garlic, parsley, and salt)
+Action: Place the escargots in a baking dish *
+Step 4:
+Previous scene: Baking dish with escargots
+Action: Spoon a small amount of the butter mixture evenly over each escargot *
+Step 5:
+Previous scene: A baking dish with escargots topped with butter mixture
+Action: Cover the baking dish with aluminum foil *
+Step 6:
+Previous scene: Baking dish covered with aluminum foil
+Action: Bake in the preheated oven for 10-12 minutes, or until the butter is bubbling and the escargots are heated through *
+Step 7:
+Previous scene: Baking dish with bubbling butter and cooked escargots
+Action: Remove from oven and serve hot, preferably with a side of crusty bread *

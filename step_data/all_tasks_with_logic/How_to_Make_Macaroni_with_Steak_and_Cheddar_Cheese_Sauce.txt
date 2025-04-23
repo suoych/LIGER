@@ -1,0 +1,56 @@
+3,7 *
+Step 1:
+Previous scene: None
+Action: Bring a large pot of salted water to a boil *
+
+Step 2:
+Previous scene: A pot of boiling water
+Action: Add 2 cups of macaroni and cook according to package instructions until al dente *
+
+Step 3:
+Previous scene: A pot of macaroni cooking in boiling water
+Action: Drain the macaroni and set aside *
+
+Step 4:
+Previous scene: A pot of cooked macaroni
+Action: In a separate pan, heat 2 tablespoons of olive oil over medium-high heat *
+
+Step 5:
+Previous scene: A pan with heated olive oil
+Action: Add 1 pound of steak, cut into bite-sized pieces, and cook until browned *
+
+Step 6:
+Previous scene: A pan with browned steak pieces
+Action: Remove the cooked steak and set it aside *
+
+Step 7:
+Previous scene: A pan with some oil and steak drippings
+Action: In the same pan, melt 3 tablespoons of butter over medium heat *
+
+Step 8:
+Previous scene: A pan with melted butter
+Action: Stir in 3 tablespoons of flour and cook for 1-2 minutes to form a roux *
+
+Step 9:
+Previous scene: A pan with roux
+Action: Slowly add 2 cups of milk, whisking constantly until smooth *
+
+Step 10:
+Previous scene: A pan with a smooth roux and milk mixture
+Action: Continue to cook, stirring frequently, until the sauce thickens *
+
+Step 11:
+Previous scene: A pan with thickened sauce
+Action: Stir in 2 cups of shredded cheddar cheese until melted and smooth *
+
+Step 12:
+Previous scene: A pan with cheddar cheese sauce
+Action: Add the cooked macaroni to the cheese sauce and mix well *
+
+Step 13:
+Previous scene: A pan with macaroni and cheese sauce
+Action: Stir in the cooked steak pieces *
+
+Step 14:
+Previous scene: A pan with macaroni, cheese sauce, and steak
+Action: Serve hot and enjoy your macaroni with steak and cheddar cheese sauce *

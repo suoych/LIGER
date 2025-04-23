@@ -1,0 +1,44 @@
+5, 2*
+Step 1:
+Previous scene: None
+Action: Rinse the fish fillet under cold water and pat it dry with paper towels *
+
+Step 2:
+Previous scene: A clean fish fillet on a paper towel
+Action: Season the fish with salt and pepper on both sides *
+
+Step 3:
+Previous scene: A seasoned fish fillet
+Action: Heat olive oil in a skillet over medium-high heat *
+
+Step 4:
+Previous scene: An empty skillet with heating oil
+Action: Place the fish fillet in the skillet, skin side down if it has skin, and cook for 3-4 minutes *
+
+Step 5:
+Previous scene: A fish fillet cooking in the skillet
+Action: Flip the fish fillet and cook for another 3-4 minutes until flaky and cooked through *
+
+Step 6:
+Previous scene: A cooked fish fillet in the skillet
+Action: Remove the fish fillet from the skillet and set it on a plate to rest *
+
+Step 7:
+Previous scene: A cooked fish fillet resting on a plate
+Action: Bring a pot of water to a boil *
+
+Step 8:
+Previous scene: A pot of boiling water
+Action: Place a steamer basket in the pot and add your choice of vegetables (e.g., broccoli, carrots, and beans) *
+
+Step 9:
+Previous scene: Boiling water with a steamer basket containing vegetables
+Action: Cover the pot and steam the vegetables for about 5-7 minutes until tender *
+
+Step 10:
+Previous scene: Steamed vegetables in a basket
+Action: Remove the steamed vegetables and place them on the plate with the fish fillet *
+
+Step 11:
+Previous scene: A plate with cooked fish fillet and steamed vegetables
+Action: Serve immediately and enjoy your meal *

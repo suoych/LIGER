@@ -1,0 +1,40 @@
+8,6*
+Step 1:
+Previous scene: None
+Action: Heat olive oil in a large pot over medium heat *
+
+Step 2:
+Previous scene: A pot with heated olive oil
+Action: Add minced garlic and diced onions, sauté until translucent *
+
+Step 3:
+Previous scene: A pot with sautéed garlic and onions
+Action: Add ground beef or turkey, and cook until browned *
+
+Step 4:
+Previous scene: A pot with cooked meat, garlic, and onions
+Action: Pour in a jar of marinara sauce and stir to combine *
+
+Step 5:
+Previous scene: A pot with meat sauce
+Action: Add uncooked spaghetti noodles, broken in half if necessary *
+
+Step 6:
+Previous scene: A pot with meat sauce and uncooked spaghetti
+Action: Pour in enough water or broth to cover the spaghetti *
+
+Step 7:
+Previous scene: A pot with spaghetti submerged in liquid
+Action: Bring to a boil, then reduce heat and simmer *
+
+Step 8:
+Previous scene: A pot of boiling spaghetti and sauce
+Action: Stir occasionally and cook until the spaghetti is al dente and the sauce has thickened *
+
+Step 9:
+Previous scene: A pot with cooked spaghetti and thickened sauce
+Action: Remove from heat, and let it sit for a few minutes before serving *
+
+Step 10:
+Previous scene: A pot with finished one pot spaghetti dinner
+Action: Garnish with grated Parmesan cheese and chopped fresh basil, if desired *

@@ -1,0 +1,24 @@
+5, 1*
+Step 1:
+Previous scene: None
+Action: Thinly slice beef and place it in a bowl *
+
+Step 2:
+Previous scene: A bowl with sliced beef
+Action: Add soy sauce, sugar, sesame oil, and minced garlic to the beef *
+
+Step 3:
+Previous scene: A bowl with beef and marinade
+Action: Mix the ingredients thoroughly and let it marinate for at least 30 minutes *
+
+Step 4:
+Previous scene: Marinated beef
+Action: Heat a pan over medium-high heat and add a little oil *
+
+Step 5:
+Previous scene: A hot pan
+Action: Add the marinated beef to the pan and cook until browned and cooked through *
+
+Step 6:
+Previous scene: Cooked beef
+Action: Garnish with sliced green onions and sesame seeds before serving *

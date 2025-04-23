@@ -1,0 +1,28 @@
+7, 2*
+Step 1:
+Previous scene: None
+Action: Open a can of tuna and drain the liquid *
+Step 2:
+Previous scene: An open can of tuna
+Action: Place the tuna in a mixing bowl *
+Step 3:
+Previous scene: A bowl with tuna
+Action: Add mayonnaise to the tuna *
+Step 4:
+Previous scene: A bowl with tuna and mayonnaise
+Action: Mix the tuna and mayonnaise together *
+Step 5:
+Previous scene: A bowl with tuna mixture 
+Action: Spread the tuna mixture onto a slice of bread *
+Step 6:
+Previous scene: A slice of bread with tuna mixture
+Action: Place another slice of bread on top *
+Step 7:
+Previous scene: A tuna sandwich
+Action: Cut the sandwich diagonally *
+Step 8:
+Previous scene: Two halves of a sandwich
+Action: Put the sandwich halves on a plate *
+Step 9:
+Previous scene: A plate with sandwich halves
+Action: Add a handful of chips to the plate *

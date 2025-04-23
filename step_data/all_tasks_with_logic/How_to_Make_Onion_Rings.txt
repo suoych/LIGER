@@ -1,0 +1,44 @@
+1,9 *
+Step 1:
+Previous scene: None
+Action: Slice the onions into rings *
+
+Step 2:
+Previous scene: Sliced onion rings
+Action: Prepare a bowl with flour *
+
+Step 3:
+Previous scene: A bowl with flour and sliced onion rings
+Action: In another bowl, beat an egg *
+
+Step 4:
+Previous scene: A bowl with flour, sliced onion rings, and a bowl with beaten egg
+Action: Prepare a third bowl with breadcrumbs *
+
+Step 5:
+Previous scene: Three bowls (with flour, beaten egg, and breadcrumbs) and sliced onion rings
+Action: Dip each onion ring first into the flour *
+
+Step 6:
+Previous scene: Onion rings coated in flour, and three bowls (with flour, beaten egg, and breadcrumbs)
+Action: Dip the floured onion rings into the beaten egg *
+
+Step 7:
+Previous scene: Onion rings coated in flour and egg, and three bowls (with flour, beaten egg, and breadcrumbs)
+Action: Dip the onion rings into the breadcrumbs, coating them evenly *
+
+Step 8:
+Previous scene: Onion rings coated in flour, egg, and breadcrumbs, and three bowls (with flour, beaten egg, and breadcrumbs)
+Action: Heat oil in a deep fryer or large pot *
+
+Step 9:
+Previous scene: Onion rings coated in flour, egg, and breadcrumbs, and a pot of hot oil
+Action: Fry the onion rings until golden brown *
+
+Step 10:
+Previous scene: Fried onion rings and a pot with oil
+Action: Remove the onion rings from the oil and let them drain on paper towels *
+
+Step 11:
+Previous scene: Drained onion rings on paper towels
+Action: Serve the onion rings hot with your favorite dipping sauce *

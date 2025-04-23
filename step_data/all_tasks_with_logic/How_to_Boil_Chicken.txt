@@ -1,0 +1,25 @@
+7, 3 *
+Step 1:
+Previous scene: None
+Action: Fill a large pot with water *
+Step 2:
+Previous scene: A pot filled with water
+Action: Place the pot on the stove and turn the heat to high *
+Step 3:
+Previous scene: A pot on the stove
+Action: Add chicken pieces into the pot *
+Step 4:
+Previous scene: A pot with water and chicken
+Action: Add seasoning such as salt, pepper, and garlic *
+Step 5:
+Previous scene: A pot with water, chicken, and seasonings
+Action: Bring the water to a boil *
+Step 6:
+Previous scene: A boiling pot with chicken and seasonings
+Action: Reduce the heat to medium-low and let it simmer *
+Step 7:
+Previous scene: A pot simmering with chicken
+Action: Cook until the chicken is fully cooked, about 20-30 minutes *
+Step 8:
+Previous scene: A pot with cooked chicken
+Action: Remove the chicken from the pot and let it rest before serving *

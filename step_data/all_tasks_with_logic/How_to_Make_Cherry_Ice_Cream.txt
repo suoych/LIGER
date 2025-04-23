@@ -1,0 +1,32 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: In a saucepan, combine 1 cup of pitted cherries and 1/2 cup of sugar. *
+
+Step 2:
+Previous scene: A saucepan with cherries and sugar
+Action: Heat the mixture over medium heat, stirring occasionally until the cherries are soft and the sugar has dissolved. *
+
+Step 3:
+Previous scene: A saucepan with cooked cherries
+Action: Blend the cherry mixture until smooth, then strain to remove any solids. *
+
+Step 4:
+Previous scene: A bowl of smooth cherry puree
+Action: In a separate bowl, whisk together 2 cups of heavy cream, 1 cup of milk, and 1/2 cup of sugar until the sugar is dissolved. *
+
+Step 5:
+Previous scene: A bowl with cream mixture
+Action: Stir in the cherry puree and mix well. *
+
+Step 6:
+Previous scene: A bowl with cherry-cream mixture
+Action: Pour the mixture into an ice cream maker and churn according to the manufacturer’s instructions. *
+
+Step 7:
+Previous scene: Ice cream mixture in an ice cream maker
+Action: Transfer the churned ice cream into a container and freeze until firm. *
+
+Step 8:
+Previous scene: A container of soft ice cream
+Action: Serve the cherry ice cream in bowls or cones. *

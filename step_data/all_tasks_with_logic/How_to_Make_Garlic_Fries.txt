@@ -1,0 +1,48 @@
+6,2 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 450°F (230°C) *
+
+Step 2:
+Previous scene: Oven being preheated
+Action: Cut potatoes into thin fries *
+
+Step 3:
+Previous scene: Sliced potatoes
+Action: Toss the potatoes with olive oil, salt, and pepper in a mixing bowl *
+
+Step 4:
+Previous scene: Potatoes tossed with olive oil, salt, and pepper
+Action: Spread the potatoes on a baking sheet in a single layer *
+
+Step 5:
+Previous scene: Potatoes spread on a baking sheet
+Action: Bake the fries in the preheated oven for about 20-25 minutes, turning them halfway through *
+
+Step 6:
+Previous scene: Fries baking in the oven
+Action: Mince 4 garlic cloves *
+
+Step 7:
+Previous scene: Minced garlic
+Action: Heat a small skillet over medium heat and add 2 tablespoons of olive oil *
+
+Step 8:
+Previous scene: Skillet with olive oil
+Action: Add the minced garlic to the skillet and cook until fragrant, about 1-2 minutes *
+
+Step 9:
+Previous scene: Hot garlic-infused olive oil
+Action: Remove the fries from the oven once they are golden and crisp *
+
+Step 10:
+Previous scene: Baked fries
+Action: Toss the hot fries with the garlic-infused olive oil and minced garlic *
+
+Step 11:
+Previous scene: Garlic-coated fries
+Action: Sprinkle with freshly grated Parmesan cheese and chopped parsley, if desired *
+
+Step 12:
+Previous scene: Garnished fries
+Action: Serve immediately while hot *

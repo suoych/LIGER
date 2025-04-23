@@ -1,0 +1,41 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 425°F (220°C) *
+
+Step 2:
+Previous scene: Oven preheating
+Action: Chop 2 bell peppers, 1 zucchini, 1 large carrot, and 1 onion into bite-sized pieces *
+
+Step 3:
+Previous scene: Chopped vegetables
+Action: Spread the chopped vegetables on a baking sheet *
+
+Step 4:
+Previous scene: Vegetables on baking sheet
+Action: Drizzle olive oil over the vegetables and sprinkle with salt, pepper, and any preferred seasonings *
+
+Step 5:
+Previous scene: Seasoned vegetables on baking sheet
+Action: Toss the vegetables to ensure they are evenly coated with oil and seasonings *
+
+Step 6:
+Previous scene: Tossed vegetables on baking sheet
+Action: Roast the vegetables in the preheated oven for 20-25 minutes or until they are tender and slightly charred *
+
+Step 7:
+Previous scene: Roasted vegetables
+Action: Warm taco shells or tortillas in a skillet or microwave *
+
+Step 8:
+Previous scene: Warm taco shells or tortillas
+Action: Fill each taco shell or tortilla with the roasted vegetables *
+
+Step 9:
+Previous scene: Tacos with roasted vegetables
+Action: Top with desired garnishes such as avocado, salsa, sour cream, or cheese *
+
+Step 10:
+Previous scene: Garnished tacos
+Action: Serve the roasted vegetable tacos immediately *
+

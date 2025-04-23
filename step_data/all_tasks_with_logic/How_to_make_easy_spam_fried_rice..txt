@@ -1,0 +1,32 @@
+1,6 *
+Step 1:
+Previous scene: None
+Action: Cook 2 cups of rice according to package instructions and let it cool. *
+
+Step 2:
+Previous scene: Cooked and cooled rice
+Action: Heat a tablespoon of oil in a large pan or wok over medium heat. *
+
+Step 3:
+Previous scene: A pan with heated oil
+Action: Add diced Spam and cook until browned. *
+
+Step 4:
+Previous scene: A pan with browned Spam
+Action: Push the Spam to the side and add a bit more oil, then scramble two eggs in the pan. *
+
+Step 5:
+Previous scene: A pan with browned Spam and scrambled eggs
+Action: Add the cooked rice to the pan with the Spam and eggs. *
+
+Step 6:
+Previous scene: A pan with Spam, scrambled eggs, and rice
+Action: Add soy sauce, peas, and carrots, and stir everything together. *
+
+Step 7:
+Previous scene: A pan with combined ingredients, soy sauce, peas, and carrots
+Action: Stir-fry everything until heated through and the ingredients are well combined. *
+
+Step 8:
+Previous scene: A pan with heated and combined Spam fried rice
+Action: Garnish with chopped green onions and serve hot. *

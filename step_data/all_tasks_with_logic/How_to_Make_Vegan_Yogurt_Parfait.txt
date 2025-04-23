@@ -1,0 +1,22 @@
+1,6 *
+Step 1:
+Previous scene: None
+Action: Gather the ingredients: vegan yogurt, granola, fresh fruits such as berries and bananas, and maple syrup or agave nectar. *
+Step 2:
+Previous scene: Ingredients on the counter
+Action: Place a few spoonfuls of vegan yogurt at the bottom of a glass or bowl. *
+Step 3:
+Previous scene: Vegan yogurt in the glass
+Action: Add a layer of granola on top of the yogurt. *
+Step 4:
+Previous scene: Yogurt topped with granola in the glass
+Action: Add a layer of sliced fresh fruits such as berries and bananas over the granola. *
+Step 5:
+Previous scene: Yogurt and granola topped with fresh fruits in the glass
+Action: Repeat the layers until the glass or bowl is almost full. *
+Step 6:
+Previous scene: Alternating layers of yogurt, granola, and fruits in the glass
+Action: Drizzle with maple syrup or agave nectar on top. *
+Step 7:
+Previous scene: Completed parfait with layers and syrup
+Action: Serve immediately or refrigerate for later. *

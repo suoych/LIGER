@@ -1,0 +1,34 @@
+3, 8*
+Step 1:
+Previous scene: None
+Action: Wash the potatoes thoroughly under running water *
+Step 2:
+Previous scene: Wet potatoes
+Action: Dry the potatoes with a clean towel *
+Step 3:
+Previous scene: Dry potatoes
+Action: Poke the potatoes several times with a fork *
+Step 4:
+Previous scene: Potatoes with fork marks
+Action: Preheat a large skillet over medium-low heat *
+Step 5:
+Previous scene: Empty skillet
+Action: Add a bit of oil or butter to the skillet *
+Step 6:
+Previous scene: Skillet with oil/butter
+Action: Place the potatoes in the skillet *
+Step 7:
+Previous scene: Potatoes in skillet
+Action: Cover the skillet with a lid *
+Step 8:
+Previous scene: Covered skillet
+Action: Cook the potatoes, turning them occasionally, for about 45-60 minutes *
+Step 9:
+Previous scene: Potatoes in skillet
+Action: Check for doneness by poking with a fork; they should be tender *
+Step 10:
+Previous scene: Potatoes in skillet
+Action: Remove the potatoes from the skillet *
+Step 11:
+Previous scene: Potatoes
+Action: Cut the potatoes open and add your favorite toppings *

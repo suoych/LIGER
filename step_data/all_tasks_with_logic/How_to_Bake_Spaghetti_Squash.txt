@@ -1,0 +1,40 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 400°F (200°C) *
+
+Step 2:
+Previous scene: An empty oven
+Action: Cut the spaghetti squash in half lengthwise *
+
+Step 3:
+Previous scene: Whole spaghetti squash
+Action: Scoop out the seeds from the squash halves *
+
+Step 4:
+Previous scene: Squash halves with seeds
+Action: Drizzle olive oil over the cut sides of the squash halves *
+
+Step 5:
+Previous scene: Squash halves without seeds
+Action: Season with salt and pepper *
+
+Step 6:
+Previous scene: Seasoned squash halves
+Action: Place the squash halves cut-side down on a baking sheet *
+
+Step 7:
+Previous scene: Seasoned squash halves on baking sheet
+Action: Roast in the oven for about 40-50 minutes, or until tender *
+
+Step 8:
+Previous scene: Squash halves in the oven
+Action: Remove from oven and let cool slightly *
+
+Step 9:
+Previous scene: Roasted squash halves
+Action: Use a fork to scrape the inside of the squash, creating spaghetti-like strands *
+
+Step 10:
+Previous scene: Roasted squash halves
+Action: Serve with your favorite sauce or toppings *

@@ -1,0 +1,32 @@
+6,3 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of strawberries with 1/2 cup of sugar and 1 tablespoon of lemon juice *
+
+Step 2:
+Previous scene: A bowl with strawberries, sugar, and lemon juice
+Action: Mash the strawberries until they are mostly liquid with some chunks remaining *
+
+Step 3:
+Previous scene: A bowl with mashed strawberries
+Action: In a separate mixing bowl, combine 2 cups of heavy cream and 1 cup of whole milk *
+
+Step 4:
+Previous scene: A bowl with heavy cream and milk mixture
+Action: Add 1/2 cup of sugar and 1 tablespoon of vanilla extract to the cream and milk mixture *
+
+Step 5:
+Previous scene: A bowl with cream and milk mixture mixed with sugar and vanilla
+Action: Add the mashed strawberries to the cream mixture and stir until well combined *
+
+Step 6:
+Previous scene: A bowl with strawberry and cream mixture
+Action: Pour the mixture into an ice cream maker *
+
+Step 7:
+Previous scene: An ice cream maker with strawberry and cream mixture
+Action: Churn according to the manufacturer's instructions, typically about 20-25 minutes *
+
+Step 8:
+Previous scene: Ice cream maker with churned ice cream
+Action: Transfer the ice cream to a lidded container and freeze for at least 2 hours before serving *

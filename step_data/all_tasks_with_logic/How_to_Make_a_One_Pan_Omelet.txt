@@ -1,0 +1,28 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Heat a non-stick skillet over medium heat and add a small amount of butter or oil *
+Step 2:
+Previous scene: A heated skillet with melted butter/oil
+Action: In a bowl, whisk together 2-3 eggs, salt, and pepper *
+Step 3:
+Previous scene: Bowl with whisked eggs
+Action: Pour the egg mixture into the skillet *
+Step 4:
+Previous scene: Skillet with egg mixture
+Action: Gently stir the eggs using a spatula, just until they begin to set *
+Step 5:
+Previous scene: Skillet with partially set eggs
+Action: Spread the eggs evenly across the skillet and let them cook without stirring *
+Step 6:
+Previous scene: Skillet with evenly spread eggs
+Action: Add fillings like cheese, ham, vegetables, etc., over one half of the omelet *
+Step 7:
+Previous scene: Skillet with filled omelet
+Action: Carefully fold the omelet in half using the spatula *
+Step 8:
+Previous scene: Folded omelet in the skillet
+Action: Cook for another 1-2 minutes until the fillings are warmed and the eggs are fully cooked *
+Step 9:
+Previous scene: Fully cooked omelet in skillet
+Action: Slide the omelet onto a plate and serve immediately *

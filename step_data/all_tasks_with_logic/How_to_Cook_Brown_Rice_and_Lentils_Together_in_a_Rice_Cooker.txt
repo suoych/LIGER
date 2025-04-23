@@ -1,0 +1,25 @@
+7, 3*
+Step 1: 
+Previous scene: None
+Action: Measure 1 cup of brown rice and rinse it under cold water *
+Step 2: 
+Previous scene: A bowl with rinsed brown rice
+Action: Measure 1 cup of lentils and rinse them under cold water *
+Step 3: 
+Previous scene: A bowl with rinsed lentils
+Action: Add the rinsed brown rice and lentils into the rice cooker bowl *
+Step 4:
+Previous scene: Brown rice and lentils in the rice cooker bowl
+Action: Add 4 cups of water or broth to the rice cooker *
+Step 5:
+Previous scene: Brown rice and lentils with water or broth in the rice cooker bowl
+Action: Add a pinch of salt and any desired spices like cumin, turmeric, or bay leaves *
+Step 6:
+Previous scene: Brown rice and lentils with water or broth, salt, and spices in the rice cooker bowl
+Action: Close the rice cooker lid and select the "Brown Rice" setting or cook for around 30-40 minutes *
+Step 7:
+Previous scene: Rice cooker with brown rice and lentils cooking
+Action: Once the rice cooker finishes, let it sit for about 10 minutes to steam *
+Step 8:
+Previous scene: Cooked brown rice and lentils in the rice cooker
+Action: Fluff the rice and lentils with a fork and serve *

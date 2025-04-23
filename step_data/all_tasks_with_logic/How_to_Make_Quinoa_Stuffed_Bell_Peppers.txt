@@ -1,0 +1,40 @@
+2, 4*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: A preheated oven
+Action: Cook 1 cup of quinoa according to package instructions *
+
+Step 3:
+Previous scene: Cooked quinoa
+Action: Cut the tops off 4 bell peppers and remove the seeds and membranes *
+
+Step 4:
+Previous scene: 4 cleaned bell peppers
+Action: In a large bowl, mix the cooked quinoa with 1 can of black beans (drained and rinsed), 1 cup of corn, 1 diced tomato, 1/2 cup of finely chopped onion, and 1/2 cup of shredded cheese *
+
+Step 5:
+Previous scene: A bowl with mixed filling
+Action: Season the mixture with salt, pepper, and 1 teaspoon of cumin *
+
+Step 6:
+Previous scene: Seasoned filling
+Action: Stuff each bell pepper with the quinoa mixture *
+
+Step 7:
+Previous scene: Stuffed bell peppers
+Action: Place the stuffed bell peppers in a baking dish and cover with foil *
+
+Step 8:
+Previous scene: Covered baking dish with stuffed bell peppers
+Action: Bake in the preheated oven for 30 minutes *
+
+Step 9:
+Previous scene: Baked stuffed bell peppers
+Action: Remove the foil and bake for an additional 10 minutes until the peppers are tender *
+
+Step 10:
+Previous scene: Nearly finished stuffed bell peppers
+Action: Remove from the oven and let them cool for a few minutes before serving *

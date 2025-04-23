@@ -1,0 +1,64 @@
+7,10 *
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, combine 1 cup of all-purpose flour and 1/2 cup of water *
+
+Step 2:
+Previous scene: A bowl with flour and water mixture
+Action: Add 1/4 cup of dashi stock to the bowl *
+
+Step 3:
+Previous scene: A bowl with flour, water, and dashi stock mixture
+Action: Crack 1 large egg into the mixture *
+
+Step 4:
+Previous scene: A bowl with flour, water, dashi stock, and an egg
+Action: Stir to combine until smooth *
+
+Step 5:
+Previous scene: A smooth batter mixture
+Action: Add 1 cup of finely chopped cabbage *
+
+Step 6:
+Previous scene: A batter with chopped cabbage
+Action: Mix in 1/4 cup of thinly sliced green onions *
+
+Step 7:
+Previous scene: A batter with chopped cabbage and green onions
+Action: Add 1/4 cup of julienned carrots and 1/4 cup of tempura scraps (if available) *
+
+Step 8:
+Previous scene: A batter with carrots, green onions, cabbage, and tempura scraps
+Action: Grease a non-stick skillet and heat it over medium heat *
+
+Step 9:
+Previous scene: A greased skillet on the stove
+Action: Pour half of the batter into the skillet and spread it out evenly *
+
+Step 10:
+Previous scene: Batter spread out in the skillet
+Action: Cook for about 3-4 minutes until the bottom is golden brown *
+
+Step 11:
+Previous scene: Okonomiyaki with a golden brown bottom side
+Action: Flip the okonomiyaki and cook the other side for another 3-4 minutes *
+
+Step 12:
+Previous scene: Cooked okonomiyaki in the skillet
+Action: Remove the okonomiyaki from the skillet and place it on a serving plate *
+
+Step 13:
+Previous scene: Okonomiyaki on a serving plate
+Action: Drizzle okonomiyaki sauce on top *
+
+Step 14:
+Previous scene: Okonomiyaki with sauce on a serving plate
+Action: Drizzle Japanese mayonnaise over the sauce *
+
+Step 15:
+Previous scene: Okonomiyaki with sauce and mayonnaise on a serving plate
+Action: Sprinkle with dried seaweed (aonori) and bonito flakes (katsuobushi) *
+
+Step 16:
+Previous scene: Okonomiyaki fully garnished on a serving plate
+Action: Serve hot and enjoy! *

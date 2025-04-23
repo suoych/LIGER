@@ -1,0 +1,48 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of softened butter *
+
+Step 3:
+Previous scene: A mixing bowl with softened butter
+Action: Add 1 cup of sugar and 1 cup of brown sugar, then mix until creamy *
+
+Step 4:
+Previous scene: A mixing bowl with a creamy butter and sugar mixture
+Action: Crack in 2 eggs, one at a time, mixing after each addition *
+
+Step 5:
+Previous scene: A mixing bowl with a creamy mixture of butter, sugar, and eggs
+Action: Add 1 teaspoon of vanilla extract and mix well *
+
+Step 6:
+Previous scene: A mixing bowl with the wet ingredients combined
+Action: In another bowl, whisk together 3 cups of flour, 1 teaspoon of baking soda, and 1/2 teaspoon of salt *
+
+Step 7:
+Previous scene: A bowl with dry ingredients and a mixing bowl with wet ingredients
+Action: Gradually add the dry ingredients to the wet ingredients, mixing until just combined *
+
+Step 8:
+Previous scene: A mixing bowl with dough 
+Action: Fold in 2 cups of chocolate chips (or your preferred add-ins like raisins or nuts) *
+
+Step 9:
+Previous scene: Dough with chocolate chips
+Action: Drop rounded tablespoons of dough onto ungreased baking sheets *
+
+Step 10:
+Previous scene: Baking sheets with dough 
+Action: Bake in preheated oven for 10-12 minutes or until edges are golden brown *
+
+Step 11:
+Previous scene: Cookies in the oven
+Action: Let the cookies cool on the baking sheets for a few minutes before transferring to a wire rack to cool completely * 
+
+Step 12:
+Previous scene: Cookies on a wire rack
+Action: Enjoy your freshly baked cookies or biscuits *

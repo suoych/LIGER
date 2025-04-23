@@ -1,0 +1,28 @@
+2, 4*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of chopped apples, 1 cup of chopped celery, and 1 cup of halved grapes *
+
+Step 2:
+Previous scene: A bowl with chopped apples, celery, and grapes
+Action: Add 1/2 cup of chopped walnuts *
+
+Step 3:
+Previous scene: A bowl with chopped apples, celery, grapes, and walnuts
+Action: In a small bowl, whisk together 1/2 cup of mayonnaise and 1 tablespoon of lemon juice *
+
+Step 4:
+Previous scene: A small bowl with whisked mayonnaise and lemon juice
+Action: Pour the dressing over the fruit and nut mixture *
+
+Step 5:
+Previous scene: A bowl with fruit and nut mixture, and dressing 
+Action: Toss everything together to combine *
+
+Step 6:
+Previous scene: A bowl of mixed Waldorf salad
+Action: Serve the salad on a bed of lettuce leaves *
+
+Step 7:
+Previous scene: A plate with salad on lettuce leaves
+Action: Garnish with additional walnuts or grapes if desired *

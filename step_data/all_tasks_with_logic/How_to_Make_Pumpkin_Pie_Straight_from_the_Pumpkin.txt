@@ -1,0 +1,34 @@
+5,10 *
+Step 1: 
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+Step 2: 
+Previous scene: None
+Action: Cut the pumpkin in half and remove the seeds *
+Step 3: 
+Previous scene: A cut pumpkin with seeds removed
+Action: Place the pumpkin halves cut-side down on a baking sheet *
+Step 4: 
+Previous scene: A baking sheet with pumpkin halves
+Action: Roast in the oven for about 45-60 minutes until tender *
+Step 5: 
+Previous scene: A baking sheet with roasted pumpkin halves
+Action: Scoop out the pumpkin flesh and puree it in a food processor *
+Step 6: 
+Previous scene: A food processor with pumpkin puree
+Action: In a mixing bowl, combine 2 cups of the pumpkin puree with 1 can of evaporated milk *
+Step 7: 
+Previous scene: A bowl with pumpkin puree and evaporated milk
+Action: Add 3/4 cup of sugar, 1/2 teaspoon of salt, 1 teaspoon of ground cinnamon, 1/2 teaspoon of ground ginger, 1/4 teaspoon of ground cloves, and 2 beaten eggs *
+Step 8: 
+Previous scene: A bowl with pumpkin mixture and spices
+Action: Mix all ingredients thoroughly until smooth *
+Step 9: 
+Previous scene: A bowl with smooth pumpkin mixture
+Action: Pour the mixture into an unbaked pie crust *
+Step 10: 
+Previous scene: A pie crust filled with pumpkin mixture
+Action: Bake in the preheated oven for 50-60 minutes, or until a knife inserted near the center comes out clean *
+Step 11: 
+Previous scene: A baked pumpkin pie
+Action: Let the pie cool completely before serving *

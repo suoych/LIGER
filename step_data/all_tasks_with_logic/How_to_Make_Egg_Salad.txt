@@ -1,0 +1,24 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Place 6 eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel, and chop *
+
+Step 2:
+Previous scene: Chopped eggs
+Action: In a bowl, combine the chopped eggs, 1/4 cup of mayonnaise, and 1 teaspoon of yellow mustard *
+
+Step 3:
+Previous scene: Chopped eggs with mayonnaise and mustard
+Action: Add 1/4 cup of chopped green onions or celery *
+
+Step 4:
+Previous scene: Egg mixture with green onions or celery
+Action: Season with salt and pepper to taste *
+
+Step 5:
+Previous scene: Seasoned egg mixture
+Action: Mix well and refrigerate for at least 1 hour *
+
+Step 6:
+Previous scene: Refrigerated egg salad
+Action: Serve on bread, crackers, or in a salad as desired *

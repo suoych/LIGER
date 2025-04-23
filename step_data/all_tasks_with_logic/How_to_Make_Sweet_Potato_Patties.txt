@@ -1,0 +1,49 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: Wash and peel the sweet potatoes *
+
+Step 2:
+Previous scene: Washed and peeled sweet potatoes
+Action: Cut the sweet potatoes into chunks *
+
+Step 3:
+Previous scene: Sweet potato chunks
+Action: Boil the sweet potato chunks until tender *
+
+Step 4:
+Previous scene: Boiled sweet potato chunks
+Action: Drain the boiled sweet potatoes and mash them in a bowl *
+
+Step 5:
+Previous scene: Mashed sweet potatoes
+Action: Add chopped onions, breadcrumbs, beaten egg, and your preferred seasonings to the mashed sweet potatoes *
+
+Step 6:
+Previous scene: Mashed sweet potato mixture with onions, breadcrumbs, egg, and seasonings
+Action: Mix all the ingredients well until they are fully combined *
+
+Step 7:
+Previous scene: Sweet potato mixture
+Action: Shape the mixture into small patties *
+
+Step 8:
+Previous scene: Sweet potato patties
+Action: Heat oil in a skillet over medium heat *
+
+Step 9:
+Previous scene: Heated skillet with oil
+Action: Place the sweet potato patties in the skillet *
+
+Step 10:
+Previous scene: Sweet potato patties in skillet
+Action: Cook the patties until they are golden brown on both sides *
+
+Step 11:
+Previous scene: Sweet potato patties cooked in skillet
+Action: Remove the patties from the skillet and let them sit on a paper towel-lined plate to drain excess oil *
+
+Step 12:
+Previous scene: Sweet potato patties on paper towels
+Action: Serve the sweet potato patties warm *
+

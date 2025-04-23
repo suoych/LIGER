@@ -1,0 +1,40 @@
+3,9 *
+Step 1:  
+Previous scene: None  
+Action: In a large pot, heat 1 tablespoon of coconut oil over medium heat *
+
+Step 2:  
+Previous scene: A pot with heated oil  
+Action: Add 1 chopped onion and sauté until translucent *
+
+Step 3:  
+Previous scene: A pot with sautéed onions  
+Action: Add 3 cloves of minced garlic and 1 tablespoon of grated ginger, and sauté for another minute *
+
+Step 4:  
+Previous scene: A pot with onions, garlic, and ginger  
+Action: Add 1 tablespoon of red curry paste and stir well *
+
+Step 5:  
+Previous scene: A pot with red curry paste mixture  
+Action: Pour in 4 cups of vegetable broth and 1 can (14 oz) of coconut milk *
+
+Step 6:  
+Previous scene: A pot with broth and coconut milk mixture  
+Action: Add 1 cup of sliced mushrooms, 1 cup of chopped carrots, and 1 cup of chopped red bell pepper *
+
+Step 7:  
+Previous scene: A pot with vegetables in broth
+Action: Bring the mixture to a boil, then reduce heat and simmer for 15-20 minutes *
+
+Step 8:  
+Previous scene: A pot of simmering soup
+Action: Stir in 1 tablespoon of soy sauce, 1 tablespoon of lime juice, and salt to taste *
+
+Step 9:  
+Previous scene: A pot of soup with seasonings added
+Action: Add 1 cup of chopped spinach and cook until wilted *
+
+Step 10:  
+Previous scene: A pot with spinach in the soup
+Action: Serve hot, garnished with chopped fresh cilantro and red pepper flakes if desired *

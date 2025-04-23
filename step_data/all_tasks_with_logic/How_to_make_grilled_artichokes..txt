@@ -1,0 +1,25 @@
+2,3 *
+Step 1: 
+Previous scene: None
+Action: Preheat a grill to medium-high heat *
+Step 2: 
+Previous scene: Grill
+Action: Cut the artichokes in half lengthwise *
+Step 3:
+Previous scene: Halved artichokes
+Action: Scoop out the fuzzy choke from the center of each artichoke half *
+Step 4:
+Previous scene: Cleaned artichoke halves
+Action: Brush the artichokes with olive oil *
+Step 5:
+Previous scene: Oiled artichoke halves
+Action: Season with salt and pepper *
+Step 6:
+Previous scene: Seasoned artichoke halves
+Action: Place the artichokes cut-side down on the grill *
+Step 7:
+Previous scene: Artichokes on grill
+Action: Grill for about 5-7 minutes per side until tender and charred *
+Step 8:
+Previous scene: Grilled artichokes
+Action: Remove from grill and serve with lemon wedges or dipping sauce *

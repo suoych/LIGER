@@ -1,0 +1,24 @@
+4, 3*
+Step 1:
+Previous scene: None
+Action: Heat a grill or skillet over medium heat *
+
+Step 2:
+Previous scene: A heated grill or skillet
+Action: Place the bratwurst on the grill or skillet *
+
+Step 3:
+Previous scene: Bratwurst on the grill or skillet
+Action: Turn the bratwurst occasionally to ensure even cooking *
+
+Step 4:
+Previous scene: Bratwurst being turned
+Action: Cook for about 15-20 minutes, or until the internal temperature reaches 160°F (71°C) *
+
+Step 5:
+Previous scene: Cooked bratwurst on the grill or skillet
+Action: Remove the bratwurst from the grill or skillet *
+
+Step 6:
+Previous scene: Removed bratwurst
+Action: Let the bratwurst rest for a few minutes before serving *

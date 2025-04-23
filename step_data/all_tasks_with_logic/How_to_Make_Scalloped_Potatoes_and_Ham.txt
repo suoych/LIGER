@@ -1,0 +1,40 @@
+1,12 *
+Step 1:
+Previous scene: None
+Action: Preheat oven to 375°F *
+Step 2:
+Previous scene: None
+Action: Thinly slice 6-8 potatoes and 1 onion *
+Step 3:
+Previous scene: Sliced potatoes and onions
+Action: In a saucepan, melt 3 tablespoons of butter over medium heat *
+Step 4:
+Previous scene: A saucepan with melted butter
+Action: Add 3 tablespoons of flour and cook, stirring constantly, for 1 minute *
+Step 5:
+Previous scene: A saucepan with a flour-butter mixture
+Action: Gradually add 2 cups of milk, stirring constantly until the sauce thickens *
+Step 6:
+Previous scene: A saucepan with thickened sauce
+Action: Stir in 1 cup of shredded cheddar cheese until melted *
+Step 7:
+Previous scene: A saucepan with cheese sauce
+Action: Layer half of the sliced potatoes, onions, and 1 cup diced ham in a greased baking dish *
+Step 8:
+Previous scene: A baking dish with half of the potatoes, onions, and ham layered
+Action: Pour half of the cheese sauce over the layered ingredients *
+Step 9:
+Previous scene: A baking dish with ingredients covered with cheese sauce
+Action: Repeat layering with the remaining potatoes, onions, ham, and cheese sauce *
+Step 10:
+Previous scene: A fully layered baking dish with cheese sauce on top
+Action: Cover the baking dish with aluminum foil *
+Step 11:
+Previous scene: A covered baking dish
+Action: Bake in the preheated oven for 45 minutes *
+Step 12:
+Previous scene: A baking dish in the oven
+Action: Remove the foil and bake for an additional 15-20 minutes until golden and bubbly *
+Step 13:
+Previous scene: A baking dish in the oven
+Action: Let the scalloped potatoes and ham rest for 10 minutes before serving *

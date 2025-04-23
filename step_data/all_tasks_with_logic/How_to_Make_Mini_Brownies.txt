@@ -1,0 +1,25 @@
+1,7 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+Step 2:
+Previous scene: Oven preheated
+Action: In a bowl, combine 1/2 cup of melted butter, 1 cup of sugar, and 2 eggs *
+Step 3:
+Previous scene: A bowl with melted butter, sugar, and eggs
+Action: Add 1 teaspoon of vanilla extract to the bowl *
+Step 4:
+Previous scene: A bowl with melted butter, sugar, eggs, and vanilla extract
+Action: Stir in 1/3 cup of unsweetened cocoa powder, 1/2 cup of flour, 1/4 teaspoon of salt, and 1/4 teaspoon of baking powder *
+Step 5:
+Previous scene: A bowl with brownie batter
+Action: Grease or line a mini muffin pan *
+Step 6:
+Previous scene: A greased or lined mini muffin pan
+Action: Spoon the brownie batter into the mini muffin pan, filling each cup about two-thirds full *
+Step 7:
+Previous scene: Mini muffin pan filled with brownie batter
+Action: Bake in the preheated oven for about 20 minutes, or until a toothpick inserted into the center comes out clean *
+Step 8:
+Previous scene: Fully baked mini brownies in the muffin pan
+Action: Allow the mini brownies to cool in the pan before removing *

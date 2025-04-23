@@ -1,0 +1,52 @@
+8,3 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1 cup of flour *
+
+Step 2:
+Previous scene: A bowl with flour
+Action: Add 2 tablespoons of sugar *
+
+Step 3:
+Previous scene: A bowl with flour and sugar
+Action: Add 2 teaspoons of baking powder *
+
+Step 4:
+Previous scene: A bowl with dry ingredients (flour, sugar, baking powder)
+Action: Add a pinch of salt *
+
+Step 5:
+Previous scene: A bowl with dry ingredients (flour, sugar, baking powder, salt)
+Action: Pour in 1 cup of milk *
+
+Step 6:
+Previous scene: A bowl with dry ingredients and milk
+Action: Crack an egg into the mixture *
+
+Step 7:
+Previous scene: A bowl with milk, egg, and dry ingredients
+Action: Add 2 tablespoons of melted butter *
+
+Step 8:
+Previous scene: A bowl with milk, egg, dry ingredients, and melted butter
+Action: Whisk all the ingredients until smooth *
+
+Step 9:
+Previous scene: A bowl with pancake batter
+Action: Heat a non-stick skillet over medium heat *
+
+Step 10:
+Previous scene: A heated non-stick skillet
+Action: Pour 1/4 cup of batter onto the skillet *
+
+Step 11:
+Previous scene: A skillet with batter
+Action: Cook until bubbles form on the surface of the pancake *
+
+Step 12:
+Previous scene: A skillet with bubbling pancake surface
+Action: Flip the pancake and cook until golden brown on the other side *
+
+Step 13:
+Previous scene: A skillet with a cooked pancake 
+Action: Remove the pancake from the skillet and serve warm with your favorite toppings *

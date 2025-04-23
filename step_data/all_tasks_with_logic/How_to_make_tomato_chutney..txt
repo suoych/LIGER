@@ -1,0 +1,24 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Wash and chop 4 ripe tomatoes *
+
+Step 2:
+Previous scene: Chopped tomatoes
+Action: Heat 2 tablespoons of oil in a pan *
+
+Step 3:
+Previous scene: Hot oil in a pan
+Action: Add 1 teaspoon of mustard seeds and wait until they pop *
+
+Step 4:
+Previous scene: Mustard seeds popping in oil
+Action: Add chopped tomatoes, 1 teaspoon of salt, and 1 tablespoon of sugar *
+
+Step 5:
+Previous scene: Tomatoes, salt, and sugar in the pan
+Action: Cook until the tomatoes break down and the mixture thickens *
+
+Step 6:
+Previous scene: Thickened tomato mixture
+Action: Stir in 1 tablespoon of lemon juice and serve *

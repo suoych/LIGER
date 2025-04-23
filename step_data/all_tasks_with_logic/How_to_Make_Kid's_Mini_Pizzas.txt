@@ -1,0 +1,40 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: An oven being preheated
+Action: Place English muffins or mini pizza crusts on a baking sheet *
+
+Step 3:
+Previous scene: A baking sheet with English muffins or mini pizza crusts
+Action: Spread a layer of pizza sauce on each muffin or crust *
+
+Step 4:
+Previous scene: English muffins or mini pizza crusts with sauce
+Action: Sprinkle shredded mozzarella cheese over the sauce *
+
+Step 5:
+Previous scene: Muffins or crusts with sauce and cheese
+Action: Add toppings of your choice (like pepperoni, veggies, or ham) *
+
+Step 6:
+Previous scene: Muffins or crusts with sauce, cheese, and toppings
+Action: Place the baking sheet in the preheated oven *
+
+Step 7:
+Previous scene: A baking sheet with mini pizzas ready to be baked
+Action: Bake for 10-12 minutes or until the cheese is melted and bubbly *
+
+Step 8:
+Previous scene: Baked mini pizzas in the oven
+Action: Remove the baking sheet from the oven *
+
+Step 9:
+Previous scene: A baking sheet with hot mini pizzas
+Action: Allow the mini pizzas to cool for a few minutes before serving *
+
+Step 10:
+Previous scene: Mini pizzas cooling on a baking sheet
+Action: Serve the mini pizzas to the kids and enjoy! *

@@ -1,0 +1,32 @@
+3, 5*
+Step 1:  
+Previous scene: None  
+Action: Preheat the oven to 350°F (175°C) *
+
+Step 2:  
+Previous scene: An oven preheating  
+Action: Spread pumpkin seeds on a baking sheet *
+
+Step 3:  
+Previous scene: Baking sheet with pumpkin seeds  
+Action: Roast the pumpkin seeds in the oven for 10-15 minutes *
+
+Step 4:  
+Previous scene: Roasted pumpkin seeds on a baking sheet  
+Action: Chop 1 small onion and 2 tomatoes *
+
+Step 5:  
+Previous scene: Chopped onion and tomatoes  
+Action: In a bowl, combine chopped onion, tomatoes, and roasted pumpkin seeds *
+
+Step 6:  
+Previous scene: A bowl with chopped onion, tomatoes, and roasted pumpkin seeds  
+Action: Add 1/4 cup of lime juice *
+
+Step 7:  
+Previous scene: A bowl with onion, tomatoes, roasted pumpkin seeds, and lime juice  
+Action: Add chopped cilantro and a pinch of salt *
+
+Step 8:  
+Previous scene: A bowl with salsa ingredients  
+Action: Mix everything together until well combined *

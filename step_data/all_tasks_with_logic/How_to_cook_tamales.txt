@@ -1,0 +1,44 @@
+8, 2*
+Step 1:
+Previous scene: None
+Action: Soak corn husks in warm water for 30 minutes to make them pliable *
+
+Step 2:
+Previous scene: Soaking corn husks in water
+Action: In a large bowl, mix masa harina, baking powder, and salt *
+
+Step 3:
+Previous scene: A bowl with dry ingredients
+Action: Slowly add chicken broth to the masa mixture, stirring to combine *
+
+Step 4:
+Previous scene: A bowl with masa mixture
+Action: In a separate bowl, beat lard (or shortening) until fluffy and smooth *
+
+Step 5:
+Previous scene: A bowl with beaten lard
+Action: Combine the masa mixture with the beaten lard and mix until smooth and well combined *
+
+Step 6:
+Previous scene: A bowl with smooth masa dough
+Action: Take a soaked corn husk and spread a generous amount of masa dough in the center *
+
+Step 7:
+Previous scene: A corn husk with masa dough
+Action: Add your filling (meat, cheese, or vegetables) in the center of the masa dough *
+
+Step 8:
+Previous scene: A corn husk with masa and filling
+Action: Fold the sides of the corn husk inward and then fold the bottom up to secure the tamale *
+
+Step 9:
+Previous scene: A folded tamale
+Action: Place the tamales upright in a steamer basket *
+
+Step 10:
+Previous scene: A steamer basket filled with tamales
+Action: Steam the tamales for 1 to 1.5 hours or until the masa is firm and fully cooked *
+
+Step 11:
+Previous scene: Steamed tamales
+Action: Let the tamales cool slightly before unwrapping and serving *

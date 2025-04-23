@@ -1,0 +1,32 @@
+6, 3*
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, add 1 cup of heavy whipping cream *
+
+Step 2:
+Previous scene: A bowl with heavy whipping cream
+Action: Whip the cream until it forms stiff peaks *
+
+Step 3:
+Previous scene: A bowl with whipped cream
+Action: In a separate bowl, melt 1 cup of chocolate chips in the microwave for 30 seconds, stirring until smooth *
+
+Step 4:
+Previous scene: A bowl with melted chocolate
+Action: Let the melted chocolate cool to room temperature *
+
+Step 5:
+Previous scene: A bowl with melted chocolate, now cooled
+Action: Gently fold the cooled chocolate into the whipped cream until well combined *
+
+Step 6:
+Previous scene: A bowl with combined chocolate mousse
+Action: Spoon the chocolate mousse into serving dishes *
+
+Step 7:
+Previous scene: Chocolate mousse in serving dishes
+Action: Refrigerate for at least 1 hour before serving *
+
+Step 8:
+Previous scene: Chilled chocolate mousse in serving dishes
+Action: Garnish with whipped cream or chocolate shavings, if desired *

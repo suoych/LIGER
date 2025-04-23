@@ -1,0 +1,32 @@
+1, 5*
+Step 1:  
+Previous scene: None  
+Action: In a mixing bowl, combine 1 cup of coconut milk with 1 tablespoon of green curry paste *  
+
+Step 2:  
+Previous scene: A bowl with coconut milk and green curry paste  
+Action: Heat oil in a pan over medium heat *  
+
+Step 3:  
+Previous scene: A pan with oil  
+Action: Add the coconut milk and green curry paste mixture to the pan *  
+
+Step 4:  
+Previous scene: Mixture of coconut milk and curry paste in a pan  
+Action: Stir in 500g of diced chicken *  
+
+Step 5:  
+Previous scene: Chicken in curry mixture  
+Action: Add 1 cup of vegetables such as chopped bell peppers and green beans *  
+
+Step 6:  
+Previous scene: Chicken and vegetables in curry mixture  
+Action: Simmer for 15-20 minutes until the chicken is cooked through *  
+
+Step 7:  
+Previous scene: Cooked chicken and vegetables in curry  
+Action: Add 2 tablespoons of fish sauce and 1 tablespoon of sugar *  
+
+Step 8:  
+Previous scene: Curry with fish sauce and sugar  
+Action: Stir in fresh basil and serve hot with rice *

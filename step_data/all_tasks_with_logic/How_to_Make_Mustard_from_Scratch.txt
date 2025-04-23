@@ -1,0 +1,22 @@
+6,4 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine mustard seeds and vinegar *
+Step 2:
+Previous scene: A bowl with mustard seeds and vinegar
+Action: Add water to the bowl *
+Step 3:
+Previous scene: A bowl with mustard seeds, vinegar, and water
+Action: Let the mixture sit for a few hours to allow the seeds to soften *
+Step 4:
+Previous scene: A bowl with softened mustard seeds, vinegar, and water
+Action: Blend the mixture until smooth *
+Step 5:
+Previous scene: A blender with mustard mixture
+Action: Add salt and turmeric to the blended mixture *
+Step 6:
+Previous scene: A blender with blended mustard mixture and added spices
+Action: Blend again to ensure everything is well combined *
+Step 7:
+Previous scene: A blender with fully combined mustard mixture
+Action: Transfer the mixture to a jar and store in the refrigerator *

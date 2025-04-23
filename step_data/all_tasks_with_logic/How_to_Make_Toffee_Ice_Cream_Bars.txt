@@ -1,0 +1,40 @@
+10,4 *
+Step 1:
+Previous scene: None
+Action: Combine 1 cup of sugar, 3/4 cup of butter, and 2 tablespoons of water in a saucepan and cook over medium heat until melted and combined *
+Step 2:
+Previous scene: A saucepan with melted mixture
+Action: Continue cooking the mixture, stirring constantly, until it turns a deep caramel color (about 10 minutes) *
+Step 3:
+Previous scene: A saucepan with caramel mixture
+Action: Remove the saucepan from heat and stir in 1 teaspoon of vanilla extract *
+Step 4:
+Previous scene: A saucepan with caramel mixture and vanilla
+Action: Pour the toffee mixture onto a parchment-lined baking sheet and spread it into an even layer *
+Step 5:
+Previous scene: Toffee layer on a baking sheet
+Action: Allow the toffee to cool and harden completely *
+Step 6:
+Previous scene: Hardened toffee
+Action: Melt 2 cups of semi-sweet chocolate chips in a microwave-safe bowl until smooth *
+Step 7:
+Previous scene: Melted chocolate
+Action: Break the toffee into pieces and dip each piece into the melted chocolate to coat each side *
+Step 8:
+Previous scene: Chocolate-covered toffee pieces
+Action: Place the chocolate-covered toffee pieces on a parchment-lined baking sheet to set *
+Step 9:
+Previous scene: Chocolate-covered toffee pieces setting
+Action: Once the chocolate is fully set, chop the toffee into small bits *
+Step 10:
+Previous scene: Chopped chocolate-covered toffee bits
+Action: Stir the toffee bits into softened vanilla ice cream *
+Step 11:
+Previous scene: Vanilla ice cream mixed with toffee bits
+Action: Pour the ice cream mixture into a baking dish and spread it evenly *
+Step 12:
+Previous scene: Ice cream mixture in a baking dish
+Action: Freeze the ice cream until firm, about 4 hours *
+Step 13:
+Previous scene: Frozen toffee ice cream mixture
+Action: Cut the frozen mixture into bar shapes and serve *

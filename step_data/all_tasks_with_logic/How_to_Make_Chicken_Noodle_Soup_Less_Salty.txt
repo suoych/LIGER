@@ -1,0 +1,28 @@
+2, 4*
+Step 1:
+Previous scene: None
+Action: Taste the chicken noodle soup to assess its saltiness levels *
+
+Step 2:
+Previous scene: A pot of chicken noodle soup
+Action: Add a peeled and halved potato to the soup, allowing it to absorb some of the saltiness *
+
+Step 3:
+Previous scene: A pot of chicken noodle soup containing a halved potato
+Action: Let the soup simmer for about 15-20 minutes to give the potato time to absorb the salt *
+
+Step 4:
+Previous scene: A pot of chicken noodle soup simmering with a halved potato
+Action: Remove the potato from the soup and taste it again to check if the saltiness has reduced *
+
+Step 5:
+Previous scene: A pot of chicken noodle soup
+Action: If still too salty, add a little bit of water or unsalted broth to dilute the soup *
+
+Step 6:
+Previous scene: A pot of chicken noodle soup slightly diluted with water or unsalted broth
+Action: Taste the soup again to ensure the saltiness is to your preference *
+
+Step 7: 
+Previous scene: A pot of chicken noodle soup at desired saltiness
+Action: Add additional seasonings or herbs such as pepper, garlic, or parsley to enhance flavor if necessary *

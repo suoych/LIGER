@@ -1,0 +1,19 @@
+4, 2*
+Step 1:
+Previous scene: None
+Action: Fill a mixing glass with ice cubes *
+Step 2:
+Previous scene: A mixing glass filled with ice cubes
+Action: Pour 2 1/2 ounces of vodka into the glass *
+Step 3:
+Previous scene: Ice cubes and vodka in a mixing glass
+Action: Add 1/2 ounce of dry vermouth *
+Step 4:
+Previous scene: Ice cubes, vodka, and dry vermouth in a mixing glass
+Action: Stir the mixture gently for about 30 seconds *
+Step 5:
+Previous scene: Mixing glass with stirred vodka and vermouth
+Action: Strain the mixture into a chilled martini glass *
+Step 6:
+Previous scene: Chilled martini glass with the vodka martini
+Action: Garnish with a lemon twist or olive *

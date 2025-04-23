@@ -1,0 +1,61 @@
+1, 14*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) and grease a 9-inch round baking pan *
+
+Step 2:
+Previous scene: A greased baking pan and an oven preheating
+Action: In a mixing bowl, combine 1 ⅓ cups of all-purpose flour, 1 ⅓ cups of granulated sugar, ½ cup of unsweetened cocoa powder, 1 ½ teaspoons of baking powder, and ½ teaspoon of salt *
+
+Step 3:
+Previous scene: A mixing bowl with dry ingredients
+Action: Add 2 large eggs, 1 cup of milk, ½ cup of vegetable oil, and 2 teaspoons of vanilla extract to the dry ingredients bowl *
+
+Step 4:
+Previous scene: A mixing bowl with a mixture of dry and wet ingredients
+Action: Using an electric mixer, beat the mixture on medium speed for about 2 minutes until well combined *
+
+Step 5:
+Previous scene: A bowl with cake batter
+Action: Pour the batter into the prepared baking pan *
+
+Step 6:
+Previous scene: Cake batter in a baking pan
+Action: Bake in the preheated oven for 30 to 35 minutes or until a toothpick inserted into the center comes out clean *
+
+Step 7:
+Previous scene: A baked chocolate cake in a pan
+Action: Allow the cake to cool in the pan for 10 minutes, then remove it from the pan and let it cool completely on a wire rack *
+
+Step 8:
+Previous scene: A chocolate cake cooling on a wire rack
+Action: Once the cake is completely cool, use a serrated knife to slice the cake horizontally into 3 even layers *
+
+Step 9:
+Previous scene: A sliced chocolate cake with 3 layers
+Action: Spread a layer of cherry jam on the bottom layer of the cake *
+
+Step 10:
+Previous scene: A bottom cake layer spread with cherry jam
+Action: Whip 2 cups of heavy cream with ¼ cup of powdered sugar until stiff peaks form *
+
+Step 11:
+Previous scene: A bowl with whipped cream
+Action: Spread a layer of whipped cream over the cherry jam *
+
+Step 12:
+Previous scene: A bottom cake layer with cherry jam and whipped cream
+Action: Place the second layer of the cake on top and repeat the process of spreading cherry jam and whipped cream *
+
+Step 13:
+Previous scene: A cake with two layers
+Action: Add the final cake layer on top, then cover the entire cake with the remaining whipped cream *
+
+Step 14:
+Previous scene: A fully assembled Black Forest cake covered in whipped cream
+Action: Garnish the cake with chocolate shavings and maraschino cherries *
+
+Step 15:
+Previous scene: A decorated Black Forest cake
+Action: Refrigerate the cake for at least an hour before serving for the flavors to meld *
+

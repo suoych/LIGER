@@ -1,0 +1,28 @@
+4,3 *
+Step 1:
+Previous scene: None
+Action: Wash and peel 4-5 medium-sized potatoes *
+Step 2:
+Previous scene: Clean peeled potatoes
+Action: Slice the potatoes thinly using a mandoline or sharp knife *
+Step 3:
+Previous scene: Thin potato slices
+Action: Soak the potato slices in a bowl of cold water for about 30 minutes to remove excess starch *
+Step 4:
+Previous scene: Potato slices in water
+Action: Drain the potato slices and pat them dry with a clean kitchen towel *
+Step 5:
+Previous scene: Dry potato slices
+Action: Heat oil in a deep fryer or a large pot to 350°F (175°C) *
+Step 6:
+Previous scene: Hot oil
+Action: Fry the potato slices in batches, ensuring they are not overcrowded, until they are golden brown and crispy *
+Step 7:
+Previous scene: Fried potato slices
+Action: Remove the potato slices with a slotted spoon and place them on a paper towel to drain excess oil *
+Step 8:
+Previous scene: Draining potato chips on paper towel
+Action: Season the chips with salt and any other desired spices while they are still warm *
+Step 9:
+Previous scene: Seasoned potato chips
+Action: Let the chips cool completely before serving or storing in an airtight container *

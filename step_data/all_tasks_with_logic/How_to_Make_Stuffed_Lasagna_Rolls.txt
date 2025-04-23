@@ -1,0 +1,48 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Cook lasagna noodles according to package instructions until al dente *
+
+Step 2:
+Previous scene: Cooked lasagna noodles in a pot
+Action: In a large mixing bowl, combine ricotta cheese, 1 cup of mozzarella cheese, 1 egg, chopped spinach, salt, and pepper *
+
+Step 3:
+Previous scene: A mixing bowl with cheese and spinach mixture
+Action: Lay cooked lasagna noodles flat on a clean surface *
+
+Step 4:
+Previous scene: Cooked lasagna noodles laid flat
+Action: Spread the cheese and spinach mixture evenly over each lasagna noodle *
+
+Step 5:
+Previous scene: Lasagna noodles with cheese and spinach mixture spread on top
+Action: Roll up each lasagna noodle tightly *
+
+Step 6:
+Previous scene: Rolled-up lasagna noodles
+Action: Pour a thin layer of marinara sauce into the bottom of a baking dish *
+
+Step 7:
+Previous scene: Baking dish with marinara sauce
+Action: Place the lasagna rolls seam side down in the baking dish *
+
+Step 8:
+Previous scene: Lasagna rolls in the baking dish
+Action: Pour the remaining marinara sauce over the lasagna rolls *
+
+Step 9:
+Previous scene: Baking dish with sauce-covered lasagna rolls
+Action: Sprinkle the remaining mozzarella cheese over the top *
+
+Step 10:
+Previous scene: Baking dish with cheese on top of lasagna rolls
+Action: Cover with aluminum foil and bake in a preheated oven at 375°F (190°C) for 25 minutes *
+
+Step 11:
+Previous scene: Baking dish covered with aluminum foil
+Action: Remove the foil and bake for an additional 10 minutes until the cheese is golden and bubbly *
+
+Step 12:
+Previous scene: Baked lasagna rolls in the dish
+Action: Let cool for a few minutes before serving *

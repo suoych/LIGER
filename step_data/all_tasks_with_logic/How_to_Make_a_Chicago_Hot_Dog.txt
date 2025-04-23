@@ -1,0 +1,40 @@
+6, 2*
+Step 1:
+Previous scene: None
+Action: Start by boiling or steaming a hot dog *
+
+Step 2:
+Previous scene: Boiled or steamed hot dog
+Action: Place the hot dog in a poppy seed bun *
+
+Step 3:
+Previous scene: Hot dog in a bun
+Action: Add yellow mustard to the hot dog *
+
+Step 4:
+Previous scene: Hot dog with mustard in a bun
+Action: Add sweet green pickle relish on top of the hot dog *
+
+Step 5:
+Previous scene: Hot dog with mustard and relish in a bun
+Action: Add chopped onions on the hot dog *
+
+Step 6:
+Previous scene: Hot dog with mustard, relish, and onions in a bun
+Action: Add two tomato wedges to the hot dog *
+
+Step 7:
+Previous scene: Hot dog with mustard, relish, onions, and tomatoes in a bun
+Action: Place a dill pickle spear on one side of the hot dog *
+
+Step 8:
+Previous scene: Hot dog with mustard, relish, onions, tomatoes, and pickle spear in a bun
+Action: Add two sport peppers to the hot dog *
+
+Step 9:
+Previous scene: Hot dog with mustard, relish, onions, tomatoes, pickle spear, and sport peppers in a bun
+Action: Sprinkle a dash of celery salt on top of the hot dog *
+
+Step 10:
+Previous scene: Fully assembled Chicago hot dog with mustard, relish, onions, tomatoes, pickle spear, sport peppers, and celery salt
+Action: Serve and enjoy! *

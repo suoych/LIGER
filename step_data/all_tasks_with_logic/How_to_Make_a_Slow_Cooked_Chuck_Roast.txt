@@ -1,0 +1,25 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Season the chuck roast with salt and pepper *
+Step 2:
+Previous scene: Seasoned chuck roast
+Action: Heat olive oil in a skillet over medium-high heat *
+Step 3:
+Previous scene: Hot skillet with olive oil
+Action: Sear the chuck roast on all sides until browned *
+Step 4:
+Previous scene: Searing chuck roast in skillet
+Action: Transfer the seared roast to a slow cooker *
+Step 5:
+Previous scene: Chuck roast in slow cooker
+Action: Add chopped onions, carrots, and potatoes around the roast *
+Step 6:
+Previous scene: Chuck roast with vegetables in slow cooker
+Action: Pour beef broth and a splash of Worcestershire sauce over the roast and vegetables *
+Step 7:
+Previous scene: Chuck roast, vegetables, and broth in slow cooker
+Action: Cover and cook on low for 8-9 hours or until the meat is tender *
+Step 8:
+Previous scene: Cooking chuck roast and vegetables in slow cooker
+Action: Serve the chuck roast with its vegetables and juice from the slow cooker *

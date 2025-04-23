@@ -1,0 +1,37 @@
+10,7 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, add 1/4 cup of olive oil *
+Step 2:
+Previous scene: A bowl with olive oil
+Action: Add 1/4 cup of soy sauce *
+Step 3:
+Previous scene: A bowl with olive oil and soy sauce
+Action: Add 2 tablespoons of lemon juice *
+Step 4:
+Previous scene: A bowl with olive oil, soy sauce, and lemon juice
+Action: Add 2 tablespoons of Worcestershire sauce *
+Step 5:
+Previous scene: A bowl with olive oil, soy sauce, lemon juice, and Worcestershire sauce
+Action: Add 1 teaspoon of minced garlic *
+Step 6:
+Previous scene: A bowl with garlic mixture
+Action: Add 1 teaspoon of black pepper and 1 teaspoon of salt *
+Step 7:
+Previous scene: A bowl with seasoned mixture
+Action: Add 1 teaspoon of dried oregano and 1 teaspoon of dried parsley *
+Step 8:
+Previous scene: A bowl with herb mixture
+Action: Mix all the ingredients thoroughly *
+Step 9:
+Previous scene: A bowl with well-mixed marinade
+Action: Place the steak in a large resealable plastic bag *
+Step 10:
+Previous scene: A plastic bag with steak
+Action: Pour the marinade over the steak *
+Step 11:
+Previous scene: A plastic bag with steak and marinade
+Action: Seal the bag and refrigerate for at least 2 hours *
+Step 12:
+Previous scene: A sealed bag with steak and marinade
+Action: Remove the steak from the bag and cook as desired *

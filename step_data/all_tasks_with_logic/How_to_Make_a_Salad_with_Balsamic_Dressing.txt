@@ -1,0 +1,48 @@
+6, 9*
+Step 1:
+Previous scene: None
+Action: Wash and dry assorted salad greens (lettuce, spinach, arugula) *
+
+Step 2:
+Previous scene: Clean salad greens
+Action: Chop the salad greens into bite-sized pieces and place them in a large bowl *
+
+Step 3:
+Previous scene: Bowl of chopped salad greens
+Action: Slice tomatoes and add them to the bowl *
+
+Step 4:
+Previous scene: Bowl of chopped salad greens and sliced tomatoes
+Action: Slice cucumbers and add them to the bowl *
+
+Step 5:
+Previous scene: Bowl of chopped salad greens, sliced tomatoes, and cucumbers
+Action: Thinly slice red onions and add them to the bowl *
+
+Step 6:
+Previous scene: Bowl of chopped salad greens, sliced tomatoes, cucumbers, and red onions
+Action: Add crumbled feta cheese or sliced avocados to the bowl *
+
+Step 7:
+Previous scene: Bowl of chopped salad greens, sliced tomatoes, cucumbers, red onions, and feta cheese or avocados
+Action: In a separate small bowl, whisk together 3 tablespoons of balsamic vinegar *
+
+Step 8:
+Previous scene: Small bowl with balsamic vinegar
+Action: Add 1/4 cup of olive oil to the balsamic vinegar *
+
+Step 9:
+Previous scene: Small bowl with balsamic vinegar and olive oil
+Action: Add 1 teaspoon of Dijon mustard to the dressing mixture *
+
+Step 10:
+Previous scene: Small bowl with balsamic vinegar, olive oil, and Dijon mustard
+Action: Add salt and pepper to taste and whisk together until well combined *
+
+Step 11:
+Previous scene: Bowl with prepared balsamic dressing
+Action: Pour the dressing over the salad and toss to combine *
+
+Step 12:
+Previous scene: Salad with balsamic dressing on top
+Action: Serve the salad immediately *

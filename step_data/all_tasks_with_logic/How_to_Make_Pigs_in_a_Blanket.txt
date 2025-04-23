@@ -1,0 +1,32 @@
+1, 4 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Oven
+Action: Open a can of refrigerated crescent roll dough and unroll the dough *
+
+Step 3:
+Previous scene: Crescent roll dough
+Action: Separate the dough into triangles along the perforated lines *
+
+Step 4:
+Previous scene: Triangles of dough
+Action: Place a cocktail sausage (or mini hot dog) at the wide end of each triangle of dough *
+
+Step 5:
+Previous scene: Dough triangles with sausages
+Action: Roll each sausage up in the dough starting from the wide end *
+
+Step 6:
+Previous scene: Dough-wrapped sausages
+Action: Place the wrapped sausages on a baking sheet *
+
+Step 7:
+Previous scene: Baking sheet with wrapped sausages
+Action: Bake in the preheated oven for 12-15 minutes or until golden brown *
+
+Step 8:
+Previous scene: Baked pigs in a blanket
+Action: Serve with your favorite dipping sauces and enjoy! *

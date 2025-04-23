@@ -1,0 +1,52 @@
+10,3 *
+Step 1:  
+Previous scene: None  
+Action: Rinse and soak 1 cup of split red lentils in water for about 30 minutes *
+
+Step 2:  
+Previous scene: A bowl with soaked lentils  
+Action: Drain the lentils and transfer them to a pot with 3 cups of water *
+
+Step 3:  
+Previous scene: A pot with lentils and water  
+Action: Add 1/2 teaspoon of turmeric and bring to a boil *
+
+Step 4:  
+Previous scene: A pot with boiling lentils and turmeric  
+Action: Reduce the heat and let it simmer for 20-25 minutes until the lentils are soft *
+
+Step 5:  
+Previous scene: A pot with softened lentils  
+Action: In a separate pan, heat 2 tablespoons of oil or ghee *
+
+Step 6:  
+Previous scene: A pan with oil or ghee  
+Action: Add 1 teaspoon of cumin seeds and let them sizzle *
+
+Step 7:  
+Previous scene: A pan with sizzling cumin seeds  
+Action: Add a finely chopped onion and sauté until golden brown *
+
+Step 8:  
+Previous scene: A pan with sautéed onions and cumin seeds  
+Action: Add finely chopped garlic, ginger, and green chilies, and sauté for another 2-3 minutes *
+
+Step 9:  
+Previous scene: A pan with sautéed mixture   
+Action: Add a chopped tomato and cook until it is soft and the oil starts to separate from the mixture *
+
+Step 10:  
+Previous scene: A pan with a well-cooked tomato mixture  
+Action: Add 1/2 teaspoon of garam masala and 1/2 teaspoon of red chili powder *
+
+Step 11:  
+Previous scene: A pan with cooked masala mixture  
+Action: Pour the masala mixture into the pot of cooked lentils and stir well to combine *
+
+Step 12:  
+Previous scene: A pot with combined lentil and masala mixture  
+Action: Let it simmer for another 5-10 minutes to blend the flavors *
+
+Step 13:  
+Previous scene: A pot of simmering Tarka Dal  
+Action: Garnish with fresh cilantro leaves and serve hot *

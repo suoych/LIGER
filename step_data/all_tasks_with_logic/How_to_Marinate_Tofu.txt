@@ -1,0 +1,22 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: Drain and press the tofu to remove excess moisture *
+Step 2:
+Previous scene: Pressed tofu
+Action: Cut the tofu into cubes or slices *
+Step 3:
+Previous scene: Tofu cubes or slices
+Action: In a bowl, combine soy sauce, minced garlic, and grated ginger *
+Step 4:
+Previous scene: A bowl with marinade (soy sauce, minced garlic, and grated ginger)
+Action: Add sesame oil and a bit of maple syrup or honey *
+Step 5:
+Previous scene: A bowl with marinade
+Action: Place the tofu cubes or slices into the bowl with the marinade *
+Step 6:
+Previous scene: Tofu in marinade
+Action: Toss gently to coat all pieces and marinate for at least 30 minutes *
+Step 7:
+Previous scene: Marinated tofu
+Action: Remove tofu from marinade and cook as desired *

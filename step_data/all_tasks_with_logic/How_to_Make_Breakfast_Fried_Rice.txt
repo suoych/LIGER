@@ -1,0 +1,32 @@
+7, 2* 
+Step 1:
+Previous scene: None
+Action: In a large skillet, heat 2 tablespoons of vegetable oil over medium-high heat *
+
+Step 2:
+Previous scene: A skillet with heated oil
+Action: Add 3 beaten eggs to the skillet and scramble until just set, then remove them from the skillet and set aside *
+
+Step 3:
+Previous scene: An empty skillet with some oil residue
+Action: Add another tablespoon of oil to the skillet and throw in 1 diced onion and 2 minced garlic cloves, sauté until fragrant *
+
+Step 4:
+Previous scene: Skillet with sautéed onion and garlic
+Action: Add 1 cup of diced ham and cook until lightly browned *
+
+Step 5:
+Previous scene: Skillet with browned ham, onion, and garlic
+Action: Add 4 cups of cold cooked rice to the skillet, breaking up any clumps *
+
+Step 6:
+Previous scene: Skillet with rice, ham, onion, and garlic
+Action: Pour in 2 tablespoons of soy sauce, 1 tablespoon of oyster sauce, and a pinch of white pepper, then stir to combine *
+
+Step 7:
+Previous scene: Skillet with seasoned rice mixture
+Action: Add 1 cup of frozen peas and carrots mix and cooked eggs back to the skillet, stirring until everything is heated through *
+
+Step 8:
+Previous scene: Skillet with mixed fried rice
+Action: Garnish with chopped scallions before serving *

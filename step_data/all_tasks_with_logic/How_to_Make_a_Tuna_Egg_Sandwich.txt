@@ -1,0 +1,28 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Open a can of tuna and drain the water or oil *
+Step 2:
+Previous scene: A can of drained tuna
+Action: Transfer the tuna to a mixing bowl *
+Step 3:
+Previous scene: A mixing bowl with tuna
+Action: Add 1-2 tablespoons of mayonnaise *
+Step 4:
+Previous scene: A mixing bowl with tuna and mayonnaise
+Action: Chop a hard-boiled egg and add it to the bowl *
+Step 5:
+Previous scene: A mixing bowl with tuna, mayonnaise, and chopped egg
+Action: Mix the ingredients together until well combined *
+Step 6:
+Previous scene: Mixed tuna and egg with mayonnaise
+Action: Season with salt and pepper to taste *
+Step 7:
+Previous scene: Seasoned tuna and egg mixture
+Action: Spread the mixture onto a slice of bread *
+Step 8:
+Previous scene: Bread with tuna egg mixture
+Action: Top with another slice of bread *
+Step 9:
+Previous scene: Assembled tuna egg sandwich
+Action: Cut the sandwich in half and serve *

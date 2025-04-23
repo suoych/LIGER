@@ -1,0 +1,25 @@
+1,6 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 475°F (245°C) *
+Step 2:
+Previous scene: An empty oven set to 475°F (245°C)
+Action: Roll out pizza dough on a floured surface to your desired thickness *
+Step 3:
+Previous scene: Rolled-out pizza dough on a floured surface
+Action: Place the rolled-out dough onto a pizza baking sheet or stone *
+Step 4:
+Previous scene: Pizza dough placed on a baking sheet or stone
+Action: Spread a layer of tomato sauce over the dough *
+Step 5:
+Previous scene: Pizza dough with tomato sauce
+Action: Sprinkle shredded mozzarella cheese evenly over the sauce *
+Step 6:
+Previous scene: Pizza dough with tomato sauce and cheese
+Action: Arrange pepperoni slices evenly on top of the cheese *
+Step 7:
+Previous scene: Pizza dough with tomato sauce, cheese, and pepperoni
+Action: Bake the pizza in the preheated oven for about 12-15 minutes, or until the crust is golden and the cheese is bubbly and slightly browned *
+Step 8:
+Previous scene: Pizza in the oven
+Action: Remove the pizza from the oven and let it cool for a few minutes before slicing and serving *

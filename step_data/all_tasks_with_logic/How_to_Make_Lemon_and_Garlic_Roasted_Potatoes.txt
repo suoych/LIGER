@@ -1,0 +1,40 @@
+1,4 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 400 degrees Fahrenheit *
+Step 2:
+Previous scene: An empty oven
+Action: Cut the potatoes into wedges *
+Step 3: 
+Previous scene: A cutting board with potato wedges
+Action: Place the potato wedges in a large mixing bowl *
+Step 4:
+Previous scene: A bowl with potato wedges
+Action: Add minced garlic to the bowl *
+Step 5:
+Previous scene: Potato wedges with minced garlic
+Action: Add olive oil to the bowl *
+Step 6:
+Previous scene: Potato wedges with minced garlic and olive oil
+Action: Add lemon juice *
+Step 7:
+Previous scene: Potato wedges with garlic, olive oil, and lemon juice
+Action: Add salt and pepper *
+Step 8:
+Previous scene: A bowl of seasoned potato wedges
+Action: Toss everything to coat the potato wedges evenly *
+Step 9:
+Previous scene: Seasoned potato wedges
+Action: Spread the potato wedges on a baking sheet *
+Step 10:
+Previous scene: A baking sheet with seasoned potato wedges
+Action: Roast in the preheated oven for 45 minutes *
+Step 11: 
+Previous scene: A baking sheet with roasting potatoes in the oven
+Action: Stir the potatoes halfway through *
+Step 12:
+Previous scene: Stirred potatoes in the oven
+Action: Remove the potatoes when they are golden brown and crispy *
+Step 13:
+Previous scene: Golden brown roasted potatoes on a baking sheet
+Action: Serve hot *

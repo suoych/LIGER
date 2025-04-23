@@ -1,0 +1,31 @@
+7, 4*
+Step 1:
+Previous scene: None
+Action: Place two slices of bread on a plate *
+Step 2:
+Previous scene: Two slices of bread on a plate
+Action: Spread mayo on one side of each slice *
+Step 3:
+Previous scene: Bread slices with mayo
+Action: Add a layer of lettuce on top of the mayo on one slice *
+Step 4:
+Previous scene: Bread slice with mayo and lettuce
+Action: Place several slices of turkey or chicken breast on top of the lettuce *
+Step 5:
+Previous scene: Bread slice with mayo, lettuce, and turkey/chicken
+Action: Add a few slices of tomato on top of the meat *
+Step 6:
+Previous scene: Bread slice with mayo, lettuce, turkey/chicken, and tomato
+Action: Place a slice of cheese on top of the tomato *
+Step 7:
+Previous scene: Bread slice with mayo, lettuce, turkey/chicken, tomato, and cheese
+Action: Add a few slices of cooked bacon on top of the cheese *
+Step 8:
+Previous scene: Bread slice with mayo, lettuce, turkey/chicken, tomato, cheese, and bacon
+Action: Place a second slice of bread on top, mayo side down *
+Step 9:
+Previous scene: Completed sandwich on a plate
+Action: Cut the sandwich diagonally into two triangles or quarters *
+Step 10:
+Previous scene: Cut sandwich on a plate
+Action: Secure each section with a toothpick if necessary *

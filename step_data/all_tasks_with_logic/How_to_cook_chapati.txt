@@ -1,0 +1,36 @@
+5, 2*
+Step 1:
+Previous scene: None
+Action: In a large bowl, mix whole wheat flour and a pinch of salt *
+
+Step 2:
+Previous scene: A bowl with flour and salt
+Action: Gradually add water and knead to form a soft dough *
+
+Step 3:
+Previous scene: A bowl with dough
+Action: Let the dough rest for 15-20 minutes *
+
+Step 4:
+Previous scene: A bowl with rested dough
+Action: Divide the dough into small balls *
+
+Step 5:
+Previous scene: Dough balls
+Action: Roll each ball into a thin circle using a rolling pin *
+
+Step 6:
+Previous scene: Rolled-out dough circle
+Action: Heat a tava or skillet and place the rolled chapati on it *
+
+Step 7:
+Previous scene: Rolled chapati on a tava
+Action: Cook until bubbles form, then flip *
+
+Step 8:
+Previous scene: Partially cooked chapati
+Action: Cook the other side and apply slight pressure with a spatula for it to puff up *
+
+Step 9:
+Previous scene: Puffing chapati
+Action: Remove from heat once both sides have brown spots *

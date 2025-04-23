@@ -1,0 +1,36 @@
+3,5 *
+Step 1: 
+Previous scene: None
+Action: Prepare the dough by mixing wheat flour, water, and a pinch of salt in a mixing bowl *
+
+Step 2: 
+Previous scene: A bowl with dough
+Action: Knead the dough until it is smooth and pliable *
+
+Step 3: 
+Previous scene: Kneaded dough in a bowl
+Action: Divide the dough into small, equal-sized balls *
+
+Step 4: 
+Previous scene: Dough balls
+Action: Preheat the electronic roti maker *
+
+Step 5: 
+Previous scene: Preheated roti maker
+Action: Roll one dough ball into a flat, thin circle using a rolling pin *
+
+Step 6: 
+Previous scene: Rolled dough circle
+Action: Place the rolled dough onto the roti maker *
+
+Step 7: 
+Previous scene: Dough on roti maker
+Action: Close the lid and cook for 20-30 seconds *
+
+Step 8: 
+Previous scene: Partially cooked roti
+Action: Flip the roti over and cook for another 20-30 seconds until it puffs up *
+
+Step 9: 
+Previous scene: Cooked roti on roti maker
+Action: Remove the roti from the maker and brush with butter or ghee if desired *

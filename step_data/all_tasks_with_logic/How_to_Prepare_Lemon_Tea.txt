@@ -1,0 +1,25 @@
+4,3 *
+Step 1:
+Previous scene: None
+Action: Boil 2 cups of water in a kettle *
+Step 2:
+Previous scene: A boiling kettle
+Action: Pour the boiling water into a teapot *
+Step 3:
+Previous scene: A teapot with hot water
+Action: Add 1-2 teaspoons of loose tea leaves to the teapot *
+Step 4:
+Previous scene: A teapot with hot water and tea leaves
+Action: Steep the tea for 3-5 minutes *
+Step 5:
+Previous scene: A teapot with steeped tea
+Action: Strain the tea into a cup *
+Step 6:
+Previous scene: A cup of tea
+Action: Squeeze the juice of half a lemon into the tea *
+Step 7:
+Previous scene: A cup of lemon-flavored tea
+Action: Add honey or sugar to taste *
+Step 8:
+Previous scene: A cup of sweetened lemon tea
+Action: Stir well and serve hot *

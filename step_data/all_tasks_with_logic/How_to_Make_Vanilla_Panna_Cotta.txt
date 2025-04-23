@@ -1,0 +1,28 @@
+2,3 *
+Step 1: 
+Previous scene: None
+Action: In a small saucepan, combine 1 cup of heavy cream and 1 cup of whole milk *
+Step 2: 
+Previous scene: A saucepan with cream and milk
+Action: Add 1/2 cup of granulated sugar to the saucepan *
+Step 3: 
+Previous scene: A saucepan with cream, milk, and sugar
+Action: Heat the mixture over medium heat until the sugar dissolves *
+Step 4: 
+Previous scene: A saucepan with heated mixture
+Action: Add 1 tablespoon of vanilla extract to the mixture *
+Step 5: 
+Previous scene: A saucepan with the vanilla mixture
+Action: Sprinkle 2 1/2 teaspoons of unflavored gelatin over the surface of the mixture *
+Step 6:
+Previous scene: A saucepan with gelatin sprinkled on top 
+Action: Whisk the mixture until the gelatin is completely dissolved *
+Step 7: 
+Previous scene: A saucepan with dissolved gelatin mixture
+Action: Pour the mixture into ramekins or molds *
+Step 8: 
+Previous scene: Ramekins or molds filled with mixture
+Action: Chill in the refrigerator for at least 4 hours or until set *
+Step 9: 
+Previous scene: Ramekins or molds with set panna cotta
+Action: Unmold the panna cotta onto serving plates and serve cold *

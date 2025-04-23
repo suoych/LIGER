@@ -1,0 +1,40 @@
+6, 3*
+Step 1:  
+Previous scene: None  
+Action: Chop onions, carrots, and celery into small pieces *  
+
+Step 2:  
+Previous scene: Chopped onions, carrots, and celery  
+Action: Heat olive oil in a large pot and sauté the chopped vegetables until soft *  
+
+Step 3:  
+Previous scene: Sautéed vegetables in a pot  
+Action: Add minced garlic and cook for another minute *  
+
+Step 4:  
+Previous scene: Pot with sautéed vegetables and garlic  
+Action: Add diced tomatoes and vegetable broth to the pot *  
+
+Step 5:  
+Previous scene: Pot with vegetables, broth, and tomatoes  
+Action: Stir in herbs like basil and thyme *  
+
+Step 6:  
+Previous scene: Pot with vegetables, broth, tomatoes, and herbs  
+Action: Add chopped potatoes, zucchini, and green beans to the pot *  
+
+Step 7:  
+Previous scene: Pot with vegetables and herbs  
+Action: Bring the pot to a boil and then reduce to simmer *  
+
+Step 8:  
+Previous scene: Simmering pot of vegetables  
+Action: Stir in pasta and cooked beans and cook until pasta is tender *  
+
+Step 9:  
+Previous scene: Pot with pasta and vegetables  
+Action: Season with salt and pepper to taste *  
+
+Step 10:  
+Previous scene: Finished minestrone in pot  
+Action: Serve hot with grated Parmesan cheese on top *  

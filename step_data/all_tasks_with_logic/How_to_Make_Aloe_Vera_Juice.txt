@@ -1,0 +1,37 @@
+7, 3*
+Step 1:
+Previous scene: None
+Action: Cut a fresh aloe vera leaf from the plant *
+Step 2:
+Previous scene: Aloe vera leaf
+Action: Wash the leaf thoroughly under running water *
+Step 3:
+Previous scene: Clean aloe vera leaf 
+Action: Cut off the spiky edges on either side of the leaf *
+Step 4:
+Previous scene: Aloe vera leaf with edges removed
+Action: Cut the leaf into sections *
+Step 5:
+Previous scene: Aloe vera sections
+Action: Carefully peel off the green skin to reveal the clear aloe vera gel *
+Step 6:
+Previous scene: Clear aloe vera gel
+Action: Scoop out the clear gel using a spoon *
+Step 7:
+Previous scene: Aloe vera gel in the container
+Action: Rinse the gel pieces to remove any remaining latex *
+Step 8:
+Previous scene: Clean aloe vera gel
+Action: Place the aloe vera gel into a blender *
+Step 9:
+Previous scene: Aloe vera gel in the blender
+Action: Add 1 cup of water or any desired fruit juice for flavor *
+Step 10:
+Previous scene: Aloe vera gel and liquid in the blender
+Action: Blend the mixture until smooth *
+Step 11:
+Previous scene: Blended aloe vera juice
+Action: Pour the blended juice through a strainer to remove any pulp if desired *
+Step 12:
+Previous scene: Strained aloe vera juice
+Action: Serve the aloe vera juice immediately or store in the refrigerator for later use *

@@ -1,0 +1,48 @@
+4, 2*
+Step 1:
+Previous scene: None
+Action: Pit and chop 4 cups of cherries *
+
+Step 2:
+Previous scene: Chopped cherries
+Action: Place cherries in a large saucepan *
+
+Step 3:
+Previous scene: Chopped cherries in a saucepan
+Action: Add 2 cups of sugar to the saucepan *
+
+Step 4:
+Previous scene: Cherries mixed with sugar in the saucepan
+Action: Add 2 tablespoons of lemon juice *
+
+Step 5:
+Previous scene: Cherries, sugar, and lemon juice in the saucepan
+Action: Heat the mixture over medium heat *
+
+Step 6:
+Previous scene: Cherries, sugar, and lemon juice heating
+Action: Stir constantly until sugar has dissolved *
+
+Step 7:
+Previous scene: Dissolved sugar in cherry mixture
+Action: Bring the mixture to a rolling boil *
+
+Step 8:
+Previous scene: Cherry mixture at rolling boil
+Action: Reduce the heat and simmer for about 10-15 minutes *
+
+Step 9:
+Previous scene: Cherry mixture simmering
+Action: Skim off any foam that forms on top *
+
+Step 10:
+Previous scene: Foam removed from cherry mixture
+Action: Test the jam for doneness by placing a small amount on a chilled plate *
+
+Step 11:
+Previous scene: Jam on a chilled plate
+Action: If it's set, pour the jam into sterilized jars *
+
+Step 12:
+Previous scene: Jam poured into jars
+Action: Seal the jars with lids and let them cool completely *

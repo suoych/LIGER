@@ -1,0 +1,44 @@
+4, 7*
+Step 1:  
+Previous scene: None  
+Action: Gather ingredients: pork, lo mein noodles, soy sauce, garlic, ginger, bell peppers, carrots, and green onions *
+
+Step 2:  
+Previous scene: Ingredients on the counter  
+Action: Slice the pork into thin strips *
+
+Step 3:  
+Previous scene: Sliced pork  
+Action: Mince the garlic and ginger *
+
+Step 4:  
+Previous scene: Minced garlic and ginger  
+Action: Slice bell peppers, carrots, and green onions into thin strips *
+
+Step 5:  
+Previous scene: Sliced vegetables  
+Action: Boil water and cook lo mein noodles according to package instructions, then drain *
+
+Step 6:  
+Previous scene: Cooked lo mein noodles  
+Action: Heat oil in a pan, add minced garlic and ginger, and stir-fry for a few seconds *
+
+Step 7:  
+Previous scene: Oil with garlic and ginger in a pan  
+Action: Add the pork strips to the pan, stir-fry until cooked through *
+
+Step 8:  
+Previous scene: Cooked pork in the pan  
+Action: Add sliced bell peppers and carrots to the pan and stir-fry until tender *
+
+Step 9:  
+Previous scene: Stir-fried pork and vegetables  
+Action: Add the cooked lo mein noodles to the pan *
+
+Step 10:  
+Previous scene: Lo mein noodles in the pan with pork and vegetables  
+Action: Pour soy sauce over the mixture and toss everything together *
+
+Step 11:  
+Previous scene: Seasoned lo mein mixture
+Action: Garnish with sliced green onions before serving *

@@ -1,0 +1,19 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: Fill a glass halfway with your choice of juice, such as orange or cranberry juice *
+Step 2:
+Previous scene: A glass with juice
+Action: Add a splash of sparkling water or club soda to the glass *
+Step 3:
+Previous scene: A glass containing juice and sparkling water
+Action: Stir gently to combine the juice and sparkling water *
+Step 4:
+Previous scene: A glass with mixed juice and sparkling water
+Action: Add ice cubes to keep the spritzer cold *
+Step 5:
+Previous scene: A glass with a juice mixture and ice cubes
+Action: Garnish with a slice of lemon or lime for an extra hint of flavor *
+Step 6:
+Previous scene: A glass with a juice mixture, ice cubes, and a lemon/lime slice
+Action: Serve immediately and enjoy your refreshing juice spritzer *

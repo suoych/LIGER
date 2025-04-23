@@ -1,0 +1,40 @@
+7, 4*
+Step 1:
+Previous scene: None
+Action: Bring a pot of water to boil *
+
+Step 2:
+Previous scene: A pot of boiling water
+Action: Add udon noodles and cook until tender *
+
+Step 3:
+Previous scene: A pot with cooked udon noodles
+Action: Drain the noodles and set aside *
+
+Step 4:
+Previous scene: Drained udon noodles
+Action: In a separate pot, bring 4 cups of dashi stock to a simmer *
+
+Step 5:
+Previous scene: A pot with simmering dashi stock
+Action: Add soy sauce, mirin, and salt to the dashi stock *
+
+Step 6:
+Previous scene: A pot with seasoned dashi stock
+Action: Add sliced shiitake mushrooms and simmer until tender *
+
+Step 7:
+Previous scene: A pot with mushrooms in dashi stock
+Action: Add baby spinach and cook until wilted *
+
+Step 8:
+Previous scene: A pot with spinach in dashi stock
+Action: Place cooked udon noodles in serving bowls *
+
+Step 9:
+Previous scene: Serving bowls with udon noodles
+Action: Pour the hot soup over the noodles *
+
+Step 10:
+Previous scene: Bowls of udon noodles with soup
+Action: Garnish with green onions and serve immediately *

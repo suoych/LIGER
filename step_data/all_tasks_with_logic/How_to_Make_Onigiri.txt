@@ -1,0 +1,25 @@
+2,1 *
+Step 1:
+Previous scene: None
+Action: Cook 2 cups of sushi rice according to package instructions *
+Step 2:
+Previous scene: Cooked sushi rice
+Action: Let the rice cool slightly *
+Step 3:
+Previous scene: Slightly cooled rice
+Action: Wet your hands with water and sprinkle them with salt *
+Step 4:
+Previous scene: Wet and salted hands
+Action: Scoop about 1/2 cup of rice into your hands *
+Step 5:
+Previous scene: Wet hands holding rice
+Action: Shape the rice into a triangle or ball *
+Step 6:
+Previous scene: Shaped rice
+Action: Make a small indentation in the center of the rice and add your desired filling (such as tuna or umeboshi) *
+Step 7:
+Previous scene: Rice with filling
+Action: Cover the filling with more rice and reshape if needed *
+Step 8:
+Previous scene: Shaped onigiri
+Action: Wrap a strip of nori around the onigiri *

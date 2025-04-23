@@ -1,0 +1,40 @@
+1,8 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 425°F (220°C) *
+
+Step 2:
+Previous scene: None
+Action: Peel and boil 2 pounds of potatoes until tender *
+
+Step 3:
+Previous scene: Potatoes in boiling water
+Action: Drain the potatoes and mash them until smooth *
+
+Step 4:
+Previous scene: Mashed potatoes
+Action: Add 4 tablespoons of butter, 1/2 cup of heavy cream, salt, pepper, and a pinch of nutmeg to the mashed potatoes *
+
+Step 5:
+Previous scene: Mashed potatoes mixed with butter and seasonings
+Action: Stir until the mixture is well combined *
+
+Step 6:
+Previous scene: Well-combined mashed potato mixture
+Action: Let the mixture cool slightly, then transfer it to a piping bag fitted with a large star tip *
+
+Step 7:
+Previous scene: Piping bag with mashed potato mixture
+Action: Pipe the mashed potatoes into small swirls or rosettes onto a baking sheet lined with parchment paper *
+
+Step 8:
+Previous scene: Piped potato swirls/rosettes on a baking sheet
+Action: Brush the tops with an egg yolk mixed with a tablespoon of water *
+
+Step 9:
+Previous scene: Egg-washed potato swirls/rosettes on a baking sheet
+Action: Bake in the preheated oven for 15-20 minutes, or until golden brown *
+
+Step 10:
+Previous scene: Baked golden brown duchess potatoes
+Action: Serve warm as a side dish *

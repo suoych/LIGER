@@ -1,0 +1,40 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: Gather ingredients: napa cabbage, salt, water, garlic, ginger, fish sauce, Korean red pepper flakes (gochugaru), scallions, and carrots *
+
+Step 2:
+Previous scene: Ingredients
+Action: Cut napa cabbage into quarters and remove the core *
+
+Step 3:
+Previous scene: Napa cabbage quarters
+Action: Rub salt between the cabbage leaves and place them in a large bowl *
+
+Step 4:
+Previous scene: Cabbage with salt
+Action: Add enough water to cover the cabbage and let it soak for 2 hours *
+
+Step 5:
+Previous scene: Cabbage soaking in water
+Action: Rinse cabbage under cold water and drain well *
+
+Step 6:
+Previous scene: Rinsed cabbage
+Action: In a separate bowl, mix minced garlic, grated ginger, fish sauce, and gochugaru *
+
+Step 7:
+Previous scene: Spice mixture
+Action: Add thinly sliced scallions and julienned carrots to the spice mixture and mix well *
+
+Step 8:
+Previous scene: Spice mixture with vegetables
+Action: Coat the rinsed cabbage with the spice mixture, ensuring even distribution between the leaves *
+
+Step 9:
+Previous scene: Cabbage with spice mixture
+Action: Pack the coated cabbage into a clean jar or container, pressing down to remove air bubbles *
+
+Step 10:
+Previous scene: Packed kimchi in a jar
+Action: Leave the jar at room temperature for 1-2 days to ferment, then refrigerate and enjoy *

@@ -1,0 +1,36 @@
+2,8 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: Unroll one can of crescent roll dough and press it into the bottom of a baking dish *
+
+Step 3:
+Previous scene: A baking dish with crescent roll dough
+Action: In a bowl, combine 2 packages of softened cream cheese with 1 cup of sugar and 1 teaspoon of vanilla extract until smooth *
+
+Step 4:
+Previous scene: A bowl with cream cheese mixture, a baking dish with crescent roll dough
+Action: Spread the cream cheese mixture evenly over the crescent roll dough in the baking dish *
+
+Step 5:
+Previous scene: A baking dish with crescent roll dough and cream cheese mixture
+Action: Unroll the second can of crescent roll dough and place it over the cream cheese layer *
+
+Step 6:
+Previous scene: A baking dish with two layers of crescent roll dough and cream cheese mixture in between
+Action: In a small bowl, mix 1/2 cup of melted butter, 1/2 cup of sugar, and 1 teaspoon of cinnamon *
+
+Step 7:
+Previous scene: A baking dish with two layers of crescent roll dough and cream cheese mixture in between; a bowl with cinnamon-sugar mixture
+Action: Pour the cinnamon-sugar mixture over the top layer of the crescent roll dough *
+
+Step 8:
+Previous scene: A baking dish with two layers of crescent roll dough and cream cheese mixture in between, topped with cinnamon-sugar butter mixture
+Action: Bake in the preheated oven for 30 minutes, or until the top is golden brown *
+
+Step 9:
+Previous scene: A baked dish with golden brown sopapilla cheesecake
+Action: Allow the dessert to cool before cutting into squares and serving *

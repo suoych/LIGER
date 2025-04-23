@@ -1,0 +1,22 @@
+2,1 *
+Step 1:
+Previous scene: None
+Action: Fill a pot with water and place a steamer basket inside *
+Step 2:
+Previous scene: A pot filled with water and a steamer basket
+Action: Bring the water to a boil *
+Step 3:
+Previous scene: A pot of boiling water with a steamer basket
+Action: Place the vegetables into the steamer basket *
+Step 4:
+Previous scene: Vegetables in a steamer basket inside a pot
+Action: Cover the pot with a lid *
+Step 5:
+Previous scene: Covered pot with vegetables in the steamer basket
+Action: Steam the vegetables for about 5-10 minutes, depending on the type *
+Step 6:
+Previous scene: Vegetables being steamed
+Action: Check the vegetables with a fork to see if they are tender*
+Step 7:
+Previous scene: Steamed vegetables ready to be checked
+Action: Remove the vegetables from the basket and season as desired *

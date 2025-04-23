@@ -1,0 +1,31 @@
+1, 5*
+Step 1: 
+Previous scene: None
+Action: Select a suitable location that gets at least 6-8 hours of sunlight per day *
+Step 2: 
+Previous scene: Garden bed or container in a sunny location
+Action: Prepare the soil by adding compost or organic matter to enhance its fertility *
+Step 3: 
+Previous scene: Prepared soil
+Action: Dig a hole deep enough to cover the root ball of the tomato plant seedling *
+Step 4: 
+Previous scene: Hole in soil
+Action: Place the tomato seedling into the hole and cover the roots with soil *
+Step 5: 
+Previous scene: Planted tomato seedling
+Action: Water the tomato plant thoroughly *
+Step 6: 
+Previous scene: Watered tomato plant
+Action: Add a layer of mulch around the base to help retain moisture *
+Step 7: 
+Previous scene: Mulched tomato plant
+Action: Provide support using stakes or cages as the plant grows *
+Step 8: 
+Previous scene: Supported tomato plant
+Action: Regularly prune the plant to remove suckers and improve air circulation *
+Step 9: 
+Previous scene: Pruned tomato plant
+Action: Fertilize the plant every 2-4 weeks to encourage healthy growth *
+Step 10: 
+Previous scene: Fertilized tomato plant
+Action: Harvest the tomatoes when they are ripe and firm *

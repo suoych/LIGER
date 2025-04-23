@@ -1,0 +1,37 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 325 degrees Fahrenheit *
+Step 2:
+Previous scene: Oven preheating
+Action: Remove the turkey from its packaging *
+Step 3:
+Previous scene: Turkey
+Action: Rinse the turkey under cold water and pat it dry with paper towels *
+Step 4:
+Previous scene: Turkey, paper towels
+Action: Place the turkey on a roasting rack inside a roasting pan *
+Step 5:
+Previous scene: Turkey on roasting rack and pan
+Action: Rub the turkey with olive oil or melted butter *
+Step 6:
+Previous scene: Turkey with olive oil or butter
+Action: Season the turkey with salt, pepper, and any desired herbs or spices *
+Step 7:
+Previous scene: Seasoned turkey
+Action: Stuff the turkey cavity with aromatics like onion, garlic, and herbs (optional) *
+Step 8:
+Previous scene: Turkey with aromatics
+Action: Tie the turkey legs together with kitchen twine *
+Step 9:
+Previous scene: Turkey with tied legs
+Action: Insert an oven-safe meat thermometer into the thickest part of the thigh without touching bone *
+Step 10:
+Previous scene: Turkey with meat thermometer
+Action: Place the turkey in the preheated oven *
+Step 11:
+Previous scene: Turkey in oven
+Action: Roast the turkey, basting occasionally with pan juices, until it reaches an internal temperature of 165 degrees Fahrenheit *
+Step 12:
+Previous scene: Roasted turkey
+Action: Remove the turkey from the oven and let it rest for 20-30 minutes before carving *

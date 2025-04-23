@@ -1,0 +1,25 @@
+6, 3*
+Step 1:
+Previous scene: None
+Action: Gather all your ingredients: cherries, lemons, sugar, and water *
+Step 2:
+Previous scene: Cherries, lemons, sugar, and water on the countertop
+Action: In a blender, add 1 cup of pitted cherries *
+Step 3:
+Previous scene: Blender with cherries
+Action: Squeeze the juice of 2 lemons into the blender *
+Step 4:
+Previous scene: Blender with cherries and lemon juice
+Action: Add 1/4 cup of sugar into the blender *
+Step 5:
+Previous scene: Blender with cherries, lemon juice, and sugar
+Action: Pour in 4 cups of water into the blender *
+Step 6:
+Previous scene: Blender with all ingredients
+Action: Blend the mixture until smooth *
+Step 7:
+Previous scene: Blended cherry lemonade
+Action: Pour the blended mixture through a strainer into a pitcher to remove pulp and cherry skins *
+Step 8:
+Previous scene: Pitcher with strained cherry lemonade
+Action: Serve over ice and garnish with a cherry or lemon slice if desired *

@@ -1,0 +1,32 @@
+1, 5*
+Step 1: 
+Previous scene: None
+Action: Preheat the oven to 400°F (200°C) *
+
+Step 2: 
+Previous scene: Oven set to preheat
+Action: Prepare three bowls, one with flour, one with beaten eggs, and one with breadcrumbs mixed with Parmesan cheese *
+
+Step 3: 
+Previous scene: Three prepared bowls (flour, eggs, breadcrumbs/Parmesan)
+Action: Take chicken breasts and dip each into the flour, then the beaten eggs, and finally coat with breadcrumb mixture *
+
+Step 4: 
+Previous scene: Chicken breasts coated with breadcrumb mixture
+Action: In a skillet, heat olive oil over medium heat and cook the chicken breasts until golden brown on each side *
+
+Step 5: 
+Previous scene: Skillet with golden brown chicken breasts
+Action: Place cooked chicken breasts in a baking dish *
+
+Step 6: 
+Previous scene: Chicken breasts in a baking dish
+Action: Top each chicken breast with marinara sauce and slices of mozzarella cheese *
+
+Step 7: 
+Previous scene: Baking dish with topped chicken breasts
+Action: Bake in the preheated oven for about 20 minutes, or until the chicken is cooked through and the cheese is bubbly *
+
+Step 8: 
+Previous scene: Baked chicken parmesan in the oven
+Action: Remove from oven and garnish with freshly chopped basil before serving *

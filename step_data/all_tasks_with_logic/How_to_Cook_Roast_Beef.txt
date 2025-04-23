@@ -1,0 +1,31 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375 degrees Fahrenheit *
+Step 2:
+Previous scene: An oven being preheated
+Action: Season the roast beef with salt and pepper *
+Step 3:
+Previous scene: A seasoned roast beef
+Action: Heat oil in a large skillet over medium-high heat *
+Step 4:
+Previous scene: Oil in a skillet
+Action: Sear the roast beef on all sides until browned *
+Step 5:
+Previous scene: A seared roast beef
+Action: Place the seared roast beef on a roasting pan *
+Step 6:
+Previous scene: A roast beef on a roasting pan
+Action: Insert a meat thermometer into the thickest part of the roast *
+Step 7:
+Previous scene: A roast beef with a meat thermometer
+Action: Roast in the oven until the thermometer reads your desired doneness (e.g., 135°F for medium-rare, about 60-70 minutes) *
+Step 8:
+Previous scene: A roast beef in the oven
+Action: Remove the roast beef from the oven and let it rest for 15 minutes before slicing *
+Step 9:
+Previous scene: A roast beef resting
+Action: Slice the roast beef thinly against the grain *
+Step 10:
+Previous scene: A sliced roast beef
+Action: Serve the sliced roast beef with your choice of sides *

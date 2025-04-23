@@ -1,0 +1,25 @@
+4, 6*
+Step 1:
+Previous scene: None
+Action: Place a tortilla on a flat surface *
+Step 2:
+Previous scene: A tortilla on a flat surface
+Action: Spread a thin layer of shredded cheese over half of the tortilla *
+Step 3:
+Previous scene: A tortilla with shredded cheese on half
+Action: Add other fillings like cooked chicken, vegetables, or beans on top of the cheese *
+Step 4:
+Previous scene: A tortilla with cheese and other fillings on half
+Action: Fold the tortilla in half to cover the fillings *
+Step 5:
+Previous scene: A folded tortilla with fillings inside
+Action: Heat a skillet over medium heat *
+Step 6:
+Previous scene: A folded tortilla with fillings inside
+Action: Place the folded tortilla in the skillet *
+Step 7:
+Previous scene: A folded tortilla in a skillet
+Action: Cook until golden brown and crispy, then flip to cook the other side *
+Step 8:
+Previous scene: A quesadilla being cooked
+Action: Remove from the skillet and cut into wedges *

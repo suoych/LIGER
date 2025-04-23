@@ -1,0 +1,37 @@
+4, 6*
+Step 1:
+Previous scene: None
+Action: Cut pita bread into small pieces and toast them in the oven until crispy *
+
+Step 2:
+Previous scene: A tray of crispy pita bread pieces
+Action: Cook chickpeas until tender and set them aside *
+
+Step 3:
+Previous scene: A tray of crispy pita bread pieces and a pot of cooked chickpeas
+Action: Crush garlic and mix it with yogurt, lemon juice, and tahini to make the yogurt sauce *
+
+Step 4:
+Previous scene: A tray of crispy pita bread pieces and a pot of cooked chickpeas
+Action: Heat a small amount of ghee or olive oil in a pan and add pine nuts until golden brown *
+
+Step 5:
+Previous scene: A pan of golden brown pine nuts 
+Action: In a serving dish, layer the crispy pita bread pieces on the bottom *
+
+Step 6:
+Previous scene: A serving dish with crispy pita bread pieces on the bottom
+Action: Add a layer of cooked chickpeas on top of the crispy pita bread *
+
+Step 7:
+Previous scene: A serving dish with layers of crispy pita bread pieces and cooked chickpeas
+Action: Pour the yogurt sauce over the chickpeas evenly *
+
+Step 8:
+Previous scene: A serving dish with layers of crispy pita bread pieces, cooked chickpeas, and yogurt sauce
+Action: Sprinkle the toasted pine nuts over the yogurt sauce *
+
+Step 9:
+Previous scene: A serving dish with layered crispy pita bread pieces, cooked chickpeas, yogurt sauce, and toasted pine nuts
+Action: Garnish with chopped parsley and serve immediately *
+

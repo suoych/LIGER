@@ -1,0 +1,24 @@
+4, 2*
+Step 1:
+Previous scene: None
+Action: Slice a baguette lengthwise *
+
+Step 2:
+Previous scene: A sliced baguette
+Action: Spread mayonnaise on the inside of the baguette *
+
+Step 3:
+Previous scene: Baguette with mayonnaise
+Action: Add a layer of pickled carrots and daikon radish *
+
+Step 4:
+Previous scene: Baguette with pickled vegetables
+Action: Place sliced cucumber and fresh cilantro on top *
+
+Step 5:
+Previous scene: Baguette with pickled vegetables and herbs
+Action: Add your choice of protein (like grilled pork or tofu) *
+
+Step 6:
+Previous scene: Baguette with protein
+Action: Top with sliced jalapeños and a drizzle of soy sauce or hoisin sauce *

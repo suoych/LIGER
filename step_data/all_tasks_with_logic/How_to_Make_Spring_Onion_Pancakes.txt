@@ -1,0 +1,34 @@
+4,7 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 2 cups of all-purpose flour and a pinch of salt *
+Step 2:
+Previous scene: A bowl with flour and salt
+Action: Gradually add 3/4 cup of hot water while stirring *
+Step 3:
+Previous scene: A bowl with partially mixed dough
+Action: Knead the dough until it becomes smooth and elastic *
+Step 4:
+Previous scene: A bowl with smooth dough
+Action: Cover the dough with a damp cloth and let it rest for 30 minutes *
+Step 5:
+Previous scene: Dough covered with a damp cloth
+Action: Chop 1/2 cup of spring onions *
+Step 6:
+Previous scene: Chopped spring onions
+Action: Divide the rested dough into 4 equal pieces *
+Step 7:
+Previous scene: Dough divided into pieces
+Action: Roll each piece into a thin circle *
+Step 8:
+Previous scene: Rolled-out dough
+Action: Brush each circle lightly with oil and sprinkle with chopped spring onions *
+Step 9:
+Previous scene: Dough brushed with oil and sprinkled with spring onions
+Action: Roll up the dough circle into a log and then coil it into a spiral shape *
+Step 10:
+Previous scene: Dough rolled into spirals
+Action: Flatten each spiral with a rolling pin into a thin pancake *
+Step 11:
+Previous scene: Flattened spirals
+Action: Heat a skillet over medium heat and cook each pancake until golden brown on both sides *

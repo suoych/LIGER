@@ -1,0 +1,36 @@
+7, 4*
+Step 1:  
+Previous scene: None  
+Action: Preheat the oven to 475°F (245°C) *  
+
+Step 2:  
+Previous scene: Oven being preheated  
+Action: Roll out the pizza dough onto a floured surface *  
+
+Step 3:  
+Previous scene: Rolled-out dough on a floured surface  
+Action: Spread tomato sauce evenly over the dough *  
+
+Step 4:  
+Previous scene: Dough with tomato sauce  
+Action: Sprinkle shredded mozzarella cheese over the sauce *  
+
+Step 5:  
+Previous scene: Dough with tomato sauce and mozzarella cheese  
+Action: Place fresh basil leaves on top *  
+
+Step 6:  
+Previous scene: Unbaked pizza with toppings  
+Action: Transfer the pizza to a baking sheet or pizza stone *  
+
+Step 7:  
+Previous scene: Pizza on a baking sheet or pizza stone  
+Action: Bake the pizza in the oven for 10-15 minutes *  
+
+Step 8:  
+Previous scene: Pizza baking in the oven  
+Action: Remove the pizza from the oven once the crust is golden brown and the cheese is bubbly. *  
+
+Step 9:  
+Previous scene: Baked pizza  
+Action: Let it cool slightly, then slice and serve. *  

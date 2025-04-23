@@ -1,0 +1,36 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Rinse and dry 4 cups of fresh arugula *
+
+Step 2:
+Previous scene: Freshly rinsed and dried arugula leaves
+Action: Place the arugula into a large salad bowl *
+
+Step 3:
+Previous scene: A salad bowl with arugula
+Action: Thinly slice 1/2 red onion and add it to the bowl *
+
+Step 4:
+Previous scene: A salad bowl with arugula and sliced red onion
+Action: Slice 1 cup of cherry tomatoes in half and add them to the bowl *
+
+Step 5:
+Previous scene: A salad bowl with arugula, sliced red onion, and halved cherry tomatoes
+Action: Crumble 1/4 cup of feta cheese over the salad *
+
+Step 6:
+Previous scene: A salad bowl with arugula, sliced red onion, halved cherry tomatoes, and crumbled feta cheese
+Action: Add 1/4 cup of toasted pine nuts to the salad *
+
+Step 7:
+Previous scene: A salad bowl with arugula, sliced red onion, halved cherry tomatoes, crumbled feta cheese, and toasted pine nuts
+Action: Drizzle 2 tablespoons of olive oil and 1 tablespoon of balsamic vinegar over the salad *
+
+Step 8:
+Previous scene: A salad bowl with arugula, sliced red onion, halved cherry tomatoes, crumbled feta cheese, toasted pine nuts, olive oil, and balsamic vinegar
+Action: Season with salt and pepper to taste *
+
+Step 9:
+Previous scene: A salad bowl with arugula, sliced red onion, halved cherry tomatoes, crumbled feta cheese, toasted pine nuts, olive oil, balsamic vinegar, salt, and pepper
+Action: Toss the salad gently to combine all ingredients *

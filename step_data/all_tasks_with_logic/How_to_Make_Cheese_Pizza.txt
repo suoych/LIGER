@@ -1,0 +1,32 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 475°F (245°C) *
+
+Step 2:
+Previous scene: Oven being preheated
+Action: Roll out pizza dough on a floured surface to your desired thickness *
+
+Step 3:
+Previous scene: Rolled out pizza dough on a floured surface
+Action: Transfer the rolled-out dough to a pizza stone or baking sheet *
+
+Step 4:
+Previous scene: Pizza dough on a pizza stone or baking sheet
+Action: Spread a layer of tomato sauce over the dough *
+
+Step 5:
+Previous scene: Pizza dough with tomato sauce
+Action: Sprinkle shredded mozzarella cheese evenly over the sauce *
+
+Step 6:
+Previous scene: Pizza dough with tomato sauce and cheese
+Action: Add any additional toppings, if desired *
+
+Step 7:
+Previous scene: Pizza dough with sauce, cheese, and additional toppings
+Action: Bake the pizza in the preheated oven for 10-15 minutes, until the crust is golden and the cheese is bubbly and browned *
+
+Step 8:
+Previous scene: Baked pizza in the oven
+Action: Remove the pizza from the oven and let it cool for a few minutes before slicing and serving *

@@ -1,0 +1,52 @@
+3, 11*
+Step 1:  
+Previous scene: None  
+Action: Gather spices like turmeric, cumin, coriander, and garam masala *  
+
+Step 2:  
+Previous scene: Collection of spices  
+Action: Chop onions and garlic *  
+
+Step 3:  
+Previous scene: Chopped onions and garlic  
+Action: Cut lamb into cubes *  
+
+Step 4:  
+Previous scene: Cubed lamb  
+Action: Heat oil in a pot *  
+
+Step 5:  
+Previous scene: Heated pot with oil  
+Action: Add onions and garlic to the pot *  
+
+Step 6:  
+Previous scene: Pot with onions and garlic  
+Action: Saute until onions are golden brown *  
+
+Step 7:  
+Previous scene: Golden brown onions  
+Action: Add the spices to the pot *  
+
+Step 8:  
+Previous scene: Pot with spices and onions  
+Action: Stir to combine spices *  
+
+Step 9:  
+Previous scene: Mixed spices and onions  
+Action: Add lamb cubes to the pot *  
+
+Step 10:  
+Previous scene: Lamb cubes in pot  
+Action: Brown the lamb on all sides *  
+
+Step 11:  
+Previous scene: Browned lamb  
+Action: Add tomatoes and yogurt *  
+
+Step 12:  
+Previous scene: Pot with lamb, tomatoes, and yogurt  
+Action: Stir and simmer for 45 minutes or until lamb is tender *  
+
+Step 13:  
+Previous scene: Simmering curry  
+Action: Add salt to taste and garnish with cilantro *

@@ -1,0 +1,40 @@
+4, 6*
+Step 1:
+Previous scene: None
+Action: Boil a large pot of water *
+Step 2:
+Previous scene: A pot of boiling water
+Action: Add pasta to the boiling water *
+Step 3:
+Previous scene: A pot with pasta boiling
+Action: Cook pasta according to package instructions until al dente *
+Step 4:
+Previous scene: A pot with cooked pasta
+Action: Drain the pasta and set it aside *
+Step 5:
+Previous scene: A colander with drained pasta
+Action: In a large skillet, melt butter over medium heat *
+Step 6:
+Previous scene: A skillet with melted butter
+Action: Add minced garlic to the skillet and sauté until fragrant *
+Step 7:
+Previous scene: A skillet with sautéed garlic
+Action: Add diced ham to the skillet and cook until it starts to brown *
+Step 8:
+Previous scene: A skillet with browned ham and garlic
+Action: Stir in frozen peas and cook until they are heated through *
+Step 9:
+Previous scene: A skillet with ham, garlic, and peas
+Action: Pour in heavy cream and bring to a simmer *
+Step 10:
+Previous scene: A skillet with a creamy mixture
+Action: Stir in grated cheddar cheese until melted and smooth *
+Step 11:
+Previous scene: A skillet with a cheesy sauce
+Action: Add the cooked pasta to the skillet and toss to combine *
+Step 12:
+Previous scene: A skillet with cheesy pasta, ham, and peas
+Action: Season with salt and pepper to taste *
+Step 13:
+Previous scene: A skillet with seasoned cheesy pasta, ham, and peas
+Action: Serve hot and enjoy! *

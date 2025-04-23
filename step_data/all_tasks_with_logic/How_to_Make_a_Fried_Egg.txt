@@ -1,0 +1,28 @@
+5, 1*
+Step 1:
+Previous scene: None
+Action: Heat a non-stick skillet over medium heat *
+
+Step 2:
+Previous scene: Hot skillet
+Action: Add a small amount of butter or oil to coat the pan *
+
+Step 3:
+Previous scene: Skillet with melted butter/oil
+Action: Crack an egg into the skillet *
+
+Step 4:
+Previous scene: Pan with raw egg
+Action: Cook the egg until the white is completely set *
+
+Step 5:
+Previous scene: Egg with set white and runny yolk
+Action: Use a spatula to carefully remove the fried egg from the skillet *
+
+Step 6:
+Previous scene: Fried egg on spatula
+Action: Transfer the egg to a plate *
+
+Step 7: 
+Previous scene: Plate with fried egg
+Action: Season with salt and pepper to taste *

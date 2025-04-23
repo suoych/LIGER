@@ -1,0 +1,25 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Peel and crush several cloves of garlic *
+Step 2:
+Previous scene: Crushed garlic cloves
+Action: In a small saucepan, pour 1 cup of olive oil *
+Step 3:
+Previous scene: A saucepan with olive oil
+Action: Add the crushed garlic cloves to the saucepan *
+Step 4:
+Previous scene: Saucepan with garlic and oil
+Action: Set the saucepan over low heat *
+Step 5:
+Previous scene: Saucepan on the stove
+Action: Simmer the garlic in the oil for about 15 minutes *
+Step 6:
+Previous scene: Simmering garlic oil
+Action: Remove the saucepan from heat and let it cool *
+Step 7:
+Previous scene: Cooled garlic oil
+Action: Strain the oil to remove the garlic pieces *
+Step 8:
+Previous scene: Garlic-infused oil
+Action: Transfer the garlic oil to a clean, airtight bottle for storage *

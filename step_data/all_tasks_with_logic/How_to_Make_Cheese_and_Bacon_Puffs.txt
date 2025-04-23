@@ -1,0 +1,25 @@
+1, 3*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 400°F (200°C) and line a baking sheet with parchment paper *
+Step 2:
+Previous scene: Baking sheet with parchment paper
+Action: In a skillet, cook 6 strips of bacon until crispy, then drain and crumble them *
+Step 3:
+Previous scene: A skillet with cooked bacon
+Action: In a mixing bowl, combine 1 cup of shredded cheese and the crumbled bacon *
+Step 4:
+Previous scene: A mixing bowl with shredded cheese and crumbled bacon
+Action: Add 1 cup of flour and a pinch of salt into the mixing bowl *
+Step 5:
+Previous scene: A mixing bowl with flour, shredded cheese, and crumbled bacon
+Action: Pour in 1 cup of milk and mix until a dough forms *
+Step 6:
+Previous scene: A mixing bowl with dough
+Action: Scoop tablespoon-sized portions of the dough and place them onto the lined baking sheet *
+Step 7:
+Previous scene: Baking sheet with dough portions
+Action: Bake in the preheated oven for 15-20 minutes or until golden brown *
+Step 8:
+Previous scene: Baked cheese and bacon puffs on the baking sheet
+Action: Remove from oven and let cool slightly before serving *

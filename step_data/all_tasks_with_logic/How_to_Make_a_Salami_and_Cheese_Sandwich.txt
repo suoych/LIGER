@@ -1,0 +1,19 @@
+5, 3*
+Step 1: 
+Previous scene: None
+Action: Lay two slices of bread on a clean surface *
+Step 2: 
+Previous scene: Two slices of bread
+Action: Spread mayo or mustard on one or both slices of bread *
+Step 3: 
+Previous scene: Two slices of bread with mayo or mustard
+Action: Place several slices of salami on one slice of bread *
+Step 4: 
+Previous scene: Bread with mayo or mustard and salami
+Action: Add cheese slices on top of the salami *
+Step 5: 
+Previous scene: Bread with mayo or mustard, salami, and cheese
+Action: Cover with the other slice of bread *
+Step 6: 
+Previous scene: Sandwich
+Action: Cut the sandwich in half and serve *

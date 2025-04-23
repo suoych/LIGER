@@ -1,0 +1,48 @@
+1, 5*
+Step 1:  
+Previous scene: None  
+Action: Preheat your oven to 400°F (200°C) *
+
+Step 2:  
+Previous scene: Oven  
+Action: Scrub and clean 2 large potatoes *
+
+Step 3:  
+Previous scene: Clean potatoes  
+Action: Pierce each potato several times with a fork *
+
+Step 4:  
+Previous scene: Potatoes with fork piercings  
+Action: Rub the potatoes with olive oil and sprinkle with salt *
+
+Step 5:  
+Previous scene: Oiled and salted potatoes  
+Action: Place the potatoes directly on the oven rack *
+
+Step 6:  
+Previous scene: Potatoes in the oven  
+Action: Bake for about 1 hour until tender *
+
+Step 7:  
+Previous scene: Baked potatoes  
+Action: Cook 4 slices of bacon until crispy *
+
+Step 8:  
+Previous scene: Crispy bacon  
+Action: Chop the cooked bacon into small pieces *
+
+Step 9:  
+Previous scene: Chopped bacon  
+Action: Combine chopped bacon with 2 tablespoons of coarse salt and 1 teaspoon of dried rosemary *
+
+Step 10:  
+Previous scene: Bacon rosemary salt mixture  
+Action: Remove potatoes from the oven *
+
+Step 11:  
+Previous scene: Baked potatoes  
+Action: Cut a slit in each potato and fluff the insides with a fork *
+
+Step 12:  
+Previous scene: Fluffed baked potatoes  
+Action: Sprinkle bacon and rosemary salt over the potatoes and serve *

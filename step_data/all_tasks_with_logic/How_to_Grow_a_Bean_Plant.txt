@@ -1,0 +1,25 @@
+4, 2*
+Step 1:
+Previous scene: None
+Action: Fill a pot with potting soil *
+Step 2:
+Previous scene: A pot with soil
+Action: Plant the bean seeds about 1 inch deep into the soil *
+Step 3:
+Previous scene: Soil with planted bean seeds
+Action: Cover the seeds with soil *
+Step 4:
+Previous scene: A pot with soil
+Action: Water the soil thoroughly until it's moist *
+Step 5:
+Previous scene: A pot with moist soil
+Action: Place the pot in a location with indirect sunlight *
+Step 6:
+Previous scene: A pot in a sunlit location
+Action: Monitor the soil moisture and water as necessary, keeping it consistently moist *
+Step 7:
+Previous scene: A pot with moist soil in indirect sunlight
+Action: Watch for germination; seedlings will appear in about 7-10 days *
+Step 8:
+Previous scene: Soil with seedlings
+Action: As the plants grow, stake the plant or provide support for the vines to climb *

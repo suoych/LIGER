@@ -1,0 +1,28 @@
+5, 1*
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, combine 1 can of pumpkin puree *
+
+Step 2:
+Previous scene: A bowl with pumpkin puree
+Action: Add 1 package of instant vanilla pudding mix *
+
+Step 3:
+Previous scene: A bowl with pumpkin puree and pudding mix
+Action: Pour in 1/2 teaspoon of pumpkin pie spice *
+
+Step 4:
+Previous scene: A bowl with pumpkin puree, pudding mix, and spice
+Action: Fold in 1 container of whipped topping *
+
+Step 5:
+Previous scene: A bowl with whipped topping mixed in 
+Action: Pour the mixture into a pre-made graham cracker crust *
+
+Step 6:
+Previous scene: A pie crust filled with pumpkin mixture
+Action: Refrigerate for at least 2 hours before serving *
+
+Step 7:
+Previous scene: A chilled pumpkin pie
+Action: Serve with additional whipped topping if desired *

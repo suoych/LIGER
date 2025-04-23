@@ -1,0 +1,24 @@
+1, 4*
+Step 1:  
+Previous scene: None  
+Action: Boil water in a pot and add udon noodles. Cook them until tender, then drain and set aside. *  
+
+Step 2:  
+Previous scene: A pot with cooked udon noodles  
+Action: Heat oil in a pan and add sliced onions, carrots, and bell peppers. Stir-fry until vegetables are softened. *  
+
+Step 3:  
+Previous scene: Pan with stir-fried onions, carrots, and bell peppers  
+Action: Add garlic and sliced mushrooms to the pan and continue to stir-fry. *  
+
+Step 4:  
+Previous scene: Pan with vegetables and mushrooms  
+Action: Add the cooked udon noodles to the pan and toss with the vegetables. *  
+
+Step 5:  
+Previous scene: Pan with udon noodles and vegetables  
+Action: Pour in soy sauce and mirin, then stir everything together until the noodles are evenly coated. *  
+
+Step 6:  
+Previous scene: Pan with udon noodles, vegetables, and sauce  
+Action: Serve the yaki udon hot and garnish with green onions or sesame seeds if desired. *  

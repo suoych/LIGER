@@ -1,0 +1,40 @@
+1, 3*
+Step 1: 
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2: 
+Previous scene: None
+Action: In a mixing bowl, combine 2 3/4 cups of all-purpose flour, 1 teaspoon of baking soda, and 1/2 teaspoon of baking powder *
+
+Step 3: 
+Previous scene: A bowl with dry ingredients (flour, baking soda, baking powder)
+Action: In another large bowl, cream together 1 cup of softened butter and 1 1/2 cups of white sugar until smooth *
+
+Step 4: 
+Previous scene: A bowl with creamed butter and sugar
+Action: Beat in 1 egg and 1 teaspoon of vanilla extract into the butter and sugar mixture *
+
+Step 5: 
+Previous scene: A bowl with creamed butter, sugar, egg, and vanilla
+Action: Gradually blend in the dry ingredients from the first bowl *
+
+Step 6: 
+Previous scene: A bowl with mixed wet and dry ingredients (cookie dough)
+Action: Roll the dough into balls and place them on a prepared baking sheet *
+
+Step 7: 
+Previous scene: Baking sheet with dough balls
+Action: Press the dough balls flat and shape them into Christmas trees using a cookie cutter *
+
+Step 8: 
+Previous scene: Baking sheet with Christmas tree shaped dough
+Action: Bake in the preheated oven for 8 to 10 minutes, or until golden *
+
+Step 9: 
+Previous scene: Christmas tree cookies in the oven
+Action: Allow the cookies to cool on the baking sheet for 2 minutes before transferring them to wire racks to cool completely *
+
+Step 10: 
+Previous scene: Wire rack with cooling cookies
+Action: Decorate the cooled cookies with your favorite icing and sprinkles *

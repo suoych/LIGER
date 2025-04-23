@@ -1,0 +1,40 @@
+3,8 *
+Step 1:  
+Previous scene: None  
+Action: Gather ingredients including pork cutlet, eggs, flour, panko breadcrumbs, soy sauce, and onions. *
+
+Step 2:  
+Previous scene: Ingredients including pork cutlet, eggs, flour, panko breadcrumbs, soy sauce, and onions  
+Action: Season the pork cutlet with salt and pepper. *
+
+Step 3:  
+Previous scene: Seasoned pork cutlet  
+Action: Dredge the pork cutlet in flour, dip it in beaten eggs, then coat it with panko breadcrumbs. *
+
+Step 4:  
+Previous scene: Breaded pork cutlet  
+Action: Heat oil in a skillet and fry the breaded pork cutlet until golden brown. *
+
+Step 5:  
+Previous scene: Fried pork cutlet  
+Action: Slice the fried pork cutlet into strips. *
+
+Step 6:  
+Previous scene: Sliced fried pork cutlet  
+Action: In a saucepan, combine soy sauce, dashi stock, and sugar, and bring to a simmer. *
+
+Step 7:  
+Previous scene: Soy sauce mixture in saucepan  
+Action: Add sliced onions to the saucepan and simmer until they are tender. *
+
+Step 8:  
+Previous scene: Onion simmering in soy sauce mixture  
+Action: Place the sliced pork cutlet into the pan with onions. *
+
+Step 9:  
+Previous scene: Pork cutlet and onions in soy sauce mixture  
+Action: Pour beaten eggs over the pork and onions, and cover until the eggs are cooked. *
+
+Step 10:  
+Previous scene: Eggs cooking over pork cutlet and onions  
+Action: Serve the pork cutlet and egg mixture over a bowl of hot rice. *

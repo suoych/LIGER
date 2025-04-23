@@ -1,0 +1,48 @@
+2, 7*
+Step 1:
+Previous scene: None
+Action: Season chicken breasts with salt and pepper *
+
+Step 2:
+Previous scene: Seasoned chicken breasts
+Action: Dredge the chicken breasts in flour, shaking off excess flour *
+
+Step 3:
+Previous scene: Flour-coated chicken breasts
+Action: In a large skillet, heat olive oil over medium-high heat *
+
+Step 4:
+Previous scene: A skillet with hot oil
+Action: Add the chicken breasts and cook until golden brown on both sides, about 3-4 minutes per side *
+
+Step 5:
+Previous scene: Cooked chicken breasts in the skillet
+Action: Remove the chicken breasts from the skillet and set aside *
+
+Step 6:
+Previous scene: An empty skillet with remaining oil
+Action: In the same skillet, add minced garlic and cook for about 30 seconds *
+
+Step 7:
+Previous scene: Skillet with garlic
+Action: Pour in chicken broth and lemon juice, scrapping up any browned bits from the bottom of the skillet *
+
+Step 8:
+Previous scene: Skillet with garlic, broth, and lemon juice
+Action: Add capers and bring the sauce to a boil *
+
+Step 9:
+Previous scene: Boiling sauce with capers
+Action: Reduce the heat and let the sauce simmer for about 5 minutes *
+
+Step 10:
+Previous scene: Simmering sauce
+Action: Return the cooked chicken breasts to the skillet and simmer for another 5 minutes, until the chicken is heated through *
+
+Step 11:
+Previous scene: Chicken breasts in sauce
+Action: Transfer the chicken to plates and spoon the sauce over the top *
+
+Step 12:
+Previous scene: Plated chicken with sauce
+Action: Garnish with chopped parsley and serve immediately *

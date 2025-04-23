@@ -1,0 +1,43 @@
+8,2 *
+Step 1:
+Previous scene: None
+Action: Combine 1 cup of sourdough starter, 1 1/2 cups of warm water, and 4 cups of flour in a mixing bowl *
+Step 2:
+Previous scene: A mixing bowl with sourdough starter, water, and flour mixture
+Action: Mix the ingredients until a sticky dough forms *
+Step 3:
+Previous scene: Mixing bowl with sticky dough
+Action: Let the dough rest for 30 minutes *
+Step 4:
+Previous scene: Rested dough in a mixing bowl
+Action: Add 2 teaspoons of salt and mix until fully incorporated *
+Step 5:
+Previous scene: Mixing bowl with dough and salt
+Action: Knead the dough on a lightly floured surface for about 10 minutes *
+Step 6:
+Previous scene: Kneaded dough
+Action: Shape the dough into a ball and place it in a lightly oiled bowl *
+Step 7:
+Previous scene: Bowl with shaped dough
+Action: Cover the bowl with a damp cloth and let it rise for 4-12 hours at room temperature *
+Step 8:
+Previous scene: Bowl with risen dough
+Action: Preheat the oven to 450°F (230°C) with a Dutch oven inside *
+Step 9:
+Previous scene: None
+Action: Carefully transfer the dough to a piece of parchment paper *
+Step 10:
+Previous scene: Dough on parchment paper
+Action: Score the top of the dough with a razor or sharp knife *
+Step 11:
+Previous scene: Scored dough on parchment paper
+Action: Place the dough with the parchment paper into the preheated Dutch oven *
+Step 12:
+Previous scene: Dough in Dutch oven
+Action: Cover and bake for 20 minutes *
+Step 13:
+Previous scene: Dutch oven with bread baking
+Action: Remove the lid and bake for an additional 25-30 minutes until the crust is deep golden brown *
+Step 14:
+Previous scene: Dutch oven with baked bread
+Action: Remove the bread from the Dutch oven and let it cool on a wire rack *

@@ -1,0 +1,44 @@
+2,9 *
+Step 1:
+Previous scene: None
+Action: Cook 1 cup of rice in a rice cooker or pot *
+
+Step 2:
+Previous scene: Cooked rice
+Action: Heat a tablespoon of oil in a large frying pan or wok over medium heat *
+
+Step 3:
+Previous scene: Heated oil in a frying pan or wok
+Action: Add diced onions and cook until translucent *
+
+Step 4:
+Previous scene: Fried onions
+Action: Add mixed vegetables such as peas, carrots, and corn *
+
+Step 5:
+Previous scene: Sautéed vegetables and onions
+Action: Push the vegetables to one side of the pan and crack two eggs into the empty side *
+
+Step 6:
+Previous scene: Vegetables and eggs in the pan
+Action: Scramble the eggs until fully cooked *
+
+Step 7:
+Previous scene: Scrambled eggs and vegetables in the pan
+Action: Mix the eggs with the vegetables *
+
+Step 8:
+Previous scene: Mixed eggs and vegetables
+Action: Add the cooked rice to the pan *
+
+Step 9:
+Previous scene: Rice mixed with vegetables and eggs
+Action: Stir in soy sauce and season with salt and pepper to taste *
+
+Step 10:
+Previous scene: Rice seasoned with soy sauce, salt, and pepper
+Action: Cook for another few minutes, stirring occasionally, until everything is well-mixed and heated through *
+
+Step 11:
+Previous scene: Heated and mixed egg fried rice
+Action: Serve the egg fried rice hot with optional garnishes like chopped green onions or sesame seeds *

@@ -1,0 +1,46 @@
+11,6 *
+Step 1: 
+Previous scene: None
+Action: In a food processor, combine 1 cup of dried chickpeas that have been soaked overnight *
+Step 2: 
+Previous scene: A food processor with chickpeas 
+Action: Add 1 chopped onion to the food processor *
+Step 3: 
+Previous scene: A food processor with chickpeas and onion 
+Action: Add 2 cloves of garlic *
+Step 4: 
+Previous scene: A food processor with chickpeas, onion, and garlic
+Action: Add 1 tablespoon of ground cumin *
+Step 5: 
+Previous scene: A food processor with chickpeas, onion, garlic, and cumin
+Action: Add 1 tablespoon of ground coriander *
+Step 6: 
+Previous scene: A food processor with chickpeas, onion, garlic, cumin, and coriander
+Action: Add 1 teaspoon of baking powder *
+Step 7: 
+Previous scene: A food processor with chickpeas, onion, garlic, cumin, coriander, and baking powder
+Action: Add 1 teaspoon of salt *
+Step 8: 
+Previous scene: A food processor with chickpeas, onion, garlic, cumin, coriander, baking powder, and salt
+Action: Add 1/4 cup of chopped fresh parsley *
+Step 9: 
+Previous scene: A food processor with chickpeas, onion, garlic, cumin, coriander, baking powder, salt, and parsley
+Action: Process the mixture until it forms a coarse paste *
+Step 10: 
+Previous scene: A food processor with processed falafel mixture
+Action: Transfer the mixture to a bowl and refrigerate for 30 minutes *
+Step 11: 
+Previous scene: A bowl with falafel mixture
+Action: Form the mixture into small balls or patties *
+Step 12: 
+Previous scene: Formed falafel balls or patties
+Action: Heat oil in a deep fryer or skillet to 350°F (175°C) *
+Step 13: 
+Previous scene: Hot oil in a deep fryer or skillet
+Action: Fry the falafel balls or patties until they are golden brown *
+Step 14: 
+Previous scene: Frying falafel in a deep fryer or skillet
+Action: Remove the falafel and drain on paper towels *
+Step 15: 
+Previous scene: Draining falafel on paper towels
+Action: Serve the falafel hot with pita bread and tahini sauce *

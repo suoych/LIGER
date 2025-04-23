@@ -1,0 +1,40 @@
+1, 6*
+Step 1:
+Previous scene: None
+Action: Preheat oven to 475°F (245°C) *
+
+Step 2:
+Previous scene: None
+Action: Roll out your pizza dough into a large circle on a floured surface *
+
+Step 3:
+Previous scene: Rolled out pizza dough
+Action: Use a knife to carefully shape the dough into a heart *
+
+Step 4:
+Previous scene: Heart-shaped pizza dough
+Action: Transfer the dough to a pizza stone or baking sheet *
+
+Step 5:
+Previous scene: Heart-shaped pizza dough on a baking sheet
+Action: Spread pizza sauce evenly over the dough *
+
+Step 6:
+Previous scene: Heart-shaped pizza dough with sauce
+Action: Sprinkle shredded mozzarella cheese over the sauce *
+
+Step 7:
+Previous scene: Heart-shaped pizza dough with sauce and cheese
+Action: Add your favorite toppings *
+
+Step 8:
+Previous scene: Heart-shaped pizza with toppings
+Action: Bake in the preheated oven for about 12-15 minutes *
+
+Step 9:
+Previous scene: Heart-shaped pizza in the oven
+Action: Remove from oven when cheese is melted and crust is golden brown *
+
+Step 10:
+Previous scene: Baked heart-shaped pizza
+Action: Let the pizza cool for a few minutes, then slice and serve *

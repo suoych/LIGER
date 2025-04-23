@@ -1,0 +1,37 @@
+1, 7*
+Step 1: 
+Previous scene: None
+Action: Cut 200 grams of paneer into bite-sized cubes *
+Step 2: 
+Previous scene: A bowl with paneer cubes
+Action: In a bowl, mix 2 tbsp of cornflour with water to form a batter *
+Step 3: 
+Previous scene: A bowl with cornflour batter 
+Action: Dip the paneer cubes into the batter and coat them well *
+Step 4: 
+Previous scene: Paneer cubes dipped in batter
+Action: Heat 2 tbsp of oil in a pan on medium heat *
+Step 5: 
+Previous scene: A pan with hot oil
+Action: Fry the coated paneer cubes until golden brown and then remove them *
+Step 6: 
+Previous scene: Fried paneer cubes
+Action: In the same pan, add 1 tbsp of minced garlic and sauté *
+Step 7: 
+Previous scene: Sautéed garlic in a pan
+Action: Add 1 chopped onion and 1 sliced bell pepper to the pan and sauté *
+Step 8: 
+Previous scene: Sautéed garlic, onion, and bell pepper
+Action: Add 1 tbsp of soy sauce, 1 tbsp of ketchup, and 1 tsp of vinegar to the pan *
+Step 9: 
+Previous scene: A pan with sautéed veggies and sauces
+Action: Mix well and cook for 2-3 minutes *
+Step 10: 
+Previous scene: Veggies mixed with sauces
+Action: Add the fried paneer cubes back to the pan *
+Step 11: 
+Previous scene: Fried paneer added to the pan
+Action: Toss everything together until the paneer is well coated with the sauce *
+Step 12: 
+Previous scene: Tossed chili paneer in the pan
+Action: Garnish with chopped spring onions and serve hot *

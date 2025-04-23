@@ -1,0 +1,31 @@
+3,4 *
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, cream together 1 cup of softened butter and 1 cup of sugar until light and fluffy *
+Step 2:
+Previous scene: A bowl with creamed butter and sugar
+Action: Beat in 1 large egg and 1 teaspoon of vanilla extract until well combined *
+Step 3:
+Previous scene: A bowl with creamed butter, sugar, egg, and vanilla
+Action: Gradually add 2 cups of all-purpose flour and 1/2 teaspoon of baking powder, mixing until a dough forms *
+Step 4:
+Previous scene: A bowl with cookie dough
+Action: Divide the dough into two equal parts *
+Step 5:
+Previous scene: Two portions of cookie dough
+Action: Add 2 tablespoons of cocoa powder to one portion and mix until fully incorporated *
+Step 6:
+Previous scene: One portion of plain dough and one portion of cocoa dough
+Action: Roll small pieces of each dough into balls and then flatten slightly *
+Step 7:
+Previous scene: Flattened portions of plain and cocoa dough
+Action: Press the different dough pieces together, alternating between plain and cocoa, to form a striped pattern *
+Step 8:
+Previous scene: Striped cookie dough
+Action: Shape the combined dough into a rounded cookie form on a baking sheet *
+Step 9:
+Previous scene: Shaped zebra stripe cookies on a baking sheet
+Action: Preheat the oven to 350°F (175°C) and bake the cookies for about 10-12 minutes, or until edges are lightly golden *
+Step 10:
+Previous scene: Baked zebra stripe cookies on a baking sheet
+Action: Remove from oven and let the cookies cool on a wire rack *

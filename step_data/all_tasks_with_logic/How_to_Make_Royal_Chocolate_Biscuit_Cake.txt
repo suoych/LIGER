@@ -1,0 +1,34 @@
+7,5 *
+Step 1:
+Previous scene: None
+Action: Crush 300 grams of digestive biscuits into small pieces *
+Step 2:
+Previous scene: A bowl with crushed biscuits
+Action: Melt 200 grams of dark chocolate in a bowl over simmering water *
+Step 3:
+Previous scene: A bowl with melted dark chocolate
+Action: Add 100 grams of unsalted butter to the melted chocolate *
+Step 4:
+Previous scene: A bowl with melted chocolate and butter
+Action: Stir until the butter is fully melted and combined with the chocolate *
+Step 5:
+Previous scene: A bowl with melted chocolate and butter mixture
+Action: Add 150 grams of golden syrup to the chocolate and butter mixture *
+Step 6:
+Previous scene: A bowl with chocolate, butter, and golden syrup mixture
+Action: Remove the bowl from the heat and let it cool slightly *
+Step 7:
+Previous scene: A bowl with slightly cooled chocolate mixture
+Action: Add the crushed biscuits to the chocolate mixture and stir until well combined *
+Step 8:
+Previous scene: A bowl with chocolate-coated biscuit mixture
+Action: Line a rectangular cake tin with parchment paper *
+Step 9:
+Previous scene: An empty parchment-lined cake tin
+Action: Pour the chocolate and biscuit mixture into the cake tin and press it down firmly *
+Step 10:
+Previous scene: A cake tin with pressed chocolate biscuit mixture
+Action: Refrigerate the cake for at least 4 hours or until set *
+Step 11:
+Previous scene: A set chocolate biscuit cake in the tin
+Action: Remove the cake from the tin and peel off the parchment paper before serving *

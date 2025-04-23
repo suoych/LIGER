@@ -1,0 +1,22 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: Gather your ingredients - Nutella, milk, and popsicle molds *
+Step 2:
+Previous scene: Ingredients - Nutella, milk, and popsicle molds
+Action: In a mixing bowl, combine 1 cup of milk and 1/3 cup of Nutella *
+Step 3:
+Previous scene: Milk and Nutella in a bowl
+Action: Whisk the mixture until smooth and fully combined *
+Step 4:
+Previous scene: Smooth Nutella-milk mixture in a bowl
+Action: Pour the mixture into popsicle molds *
+Step 5:
+Previous scene: Popsicle molds filled with Nutella mixture
+Action: Insert popsicle sticks into the molds *
+Step 6:
+Previous scene: Popsicle molds with sticks inserted
+Action: Place the molds in the freezer for at least 4-6 hours, or until fully frozen *
+Step 7:
+Previous scene: Popsicle molds in the freezer
+Action: Remove the popsicles from the molds and enjoy *

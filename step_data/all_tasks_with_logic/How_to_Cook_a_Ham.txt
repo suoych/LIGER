@@ -1,0 +1,28 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 325°F (165°C) *
+Step 2:
+Previous scene: None
+Action: Place the ham, fat side up, on a rack in a shallow roasting pan *
+Step 3:
+Previous scene: A roasting pan with a ham
+Action: Score the surface of the ham in a diamond pattern *
+Step 4:
+Previous scene: A ham with a diamond pattern
+Action: Insert whole cloves at the intersections of the scores *
+Step 5:
+Previous scene: A ham studded with cloves
+Action: Pour a glaze over the ham *
+Step 6:
+Previous scene: A glazed ham
+Action: Cover the ham loosely with aluminum foil *
+Step 7:
+Previous scene: A covered ham
+Action: Bake the ham for about 15 minutes per pound, or until a meat thermometer reaches 140°F (60°C) when inserted into the thickest part *
+Step 8:
+Previous scene: A baked ham
+Action: Remove the foil during the last 30 minutes of cooking to let the ham brown *
+Step 9:
+Previous scene: A browned ham
+Action: Let the ham rest for about 15 minutes before slicing *

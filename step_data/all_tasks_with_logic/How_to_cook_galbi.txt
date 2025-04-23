@@ -1,0 +1,34 @@
+8, 2*
+Step 1:
+Previous scene: None
+Action: In a mixing bowl, combine 1/2 cup soy sauce *
+Step 2:
+Previous scene: A bowl with soy sauce
+Action: Add 1/4 cup sesame oil *
+Step 3:
+Previous scene: A bowl with soy sauce and sesame oil
+Action: Stir in 1/4 cup sugar *
+Step 4:
+Previous scene: A bowl with soy sauce, sesame oil, and sugar
+Action: Add 1/4 cup chopped garlic *
+Step 5:
+Previous scene: A bowl with soy sauce, sesame oil, sugar, and garlic
+Action: Add 1/4 cup chopped green onions *
+Step 6:
+Previous scene: A bowl with soy sauce, sesame oil, sugar, garlic, and green onions
+Action: Stir in 1/4 cup rice wine *
+Step 7:
+Previous scene: A bowl with soy sauce, sesame oil, sugar, garlic, green onions, and rice wine
+Action: Add 1/4 cup pear puree *
+Step 8:
+Previous scene: A bowl with soy sauce, sesame oil, sugar, garlic, green onions, rice wine, and pear puree
+Action: Marinate 2 lbs of beef short ribs in the mixture for at least 4 hours *
+Step 9:
+Previous scene: Beef short ribs marinating in mixture
+Action: Preheat grill to medium-high heat *
+Step 10:
+Previous scene: Preheated grill
+Action: Grill the marinated beef short ribs for about 5-7 minutes on each side or until cooked through *
+Step 11:
+Previous scene: Beef short ribs on grill
+Action: Serve the galbi hot with side dishes like rice and kimchi *

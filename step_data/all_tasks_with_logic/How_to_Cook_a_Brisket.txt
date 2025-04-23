@@ -1,0 +1,48 @@
+1, 6*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 300°F (150°C) *
+
+Step 2:
+Previous scene: A preheated oven
+Action: Trim any excess fat from the brisket *
+
+Step 3:
+Previous scene: A trimmed brisket
+Action: Season the brisket generously with salt and pepper *
+
+Step 4:
+Previous scene: Seasoned brisket 
+Action: Heat a large skillet over medium-high heat *
+
+Step 5:
+Previous scene: A heated skillet
+Action: Sear the brisket in the skillet until browned on all sides *
+
+Step 6:
+Previous scene: Searing brisket
+Action: Place the browned brisket into a large roasting pan *
+
+Step 7:
+Previous scene: Brisket in a roasting pan
+Action: Add sliced onions and minced garlic to the pan *
+
+Step 8:
+Previous scene: Brisket with onions and garlic
+Action: Pour 2 cups of beef broth into the pan *
+
+Step 9:
+Previous scene: Brisket, onions, garlic, and broth in pan
+Action: Cover the roasting pan tightly with aluminum foil *
+
+Step 10:
+Previous scene: Covered roasting pan
+Action: Place the pan in the preheated oven *
+
+Step 11:
+Previous scene: Roasting pan in the oven
+Action: Cook for about 3-4 hours, or until the brisket is tender *
+
+Step 12:
+Previous scene: Cooking brisket in oven
+Action: Remove the brisket from the oven and let it rest for 15 minutes before slicing *

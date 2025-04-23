@@ -1,0 +1,28 @@
+6, 2*
+Step 1: 
+Previous scene: None
+Action: Finely chop 1/2 pound of shrimp and 1/2 pound of ground pork *
+Step 2: 
+Previous scene: Chopped shrimp and ground pork
+Action: In a mixing bowl, combine the chopped shrimp and ground pork *
+Step 3: 
+Previous scene: A bowl with chopped shrimp and ground pork
+Action: Add 2 tablespoons of soy sauce, 1 tablespoon of oyster sauce, 1 tablespoon of sesame oil, 1 tablespoon of cornstarch, 1/2 tablespoon of finely chopped ginger, and 1/2 tablespoon of sugar to the mixture *
+Step 4: 
+Previous scene: A bowl with shrimp, pork, and seasonings
+Action: Mix all ingredients until well combined *
+Step 5: 
+Previous scene: Mixed shrimp and pork filling
+Action: Take a wonton wrapper and place 1 tablespoon of filling in the center *
+Step 6: 
+Previous scene: Wonton wrapper with filling
+Action: Gather the edges of the wonton wrapper and press gently to form an open-top dumpling *
+Step 7: 
+Previous scene: Formed shumai dumplings
+Action: Place the dumplings in a steamer basket lined with parchment paper *
+Step 8: 
+Previous scene: Steamer basket with dumplings
+Action: Steam the dumplings for 10-12 minutes or until the filling is cooked through *
+Step 9: 
+Previous scene: Steamed shumai dumplings
+Action: Serve hot with soy sauce or your favorite dipping sauce *

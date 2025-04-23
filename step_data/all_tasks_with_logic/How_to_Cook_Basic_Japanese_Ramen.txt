@@ -1,0 +1,32 @@
+7, 5*
+Step 1:
+Previous scene: None
+Action: Boil 4 cups of water in a large pot *
+
+Step 2:
+Previous scene: Boiling water in a pot
+Action: Add dried ramen noodles and cook for 3-4 minutes * 
+
+Step 3:
+Previous scene: Pot with cooked ramen noodles
+Action: Drain the noodles and set aside *
+
+Step 4:
+Previous scene: Drained ramen noodles in a bowl
+Action: In the same pot, add 4 cups of chicken or vegetable broth and bring to a simmer *
+
+Step 5:
+Previous scene: Pot with simmering broth
+Action: Add 1 tablespoon of soy sauce and 1 teaspoon of miso paste, and stir well *
+
+Step 6:
+Previous scene: Pot with seasoned broth
+Action: Add the noodles back into the pot *
+
+Step 7:
+Previous scene: Pot with noodles and broth
+Action: Cook for another 2 minutes *
+
+Step 8:
+Previous scene: Pot with cooked noodles and broth
+Action: Serve the ramen in bowls, topping with sliced green onions, soft-boiled eggs, nori, or other desired toppings *

@@ -1,0 +1,19 @@
+2, 4*
+Step 1:
+Previous scene: None
+Action: Wash and trim the asparagus spears *
+Step 2:
+Previous scene: Clean asparagus spears
+Action: Take a slice of bacon and wrap it tightly around an asparagus spear *
+Step 3:
+Previous scene: Asparagus wrapped in bacon
+Action: Preheat the grill to medium heat *
+Step 4:
+Previous scene: Asparagus wrapped in bacon
+Action: Place the bacon-wrapped asparagus on the grill *
+Step 5:
+Previous scene: Bacon-wrapped asparagus on the grill
+Action: Grill for about 10-15 minutes, turning occasionally until the bacon is crispy *
+Step 6:
+Previous scene: Bacon-wrapped asparagus on the grill
+Action: Remove from the grill and serve immediately *

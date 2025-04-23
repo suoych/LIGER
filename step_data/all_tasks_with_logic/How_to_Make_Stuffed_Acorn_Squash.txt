@@ -1,0 +1,44 @@
+4,9 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 400°F (200°C) *
+
+Step 2:
+Previous scene: Oven
+Action: Cut the acorn squash in half and scoop out the seeds *
+
+Step 3:
+Previous scene: Acorn squash halves
+Action: Place the squash halves, cut side up, on a baking sheet *
+
+Step 4:
+Previous scene: Squash halves on a baking sheet
+Action: Drizzle the squash halves with olive oil and season with salt and pepper *
+
+Step 5:
+Previous scene: Seasoned squash halves on a baking sheet
+Action: Roast the squash in the oven for about 40-50 minutes until tender *
+
+Step 6:
+Previous scene: Roasted squash halves on a baking sheet
+Action: In a skillet, cook sausage until browned *
+
+Step 7:
+Previous scene: A skillet with browned sausage
+Action: Add chopped onions, celery, and apple to the skillet and cook until tender *
+
+Step 8:
+Previous scene: Skillet with sausage, onions, celery, and apple
+Action: Stir in cooked quinoa and season with herbs and spices *
+
+Step 9:
+Previous scene: Skillet with quinoa mixture
+Action: Fill each roasted squash half with the quinoa and sausage mixture *
+
+Step 10:
+Previous scene: Stuffed squash halves on a baking sheet
+Action: Return the stuffed squash to the oven and bake for an additional 10 minutes *
+
+Step 11:
+Previous scene: Baked stuffed squash halves
+Action: Remove from oven and serve hot *

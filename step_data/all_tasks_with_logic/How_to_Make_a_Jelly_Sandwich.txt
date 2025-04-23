@@ -1,0 +1,19 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: Take two slices of bread and place them on a clean surface *
+Step 2:
+Previous scene: Two slices of bread
+Action: Open a jar of jelly *
+Step 3:
+Previous scene: Two slices of bread and an open jar of jelly
+Action: Use a butter knife to scoop out a good amount of jelly from the jar *
+Step 4:
+Previous scene: Two slices of bread, an open jar of jelly, and a butter knife with jelly
+Action: Spread the jelly evenly on one slice of bread *
+Step 5:
+Previous scene: One slice of bread with jelly spread on it and another plain slice of bread
+Action: Place the other slice of bread on top of the jelly-covered slice *
+Step 6:
+Previous scene: A closed jelly sandwich
+Action: Cut the sandwich in half if desired and serve *

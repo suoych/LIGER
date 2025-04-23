@@ -1,0 +1,36 @@
+3,6 *
+Step 1:
+Previous scene: None
+Action: In a small saucepan, combine 2 tablespoons of cocoa powder *
+
+Step 2:
+Previous scene: A saucepan with cocoa powder
+Action: Add 2 tablespoons of sugar to the saucepan *
+
+Step 3:
+Previous scene: A saucepan with cocoa powder and sugar
+Action: Pour in a pinch of salt *
+
+Step 4:
+Previous scene: A saucepan with dry ingredients
+Action: Gradually whisk in 1 cup of milk *
+
+Step 5:
+Previous scene: A saucepan with milk and dry ingredients
+Action: Place the saucepan on medium heat *
+
+Step 6:
+Previous scene: A saucepan on the stove
+Action: Stir constantly until the mixture is heated to your desired temperature *
+
+Step 7:
+Previous scene: A saucepan with hot chocolate mixture
+Action: Remove from heat and stir in 1/2 teaspoon of vanilla extract *
+
+Step 8:
+Previous scene: A saucepan with completed hot chocolate
+Action: Pour the hot chocolate into a mug *
+
+Step 9:
+Previous scene: A mug filled with hot chocolate
+Action: Top with whipped cream or marshmallows if desired *

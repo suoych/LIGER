@@ -1,0 +1,39 @@
+Step 1:
+Image Description: A pot is being filled with 4 cups of water, preparing to cook the chicken and vegetables for the soup.
+Action: Fill a pot with 4 cups of water. *
+
+Step 2:
+Image Description: Two raw chicken breasts are placed into the pot of water, fully submerged.
+Action: Add 2 chicken breasts to the pot. *
+
+Step 3:
+Image Description: The pot is brought to a boil on the stove, and then the heat is reduced to a simmer, with small bubbles gently rising in the water.
+Action: Bring the pot to a boil, then reduce the heat to a simmer. *
+
+Step 4:
+Image Description: Chopped onions, carrots, and celery are added to the simmering pot, surrounding the chicken breasts and starting to cook.
+Action: Add 1 chopped onion, 2 chopped carrots, and 2 chopped celery stalks to the pot. *
+
+Step 5:
+Image Description: The pot is simmering, with the vegetables softening and the chicken fully cooking through.
+Action: Simmer for 30 minutes until the vegetables are tender and the chicken is cooked through. *
+
+Step 6:
+Image Description: The cooked chicken breasts are removed from the pot and shredded into small pieces with a fork.
+Action: Remove the chicken breasts and shred them with a fork. *
+
+Step 7:
+Image Description: The shredded chicken is added back into the pot with the broth and vegetables, mixing it into the soup.
+Action: Return the shredded chicken to the pot. *
+
+Step 8:
+Image Description: The soup is seasoned with salt, pepper, and dried thyme, giving it a rich, aromatic flavor.
+Action: Season with salt, pepper, and 1 teaspoon of dried thyme. *
+
+Step 9:
+Image Description: The pot simmers for an additional 10 minutes, allowing the flavors to meld and the soup to reach its full flavor.
+Action: Let the soup simmer for an additional 10 minutes. *
+
+Step 10:
+Image Description: The hot chicken soup is served in a bowl, optionally garnished with chopped parsley.
+Action: Serve hot, garnished with chopped parsley if desired. *

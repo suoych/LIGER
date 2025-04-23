@@ -1,0 +1,31 @@
+4, 1*
+Step 1: 
+Previous scene: None
+Action: Lay two slices of bread on a plate *
+Step 2: 
+Previous scene: Two slices of bread on a plate
+Action: Butter one side of each slice of bread *
+Step 3: 
+Previous scene: Two slices of bread with one side buttered on each
+Action: Place a slice of cheese on the unbuttered side of one slice of bread *
+Step 4: 
+Previous scene: One slice of bread with cheese on it, one plain slice of buttered bread
+Action: Cover the cheese with the other slice of bread, buttered side facing out * 
+Step 5: 
+Previous scene: Sandwich with buttered sides facing out
+Action: Preheat a skillet over medium heat *
+Step 6: 
+Previous scene: Preheated skillet
+Action: Place the sandwich in the skillet *
+Step 7: 
+Previous scene: Sandwich in skillet
+Action: Cook until golden brown and the cheese is melted, about 2-3 minutes per side *
+Step 8: 
+Previous scene: Sandwich in skillet, one side golden brown
+Action: Flip the sandwich and cook the other side until golden brown *
+Step 9: 
+Previous scene: Sandwich fully cooked and browned on both sides in skillet
+Action: Remove the sandwich from the skillet *
+Step 10: 
+Previous scene: Cooked sandwich on a plate
+Action: Let the sandwich cool for a minute, then cut it in half and serve *

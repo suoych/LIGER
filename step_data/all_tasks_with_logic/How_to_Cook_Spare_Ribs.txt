@@ -1,0 +1,40 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 275°F (135°C) *
+
+Step 2:
+Previous scene: Oven at 275°F
+Action: Season the spare ribs with salt and pepper on both sides *
+
+Step 3:
+Previous scene: Raw spare ribs seasoned with salt and pepper
+Action: Apply a generous amount of your favorite barbecue sauce to the ribs *
+
+Step 4:
+Previous scene: Seasoned ribs with barbecue sauce
+Action: Wrap the ribs tightly in aluminum foil *
+
+Step 5:
+Previous scene: Ribs wrapped in aluminum foil
+Action: Place the wrapped ribs on a baking sheet *
+
+Step 6:
+Previous scene: Wrapped ribs on a baking sheet
+Action: Bake in the preheated oven for 2.5 to 3 hours *
+
+Step 7:
+Previous scene: Ribs baked in aluminum foil
+Action: Carefully remove the ribs from the oven and unwrap *
+
+Step 8:
+Previous scene: Unwrapped ribs
+Action: Brush more barbecue sauce onto the ribs *
+
+Step 9:
+Previous scene: Ribs with barbecue sauce
+Action: Place the ribs under the broiler for 5-10 minutes until the sauce is caramelized *
+
+Step 10:
+Previous scene: Caramelized ribs
+Action: Let the ribs rest for a few minutes before serving *

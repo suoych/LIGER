@@ -1,0 +1,41 @@
+1,3 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350 degrees Fahrenheit *
+
+Step 2:
+Previous scene: An oven preheated to 350 degrees Fahrenheit
+Action: In a large bowl, combine 1 cup of peanut butter *
+
+Step 3:
+Previous scene: A bowl with peanut butter
+Action: Add 1/2 cup of honey to the peanut butter *
+
+Step 4:
+Previous scene: A bowl with peanut butter and honey mixture
+Action: Crack 1 egg into the mixture *
+
+Step 5:
+Previous scene: A bowl with peanut butter, honey, and egg mixture
+Action: Mix the ingredients until well combined *
+
+Step 6:
+Previous scene: Mixed dough in a bowl
+Action: Scoop tablespoon-sized portions of dough and place them on a baking sheet *
+
+Step 7:
+Previous scene: Portions of dough on a baking sheet
+Action: Press each dough portion with a fork to create a crisscross pattern *
+
+Step 8:
+Previous scene: Dough portions with crisscross patterns on a baking sheet
+Action: Bake in the preheated oven for 10-12 minutes *
+
+Step 9:
+Previous scene: Cookies baking in the oven
+Action: Allow the cookies to cool on the baking sheet for a few minutes *
+
+Step 10:
+Previous scene: Cookies cooling on the baking sheet
+Action: Transfer cookies to a wire rack to cool completely *
+

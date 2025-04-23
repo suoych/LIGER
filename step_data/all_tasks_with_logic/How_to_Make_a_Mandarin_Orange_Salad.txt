@@ -1,0 +1,32 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, add 4 cups of mixed greens (such as romaine and spinach) *
+
+Step 2:
+Previous scene: A large mixing bowl containing mixed greens
+Action: Add 1 cup of drained mandarin orange segments to the bowl *
+
+Step 3:
+Previous scene: A large mixing bowl containing mixed greens and mandarin oranges
+Action: Thinly slice ¼ cup of red onions and add them to the bowl *
+
+Step 4:
+Previous scene: A large mixing bowl containing mixed greens, mandarin oranges, and red onions
+Action: Add ½ cup of sliced almonds to the mixture *
+
+Step 5:
+Previous scene: A large mixing bowl containing mixed greens, mandarin oranges, red onions, and almonds
+Action: Add ½ cup of dried cranberries to the mix *
+
+Step 6:
+Previous scene: A large mixing bowl containing mixed greens, mandarin oranges, red onions, almonds, and cranberries
+Action: In a small bowl, whisk together ¼ cup of olive oil, 2 tablespoons of balsamic vinegar, 1 tablespoon of honey, and salt and pepper to taste *
+
+Step 7:
+Previous scene: A small bowl with a dressing mixture
+Action: Drizzle the dressing over the salad and toss well *
+
+Step 8:
+Previous scene: A large mixing bowl containing dressed salad
+Action: Serve immediately and enjoy *

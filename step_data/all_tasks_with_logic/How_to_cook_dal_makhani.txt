@@ -1,0 +1,41 @@
+3, 5*
+Step 1:
+Previous scene: None
+Action: Rinse 1 cup of whole black lentils (urad dal) and 1/4 cup of kidney beans (rajma), and soak them in water overnight *
+
+Step 2:
+Previous scene: Bowl with soaked black lentils and kidney beans
+Action: Drain the water and transfer the soaked lentils and beans to a pressure cooker *
+
+Step 3:
+Previous scene: Pressure cooker with lentils and beans
+Action: Add 4 cups of water, salt, and a pinch of turmeric, then pressure cook until they are soft *
+
+Step 4:
+Previous scene: Soft cooked lentils and beans in the pressure cooker
+Action: In a separate pan, heat ghee or oil and add chopped onions *
+
+Step 5:
+Previous scene: Pan with cooked onions
+Action: Add ginger-garlic paste and sauté until the raw smell disappears *
+
+Step 6:
+Previous scene: Pan with sautéed onions and ginger-garlic paste
+Action: Add tomato puree, red chili powder, coriander powder, and sauté until the oil separates *
+
+Step 7:
+Previous scene: Pan with cooked tomato masala
+Action: Add the cooked lentils and beans along with their stock to the masala *
+
+Step 8:
+Previous scene: Mixed lentils and beans with tomato masala
+Action: Stir well and simmer on low heat, allowing the flavors to meld together *
+
+Step 9:
+Previous scene: Simmering dal makhani
+Action: Add butter and cream, stirring until they are incorporated into the dal *
+
+Step 10:
+Previous scene: Dal makhani with butter and cream
+Action: Garnish with freshly chopped cilantro and serve hot *
+

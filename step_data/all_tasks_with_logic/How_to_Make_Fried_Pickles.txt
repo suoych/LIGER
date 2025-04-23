@@ -1,0 +1,28 @@
+2,7 *
+Step 1:
+Previous scene: None
+Action: Prepare a bowl with 1 cup of all-purpose flour *
+Step 2:
+Previous scene: A bowl with flour
+Action: Add 1 teaspoon of salt, 1/2 teaspoon of black pepper, and 1/2 teaspoon of paprika to the flour *
+Step 3:
+Previous scene: A bowl with seasoned flour
+Action: In a separate bowl, whisk together 1 egg and 1 cup of milk *
+Step 4:
+Previous scene: A bowl with egg and milk mixture
+Action: Dip pickle slices into the egg and milk mixture *
+Step 5:
+Previous scene: Pickle slices dipped in egg and milk mixture
+Action: Coat the dipped pickle slices in the seasoned flour mixture *
+Step 6:
+Previous scene: Pickle slices coated in seasoned flour mixture
+Action: Heat oil in a deep fryer or large saucepan to 375°F (190°C) *
+Step 7:
+Previous scene: Heated oil
+Action: Fry the coated pickle slices in the hot oil until golden brown *
+Step 8:
+Previous scene: Fried pickles in the oil
+Action: Remove the fried pickles from the oil and place them on paper towels to drain excess oil *
+Step 9:
+Previous scene: Fried pickles on paper towels
+Action: Serve the fried pickles with ranch dressing or your favorite dipping sauce *

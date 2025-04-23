@@ -1,0 +1,24 @@
+2, 4*
+Step 1:
+Previous scene: None
+Action: Remove sausages from their packaging *
+
+Step 2:
+Previous scene: Sausages
+Action: Place sausages in a skillet or frying pan *
+
+Step 3:
+Previous scene: Sausages in a skillet
+Action: Turn the skillet to medium heat *
+
+Step 4:
+Previous scene: Sausages in a skillet on medium heat
+Action: Cook for 10-15 minutes, turning occasionally *
+
+Step 5:
+Previous scene: Sausages cooking
+Action: Check the internal temperature with a meat thermometer (should be 160°F) *
+
+Step 6:
+Previous scene: Cooked sausages in skillet
+Action: Remove sausages from skillet and let rest for a few minutes before serving *

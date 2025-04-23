@@ -1,0 +1,49 @@
+5, 3*
+Step 1:
+Previous scene: None
+Action: In a large pot, heat 2 tablespoons of oil over medium-high heat *
+
+Step 2:
+Previous scene: Pot with oil heating
+Action: Add 1 pound of cubed beef and brown it on all sides *
+
+Step 3:
+Previous scene: Pot with browned beef
+Action: Remove the beef and set it aside *
+
+Step 4:
+Previous scene: Pot with remaining oil and beef drippings
+Action: Add 1 chopped onion, 2 chopped carrots, and 2 chopped celery stalks to the pot, and sauté until tender *
+
+Step 5:
+Previous scene: Pot with sautéed vegetables
+Action: Stir in 3 minced garlic cloves and cook for another minute *
+
+Step 6:
+Previous scene: Pot with sautéed vegetables and garlic
+Action: Return the browned beef to the pot *
+
+Step 7:
+Previous scene: Pot with beef and vegetables
+Action: Add 8 cups of beef broth *
+
+Step 8:
+Previous scene: Pot with beef, vegetables, and broth
+Action: Stir in 1 cup of pearl barley, 1 bay leaf, and salt and pepper to taste *
+
+Step 9:
+Previous scene: Pot with all ingredients added
+Action: Bring the soup to a boil *
+
+Step 10:
+Previous scene: Pot with boiling soup
+Action: Lower the heat, cover, and simmer for 1 hour or until barley and beef are tender *
+
+Step 11:
+Previous scene: Pot with simmering soup
+Action: Remove the bay leaf and adjust seasoning if necessary *
+
+Step 12:
+Previous scene: Pot with fully cooked beef and barley soup
+Action: Serve hot *
+

@@ -1,0 +1,44 @@
+1,6 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: Preheated oven
+Action: In a large mixing bowl, combine ricotta cheese, spinach, salt, and pepper *
+
+Step 3:
+Previous scene: Mixing bowl with ricotta cheese and spinach mixture
+Action: Fill the cannelloni tubes with the mixture using a spoon or a piping bag *
+
+Step 4:
+Previous scene: Cannelloni tubes filled with ricotta cheese and spinach mixture
+Action: Spread a thin layer of marinara sauce on the bottom of a baking dish *
+
+Step 5:
+Previous scene: Baking dish with marinara sauce spread on the bottom
+Action: Place the filled cannelloni tubes in the baking dish *
+
+Step 6:
+Previous scene: Baking dish with filled cannelloni tubes
+Action: Pour more marinara sauce over the cannelloni tubes, making sure they are well covered *
+
+Step 7:
+Previous scene: Baking dish with cannelloni tubes covered in marinara sauce
+Action: Sprinkle grated mozzarella and Parmesan cheese on top *
+
+Step 8:
+Previous scene: Baking dish with cannelloni covered in marinara sauce and cheese
+Action: Cover the baking dish with aluminum foil *
+
+Step 9:
+Previous scene: Baking dish covered with aluminum foil
+Action: Bake in the preheated oven for 30 minutes *
+
+Step 10:
+Previous scene: Baking dish inside the oven
+Action: Remove the foil and bake for an additional 10 to 15 minutes, or until the cheese is golden and bubbly *
+
+Step 11:
+Previous scene: Baking dish with cannelloni inside the oven
+Action: Remove the baking dish from the oven and let it cool for a few minutes before serving *

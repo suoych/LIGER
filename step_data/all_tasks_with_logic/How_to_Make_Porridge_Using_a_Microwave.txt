@@ -1,0 +1,28 @@
+3,2 *
+Step 1:
+Previous scene: None
+Action: In a microwave-safe bowl, add 1/2 cup of oats *
+Step 2:
+Previous scene: A bowl with oats
+Action: Pour in 1 cup of water or milk *
+Step 3:
+Previous scene: A bowl with oats and liquid
+Action: Stir to combine *
+Step 4:
+Previous scene: A bowl with mixed oats and liquid
+Action: Place the bowl in the microwave *
+Step 5:
+Previous scene: A bowl with mixed oats and liquid
+Action: Microwave on high for 2-3 minutes *
+Step 6:
+Previous scene: A bowl with bubbling oats
+Action: Carefully remove the bowl from the microwave (use oven mitts if needed) *
+Step 7:
+Previous scene: Hot bowl of cooked oats
+Action: Stir the porridge and let it sit for a minute to thicken *
+Step 8:
+Previous scene: A bowl of slightly thickened porridge
+Action: Add your choice of toppings such as fruits, nuts, or sweeteners *
+Step 9:
+Previous scene: A bowl of porridge with toppings
+Action: Serve and enjoy your porridge *

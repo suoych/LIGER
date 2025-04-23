@@ -1,0 +1,36 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Remove the core from a head of cabbage and blanch the cabbage leaves in boiling water until they are pliable *
+
+Step 2:
+Previous scene: Blanched cabbage leaves
+Action: In a bowl, combine ground meat, cooked rice, chopped onions, salt, and pepper *
+
+Step 3:
+Previous scene: A bowl with ground meat mixture
+Action: Place a portion of the meat mixture onto each cabbage leaf *
+
+Step 4:
+Previous scene: Cabbage leaves with meat mixture
+Action: Roll up the cabbage leaves, folding in the sides to enclose the filling *
+
+Step 5:
+Previous scene: Rolled-up cabbage rolls
+Action: Place the cabbage rolls seam-side down in a baking dish *
+
+Step 6:
+Previous scene: Baking dish with cabbage rolls
+Action: Pour tomato sauce over the cabbage rolls *
+
+Step 7:
+Previous scene: Baking dish with cabbage rolls covered in tomato sauce
+Action: Cover the baking dish with foil and bake in a preheated oven at 350°F (175°C) for about 1 hour *
+
+Step 8:
+Previous scene: Baked cabbage rolls in a baking dish
+Action: Remove the foil and bake for an additional 10-15 minutes to thicken the sauce *
+
+Step 9:
+Previous scene: Baked cabbage rolls with thickened sauce
+Action: Serve the cabbage rolls hot, garnished with fresh parsley if desired *

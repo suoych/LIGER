@@ -1,0 +1,40 @@
+3,10*
+Step 1: 
+Previous scene: None
+Action: Rinse 1 cup of rice thoroughly *
+Step 2: 
+Previous scene: Rinsed rice in a strainer
+Action: Cook the rice in a pot with 2 cups of water until tender *
+Step 3: 
+Previous scene: Cooked rice in a pot
+Action: Spread the cooked rice on a plate and let it cool *
+Step 4: 
+Previous scene: Cooked rice spread on a plate
+Action: Heat 2 tablespoons of oil in a pan *
+Step 5: 
+Previous scene: Heated oil in a pan
+Action: Add 1 teaspoon of mustard seeds and let them splutter *
+Step 6: 
+Previous scene: Mustered seeds popped in oil
+Action: Add 1 teaspoon of split urad dal and fry until golden *
+Step 7: 
+Previous scene: Golden urad dal in oil
+Action: Add 1 teaspoon of chana dal and fry *
+Step 8: 
+Previous scene: Golden chana dal in oil
+Action: Add 2 dried red chilies and 1 sprig of curry leaves *
+Step 9: 
+Previous scene: Curry leaves and red chilies in the pan
+Action: Add 1/4 teaspoon of turmeric powder and mix *
+Step 10: 
+Previous scene: Turmeric mixed in the pan mixture
+Action: Add the cooled rice to the pan *
+Step 11: 
+Previous scene: Rice added to the pan mixture
+Action: Squeeze the juice of one lemon into the rice *
+Step 12: 
+Previous scene: Lemon juice mixed with rice
+Action: Mix well and garnish with roasted peanuts *
+Step 13: 
+Previous scene: Garnished lemon rice
+Action: Serve warm or at room temperature *

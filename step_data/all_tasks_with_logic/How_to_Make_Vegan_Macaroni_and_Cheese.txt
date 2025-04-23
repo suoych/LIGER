@@ -1,0 +1,28 @@
+6,5 *
+Step 1:
+Previous scene: None
+Action: Boil a large pot of water and add a pinch of salt *
+Step 2:
+Previous scene: A pot with boiling water
+Action: Add the macaroni pasta and cook according to package instructions *
+Step 3:
+Previous scene: Pasta cooking in boiling water
+Action: In a separate saucepan, melt 1/4 cup of vegan butter *
+Step 4:
+Previous scene: Melted vegan butter in a saucepan
+Action: Add 1/4 cup of all-purpose flour to the melted butter and whisk until smooth *
+Step 5:
+Previous scene: A saucepan with a smooth flour and butter mixture
+Action: Gradually add 2 cups of unsweetened almond milk while stirring continuously *
+Step 6:
+Previous scene: A saucepan with flour, butter mixture, and almond milk
+Action: Add 1/2 cup of nutritional yeast, 1 teaspoon of garlic powder, 1 teaspoon of onion powder, 1/2 teaspoon of ground mustard, 1 teaspoon of salt, and 1/2 teaspoon of black pepper to the mixture and stir well *
+Step 7:
+Previous scene: A creamy, seasoned sauce in the saucepan
+Action: Once the pasta is cooked, drain it and add it to the sauce *
+Step 8:
+Previous scene: Drained pasta and creamy sauce
+Action: Stir the pasta and sauce together until everything is well-coated *
+Step 9:
+Previous scene: Combined pasta and sauce
+Action: Serve the vegan macaroni and cheese hot, optionally garnished with fresh herbs *

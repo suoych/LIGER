@@ -1,0 +1,34 @@
+3, 6*
+Step 1:
+Previous scene: None
+Action: Fill a large pot with water and bring it to a boil *
+Step 2:
+Previous scene: Large pot with boiling water
+Action: Add salt and penne pasta to the boiling water *
+Step 3:
+Previous scene: Large pot with boiling water and pasta
+Action: Cook pasta according to package instructions until al dente *
+Step 4:
+Previous scene: Cooked pasta in boiling water
+Action: In a separate large skillet, heat olive oil over medium heat *
+Step 5:
+Previous scene: Large skillet with heated olive oil
+Action: Add minced garlic and diced onions to the skillet, sauté until translucent *
+Step 6:
+Previous scene: Large skillet with sautéed garlic and onions
+Action: Pour in vodka and cook until it reduces by half *
+Step 7:
+Previous scene: Large skillet with reduced vodka, garlic, and onions
+Action: Add crushed tomatoes and simmer for about 10 minutes *
+Step 8:
+Previous scene: Large skillet with simmering tomato sauce
+Action: Stir in heavy cream and let the sauce cook until slightly thickened *
+Step 9:
+Previous scene: Large skillet with creamy tomato sauce
+Action: Season with salt, pepper, and red pepper flakes *
+Step 10:
+Previous scene: Large skillet with seasoned creamy tomato sauce
+Action: Add the cooked penne pasta to the skillet and mix well to coat with the sauce *
+Step 11:
+Previous scene: Large skillet with penne pasta coated in sauce
+Action: Garnish with freshly grated Parmesan cheese and chopped basil before serving *

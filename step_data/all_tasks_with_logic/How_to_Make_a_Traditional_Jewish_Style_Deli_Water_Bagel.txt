@@ -1,0 +1,49 @@
+9, 3*
+Step 1: 
+Previous scene: None
+Action: In a large mixing bowl, combine 4 cups of bread flour and 2 teaspoons of salt *
+Step 2: 
+Previous scene: A bowl with flour and salt
+Action: In a separate bowl, dissolve 1 tablespoon of yeast and 1.5 tablespoons of sugar in 1.25 cups of warm water; let it sit until foamy *
+Step 3: 
+Previous scene: Bowl with dissolved yeast
+Action: Pour the yeast mixture into the flour mixture *
+Step 4: 
+Previous scene: Bowl with flour, salt, and yeast mixture
+Action: Stir the mixture until it forms a dough *
+Step 5: 
+Previous scene: Bowl with dough
+Action: Knead the dough on a floured surface for about 10 minutes *
+Step 6:
+Previous scene: Dough on a floured surface
+Action: Place the dough in a lightly oiled bowl and cover with a damp cloth; let it rise for 1 hour *
+Step 7: 
+Previous scene: Dough in a bowl
+Action: Punch down the dough and divide it into 8 equal pieces *
+Step 8:
+Previous scene: Dough divided into 8 pieces
+Action: Shape each piece into a ball *
+Step 9:
+Previous scene: Dough balls
+Action: Poke a hole in the center of each ball and gently stretch it to form a bagel shape *
+Step 10: 
+Previous scene: Raw bagels
+Action: Preheat your oven to 425°F (218°C) *
+Step 11: 
+Previous scene: Raw bagels on a counter
+Action: Bring a large pot of water to a boil and add 1 tablespoon of sugar *
+Step 12: 
+Previous scene: Pot of boiling water 
+Action: Drop each bagel into the boiling water; boil for 1-2 minutes on each side *
+Step 13: 
+Previous scene: Bagels in boiling water
+Action: Remove the bagels from the water and place them on a baking sheet *
+Step 14: 
+Previous scene: Wet boiled bagels on a baking sheet
+Action: Brush each bagel with an egg wash and sprinkle with toppings if desired *
+Step 15: 
+Previous scene: Bagels brushed with egg wash
+Action: Bake the bagels for 20-25 minutes, until golden brown *
+Step 16: 
+Previous scene: Bagels in the oven
+Action: Remove the bagels from the oven and let cool on a wire rack before serving *

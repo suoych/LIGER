@@ -1,0 +1,25 @@
+1,2 *
+Step 1:
+Previous scene: None
+Action: Cut open passionfruits and scoop out the pulp into a bowl *
+Step 2:
+Previous scene: A bowl with passionfruit pulp
+Action: Transfer the passionfruit pulp into a saucepan *
+Step 3:
+Previous scene: A saucepan with passionfruit pulp
+Action: Add sugar to the saucepan *
+Step 4:
+Previous scene: A saucepan with passionfruit pulp and sugar
+Action: Stir the mixture over medium heat until the sugar dissolves *
+Step 5:
+Previous scene: A saucepan with passionfruit pulp and dissolved sugar
+Action: Bring the mixture to a boil and let it cook until it reaches the desired thickness, stirring occasionally *
+Step 6:
+Previous scene: A saucepan with thickened jam
+Action: Pour the hot passionfruit jam into sterilized jars *
+Step 7:
+Previous scene: Jars filled with hot passionfruit jam
+Action: Seal the jars and allow them to cool to room temperature *
+Step 8:
+Previous scene: Sealed jars with cooled passionfruit jam
+Action: Store the jars in a cool, dark place until ready to use *

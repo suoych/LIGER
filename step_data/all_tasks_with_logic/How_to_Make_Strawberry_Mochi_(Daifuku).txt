@@ -1,0 +1,52 @@
+3,8 *
+Step 1:
+Previous scene: None
+Action: Wash and hull the strawberries *
+
+Step 2:
+Previous scene: Clean strawberries
+Action: Pat the strawberries dry with a paper towel *
+
+Step 3:
+Previous scene: Dry strawberries
+Action: Wrap each strawberry in a small piece of red bean paste, forming a ball around the strawberry *
+
+Step 4:
+Previous scene: Strawberries wrapped in red bean paste
+Action: In a microwave-safe bowl, mix 1 cup of glutinous rice flour and 2/3 cup of water until smooth *
+
+Step 5:
+Previous scene: A bowl with glutinous rice flour mixture
+Action: Cover the bowl with plastic wrap and microwave for about 1 minute *
+
+Step 6:
+Previous scene: A microwaved glutinous rice flour mixture
+Action: Stir the mixture, then microwave for another 1 minute *
+
+Step 7:
+Previous scene: Stirred glutinous rice mixture
+Action: Stir again and microwave for additional 30 seconds if necessary, until the dough is translucent and slightly sticky *
+
+Step 8:
+Previous scene: Translucent and sticky mochi dough
+Action: Dust a work surface with cornstarch and transfer the mochi dough onto it *
+
+Step 9:
+Previous scene: Work surface with cornstarch and mochi dough
+Action: Cut the mochi dough into equal pieces *
+
+Step 10:
+Previous scene: Pieces of mochi dough
+Action: Flatten each piece of mochi dough with your fingers *
+
+Step 11:
+Previous scene: Flattened pieces of mochi dough
+Action: Place a red bean paste-wrapped strawberry in the center of each piece of mochi dough *
+
+Step 12:
+Previous scene: Flattened mochi dough with a red bean paste-wrapped strawberry
+Action: Carefully stretch and fold the mochi dough over the strawberry, sealing it completely *
+
+Step 13:
+Previous scene: Formed mochi balls
+Action: Dust off any excess cornstarch and serve the strawberry mochi *

@@ -1,0 +1,28 @@
+5, 1*
+Step 1:
+Previous scene: None
+Action: Fill a large pot with water and bring to a boil *
+
+Step 2:
+Previous scene: A large pot with boiling water
+Action: Add salt to the boiling water *
+
+Step 3:
+Previous scene: A large pot with salted boiling water
+Action: Husk the corn ears and remove silk *
+
+Step 4:
+Previous scene: Husked corn ears
+Action: Place the corn ears into the boiling water *
+
+Step 5:
+Previous scene: Corn ears in boiling water
+Action: Cook the corn for 4-6 minutes until tender *
+
+Step 6:
+Previous scene: Corn boiling in a large pot
+Action: Remove the corn from the water with tongs *
+
+Step 7:
+Previous scene: Cooked corn ears
+Action: Serve the corn on the cob with butter, salt, and pepper if desired *

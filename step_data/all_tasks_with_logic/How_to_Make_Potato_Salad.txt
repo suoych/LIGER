@@ -1,0 +1,48 @@
+4,3 *
+Step 1:
+Previous scene: None
+Action: Peel 4 large potatoes and cut them into cubes *
+
+Step 2:
+Previous scene: Cubed potatoes
+Action: Place the potato cubes into a pot of water and bring to a boil *
+
+Step 3:
+Previous scene: Pot with potatoes and water
+Action: Boil the potatoes until they are tender, about 10-15 minutes *
+
+Step 4:
+Previous scene: Cooked potatoes in a pot
+Action: Drain the potatoes and let them cool completely *
+
+Step 5:
+Previous scene: Cooled, drained potatoes
+Action: In a large mixing bowl, add mayonnaise *
+
+Step 6:
+Previous scene: Mixing bowl with mayonnaise
+Action: Add 1 tablespoon of mustard *
+
+Step 7:
+Previous scene: Mixing bowl with mayonnaise and mustard
+Action: Add 1/2 cup of chopped celery *
+
+Step 8:
+Previous scene: Mixing bowl with mayonnaise, mustard, and celery
+Action: Add 1/4 cup of chopped onion *
+
+Step 9:
+Previous scene: Mixing bowl with mayonnaise, mustard, celery, and onion
+Action: Add a pinch of salt and pepper to taste *
+
+Step 10:
+Previous scene: Mixing bowl with mayonnaise, mustard, celery, onion, salt, and pepper
+Action: Gently fold the cooled potatoes into the mixture until well combined *
+
+Step 11:
+Previous scene: Potato salad in a mixing bowl
+Action: Cover the bowl and refrigerate for at least 1 hour before serving *
+
+Step 12:
+Previous scene: Refrigerated potato salad in a bowl
+Action: Garnish with chopped parsley or paprika before serving *

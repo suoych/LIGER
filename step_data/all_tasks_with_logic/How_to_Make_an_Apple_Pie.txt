@@ -1,0 +1,34 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 425°F (220°C) *
+Step 2:
+Previous scene: Oven preheating
+Action: Roll out the pie dough and place it in a pie dish *
+Step 3:
+Previous scene: Pie dish with dough
+Action: Peel and slice 6-7 apples *
+Step 4:
+Previous scene: Pie dish with dough
+Action: In a large bowl, mix the apple slices with sugar, cinnamon, and lemon juice *
+Step 5:
+Previous scene: Bowl with apple mixture
+Action: Pour the apple mixture into the pie crust *
+Step 6:
+Previous scene: Pie dish with apple mixture
+Action: Roll out the second piece of pie dough and place it over the apple filling *
+Step 7:
+Previous scene: Pie dish with apple filling
+Action: Trim and crimp the edges of the pie *
+Step 8:
+Previous scene: Pie with trimmed edges
+Action: Cut small slits in the top crust to allow steam to escape *
+Step 9:
+Previous scene: Pie with slits in top crust
+Action: Brush the top crust with an egg wash *
+Step 10:
+Previous scene: Pie with egg wash
+Action: Bake in the preheated oven for 45-50 minutes *
+Step 11:
+Previous scene: Baked pie in the oven
+Action: Let the pie cool before serving *

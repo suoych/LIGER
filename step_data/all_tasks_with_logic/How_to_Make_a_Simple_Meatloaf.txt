@@ -1,0 +1,48 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: Oven being preheated
+Action: In a large mixing bowl, combine 1 pound of ground beef *
+
+Step 3:
+Previous scene: A bowl with ground beef
+Action: Add 1 egg, beaten *
+
+Step 4:
+Previous scene: A bowl with ground beef and egg
+Action: Add 1 cup of breadcrumbs *
+
+Step 5:
+Previous scene: A bowl with ground beef, egg, and breadcrumbs
+Action: Add 1/2 cup of finely chopped onion *
+
+Step 6:
+Previous scene: A bowl with ground beef, egg, breadcrumbs, and onion
+Action: Add 1/2 cup of milk *
+
+Step 7:
+Previous scene: A bowl with ground beef, egg, breadcrumbs, onion, and milk
+Action: Season the mixture with salt and pepper to taste *
+
+Step 8:
+Previous scene: A bowl with seasoned meatloaf mixture
+Action: Mix all the ingredients together until well combined *
+
+Step 9:
+Previous scene: A bowl with well-mixed meatloaf mixture
+Action: Place the mixture into a loaf pan or shape it into a loaf on a baking sheet *
+
+Step 10:
+Previous scene: Meatloaf mixture in a pan
+Action: Spread ketchup or barbecue sauce on top of the meatloaf *
+
+Step 11:
+Previous scene: Meatloaf with ketchup or BBQ sauce on top
+Action: Bake in the preheated oven for 1 hour *
+
+Step 12:
+Previous scene: Meatloaf baking in the oven
+Action: Let the meatloaf rest for a few minutes before slicing and serving *

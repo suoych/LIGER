@@ -1,0 +1,40 @@
+1,2*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: An empty oven with a temperature dial
+Action: Place the chicken breasts on a cutting board *
+
+Step 3:
+Previous scene: Chicken breasts on a cutting board
+Action: Season the chicken breasts with salt and pepper *
+
+Step 4:
+Previous scene: Chicken breasts with salt and pepper
+Action: Heat a skillet over medium-high heat and add 1 tablespoon of olive oil *
+
+Step 5:
+Previous scene: A heated skillet with olive oil
+Action: Sear the chicken breasts in the skillet for 2-3 minutes on each side until golden brown *
+
+Step 6:
+Previous scene: Chicken breasts searing in a skillet
+Action: Transfer the seared chicken breasts to a baking dish *
+
+Step 7:
+Previous scene: Chicken breasts in a baking dish
+Action: Place the baking dish in the preheated oven *
+
+Step 8:
+Previous scene: Chicken breasts in a baking dish inside an oven
+Action: Bake for 20-25 minutes or until the internal temperature of the chicken reaches 165°F (74°C) *
+
+Step 9:
+Previous scene: Chicken breasts baking in the oven
+Action: Remove the chicken breasts from the oven and let them rest for 5 minutes *
+
+Step 10:
+Previous scene: Cooked chicken breasts resting
+Action: Slice the chicken breasts and serve *

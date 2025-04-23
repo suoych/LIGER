@@ -1,0 +1,23 @@
+Step 1:
+Image Description: A hot dog and a soft bun are taken out of the refrigerator.
+Action: Take a hot dog and a bun out of the refrigerator. *
+
+Step 2:
+Image Description: The hot dog is placed on a microwave-safe plate, positioned in the center.
+Action: Place the hot dog on a microwave-safe plate. *
+
+Step 3:
+Image Description: The hot dog is microwaving, with a timer set for 45-60 seconds, cooking until it’s hot.
+Action: Microwave the hot dog on high for 45-60 seconds. *
+
+Step 4:
+Image Description: The cooked hot dog is carefully removed from the microwave and placed inside the soft bun, forming a simple hot dog.
+Action: Carefully remove the hot dog from the microwave and place it in the bun. *
+
+Step 5:
+Image Description: The hot dog is topped with ketchup, mustard, and relish, or any desired toppings, making it ready to eat.
+Action: Add any desired toppings like ketchup, mustard, or relish. *
+
+Step 6:
+Image Description: The fully assembled hot dog with toppings is ready to be enjoyed.
+Action: Enjoy your hot dog. *

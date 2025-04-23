@@ -1,0 +1,25 @@
+5, 2*
+Step 1: 
+Previous scene: None
+Action: Brew a strong cup of coffee and let it cool down completely *
+Step 2: 
+Previous scene: A cup of coffee
+Action: In a mixing bowl, combine the cooled coffee with 1 cup of milk *
+Step 3: 
+Previous scene: A mixing bowl with coffee and milk
+Action: Add 3 tablespoons of sugar and stir until dissolved *
+Step 4: 
+Previous scene: A mixing bowl with coffee, milk, and sugar
+Action: Pour the mixture into popsicle molds *
+Step 5: 
+Previous scene: Popsicle molds with coffee mixture
+Action: Insert popsicle sticks into the molds *
+Step 6: 
+Previous scene: Popsicle molds with sticks
+Action: Place the molds in the freezer *
+Step 7: 
+Previous scene: Popsicle molds in the freezer
+Action: Freeze for at least 4 hours or until solid *
+Step 8: 
+Previous scene: Frozen popsicles in molds
+Action: Remove the popsicles from the molds and enjoy *

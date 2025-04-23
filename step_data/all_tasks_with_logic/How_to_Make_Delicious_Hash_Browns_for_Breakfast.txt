@@ -1,0 +1,40 @@
+5,8 *
+Step 1:
+Previous scene: None
+Action: Peel 4 large potatoes and rinse them under cold water *
+
+Step 2:
+Previous scene: Peeled potatoes
+Action: Grate the potatoes using a box grater or food processor *
+
+Step 3:
+Previous scene: Grated potatoes
+Action: Place the grated potatoes in a large bowl of cold water to remove excess starch *
+
+Step 4:
+Previous scene: Grated potatoes in cold water
+Action: Drain the potatoes and squeeze out as much moisture as possible using a clean kitchen towel or cheesecloth *
+
+Step 5:
+Previous scene: Dry grated potatoes
+Action: In a large mixing bowl, mix the grated potatoes with 1/2 teaspoon of salt and 1/2 teaspoon of black pepper *
+
+Step 6:
+Previous scene: Seasoned grated potatoes
+Action: Heat 2 tablespoons of oil in a large skillet over medium-high heat *
+
+Step 7:
+Previous scene: Hot skillet with oil
+Action: Spread the grated potatoes evenly in the skillet, pressing them down slightly *
+
+Step 8:
+Previous scene: Potatoes in skillet
+Action: Cook the potatoes without stirring until the bottom is golden brown and crispy, about 5-7 minutes *
+
+Step 9:
+Previous scene: Partially cooked hash browns
+Action: Flip the hash browns and cook the other side until golden brown and crispy, about 5-7 minutes *
+
+Step 10:
+Previous scene: Fully cooked hash browns in skillet
+Action: Remove the hash browns from the skillet and serve hot *

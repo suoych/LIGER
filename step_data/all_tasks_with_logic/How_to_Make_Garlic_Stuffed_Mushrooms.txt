@@ -1,0 +1,40 @@
+4,7 *
+Step 1:
+Previous scene: None
+Action: Preheat oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: A preheated oven
+Action: Clean and remove stems from mushrooms *
+
+Step 3:
+Previous scene: Cleaned mushroom caps
+Action: Chop mushroom stems finely *
+
+Step 4:
+Previous scene: Chopped mushroom stems
+Action: Mince garlic cloves *
+
+Step 5:
+Previous scene: Chopped mushroom stems and minced garlic
+Action: In a bowl, combine chopped mushroom stems, minced garlic, breadcrumbs, grated cheese, and parsley *
+
+Step 6:
+Previous scene: A bowl with stuffing mixture
+Action: Stuff mushroom caps with the mixture *
+
+Step 7:
+Previous scene: Stuffed mushroom caps
+Action: Place stuffed mushrooms on a baking sheet *
+
+Step 8:
+Previous scene: Stuffed mushrooms on a baking sheet
+Action: Drizzle with olive oil *
+
+Step 9:
+Previous scene: Stuffed mushrooms drizzled with olive oil
+Action: Bake in the preheated oven for 20 minutes *
+
+Step 10:
+Previous scene: Baked stuffed mushrooms
+Action: Serve hot *

@@ -1,0 +1,28 @@
+3,7 *
+Step 1: 
+Previous scene: None
+Action: In a large mixing bowl, combine ground beef, breadcrumbs, egg, chopped onion, garlic, salt, and pepper *
+Step 2: 
+Previous scene: Mixing bowl with ingredients 
+Action: Mix the ingredients thoroughly with your hands or a spoon *
+Step 3: 
+Previous scene: Mixed meatball mixture
+Action: Shape the mixture into meatballs of desired size *
+Step 4: 
+Previous scene: Raw meatballs
+Action: Preheat a skillet over medium heat and add some oil *
+Step 5: 
+Previous scene: Skillet with oil
+Action: Place the meatballs in the skillet and sear them on all sides until browned *
+Step 6: 
+Previous scene: Browned meatballs in a skillet
+Action: Transfer the browned meatballs into the crockpot *
+Step 7: 
+Previous scene: Meatballs in a crockpot
+Action: Pour marinara sauce over the meatballs *
+Step 8: 
+Previous scene: Meatballs covered in marinara sauce
+Action: Cover the crockpot and cook on low for 6-8 hours or on high for 3-4 hours *
+Step 9: 
+Previous scene: Crockpot with cooked meatballs in marinara sauce
+Action: Serve the meatballs over pasta, on a sub roll, or as desired *

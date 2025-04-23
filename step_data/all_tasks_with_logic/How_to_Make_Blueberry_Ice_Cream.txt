@@ -1,0 +1,32 @@
+3, 4*
+Step 1:
+Previous scene: None
+Action: In a saucepan, combine 2 cups of blueberries and 1/2 cup sugar *
+
+Step 2:
+Previous scene: A saucepan with blueberries and sugar
+Action: Cook the blueberry mixture over medium heat until the berries break down, about 10 minutes *
+
+Step 3:
+Previous scene: A saucepan with cooked blueberry mixture
+Action: Blend the blueberry mixture until smooth, then set aside to cool *
+
+Step 4:
+Previous scene: A blender with blueberry puree
+Action: In another mixing bowl, whisk together 2 cups of heavy cream and 1 cup of milk *
+
+Step 5:
+Previous scene: A mixing bowl with heavy cream and milk
+Action: Add 1/2 cup of sugar and 1 teaspoon of vanilla extract to the cream mixture *
+
+Step 6:
+Previous scene: A mixing bowl with cream mixture and sugar
+Action: Stir the cooled blueberry puree into the cream mixture *
+
+Step 7:
+Previous scene: A mixing bowl with blueberry cream mixture
+Action: Pour the blueberry cream mixture into an ice cream maker and churn according to manufacturer’s instructions *
+
+Step 8:
+Previous scene: Ice cream maker with blueberry cream mixture
+Action: Transfer the churned ice cream to a freezer-safe container and freeze for at least 4 hours before serving *

@@ -1,0 +1,31 @@
+2,7 *
+Step 1: 
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) *
+Step 2: 
+Previous scene: An oven set to preheat
+Action: Line a cupcake pan with cupcake liners *
+Step 3: 
+Previous scene: A cupcake pan lined with cupcake liners
+Action: In a mixing bowl, combine 2 1/2 cups of flour, 1 1/2 cups of sugar, 1 tablespoon of cocoa powder, 1 teaspoon of baking soda, and 1 teaspoon of salt *
+Step 4: 
+Previous scene: A mixing bowl with dry ingredients
+Action: In another bowl, whisk together 1 cup of buttermilk, 1 1/2 cups of vegetable oil, 2 large eggs, 2 tablespoons of red food coloring, 1 teaspoon of vanilla extract, and 1 teaspoon of white vinegar *
+Step 5: 
+Previous scene: A bowl with wet ingredients and a bowl with dry ingredients
+Action: Gradually add the wet ingredients to the dry ingredients, mixing until smooth *
+Step 6: 
+Previous scene: Red batter in a mixing bowl
+Action: Pour the batter into the cupcake liners, filling each about 2/3 full *
+Step 7: 
+Previous scene: Cupcake pan filled with red batter
+Action: Bake in the preheated oven for 18-20 minutes, or until a toothpick inserted into the center comes out clean *
+Step 8: 
+Previous scene: Baked cupcakes in a pan
+Action: Let the cupcakes cool in the pan for 5 minutes, then transfer to a wire rack to cool completely *
+Step 9: 
+Previous scene: Cupcakes cooling on a wire rack
+Action: In a mixing bowl, beat 8 ounces of cream cheese, 1/2 cup of unsalted butter, and 4 cups of powdered sugar until smooth for the icing *
+Step 10: 
+Previous scene: Cream cheese icing in a bowl
+Action: Once the cupcakes are completely cool, frost them with the cream cheese icing *

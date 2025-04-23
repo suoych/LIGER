@@ -1,0 +1,25 @@
+1,7 *
+Step 1:
+Previous scene: None
+Action: Crush 36 Oreo cookies into fine crumbs using a food processor or a plastic bag and rolling pin *
+Step 2:
+Previous scene: Crushed Oreo crumbs
+Action: In a mixing bowl, combine the Oreo crumbs with 8 oz of softened cream cheese and mix until fully combined *
+Step 3:
+Previous scene: Oreo crumbs and cream cheese mixture
+Action: Roll the mixture into small balls, approximately 1-inch in diameter *
+Step 4:
+Previous scene: Oreo balls
+Action: Place the Oreo balls on a baking sheet lined with wax paper and refrigerate for an hour *
+Step 5:
+Previous scene: Chilled Oreo balls
+Action: Melt 16 oz of chocolate in a microwave-safe bowl, heating in 30-second intervals and stirring until smooth *
+Step 6:
+Previous scene: Melted chocolate and chilled Oreo balls
+Action: Dip each Oreo ball into the melted chocolate, using a fork to fully coat, and then place back onto the wax paper *
+Step 7:
+Previous scene: Chocolate-coated Oreo balls
+Action: Refrigerate the coated Oreo balls for another hour or until chocolate is set *
+Step 8:
+Previous scene: Chilled, chocolate-coated Oreo balls
+Action: Decorate with sprinkles or drizzle with white chocolate if desired, then serve or store in an airtight container *

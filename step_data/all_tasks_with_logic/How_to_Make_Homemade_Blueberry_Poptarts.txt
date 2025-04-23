@@ -1,0 +1,46 @@
+12,9 *
+Step 1:
+Previous scene: None
+Action: In a large mixing bowl, combine 2 cups of all-purpose flour and 1/2 teaspoon of salt *
+Step 2:
+Previous scene: A bowl with flour and salt
+Action: Cut in 1 cup of unsalted butter using a pastry cutter until the mixture resembles coarse crumbs *
+Step 3:
+Previous scene: A bowl with flour, salt, and butter mixture
+Action: Add 4-5 tablespoons of ice water, one tablespoon at a time, mixing until the dough begins to come together *
+Step 4:
+Previous scene: A bowl of pie dough
+Action: Divide the dough into two equal parts, wrap each in plastic wrap, and refrigerate for at least 30 minutes *
+Step 5:
+Previous scene: Two wrapped dough portions
+Action: Remove one portion of the dough from the refrigerator and roll it out on a floured surface to about 1/8 inch thickness *
+Step 6:
+Previous scene: Rolled out dough on a floured surface
+Action: Cut the rolled dough into equal-sized rectangles (about 3x4 inches each) *
+Step 7:
+Previous scene: Dough rectangles
+Action: Place half of the rectangles on a parchment-lined baking sheet *
+Step 8:
+Previous scene: Dough rectangles on a baking sheet
+Action: Fill each rectangle with a tablespoon of blueberry jam, leaving some space around the edges *
+Step 9:
+Previous scene: Dough rectangles with blueberry jam
+Action: Beat 1 egg with 1 tablespoon of water to create an egg wash *
+Step 10:
+Previous scene: Dough rectangles with blueberry jam
+Action: Brush the edges of each filled rectangle with the egg wash *
+Step 11:
+Previous scene: Dough rectangles brushed with egg wash
+Action: Place the remaining dough rectangles on top of the filled ones, pressing the edges together with a fork to seal *
+Step 12:
+Previous scene: Assembled and sealed poptarts
+Action: Brush the tops with the remaining egg wash *
+Step 13:
+Previous scene: Brushed assembled poptarts
+Action: Preheat the oven to 375°F (190°C) *
+Step 14:
+Previous scene: Assembled poptarts
+Action: Bake the poptarts in the preheated oven for 20-25 minutes or until golden brown *
+Step 15:
+Previous scene: Baked poptarts
+Action: Allow the poptarts to cool on a wire rack before serving and optionally drizzle with a simple glaze made from powdered sugar and milk *

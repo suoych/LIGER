@@ -1,0 +1,36 @@
+4, 2*
+Step 1:
+Previous scene: None
+Action: Measure 1 cup of rice and rinse it under cold water until the water runs clear *
+
+Step 2:
+Previous scene: A bowl of rinsed rice
+Action: Pour the rinsed rice into a pot *
+
+Step 3:
+Previous scene: A pot with rinsed rice
+Action: Add 2 cups of water into the pot with the rice *
+
+Step 4:
+Previous scene: A pot with rice and water
+Action: Add a pinch of salt into the pot (optional) *
+
+Step 5:
+Previous scene: A pot with rice, water, and salt
+Action: Place the pot on the stove and bring the water to a boil over high heat *
+
+Step 6:
+Previous scene: A pot with boiling water and rice
+Action: Once boiling, reduce the heat to low and cover the pot with a lid *
+
+Step 7:
+Previous scene: A pot covered with a lid on low heat
+Action: Let the rice simmer for about 18-20 minutes or until all the water is absorbed *
+
+Step 8:
+Previous scene: A pot with cooked rice
+Action: Turn off the heat and let the pot sit, covered, for another 5 minutes *
+
+Step 9:
+Previous scene: A pot with steamed rice
+Action: Fluff the rice with a fork and serve *

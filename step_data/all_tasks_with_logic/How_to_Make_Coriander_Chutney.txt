@@ -1,0 +1,33 @@
+1,7 *
+Step 1:
+Previous scene: None
+Action: Gather fresh coriander leaves, green chilies, ginger, garlic, salt, lemon juice, and water *
+
+Step 2:
+Previous scene: A collection of coriander leaves, green chilies, ginger, garlic, salt, lemon juice, and a bowl of water
+Action: Wash the coriander leaves thoroughly with water *
+
+Step 3:
+Previous scene: Washed coriander leaves, green chilies, ginger, garlic, salt, lemon juice, and washed coriander leaves
+Action: Roughly chop the coriander leaves *
+
+Step 4:
+Previous scene: Roughly chopped coriander leaves, green chilies, ginger, garlic, salt, and lemon juice
+Action: Add the chopped coriander leaves, green chilies, ginger, garlic, salt, and lemon juice into a blender *
+
+Step 5:
+Previous scene: Blender with chopped coriander leaves, green chilies, ginger, garlic, salt, and lemon juice
+Action: Add a little water to the blender to help with the blending process *
+
+Step 6:
+Previous scene: Blender with ingredients and water
+Action: Blend until you achieve a smooth consistency *
+
+Step 7:
+Previous scene: Blender with smooth coriander chutney
+Action: Transfer the coriander chutney into a serving bowl *
+
+Step 8:
+Previous scene: Bowl with coriander chutney
+Action: Serve immediately or store in the refrigerator *
+

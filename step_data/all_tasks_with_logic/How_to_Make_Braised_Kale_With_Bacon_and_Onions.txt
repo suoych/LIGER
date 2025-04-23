@@ -1,0 +1,56 @@
+2, 9*
+Step 1:
+Previous scene: None
+Action: Chop 6 slices of bacon into small pieces and set aside *
+
+Step 2:
+Previous scene: Chopped bacon
+Action: Slice 1 large onion into thin strips *
+
+Step 3:
+Previous scene: Sliced onion
+Action: Heat a large skillet over medium heat *
+
+Step 4:
+Previous scene: An empty heated skillet
+Action: Add the chopped bacon to the skillet and cook until crispy *
+
+Step 5:
+Previous scene: Bacon cooking in a skillet
+Action: Remove the cooked bacon with a slotted spoon and set aside *
+
+Step 6:
+Previous scene: Bacon grease in skillet
+Action: Add the sliced onions to the skillet and cook in the bacon grease until softened *
+
+Step 7:
+Previous scene: Onions cooking in bacon grease
+Action: Chop 2 bunches of kale, removing the tough stems *
+
+Step 8:
+Previous scene: Sautéed onions in skillet
+Action: Add the chopped kale to the skillet *
+
+Step 9:
+Previous scene: Kale added to onions in skillet
+Action: Stir the kale until it starts to wilt *
+
+Step 10:
+Previous scene: Wilted kale and onions
+Action: Pour in 1 cup of chicken broth *
+
+Step 11:
+Previous scene: Mixture of kale, onions, and broth in skillet
+Action: Cover the skillet and let it simmer for 20 minutes *
+
+Step 12:
+Previous scene: Simmering kale and onion mixture
+Action: Remove the lid, stir, and let any excess liquid evaporate *
+
+Step 13:
+Previous scene: Reduced liquid in skillet
+Action: Add the cooked bacon back into the skillet and stir *
+
+Step 14:
+Previous scene: Bacon mixed with kale and onions
+Action: Season with salt and pepper to taste, and serve *

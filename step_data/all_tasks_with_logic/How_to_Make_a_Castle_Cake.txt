@@ -1,0 +1,48 @@
+1, 8*
+Step 1:  
+Previous scene: None  
+Action: Preheat your oven to the temperature specified on your cake mix or recipe. *
+
+Step 2:  
+Previous scene: An oven
+Action: Grease and flour your castle-shaped cake pan to prevent the cake from sticking. *
+
+Step 3:  
+Previous scene: A greased and floured castle-shaped cake pan
+Action: In a mixing bowl, combine the cake mix (or ingredients for your cake recipe). *
+
+Step 4:  
+Previous scene: A mixing bowl with cake mix ingredients
+Action: Use an electric mixer to beat the cake batter until smooth. *
+
+Step 5:  
+Previous scene: Smooth cake batter in a mixing bowl
+Action: Pour the prepared cake batter into the greased and floured castle-shaped cake pan. *
+
+Step 6:  
+Previous scene: Castle-shaped cake pan filled with cake batter
+Action: Place the cake pan in the preheated oven and bake for the time specified on your cake mix or recipe. *
+
+Step 7:  
+Previous scene: Cake batter in the oven
+Action: Remove the cake from the oven and let it cool in the pan for about 10-15 minutes. *
+
+Step 8:  
+Previous scene: Castle-shaped cake cooling in the pan
+Action: Carefully invert the cake onto a cooling rack to cool completely. *
+
+Step 9:  
+Previous scene: Castle-shaped cake on a cooling rack
+Action: Once the cake is completely cool, prepare your frosting and any decorations you plan to use. *
+
+Step 10:  
+Previous scene: Cool castle-shaped cake
+Action: Apply a crumb coat of frosting to the castle cake and let it set. *
+
+Step 11:  
+Previous scene: Castle-shaped cake with a crumb coat of frosting
+Action: Apply a final layer of frosting and use your decorations to add details to the castle cake. *
+
+Step 12:  
+Previous scene: Frosted castle-shaped cake
+Action: Add additional decorative elements such as sprinkles, fondant shapes, or edible pearls to complete your castle cake. *

@@ -1,0 +1,56 @@
+10, 3*
+Step 1:  
+Previous scene: None  
+Action: In a mixing bowl, combine 2 cups of flour *  
+
+Step 2:  
+Previous scene: A bowl with flour  
+Action: Add a pinch of salt to the flour *  
+
+Step 3:  
+Previous scene: A bowl with flour and salt  
+Action: Crack an egg into the flour mixture *  
+
+Step 4:  
+Previous scene: A bowl with flour, salt, and an egg  
+Action: Pour in about 1/2 cup of water gradually *  
+
+Step 5:  
+Previous scene: A bowl with flour, salt, egg, and water  
+Action: Mix to form a dough *  
+
+Step 6:  
+Previous scene: A bowl with dough  
+Action: Knead the dough until smooth *  
+
+Step 7:  
+Previous scene: Kneaded dough  
+Action: Roll out the dough on a floured surface *  
+
+Step 8:  
+Previous scene: Rolled out dough  
+Action: Use a cutter to cut circles from the dough *  
+
+Step 9:  
+Previous scene: Dough circles  
+Action: Place a spoonful of filling (e.g., mashed potatoes) in the center of each circle *  
+
+Step 10:  
+Previous scene: Dough circles with filling  
+Action: Fold each circle over the filling and seal the edges *  
+
+Step 11:  
+Previous scene: Formed pierogi  
+Action: Bring a pot of salted water to a boil *  
+
+Step 12:  
+Previous scene: Boiling water  
+Action: Drop the pierogi into the boiling water *  
+
+Step 13:  
+Previous scene: Pierogi in boiling water  
+Action: Cook until the pierogi float to the surface, then remove them *  
+
+Step 14:  
+Previous scene: Cooked pierogi  
+Action: Serve hot with melted butter or sour cream *  

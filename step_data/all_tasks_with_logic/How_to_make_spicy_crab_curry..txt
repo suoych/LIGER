@@ -1,0 +1,40 @@
+5,8 *
+Step 1:  
+Previous scene: None  
+Action: Gather ingredients including crab, onions, garlic, ginger, tomatoes, and spices *  
+
+Step 2:  
+Previous scene: Ingredients including crab, onions, garlic, ginger, tomatoes, and spices  
+Action: Clean and prepare the crabs, removing any unwanted parts *  
+
+Step 3:  
+Previous scene: Cleaned and prepared crabs  
+Action: Chop onions, garlic, ginger, and tomatoes *  
+
+Step 4:  
+Previous scene: Chopped onions, garlic, ginger, and tomatoes  
+Action: Heat oil in a pan and sauté onions, garlic, and ginger until fragrant *  
+
+Step 5:  
+Previous scene: Sautéed onions, garlic, and ginger  
+Action: Add chopped tomatoes and cook until they become soft *  
+
+Step 6:  
+Previous scene: Softened tomato mixture in the pan  
+Action: Mix in spices like turmeric, chili powder, and coriander *  
+
+Step 7:  
+Previous scene: Spiced tomato mixture  
+Action: Add the cleaned crabs to the pan and coat them with the spice mixture *  
+
+Step 8:  
+Previous scene: Crabs coated in spice mixture  
+Action: Add water or coconut milk to the pan to create curry sauce *  
+
+Step 9:  
+Previous scene: Crabs in sauce  
+Action: Cover and simmer the curry until the crabs are cooked through *  
+
+Step 10:  
+Previous scene: Cooked crab curry  
+Action: Serve hot with rice or bread *  

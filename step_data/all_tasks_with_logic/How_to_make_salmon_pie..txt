@@ -1,0 +1,48 @@
+2,5 *
+Step 1:  
+Previous scene: None  
+Action: Prepare the dough by mixing flour, butter, and cold water to form a pastry dough. *  
+
+Step 2:  
+Previous scene: A bowl with pastry dough  
+Action: Roll out the pastry dough and fit it into a pie dish, trimming the excess. *  
+
+Step 3:  
+Previous scene: Pie dish with pastry dough  
+Action: Preheat the oven to 375°F (190°C). *  
+
+Step 4:  
+Previous scene: Oven  
+Action: Prepare the filling by flaking the cooked salmon into a bowl. *  
+
+Step 5:  
+Previous scene: A bowl with flaked salmon  
+Action: Add chopped onion, dill, salt, and pepper to the salmon. *  
+
+Step 6:  
+Previous scene: A bowl with salmon mixture  
+Action: Stir in sour cream and lemon juice until combined. *  
+
+Step 7:  
+Previous scene: Bowl with creamy salmon mixture  
+Action: Pour the salmon mixture into the prepared pastry shell. *  
+
+Step 8:  
+Previous scene: Pie dish filled with salmon mixture  
+Action: Roll out a second piece of dough and place it over the filling, sealing the edges. *  
+
+Step 9:  
+Previous scene: Covered pie  
+Action: Make small slits on top of the pie to allow steam to escape. *  
+
+Step 10:  
+Previous scene: Pie with slits  
+Action: Brush the top of the pie with beaten egg for a golden crust. *  
+
+Step 11:  
+Previous scene: Egg-brushed pie  
+Action: Bake in the preheated oven for 40-45 minutes or until the crust is golden brown. *  
+
+Step 12:  
+Previous scene: Baked pie  
+Action: Allow the pie to cool slightly before serving. *

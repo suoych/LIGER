@@ -1,0 +1,37 @@
+1, 8*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper *
+Step 2:
+Previous scene: An empty parchment-lined baking sheet
+Action: In a mixing bowl, beat 4 eggs and 1/2 cup of sugar until pale and fluffy *
+Step 3:
+Previous scene: A mixing bowl with beaten eggs and sugar
+Action: Sift 1/2 cup of flour and 1/4 cup of cocoa powder into the egg mixture *
+Step 4:
+Previous scene: A mixing bowl with beaten eggs, sugar, flour, and cocoa powder
+Action: Gently fold the dry ingredients into the egg mixture until combined *
+Step 5:
+Previous scene: A mixing bowl with batter
+Action: Pour the batter onto the prepared baking sheet and spread evenly *
+Step 6:
+Previous scene: A baking sheet with batter spread evenly
+Action: Bake in the preheated oven for 10-12 minutes *
+Step 7:
+Previous scene: A baked rectangular cake on parchment paper
+Action: Lay a clean kitchen towel on a flat surface and dust it with powdered sugar *
+Step 8:
+Previous scene: A kitchen towel dusted with powdered sugar
+Action: Turn the baked cake onto the prepared towel and peel off the parchment paper *
+Step 9:
+Previous scene: A cake on a sugared kitchen towel
+Action: Roll the cake up with the towel from the short end and let it cool completely *
+Step 10:
+Previous scene: A rolled-up cake in a towel
+Action: Unroll the cooled cake and spread a layer of whipped cream or desired filling *
+Step 11:
+Previous scene: An unrolled cake with a layer of filling
+Action: Roll the cake up again without the towel *
+Step 12:
+Previous scene: A filled rolled-up cake
+Action: Trim the ends if necessary and dust with powdered sugar or decorate as desired *

@@ -1,0 +1,44 @@
+4, 8*
+Step 1:
+Previous scene: None
+Action: Rinse 2 large eggplants and pat them dry *
+
+Step 2:
+Previous scene: Clean eggplants
+Action: Rub the eggplants with a little bit of oil *
+
+Step 3:
+Previous scene: Oiled eggplants
+Action: Roast the oiled eggplants over an open flame or in the oven until the skin is charred and the flesh is soft *
+
+Step 4:
+Previous scene: Charred and soft eggplants
+Action: Let the roasted eggplants cool, then peel off the charred skin and mash the flesh *
+
+Step 5:
+Previous scene: Mashed eggplant flesh
+Action: Heat 2 tablespoons of oil in a pan, add cumin seeds and let them splutter *
+
+Step 6:
+Previous scene: Pan with oil and cumin seeds
+Action: Add finely chopped onions and sauté until golden brown *
+
+Step 7:
+Previous scene: Pan with sautéed onions
+Action: Add finely chopped tomatoes and cook until they become soft and mushy *
+
+Step 8:
+Previous scene: Pan with sautéed onions and tomatoes
+Action: Add minced garlic, grated ginger, and green chilies, and sauté for a couple of minutes *
+
+Step 9:
+Previous scene: Pan with onion, tomato, garlic, ginger, and chilies mixture
+Action: Add turmeric powder, red chili powder, and salt, and cook for another minute *
+
+Step 10:
+Previous scene: Spiced onion-tomato mixture
+Action: Add the mashed eggplants to the pan, mix well and cook for 5-7 minutes *
+
+Step 11:
+Previous scene: Pan with eggplant mixture
+Action: Garnish with chopped fresh coriander leaves and serve hot *

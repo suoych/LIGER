@@ -1,0 +1,36 @@
+1,2 *
+Step 1:
+Previous scene: None
+Action: Wash and peel the potatoes *
+
+Step 2:
+Previous scene: Washed and peeled potatoes
+Action: Cut the potatoes into evenly sized cubes *
+
+Step 3:
+Previous scene: Cubed potatoes
+Action: Soak the potato cubes in water for 10-15 minutes to remove excess starch *
+
+Step 4:
+Previous scene: Potato cubes soaking in water
+Action: Drain the potatoes and pat them dry with paper towels *
+
+Step 5:
+Previous scene: Drained and dried potato cubes
+Action: Preheat a frying pan over medium heat and add olive oil *
+
+Step 6:
+Previous scene: Preheated pan with olive oil
+Action: Add the potato cubes to the pan in a single layer *
+
+Step 7:
+Previous scene: Potato cubes in the pan
+Action: Season the potatoes with salt, pepper, and herbs like rosemary or thyme *
+
+Step 8:
+Previous scene: Seasoned potato cubes in the pan
+Action: Cook the potatoes for about 10-15 minutes, stirring occasionally until they are golden brown and crispy *
+
+Step 9:
+Previous scene: Golden brown and crisp potato cubes in the pan
+Action: Remove the potatoes from heat and serve immediately *

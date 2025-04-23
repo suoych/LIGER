@@ -1,0 +1,36 @@
+4, 2*
+Step 1:
+Previous scene: None
+Action: In a pot, heat 4 cups of chicken broth until it starts to simmer *
+
+Step 2:
+Previous scene: A pot with simmering chicken broth
+Action: Add 1 cup of shredded chicken to the broth *
+
+Step 3:
+Previous scene: A pot with chicken broth and shredded chicken
+Action: Add 1 can of creamed corn to the pot *
+
+Step 4:
+Previous scene: A pot with chicken broth, shredded chicken, and creamed corn
+Action: Stir in 1 tablespoon of soy sauce and a pinch of white pepper *
+
+Step 5:
+Previous scene: A pot with chicken broth, shredded chicken, creamed corn, soy sauce, and white pepper
+Action: In a small bowl, mix 1 tablespoon of cornstarch with 2 tablespoons of water to make a slurry *
+
+Step 6:
+Previous scene: A small bowl with a cornstarch slurry, and a pot with chicken broth, shredded chicken, creamed corn, soy sauce, and white pepper
+Action: Slowly pour the cornstarch slurry into the pot, stirring continuously, until the soup thickens *
+
+Step 7:
+Previous scene: A pot with thickened soup
+Action: In another small bowl, beat 1 egg *
+
+Step 8:
+Previous scene: A small bowl with beaten egg, and a pot with thickened soup
+Action: Slowly drizzle the beaten egg into the pot while gently stirring to create egg ribbons *
+
+Step 9:
+Previous scene: A pot with Chinese Chicken Corn Soup with egg ribbons
+Action: Garnish with chopped green onions before serving *

@@ -1,0 +1,49 @@
+2, 10*
+Step 1:
+Previous scene: None
+Action: Cut 2 pounds of beef into 1-inch cubes *
+Step 2:
+Previous scene: Beef cubes
+Action: Season the beef cubes with salt and pepper *
+Step 3:
+Previous scene: Seasoned beef cubes
+Action: In a large pot, heat 2 tablespoons of olive oil over medium-high heat *
+Step 4:
+Previous scene: Large pot with hot oil
+Action: Add the beef cubes to the pot and brown them on all sides *
+Step 5:
+Previous scene: Browned beef cubes in a pot
+Action: Remove the beef from the pot and set aside *
+Step 6:
+Previous scene: Empty pot with oil residue
+Action: Add 1 chopped onion, 2 chopped carrots, and 2 chopped celery stalks to the pot *
+Step 7:
+Previous scene: Pot with chopped vegetables
+Action: Cook the vegetables until they begin to soften *
+Step 8:
+Previous scene: Softened vegetables in a pot
+Action: Add 2 cloves of minced garlic and cook for an additional minute *
+Step 9:
+Previous scene: Vegetables and garlic in a pot
+Action: Pour in 4 cups of beef broth and 1 cup of red wine (optional) *
+Step 10:
+Previous scene: Pot with vegetables, garlic, beef broth, and red wine
+Action: Return the beef to the pot *
+Step 11:
+Previous scene: Pot with beef, vegetables, and liquid
+Action: Add 2 tablespoons of tomato paste, 1 teaspoon of thyme, and 2 bay leaves *
+Step 12:
+Previous scene: Pot with beef, vegetables, liquid, tomato paste, thyme, and bay leaves
+Action: Bring to a boil, then reduce heat to a simmer *
+Step 13:
+Previous scene: Pot simmering with all ingredients
+Action: Cover and let simmer for 2 hours, or until the beef is tender *
+Step 14:
+Previous scene: Pot with tender beef stew
+Action: Add 2 diced potatoes and simmer for an additional 30 minutes *
+Step 15:
+Previous scene: Pot with stew and diced potatoes
+Action: Taste and adjust seasoning with salt and pepper as needed *
+Step 16:
+Previous scene: Finished beef stew in pot
+Action: Serve hot, optionally garnished with fresh parsley *

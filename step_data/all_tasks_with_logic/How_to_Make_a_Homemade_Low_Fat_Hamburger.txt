@@ -1,0 +1,31 @@
+4, 1*
+Step 1: 
+Previous scene: None
+Action: In a mixing bowl, add 1 pound of lean ground beef *
+Step 2: 
+Previous scene: A bowl with ground beef
+Action: Add chopped onions, garlic powder, and salt to taste *
+Step 3: 
+Previous scene: A bowl with ground beef mixture
+Action: Mix all ingredients until well combined *
+Step 4: 
+Previous scene: A bowl with combined beef mixture
+Action: Form the mixture into patties *
+Step 5: 
+Previous scene: Raw beef patties
+Action: Preheat a non-stick skillet over medium-high heat *
+Step 6: 
+Previous scene: A heated skillet
+Action: Place the patties in the skillet *
+Step 7: 
+Previous scene: Patties in the skillet
+Action: Cook each side for about 5-6 minutes, or until fully cooked *
+Step 8: 
+Previous scene: Cooked hamburger patties in skillet
+Action: Place the cooked patties on a plate *
+Step 9: 
+Previous scene: Cooked patties on a plate
+Action: Assemble the burger with whole grain buns, lettuce, tomatoes, and any other desired toppings *
+Step 10: 
+Previous scene: Prepared burger ingredients
+Action: Serve the homemade low-fat hamburgers immediately *

@@ -1,0 +1,31 @@
+4, 8*
+Step 1: 
+Previous scene: None
+Action: Purchase pork spareribs from the store *
+Step 2: 
+Previous scene: A package of pork spareribs
+Action: Remove the membrane from the back of the ribs *
+Step 3: 
+Previous scene: Pork spareribs with membrane removed
+Action: Prepare a dry rub mixture with brown sugar, paprika, salt, and pepper *
+Step 4: 
+Previous scene: A mixture of spices
+Action: Rub the spice mixture generously over the ribs *
+Step 5: 
+Previous scene: Pork spareribs coated with dry rub
+Action: Preheat the grill to 250 degrees Fahrenheit *
+Step 6: 
+Previous scene: Grill being preheated
+Action: Place the ribs on the grill, meat side up *
+Step 7: 
+Previous scene: Ribs on the grill
+Action: Close the grill lid and cook for 2-3 hours, maintaining a consistent temperature *
+Step 8: 
+Previous scene: Ribs being cooked on the grill
+Action: Prepare barbecue sauce while the ribs are cooking *
+Step 9: 
+Previous scene: Barbecue sauce prepared
+Action: Brush the ribs with barbecue sauce during the last 30 minutes of cooking *
+Step 10:
+Previous scene: Ribs coated with barbecue sauce on the grill
+Action: Remove the ribs from the grill and let them rest for 10 minutes before serving *

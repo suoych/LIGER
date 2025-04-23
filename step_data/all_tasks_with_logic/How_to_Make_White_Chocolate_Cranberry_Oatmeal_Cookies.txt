@@ -1,0 +1,40 @@
+4,9 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper *
+
+Step 2:
+Previous scene: Baking sheet lined with parchment paper
+Action: In a mixing bowl, combine 1 cup of softened butter and 1 cup of brown sugar *
+
+Step 3:
+Previous scene: A mixing bowl with butter and sugar
+Action: Add 1/2 cup of granulated sugar and mix until creamy *
+
+Step 4:
+Previous scene: Creamy butter and sugar mixture
+Action: Add 2 large eggs, one at a time, and 1 teaspoon of vanilla extract, mixing well after each addition *
+
+Step 5:
+Previous scene: Bowl with wet ingredients
+Action: In a separate bowl, whisk together 1.5 cups of flour, 1 teaspoon of baking soda, 1 teaspoon of ground cinnamon, and 1/2 teaspoon of salt *
+
+Step 6:
+Previous scene: Bowl with dry ingredients
+Action: Gradually add the dry ingredients to the wet ingredients, mixing until just combined *
+
+Step 7:
+Previous scene: Bowl with combined wet and dry ingredients
+Action: Stir in 3 cups of rolled oats, 1 cup of white chocolate chips, and 1 cup of dried cranberries *
+
+Step 8:
+Previous scene: Bowl with cookie dough mixture
+Action: Scoop dough onto the prepared baking sheet, spacing each scoop about 2 inches apart *
+
+Step 9:
+Previous scene: Baking sheet with scoops of cookie dough
+Action: Bake in the preheated oven for 10-12 minutes or until the edges are golden brown *
+
+Step 10: 
+Previous scene: Cookies baking in the oven
+Action: Let cookies cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely *

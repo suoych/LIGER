@@ -1,0 +1,22 @@
+5, 2*
+Step 1:
+Previous scene: None
+Action: Add 1 cup of berries into a blender *
+Step 2:
+Previous scene: A blender with berries
+Action: Pour 1 cup of yogurt into the blender *
+Step 3:
+Previous scene: A blender with berries and yogurt
+Action: Add 1 tablespoon of honey *
+Step 4:
+Previous scene: A blender with berries, yogurt, and honey
+Action: Pour 1/2 cup of milk into the blender *
+Step 5:
+Previous scene: A blender with berries, yogurt, honey, and milk
+Action: Blend until smooth *
+Step 6:
+Previous scene: Blender with smooth mixture
+Action: Pour the smoothie into a glass *
+Step 7:
+Previous scene: A glass filled with smoothie
+Action: Garnish with a few whole berries on top (optional) *

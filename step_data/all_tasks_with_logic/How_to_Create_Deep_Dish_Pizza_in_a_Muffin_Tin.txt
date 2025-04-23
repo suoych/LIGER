@@ -1,0 +1,48 @@
+1, 5*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C) *
+
+Step 2:
+Previous scene: A preheated oven
+Action: Roll out pizza dough on a floured surface *
+
+Step 3:
+Previous scene: Rolled-out pizza dough
+Action: Use a round cutter to cut dough into circles large enough to fit the muffin tin *
+
+Step 4:
+Previous scene: Circles of dough
+Action: Grease the muffin tin with non-stick spray *
+
+Step 5:
+Previous scene: Greased muffin tin
+Action: Press the dough circles into each muffin cup *
+
+Step 6:
+Previous scene: Muffin tin with dough circles pressed into cups
+Action: Add a spoonful of marinara sauce into each dough cup *
+
+Step 7:
+Previous scene: Dough cups with marinara sauce
+Action: Sprinkle shredded mozzarella cheese over the sauce *
+
+Step 8:
+Previous scene: Dough cups with marinara sauce and cheese
+Action: Add your desired toppings (e.g. pepperoni, mushrooms, bell peppers) on top of the cheese *
+
+Step 9:
+Previous scene: Dough cups with marinara sauce, cheese, and toppings
+Action: Sprinkle some more cheese on top of the toppings *
+
+Step 10:
+Previous scene: Dough cups with layered toppings and cheese
+Action: Bake in the preheated oven for 15-18 minutes, or until the dough is golden brown and the cheese is melted and bubbly *
+
+Step 11:
+Previous scene: Muffin tin with baked mini deep dish pizzas
+Action: Remove the muffin tin from the oven and let cool for a few minutes *
+
+Step 12:
+Previous scene: Muffin tin with slightly cooled mini deep dish pizzas
+Action: Carefully remove the pizzas from the muffin tin and serve *

@@ -1,0 +1,28 @@
+4,8 *
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) *
+Step 2:
+Previous scene: None
+Action: Take a stack of corn tortillas *
+Step 3:
+Previous scene: A stack of corn tortillas
+Action: Cut the tortillas into sixths to create triangle-shaped chips *
+Step 4:
+Previous scene: Tortilla triangles
+Action: Arrange the tortilla triangles in a single layer on a baking sheet *
+Step 5:
+Previous scene: Tortilla triangles on a baking sheet
+Action: Lightly brush each tortilla triangle with olive oil *
+Step 6:
+Previous scene: Olive oil-brushed tortilla triangles on a baking sheet
+Action: Sprinkle salt evenly over the tortilla triangles *
+Step 7:
+Previous scene: Salted tortilla triangles on a baking sheet
+Action: Place the baking sheet in the preheated oven *
+Step 8:
+Previous scene: A baking sheet of tortilla triangles inside an oven
+Action: Bake for 10-15 minutes, until the chips are crispy and golden *
+Step 9:
+Previous scene: Crispy, golden tortilla chips
+Action: Remove from the oven and let cool before serving *

@@ -1,0 +1,36 @@
+1, 5*
+Step 1: 
+Previous scene: None
+Action: Start by preparing the ingredients, including sausages, bacon, tomatoes, mushrooms, eggs, black pudding, baked beans, and toast bread *
+
+Step 2: 
+Previous scene: Assorted breakfast ingredients
+Action: Heat a frying pan and cook the sausages over medium heat until browned and cooked through *
+
+Step 3: 
+Previous scene: A frying pan with cooked sausages
+Action: Remove the sausages and in the same pan, cook the bacon until crispy *
+
+Step 4: 
+Previous scene: Cooked sausages and a frying pan with cooked bacon
+Action: Remove the bacon and place tomatoes and mushrooms in the pan, cooking until tender *
+
+Step 5: 
+Previous scene: Cooked sausages, bacon, and a pan with tomatoes and mushrooms
+Action: In a small saucepan, heat the baked beans until warm *
+
+Step 6: 
+Previous scene: Cooked sausages, bacon, tomatoes, mushrooms, and a saucepan with warm baked beans
+Action: Fry the black pudding in the frying pan until crispy on both sides *
+
+Step 7: 
+Previous scene: Cooked sausages, bacon, tomatoes, mushrooms, warm baked beans, and cooked black pudding
+Action: Toast the bread in a toaster until golden brown *
+
+Step 8: 
+Previous scene: Cooked sausages, bacon, tomatoes, mushrooms, warm baked beans, cooked black pudding, and toasted bread
+Action: Fry the eggs in the frying pan until the whites are set and yolks are still runny *
+
+Step 9: 
+Previous scene: Cooked sausages, bacon, tomatoes, mushrooms, warm baked beans, cooked black pudding, toasted bread, and fried eggs
+Action: Plate all the cooked ingredients and serve warm *

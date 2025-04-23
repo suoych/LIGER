@@ -1,0 +1,45 @@
+1, 4*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 375°F (190°C). *
+
+Step 2:
+Previous scene: Preheated oven
+Action: Wash and peel 3 large potatoes. *
+
+Step 3:
+Previous scene: Washed and peeled potatoes
+Action: Use a mandoline or a sharp knife to slice the potatoes thinly. *
+
+Step 4:
+Previous scene: Thinly sliced potatoes
+Action: Place the slices in a large bowl and rinse under cold water to remove excess starch. *
+
+Step 5:
+Previous scene: Bowl with potato slices in water
+Action: Pat the potato slices dry with a paper towel. *
+
+Step 6:
+Previous scene: Dried potato slices
+Action: In a separate bowl, mix 2 teaspoons of smoked paprika, 1 teaspoon of garlic powder, 1 teaspoon of onion powder, 1 teaspoon of salt, and a pinch of black pepper to create the barbecue seasoning. *
+
+Step 7:
+Previous scene: Barbecue seasoning mix
+Action: In another bowl, toss the potato slices with 2 tablespoons of olive oil until they are evenly coated. *
+
+Step 8:
+Previous scene: Potato slices coated in oil
+Action: Sprinkle the barbecue seasoning over the potato slices and toss to coat evenly. *
+
+Step 9:
+Previous scene: Seasoned potato slices
+Action: Arrange the seasoned potato slices in a single layer on a baking sheet lined with parchment paper. *
+
+Step 10:
+Previous scene: Potato slices on a baking sheet
+Action: Place the baking sheet in the preheated oven and bake for 20-25 minutes, flipping the slices halfway through, until crispy and golden brown. *
+
+Step 11:
+Previous scene: Crispy golden brown potato chips on a baking sheet
+Action: Remove the baking sheet from the oven and let the chips cool for a few minutes before serving. *
+

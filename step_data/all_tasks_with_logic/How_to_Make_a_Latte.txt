@@ -1,0 +1,40 @@
+5, 8*
+Step 1:
+Previous scene: None
+Action: Grind fresh coffee beans to a fine consistency *
+
+Step 2:
+Previous scene: Coffee grounds
+Action: Place the ground coffee into the portafilter of an espresso machine *
+
+Step 3:
+Previous scene: Coffee grounds in a portafilter
+Action: Tamp the coffee grounds evenly in the portafilter *
+
+Step 4:
+Previous scene: Tamped coffee grounds in a portafilter
+Action: Lock the portafilter into the espresso machine *
+
+Step 5:
+Previous scene: Espresso machine with a locked portafilter
+Action: Brew the espresso shot directly into a cup *
+
+Step 6:
+Previous scene: A cup with freshly brewed espresso
+Action: Heat milk in a steamer or a microwave *
+
+Step 7:
+Previous scene: A cup with freshly brewed espresso
+Action: Use a whisk or a frothing wand to froth the milk to a creamy consistency *
+
+Step 8:
+Previous scene: Frothy milk
+Action: Pour the frothy milk over the espresso in the cup *
+
+Step 9:
+Previous scene: A cup with espresso and milk
+Action: Optionally, sprinkle with cocoa powder or cinnamon *
+
+Step 10:
+Previous scene: A cup with latte
+Action: Serve and enjoy your homemade latte *

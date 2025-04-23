@@ -1,0 +1,36 @@
+3, 8 *
+Step 1:
+Previous scene: None
+Action: In a saucepan, combine 1 cup of coconut milk and 3/4 cup of brown sugar *
+
+Step 2:
+Previous scene: A saucepan with coconut milk and brown sugar
+Action: Add 1/2 cup of pure maple syrup *
+
+Step 3:
+Previous scene: A saucepan with coconut milk, brown sugar, and maple syrup
+Action: Add 1/4 cup of vegan butter *
+
+Step 4:
+Previous scene: A saucepan with coconut milk, brown sugar, maple syrup, and vegan butter
+Action: Stir the mixture over medium heat until the sugar is dissolved and the butter is melted *
+
+Step 5:
+Previous scene: A saucepan with a dissolved mixture of coconut milk, brown sugar, maple syrup, and vegan butter
+Action: Attach a candy thermometer to the saucepan and cook the mixture until it reaches 240°F (115°C) *
+
+Step 6:
+Previous scene: A saucepan with a mixture that has reached 240°F
+Action: Remove the saucepan from the heat and stir in 1 teaspoon of vanilla extract *
+
+Step 7:
+Previous scene: A saucepan with caramel mixture and vanilla extract
+Action: Pour the mixture into a parchment-lined baking dish *
+
+Step 8:
+Previous scene: A baking dish with caramel mixture
+Action: Let the caramel cool completely at room temperature or in the refrigerator until firm *
+
+Step 9:
+Previous scene: A firm caramel slab in a baking dish
+Action: Cut the cooled caramel into squares or desired shapes to serve *

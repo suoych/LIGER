@@ -1,0 +1,45 @@
+1,5 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: None
+Action: Line a baking pan with parchment paper or lightly grease it *
+
+Step 3:
+Previous scene: Baking pan with parchment paper
+Action: In a large mixing bowl, combine 2 cups of rolled oats, 1 cup of chopped nuts, and 1 cup of dried fruit *
+
+Step 4:
+Previous scene: A bowl with oats, nuts, and dried fruit
+Action: In a saucepan, melt ½ cup of butter, ½ cup of honey, and ¼ cup of brown sugar over medium heat *
+
+Step 5:
+Previous scene: Melted mixture in a saucepan
+Action: Pour the melted mixture over the oats, nuts, and dried fruit in the large mixing bowl *
+
+Step 6:
+Previous scene: Mixing bowl with combined ingredients
+Action: Stir the mixture until everything is well combined *
+
+Step 7:
+Previous scene: A mixing bowl with mixed ingredients
+Action: Press the mixture evenly into the prepared baking pan *
+
+Step 8:
+Previous scene: Mixture spread in the baking pan
+Action: Bake in the preheated oven for 20-25 minutes until golden brown *
+
+Step 9:
+Previous scene: Mixture baked to golden brown
+Action: Remove the baking pan from the oven and let it cool completely *
+
+Step 10:
+Previous scene: Cooling in the baking pan
+Action: Once cooled, cut the mixture into bars *
+
+Step 11:
+Previous scene: Cut bars in the baking pan
+Action: Store the bars in an airtight container at room temperature or in the refrigerator *
+

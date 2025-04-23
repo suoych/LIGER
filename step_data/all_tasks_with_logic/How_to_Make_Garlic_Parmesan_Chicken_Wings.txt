@@ -1,0 +1,37 @@
+1,8 *
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 400 degrees Fahrenheit (200 degrees Celsius) *
+Step 2:
+Previous scene: An oven with the temperature set to 400 degrees Fahrenheit
+Action: In a large bowl, combine 2 lbs of chicken wings, 2 tablespoons of olive oil, salt, and pepper *
+Step 3:
+Previous scene: A bowl with chicken wings, olive oil, salt, and pepper
+Action: Toss the chicken wings to evenly coat them with the seasoning *
+Step 4:
+Previous scene: Seasoned chicken wings in a bowl
+Action: Arrange the chicken wings on a baking sheet lined with parchment paper * 
+Step 5:
+Previous scene: Chicken wings on a baking sheet
+Action: Place the baking sheet in the preheated oven and bake for 40-45 minutes, or until the wings are crispy and golden brown *
+Step 6:
+Previous scene: Chicken wings baking in the oven
+Action: While the wings are baking, melt 1/2 cup of unsalted butter in a small saucepan over medium heat *
+Step 7:
+Previous scene: Saucepan with melted butter
+Action: Add 4 minced garlic cloves to the melted butter and sauté for 1-2 minutes until fragrant *
+Step 8:
+Previous scene: Melted butter with sautéed garlic
+Action: Remove the saucepan from heat and stir in 1/2 cup of grated Parmesan cheese *
+Step 9:
+Previous scene: Melted butter with garlic and Parmesan
+Action: Once the wings are done baking, remove them from the oven *
+Step 10:
+Previous scene: Fully baked chicken wings on a baking sheet
+Action: Transfer the wings to a large bowl and pour the garlic Parmesan mixture over them *
+Step 11:
+Previous scene: Baked chicken wings in a bowl
+Action: Toss the wings in the bowl to evenly coat them with the garlic Parmesan sauce *
+Step 12:
+Previous scene: Chicken wings coated with garlic Parmesan sauce
+Action: Serve the Garlic Parmesan Chicken Wings hot, garnished with chopped fresh parsley if desired *

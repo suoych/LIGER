@@ -1,0 +1,48 @@
+1, 3*
+Step 1:
+Previous scene: None
+Action: Preheat the oven to 350°F (175°C) *
+
+Step 2:
+Previous scene: An empty oven
+Action: Grease and flour two 9-inch round cake pans *
+
+Step 3:
+Previous scene: Two greased and floured cake pans
+Action: In a bowl, combine 1 3/4 cups of flour, 1 1/2 teaspoons of baking powder, and 1 1/2 teaspoons of baking soda *
+
+Step 4:
+Previous scene: A bowl with dry ingredients
+Action: Add 3/4 cup of unsweetened cocoa powder and a pinch of salt *
+
+Step 5:
+Previous scene: A bowl with a mixture of dry ingredients
+Action: In another bowl, beat together 2 cups of sugar, 2 large eggs, and 1 cup of buttermilk *
+
+Step 6:
+Previous scene: A bowl with wet ingredients
+Action: Blend in 1/2 cup of vegetable oil and 2 teaspoons of vanilla extract *
+
+Step 7:
+Previous scene: A bowl with wet ingredients mixture
+Action: Gradually add the dry ingredients to the wet mixture, mixing until smooth *
+
+Step 8:
+Previous scene: A bowl with chocolate cake batter
+Action: Pour 1 cup of boiling water into the batter and stir until well combined *
+
+Step 9:
+Previous scene: A bowl with a thinner chocolate cake batter
+Action: Divide the batter evenly between the prepared cake pans *
+
+Step 10:
+Previous scene: Two cake pans filled with batter
+Action: Bake in the preheated oven for 30-35 minutes, or until a toothpick inserted into the center comes out clean *
+
+Step 11:
+Previous scene: Two baked chocolate cakes in pans
+Action: Let the cakes cool in the pans for 10 minutes, then remove them from the pans and allow them to cool completely on a wire rack *
+
+Step 12:
+Previous scene: Two chocolate cake layers cooling on a wire rack
+Action: Frost and assemble the cake as desired once fully cooled *

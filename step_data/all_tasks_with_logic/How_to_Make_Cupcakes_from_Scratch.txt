@@ -1,0 +1,31 @@
+2, 4*
+Step 1:
+Previous scene: None
+Action: Preheat your oven to 350°F (175°C) and line a muffin tin with cupcake liners *
+Step 2:
+Previous scene: A muffin tin with cupcake liners
+Action: In a mixing bowl, combine 1 1/2 cups of flour, 1 1/2 tsp of baking powder, and 1/4 tsp of salt *
+Step 3:
+Previous scene: A mixing bowl with dry ingredients
+Action: In another bowl, cream together 1/2 cup of unsalted butter and 1 cup of sugar until light and fluffy *
+Step 4:
+Previous scene: A bowl with creamed butter and sugar
+Action: Add 2 eggs to the butter mixture, one at a time, beating well after each addition *
+Step 5:
+Previous scene: A bowl with butter, sugar, and eggs mixture
+Action: Mix in 2 tsp of vanilla extract *
+Step 6:
+Previous scene: A bowl with wet ingredients mixture
+Action: Gradually add the dry ingredients to the wet ingredients, alternating with 1/2 cup of milk, beginning and ending with the dry ingredients *
+Step 7:
+Previous scene: A bowl with cupcake batter
+Action: Pour the batter into the cupcake liners, filling each about 2/3 full *
+Step 8:
+Previous scene: A muffin tin with batter-filled liners
+Action: Bake in the preheated oven for 18-20 minutes or until a toothpick inserted into the center comes out clean *
+Step 9:
+Previous scene: Baked cupcakes in the muffin tin
+Action: Remove the cupcakes from the oven and let them cool in the tin for about 5 minutes *
+Step 10:
+Previous scene: Baked and slightly cooled cupcakes in the tin
+Action: Transfer the cupcakes to a wire rack to cool completely before frosting *

@@ -1,0 +1,40 @@
+6,8 *
+Step 1:
+Previous scene: None
+Action: Gather slices of bread and various types of cheese (e.g., cheddar, mozzarella) *
+
+Step 2:
+Previous scene: Bread slices and various cheeses
+Action: Place a slice of bread on a cutting board *
+
+Step 3:
+Previous scene: A slice of bread on a cutting board with various cheeses nearby
+Action: Shred the different types of cheese into separate bowls *
+
+Step 4:
+Previous scene: Shredded cheese in separate bowls
+Action: Add food coloring to each bowl of shredded cheese and mix well *
+
+Step 5:
+Previous scene: Colored shredded cheese in separate bowls
+Action: Spread the colored cheese evenly across the slice of bread, creating a rainbow effect *
+
+Step 6:
+Previous scene: A slice of bread with colored cheese
+Action: Place another slice of bread on top to form a sandwich *
+
+Step 7:
+Previous scene: An assembled sandwich with colored cheese inside
+Action: Heat a skillet over medium heat and melt a small amount of butter in the skillet *
+
+Step 8:
+Previous scene: A heated skillet with melted butter
+Action: Place the sandwich in the skillet and cook until golden brown on one side *
+
+Step 9:
+Previous scene: A sandwich being cooked in a skillet
+Action: Flip the sandwich and cook until the cheese is melted and the bread is golden brown on the other side *
+
+Step 10:
+Previous scene: A grilled cheese sandwich in a skillet
+Action: Remove the sandwich from the skillet, cut it in half, and serve warm *
