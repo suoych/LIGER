@@ -37,7 +37,7 @@ The ```all_tasks_with_logic``` subfolder contains the GPT generated task step de
 
 ## Running
 
-Run following command for instruction generation:
+Run following command for visual instruction generation:
 
 ```
 python run.py
