@@ -47,7 +47,7 @@ python run.py
 
 Run following command for evaluation:
 
-```
+```python
 python metric_clip_and_text.py #CLIP-score and BERT-score evaluation
 python metric_dino.py #DINO-score evaluation
 python metric_GPT.py #GPT evaluation
